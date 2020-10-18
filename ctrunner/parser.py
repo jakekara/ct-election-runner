@@ -52,7 +52,7 @@ def get_office_name(lookup_data, office_id):
     # assert len(office_match) == 1
 
     return office_match[0]["NM"]
-    
+
 
 def get_candidate_name(lookup_data, candidate_id):
     return lookup_data["candidateIds"][candidate_id]["NM"]

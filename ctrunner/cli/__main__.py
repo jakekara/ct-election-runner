@@ -1,14 +1,6 @@
 import argparse
 import json
-
 import sys
-
-from ctrunner.downloader import (
-    get_election_list,
-    get_data_for_election,
-    get_data_for_all_elections,
-)
-from ctrunner.parser import convert_list, convert_election_data
 
 from .commands import archive_command, parse_command, download_command
 
