@@ -18,6 +18,6 @@ def main(args):
         input_obj = json.loads(input_str)
         print(convert_list(input_obj))
     if args.data_type == "election-data":
-
         input_str = sys.stdin.read()
         input_obj = json.loads(input_str)
+        print(convert_election_data(input_obj))
