@@ -3,20 +3,20 @@ from random import sample, choice
 
 
 def test_can_get_elections_list():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     assert isinstance(elections, list)
     assert len(elections) > 4
 
 
 def test_can_get_version():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     for election in sample(elections, 3):
         version = ctrunner.get_version(election["ID"])
         assert isinstance(version, int)
 
 
 def test_can_get_electiondata():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     election = choice(elections)
     election_id = election["ID"]
     version = ctrunner.get_version(election_id)
@@ -25,7 +25,7 @@ def test_can_get_electiondata():
 
 
 def test_can_get_electiondata_without_version():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     election = choice(elections)
     election_id = election["ID"]
     electiondata = ctrunner.get_electiondata(election_id)
@@ -33,7 +33,7 @@ def test_can_get_electiondata_without_version():
 
 
 def test_can_get_lookupdata():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     election = choice(elections)
     election_id = election["ID"]
     version = ctrunner.get_version(election_id)
@@ -42,7 +42,7 @@ def test_can_get_lookupdata():
 
 
 def test_can_get_lookupdata_without_version():
-    elections = ctrunner.get_elections()
+    elections = ctrunner.get_election_list()
     election = choice(elections)
     election_id = election["ID"]
     lookupdata = ctrunner.get_lookupdata(election_id)

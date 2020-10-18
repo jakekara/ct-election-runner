@@ -1,11 +1,12 @@
 """
-ctrunner.py - a module for pulling data on CT elections
+ctrunner.py - Pull  data on from CT elections system
 author: jake kara <jake@jakekara.com>
 """
 
 from .download_tools import get_json
 
-def get_elections():
+
+def get_election_list():
     """
     Get a list of elections
     """
@@ -46,3 +47,20 @@ def get_lookupdata(election_id: int, version_id: int = None):
     return get_json(
         f"https://ctemspublic.pcctg.net/ng-app/data/election/{election_id}/{version_id}/Lookupdata.json"
     )
+
+
+def get_data_for_election(election_id):
+    version = get_version(election_id)
+    electiondata = get_electiondata(election_id, version_id=version)
+    lookupdata = get_lookupdata(election_id, version_id=version)
+    return {"version": version, "ElectionData": electiondata, "LookupData": lookupdata}
+
+
+def get_data_for_all_elections():
+
+    ret = {"election_list": get_election_list(), "elections": {}}
+
+    for e in ret["election_list"]:
+        ret["elections"][e["ID"]] = {"data": get_data_for_election(e["ID"])}
+
+    return ret
