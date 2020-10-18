@@ -50,7 +50,7 @@ This pipes the ctrunner downloader and the ctrunner parser together to download
 the data in raw JSON format then convert it to a spreadsheet:
 
 ```bash
-python -m ctrunner.cli download --election-list | ctrunner parse --data-type=election-list
+python -m ctrunner.cli download --election-list | python -m ctrunner.cli parse --data-type=election-list
 ID,Name,DefaultElection
 54,11/03/2020 -- Presidential Election,Y
 55,08/11/2020 -- Democratic Presidential Preference Primary,N
@@ -74,14 +74,25 @@ ID,Name,DefaultElection
 1,11/08/2016 -- November Presidential Election,N
 ```
 
+### Download an election and convert it to CSV
+
+```bash
+python -m ctrunner.cli  download --election 1 | python -m ctrunner.cli parse --data-type=election-data > election-1.csv
+```
+
 ### Archive an election
 
 Download the latest version of an election into a given archive directory.
 
 While the download and parse subcommands use standard input and standard out,
-the archive subcommand writes to files on disk in a special folder structure, so
-you need to provide a destination folder where you want the archive to be
-located.
+the archive subcommand automates a common use case where you'll want to download
+to results into a single output folder containing many elections, and keep past
+versions. Keeping past versions was especially important on election night
+because I wanted to be prepared to roll back in case a bad version came through
+the API. It was also useful to go back and use past versions of the data to
+replay how quickly the results of the election came in. That was particularly
+important for news coverage when this system came out because it took several
+days for all towns to put their results in when participation was not mandatory.
 
 ```bash
 python -m ctrunner.cli  archive --dest examples --election 1
