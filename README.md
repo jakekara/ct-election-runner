@@ -8,7 +8,7 @@
 Connecticut's election night reporting system has an undocumented API that I
 reverse engineered and have used as a data journalist starting in 2016 to build
 live results
-[portals](https://ctmirror.org/2018/08/14/unofficial-2018-primary-results-roll/)
+[portals](https://ctmirror.org/2018/08/14/unofficial-2018-primary-results-roll/) ([code](https://github.com/jakekara/ct-election-frontend-primary-18))
 for [The Connecticut Mirror](https://ctmirror.org), where I used to work. I am
 currently not working in data journalism as I am wandering around in the world
 of digital humanities development, but I've always intended to make this code
