@@ -12,7 +12,7 @@ always intended to make this code public and finally had a few hours to do so.
 
 **Note about code quality:** This is not code I used as a data journalist. I
 rewrote it to make it more presentable. It doesn't have proper test coverage or
-documentation. I had hoped to do more with it, but I don't know when I will be
+documentation, or even error handling for that matter. I had hoped to do more with it, but I don't know when I will be
 able to revisit it and I wanted to make it available before the general
 election.
 
@@ -80,5 +80,7 @@ you need to provide a destination folder where you want the archive to be
 located.
 
 ```bash
-$ ctrunner archive --dest out --election 1
+$ ctrunner archive --dest examples --election 1
 ```
+
+Check out the examples folder in this repo to see the data that the archive subcommand generates.
