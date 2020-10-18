@@ -25,7 +25,7 @@ data to more useful spreadsheets.
 ## Install
 
 ```bash
-$ npm git+https://github.com/jakekara/ct-election-runner.git
+$ pip install git+https://github.com/jakekara/ct-election-runner.git
 $ ctrunner
 usage: ctrunner - Connecticut election data runner [-h] {archive,parse,download} ...
 
