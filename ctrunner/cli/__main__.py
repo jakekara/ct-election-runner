@@ -1,3 +1,4 @@
+"""Command-line utility for ctrunner"""
 import argparse
 import json
 import sys
@@ -7,9 +8,10 @@ from .commands import archive_command, parse_command, download_command
 
 def main():
     parser = argparse.ArgumentParser("ctrunner - Connecticut election data runner")
-
     subparsers = parser.add_subparsers(help="commands", dest="command")
 
+    # Each of these modules has a register function that
+    # can add it to this tool
     archive_command.register(subparsers)
     parse_command.register(subparsers)
     download_command.register(subparsers)

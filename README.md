@@ -1,7 +1,7 @@
 # CT election runner
 
-> Python library and command line tool to pull Connecticut's election data
-> in real time.
+> Python library and command line tool to pull Connecticut's election data in
+> real time.
 
 ## About
 
@@ -89,6 +89,9 @@ ID,Name,DefaultElection
 
 ### Download an election and convert it to CSV
 
+Looking at the list above, we can pick an election ID and download it, then
+parse it on the fly to a CSV. Let's choose election 1:
+
 ```bash
 ctrunner  download --election 1 | ctrunner parse --data-type=election-data > election-1.csv
 ```
@@ -100,12 +103,13 @@ Download the latest version of an election into a given archive directory.
 While the download and parse subcommands use standard input and standard out,
 the archive subcommand automates a common use case where you'll want to download
 to results into a single output folder containing many elections, and keep past
-versions. Keeping past versions was especially important on election night
-because I wanted to be prepared to roll back in case a bad version came through
-the API. It was also useful to go back and use past versions of the data to
-replay how quickly the results of the election came in. That was particularly
-important for news coverage when this system came out because it took several
-days for all towns to put their results in when participation was not mandatory.
+versions in a subfolder. Keeping past versions was especially important on
+election night because I wanted to be prepared to roll back in case a bad
+version came through the API. It was also useful to go back and use past
+versions of the data to replay how quickly the results of the election came in.
+That was particularly important for news coverage when this system came out
+because it took several days for all towns to put their results in when
+participation was not mandatory.
 
 ```bash
 ctrunner  archive --dest examples --election 1
@@ -116,8 +120,8 @@ subcommand generates.
 
 ## Library
 
-You can learn more about the library functions just by reading the cli tool
-code. Here are the basics.
+You can learn more about the library functions by reading the cli tool code.
+Here are the basics.
 
 The downloader is for downloadin raw JSON files from the API. The parser is for
 converting these JSON files to CSVs. The JSON files contain a lot more data than
@@ -130,8 +134,8 @@ files.
 - `get_data_for_election` - get data for a specific election given an ID
   corresponding to IDs from the `get_election_list` return data
 
-There are plenty of other functions in that module, but these should really be
-thought of as the main API.
+There are plenty of other functions in that module, but these will generally
+suffice.
 
 ### ctrunner.parser
 
