@@ -13,6 +13,10 @@ def register(subparsers: argparse.ArgumentParser):
 
 
 def main(args):
+    """Parse API data to CSV
+
+    Reads API data from stdout and prints a CSV to stdout
+    """
     if args.data_type == "election-list":
         input_str = sys.stdin.read()
         input_obj = json.loads(input_str)

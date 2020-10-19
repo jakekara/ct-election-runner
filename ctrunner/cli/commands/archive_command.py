@@ -1,3 +1,5 @@
+"""Functionality for the archive subcommand"""
+
 import argparse
 import json
 import os
@@ -12,9 +14,22 @@ def register(subparsers: argparse.ArgumentParser):
 
 
 def main(args):
+    """Archive an election
+
+    Download data for a given election and store in a given folder. The folder
+    structure is: {destination folder}/ {election id}/ raw.json - latest raw
+    file from API results.csv - summary of statewide and town-level results
+    {version no}/ raw.json - latest raw file from API results.csv - summary of
+    statewide and town-level results
+
+    The election folder stores the latest raw.json and results.csv, and the
+    version subfolders are used to keep track of past versions of the data.
+
+    """
     election_id = args.election
     if not os.path.exists(args.dest):
         os.makedirs(args.dest)
+
     election = get_data_for_election(election_id)
 
     election_dir = os.path.join(args.dest, election_id)
@@ -33,7 +48,7 @@ def main(args):
     open(os.path.join(version_dir, "results.csv"), "w").write(csv)
 
     # write a copy to the election dir as "latest"
-    open(os.path.join(election_dir, "raw-latest.json"), "w").write(
+    open(os.path.join(election_dir, "raw.json"), "w").write(
         json.dumps(election, indent=2)
     )
     open(os.path.join(election_dir, "results.csv"), "w").write(csv)

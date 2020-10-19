@@ -16,6 +16,11 @@ def register(subparsers: argparse.ArgumentParser):
 
 
 def main(args):
+    """Download requested data from API
+
+    Download either a list of elections or election data for a specific
+    election. Prints data as JSON to stdout.
+    """
     if args.all:
         ret = get_data_for_all_elections()
     elif args.election_list:
