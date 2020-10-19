@@ -1,10 +1,15 @@
+"""Parse raw data from API into CSV strings
+"""
+
 import csv
 from io import StringIO
 import json
 import sys
 
+from .parse_tools import unwrap_object
 
-def convert_list(election_list):
+
+def convert_list(election_list: object):
     """
     Convert election list data to a csv string
     """
@@ -18,31 +23,13 @@ def convert_list(election_list):
     return f.getvalue()
 
 
-def unwrap_object(obj, force_key=None):
-    """
-    'Unwrap' this weird format a lot of this data is in, where there's
-    an object containing one key, with a value that is the actual object
-    you want. The key is usually the same as an ID field in the inner object
-    """
-    keys = obj.keys()
-    assert len(list(keys)) == 1, "Wrapped object must only have one key"
-    obj_key = list(keys)[0]
-
-    inner_obj = obj[obj_key]
-    if inner_obj["ID"] == obj_key:
-        return inner_obj
-    else:
-        if force_key:
-            inner_obj[force_key] = obj_key
-            return inner_obj
-        raise Exception("Inner object has no ID field:\n" + json.dumps(obj, indent=2))
-
-
-def get_town_name(lookup_data, town_id):
+def get_town_name(lookup_data: object, town_id: str):
+    """Get the name of a town"""
     return lookup_data["townIds"][town_id]
 
 
-def get_office_name(lookup_data, office_id):
+def get_office_name(lookup_data: object, office_id: str):
+    """Get the name of an office"""
     office_list = list(map(unwrap_object, lookup_data["officeList"]))
 
     office_match = list(filter(lambda x: x["ID"] == office_id, office_list))
@@ -54,17 +41,20 @@ def get_office_name(lookup_data, office_id):
     return office_match[0]["NM"]
 
 
-def get_candidate_name(lookup_data, candidate_id):
+def get_candidate_name(lookup_data: object, candidate_id: str):
+    """Get the name of a given candidate"""
     return lookup_data["candidateIds"][candidate_id]["NM"]
 
 
-def get_candidate_party(lookup_data, candidate_id, field="CD"):
+def get_candidate_party(lookup_data: object, candidate_id: str, field: str = "CD"):
+    """Get the party of a candidate.
+
+    Set field to 'NM' to get the display name of the party"""
     party_id = lookup_data["candidateIds"][candidate_id]["P"]
     return lookup_data["partyIds"][party_id][field]
 
 
 def convert_election_data(data):
-
     """
     Convert election data to a csv string
 
@@ -83,6 +73,8 @@ def convert_election_data(data):
 
     rows = []
 
+    # TODO - This is really gross nested for loop, but it was the easiest way to
+    # do this quickly.
     for town_id in ["state"] + list(lookup_data["townIds"].keys()):
         if town_id == "state":
             town_name = "statewide"
