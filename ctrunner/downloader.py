@@ -1,6 +1,4 @@
-"""
-ctrunner.py - Pull  data on from CT elections system
-author: jake kara <jake@jakekara.com>
+"""Get raw JSON files from election night reporting system API
 """
 
 from .download_tools import get_json
@@ -50,6 +48,10 @@ def get_lookupdata(election_id: int, version_id: int = None):
 
 
 def get_data_for_election(election_id):
+    """
+    Helper function to get the version, election data and lookup data in a
+    single function call.
+    """
     version = get_version(election_id)
     electiondata = get_electiondata(election_id, version_id=version)
     lookupdata = get_lookupdata(election_id, version_id=version)
@@ -57,7 +59,10 @@ def get_data_for_election(election_id):
 
 
 def get_data_for_all_elections():
-
+    """
+    Helper function to call get_data_for_election for all elections. This should
+    not be used too often because old elections are never changed.
+    """
     ret = {"election_list": get_election_list(), "elections": {}}
 
     for e in ret["election_list"]:
