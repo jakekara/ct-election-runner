@@ -29,8 +29,13 @@ data to more useful spreadsheets.
 ## Install
 
 ```bash
-pip install git+https://github.com/jakekara/ct-election-runner.git
-python -m ctrunner.cli --help
+pip install -e git+https://github.com/jakekara/ct-election-runner.git#egg=ct-election-runner
+ctrunner --help
+```
+
+This will output:
+
+```bash
 usage: ctrunner - Connecticut election data runner [-h] {archive,parse,download} ...
 
 positional arguments:
@@ -50,7 +55,12 @@ This pipes the ctrunner downloader and the ctrunner parser together to download
 the data in raw JSON format then convert it to a spreadsheet:
 
 ```bash
-python -m ctrunner.cli download --election-list | python -m ctrunner.cli parse --data-type=election-list
+ctrunner download --election-list | ctrunner parse --data-type=election-list
+```
+
+This will output:
+
+```bash
 ID,Name,DefaultElection
 54,11/03/2020 -- Presidential Election,Y
 55,08/11/2020 -- Democratic Presidential Preference Primary,N
@@ -77,7 +87,7 @@ ID,Name,DefaultElection
 ### Download an election and convert it to CSV
 
 ```bash
-python -m ctrunner.cli  download --election 1 | python -m ctrunner.cli parse --data-type=election-data > election-1.csv
+ctrunner  download --election 1 | ctrunner parse --data-type=election-data > election-1.csv
 ```
 
 ### Archive an election
@@ -95,7 +105,7 @@ important for news coverage when this system came out because it took several
 days for all towns to put their results in when participation was not mandatory.
 
 ```bash
-python -m ctrunner.cli  archive --dest examples --election 1
+ctrunner  archive --dest examples --election 1
 ```
 
 Check out the examples folder in this repo to see the data that the archive
