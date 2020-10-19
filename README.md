@@ -6,19 +6,22 @@
 ## About
 
 Connecticut's election night reporting system has an undocumented API that I
-reverse engineered and have used as a data journalist starting in 2016 to build
-live results
-[portals](https://ctmirror.org/2018/08/14/unofficial-2018-primary-results-roll/) ([code](https://github.com/jakekara/ct-election-frontend-primary-18))
-for [The Connecticut Mirror](https://ctmirror.org), where I used to work. I am
-currently not working in data journalism as I am wandering around in the world
-of digital humanities development, but I've always intended to make this code
-public and finally had a few hours to do so.
+reverse engineered and used as a data journalist starting in 2015 to build live
+results
+[portals](https://ctmirror.org/2018/08/14/unofficial-2018-primary-results-roll/)
+([code](https://github.com/jakekara/ct-election-frontend-primary-18)) for [The
+Connecticut Mirror](https://ctmirror.org), where I used to work.
 
-**Note about code quality:** This is not the exact code I used as a data
-journalist. I rewrote it to make it more presentable. It doesn't have proper
-test coverage or documentation, or even error handling for that matter. I had
-hoped to do more with it, but I don't know when I will be able to revisit it and
-I wanted to make it available before the general election.
+I've always intended to make this code public once I had time to clean it up. I
+have never had time to really do that, and I doubt I ever will, so I'm just
+releasing it as-is.
+
+This repo isn't all that clean, it's not well documented, and it lacks test
+coverage and even error handling. However, I felt that putting this out there in
+its current state would be better than waiting until I have a lot of time to
+spend on this, which will probably never happen. And I really just needed to get
+it off my plate and stop kicking myself about not getting to it every time an
+election season comes and goes.
 
 ## CLI tool and library
 
