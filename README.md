@@ -1,7 +1,7 @@
 # CT election runner
 
-> Python library and command line tool to scrape Connecticut's election data
-> portal in real time.
+> Python library and command line tool to pull Connecticut's election data
+> in real time.
 
 ## About
 
