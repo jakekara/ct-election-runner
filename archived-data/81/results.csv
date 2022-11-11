@@ -1,0 +1,897 @@
+office,town,candidate,party,votes,vote_percent
+State Senate 23,statewide,Herron Gaston,D,1775,52.16%
+State Senate 23,statewide,Dennis Bradley,D,1628,47.84%
+State Representative 16,statewide,Eric Wellman,D,1053,49.18%
+State Representative 16,statewide,Melissa Osborne,D,1088,50.82%
+State Representative 34,statewide,Kurt Comisky,D,194,18.46%
+State Representative 34,statewide,John Olin,D,857,81.54%
+State Representative 98,statewide,Moira Rader,D,1327,70.44%
+State Representative 98,statewide,Andy Gottlieb,D,557,29.56%
+State Representative 116,statewide,Trenee McGee,D,540,63.68%
+State Representative 116,statewide,Joseph Miller,D,308,36.32%
+State Representative 127,statewide,Marcus Brown,D,573,50.09%
+State Representative 127,statewide,Jack Hennessy,D,571,49.91%
+Secretary of the State,statewide,Stephanie Thomas,D,84392,75.81%
+Secretary of the State,statewide,Maritza Bond,D,26929,24.19%
+Treasurer,statewide,Erick Russell,D,63726,57.52%
+Treasurer,statewide,Dita Bhargava,D,25253,22.79%
+Treasurer,statewide,Karen Dubois-Walton,D,21814,19.69%
+Judge of Probate 04,statewide,Mary Deneen,D,2669,78.55%
+Judge of Probate 04,statewide,Keith Yagaloff,D,729,21.45%
+Registrar of Voters,statewide,Jennifer Marshall-Nealy,D,1544,72.08%
+Registrar of Voters,statewide,Troy Mitchell,D,598,27.92%
+Secretary of the State,Andover,Stephanie Thomas,D,87,73.73%
+Secretary of the State,Andover,Maritza Bond,D,31,26.27%
+Treasurer,Andover,Erick Russell,D,67,55.83%
+Treasurer,Andover,Dita Bhargava,D,34,28.33%
+Treasurer,Andover,Karen Dubois-Walton,D,19,15.83%
+Secretary of the State,Ansonia,Stephanie Thomas,D,231,61.93%
+Secretary of the State,Ansonia,Maritza Bond,D,142,38.07%
+Treasurer,Ansonia,Erick Russell,D,196,52.69%
+Treasurer,Ansonia,Dita Bhargava,D,73,19.62%
+Treasurer,Ansonia,Karen Dubois-Walton,D,103,27.69%
+Secretary of the State,Ashford,Stephanie Thomas,D,157,81.35%
+Secretary of the State,Ashford,Maritza Bond,D,36,18.65%
+Treasurer,Ashford,Erick Russell,D,113,57.95%
+Treasurer,Ashford,Dita Bhargava,D,45,23.08%
+Treasurer,Ashford,Karen Dubois-Walton,D,37,18.97%
+Secretary of the State,Avon,Stephanie Thomas,D,698,85.54%
+Secretary of the State,Avon,Maritza Bond,D,118,14.46%
+Treasurer,Avon,Erick Russell,D,436,53.30%
+Treasurer,Avon,Dita Bhargava,D,219,26.77%
+Treasurer,Avon,Karen Dubois-Walton,D,163,19.93%
+Secretary of the State,Barkhamsted,Stephanie Thomas,D,99,85.34%
+Secretary of the State,Barkhamsted,Maritza Bond,D,17,14.66%
+Treasurer,Barkhamsted,Erick Russell,D,75,64.10%
+Treasurer,Barkhamsted,Dita Bhargava,D,24,20.51%
+Treasurer,Barkhamsted,Karen Dubois-Walton,D,18,15.38%
+Secretary of the State,Beacon Falls,Stephanie Thomas,D,81,68.07%
+Secretary of the State,Beacon Falls,Maritza Bond,D,38,31.93%
+Treasurer,Beacon Falls,Erick Russell,D,63,52.07%
+Treasurer,Beacon Falls,Dita Bhargava,D,26,21.49%
+Treasurer,Beacon Falls,Karen Dubois-Walton,D,32,26.45%
+Secretary of the State,Berlin,Stephanie Thomas,D,496,77.74%
+Secretary of the State,Berlin,Maritza Bond,D,142,22.26%
+Treasurer,Berlin,Erick Russell,D,385,60.06%
+Treasurer,Berlin,Dita Bhargava,D,126,19.66%
+Treasurer,Berlin,Karen Dubois-Walton,D,130,20.28%
+Secretary of the State,Bethany,Stephanie Thomas,D,209,77.99%
+Secretary of the State,Bethany,Maritza Bond,D,59,22.01%
+Treasurer,Bethany,Erick Russell,D,162,60.67%
+Treasurer,Bethany,Dita Bhargava,D,53,19.85%
+Treasurer,Bethany,Karen Dubois-Walton,D,52,19.48%
+Secretary of the State,Bethel,Stephanie Thomas,D,418,81.01%
+Secretary of the State,Bethel,Maritza Bond,D,98,18.99%
+Treasurer,Bethel,Erick Russell,D,278,53.88%
+Treasurer,Bethel,Dita Bhargava,D,157,30.43%
+Treasurer,Bethel,Karen Dubois-Walton,D,81,15.70%
+Secretary of the State,Bethlehem,Stephanie Thomas,D,81,73.64%
+Secretary of the State,Bethlehem,Maritza Bond,D,29,26.36%
+Treasurer,Bethlehem,Erick Russell,D,61,54.46%
+Treasurer,Bethlehem,Dita Bhargava,D,25,22.32%
+Treasurer,Bethlehem,Karen Dubois-Walton,D,26,23.21%
+Secretary of the State,Bloomfield,Stephanie Thomas,D,1836,86.08%
+Secretary of the State,Bloomfield,Maritza Bond,D,297,13.92%
+Treasurer,Bloomfield,Erick Russell,D,1462,68.45%
+Treasurer,Bloomfield,Dita Bhargava,D,227,10.63%
+Treasurer,Bloomfield,Karen Dubois-Walton,D,447,20.93%
+Registrar of Voters,Bloomfield,Jennifer Marshall-Nealy,D,1544,72.08%
+Registrar of Voters,Bloomfield,Troy Mitchell,D,598,27.92%
+Secretary of the State,Bolton,Stephanie Thomas,D,149,73.76%
+Secretary of the State,Bolton,Maritza Bond,D,53,26.24%
+Treasurer,Bolton,Erick Russell,D,100,48.54%
+Treasurer,Bolton,Dita Bhargava,D,55,26.70%
+Treasurer,Bolton,Karen Dubois-Walton,D,51,24.76%
+Secretary of the State,Bozrah,Stephanie Thomas,D,71,75.53%
+Secretary of the State,Bozrah,Maritza Bond,D,23,24.47%
+Treasurer,Bozrah,Erick Russell,D,56,58.95%
+Treasurer,Bozrah,Dita Bhargava,D,19,20.00%
+Treasurer,Bozrah,Karen Dubois-Walton,D,20,21.05%
+State Representative 98,Branford,Moira Rader,D,265,69.19%
+State Representative 98,Branford,Andy Gottlieb,D,118,30.81%
+Secretary of the State,Branford,Stephanie Thomas,D,939,67.85%
+Secretary of the State,Branford,Maritza Bond,D,445,32.15%
+Treasurer,Branford,Erick Russell,D,729,52.45%
+Treasurer,Branford,Dita Bhargava,D,299,21.51%
+Treasurer,Branford,Karen Dubois-Walton,D,362,26.04%
+State Senate 23,Bridgeport,Herron Gaston,D,1599,50.70%
+State Senate 23,Bridgeport,Dennis Bradley,D,1555,49.30%
+State Representative 127,Bridgeport,Marcus Brown,D,573,50.09%
+State Representative 127,Bridgeport,Jack Hennessy,D,571,49.91%
+Secretary of the State,Bridgeport,Stephanie Thomas,D,3229,68.08%
+Secretary of the State,Bridgeport,Maritza Bond,D,1514,31.92%
+Treasurer,Bridgeport,Erick Russell,D,2886,61.79%
+Treasurer,Bridgeport,Dita Bhargava,D,1130,24.19%
+Treasurer,Bridgeport,Karen Dubois-Walton,D,655,14.02%
+Secretary of the State,Bridgewater,Stephanie Thomas,D,70,83.33%
+Secretary of the State,Bridgewater,Maritza Bond,D,14,16.67%
+Treasurer,Bridgewater,Erick Russell,D,61,70.93%
+Treasurer,Bridgewater,Dita Bhargava,D,18,20.93%
+Treasurer,Bridgewater,Karen Dubois-Walton,D,7,8.14%
+Secretary of the State,Bristol,Stephanie Thomas,D,1077,71.70%
+Secretary of the State,Bristol,Maritza Bond,D,425,28.30%
+Treasurer,Bristol,Erick Russell,D,888,59.24%
+Treasurer,Bristol,Dita Bhargava,D,315,21.01%
+Treasurer,Bristol,Karen Dubois-Walton,D,296,19.75%
+Secretary of the State,Brookfield,Stephanie Thomas,D,400,83.68%
+Secretary of the State,Brookfield,Maritza Bond,D,78,16.32%
+Treasurer,Brookfield,Erick Russell,D,243,50.63%
+Treasurer,Brookfield,Dita Bhargava,D,163,33.96%
+Treasurer,Brookfield,Karen Dubois-Walton,D,74,15.42%
+Secretary of the State,Brooklyn,Stephanie Thomas,D,99,79.84%
+Secretary of the State,Brooklyn,Maritza Bond,D,25,20.16%
+Treasurer,Brooklyn,Erick Russell,D,89,70.63%
+Treasurer,Brooklyn,Dita Bhargava,D,20,15.87%
+Treasurer,Brooklyn,Karen Dubois-Walton,D,17,13.49%
+Secretary of the State,Burlington,Stephanie Thomas,D,213,79.78%
+Secretary of the State,Burlington,Maritza Bond,D,54,20.22%
+Treasurer,Burlington,Erick Russell,D,135,50.56%
+Treasurer,Burlington,Dita Bhargava,D,78,29.21%
+Treasurer,Burlington,Karen Dubois-Walton,D,54,20.22%
+Secretary of the State,Canaan,Stephanie Thomas,D,54,71.05%
+Secretary of the State,Canaan,Maritza Bond,D,22,28.95%
+Treasurer,Canaan,Erick Russell,D,36,48.00%
+Treasurer,Canaan,Dita Bhargava,D,26,34.67%
+Treasurer,Canaan,Karen Dubois-Walton,D,13,17.33%
+Secretary of the State,Canterbury,Stephanie Thomas,D,96,80.00%
+Secretary of the State,Canterbury,Maritza Bond,D,24,20.00%
+Treasurer,Canterbury,Erick Russell,D,64,54.24%
+Treasurer,Canterbury,Dita Bhargava,D,30,25.42%
+Treasurer,Canterbury,Karen Dubois-Walton,D,24,20.34%
+Secretary of the State,Canton,Stephanie Thomas,D,438,85.05%
+Secretary of the State,Canton,Maritza Bond,D,77,14.95%
+Treasurer,Canton,Erick Russell,D,275,53.29%
+Treasurer,Canton,Dita Bhargava,D,119,23.06%
+Treasurer,Canton,Karen Dubois-Walton,D,122,23.64%
+Secretary of the State,Chaplin,Stephanie Thomas,D,68,83.95%
+Secretary of the State,Chaplin,Maritza Bond,D,13,16.05%
+Treasurer,Chaplin,Erick Russell,D,45,55.56%
+Treasurer,Chaplin,Dita Bhargava,D,21,25.93%
+Treasurer,Chaplin,Karen Dubois-Walton,D,15,18.52%
+Secretary of the State,Cheshire,Stephanie Thomas,D,713,68.16%
+Secretary of the State,Cheshire,Maritza Bond,D,333,31.84%
+Treasurer,Cheshire,Erick Russell,D,569,54.50%
+Treasurer,Cheshire,Dita Bhargava,D,261,25.00%
+Treasurer,Cheshire,Karen Dubois-Walton,D,214,20.50%
+Secretary of the State,Chester,Stephanie Thomas,D,210,87.87%
+Secretary of the State,Chester,Maritza Bond,D,29,12.13%
+Treasurer,Chester,Erick Russell,D,153,63.49%
+Treasurer,Chester,Dita Bhargava,D,51,21.16%
+Treasurer,Chester,Karen Dubois-Walton,D,37,15.35%
+Secretary of the State,Clinton,Stephanie Thomas,D,360,79.82%
+Secretary of the State,Clinton,Maritza Bond,D,91,20.18%
+Treasurer,Clinton,Erick Russell,D,277,61.15%
+Treasurer,Clinton,Dita Bhargava,D,100,22.08%
+Treasurer,Clinton,Karen Dubois-Walton,D,76,16.78%
+Secretary of the State,Colchester,Stephanie Thomas,D,484,80.00%
+Secretary of the State,Colchester,Maritza Bond,D,121,20.00%
+Treasurer,Colchester,Erick Russell,D,354,58.03%
+Treasurer,Colchester,Dita Bhargava,D,154,25.25%
+Treasurer,Colchester,Karen Dubois-Walton,D,102,16.72%
+Secretary of the State,Colebrook,Stephanie Thomas,D,34,66.67%
+Secretary of the State,Colebrook,Maritza Bond,D,17,33.33%
+Treasurer,Colebrook,Erick Russell,D,31,58.49%
+Treasurer,Colebrook,Dita Bhargava,D,11,20.75%
+Treasurer,Colebrook,Karen Dubois-Walton,D,11,20.75%
+Secretary of the State,Columbia,Stephanie Thomas,D,171,79.17%
+Secretary of the State,Columbia,Maritza Bond,D,45,20.83%
+Treasurer,Columbia,Erick Russell,D,118,54.88%
+Treasurer,Columbia,Dita Bhargava,D,53,24.65%
+Treasurer,Columbia,Karen Dubois-Walton,D,44,20.47%
+Secretary of the State,Cornwall,Stephanie Thomas,D,129,85.43%
+Secretary of the State,Cornwall,Maritza Bond,D,22,14.57%
+Treasurer,Cornwall,Erick Russell,D,100,66.67%
+Treasurer,Cornwall,Dita Bhargava,D,26,17.33%
+Treasurer,Cornwall,Karen Dubois-Walton,D,24,16.00%
+Secretary of the State,Coventry,Stephanie Thomas,D,335,84.38%
+Secretary of the State,Coventry,Maritza Bond,D,62,15.62%
+Treasurer,Coventry,Erick Russell,D,232,58.59%
+Treasurer,Coventry,Dita Bhargava,D,95,23.99%
+Treasurer,Coventry,Karen Dubois-Walton,D,69,17.42%
+Secretary of the State,Cromwell,Stephanie Thomas,D,344,74.30%
+Secretary of the State,Cromwell,Maritza Bond,D,119,25.70%
+Treasurer,Cromwell,Erick Russell,D,262,55.98%
+Treasurer,Cromwell,Dita Bhargava,D,112,23.93%
+Treasurer,Cromwell,Karen Dubois-Walton,D,94,20.09%
+Secretary of the State,Danbury,Stephanie Thomas,D,851,77.36%
+Secretary of the State,Danbury,Maritza Bond,D,249,22.64%
+Treasurer,Danbury,Erick Russell,D,578,53.62%
+Treasurer,Danbury,Dita Bhargava,D,276,25.60%
+Treasurer,Danbury,Karen Dubois-Walton,D,224,20.78%
+Secretary of the State,Darien,Stephanie Thomas,D,361,89.58%
+Secretary of the State,Darien,Maritza Bond,D,42,10.42%
+Treasurer,Darien,Erick Russell,D,220,54.32%
+Treasurer,Darien,Dita Bhargava,D,146,36.05%
+Treasurer,Darien,Karen Dubois-Walton,D,39,9.63%
+Secretary of the State,Deep River,Stephanie Thomas,D,151,80.75%
+Secretary of the State,Deep River,Maritza Bond,D,36,19.25%
+Treasurer,Deep River,Erick Russell,D,132,71.35%
+Treasurer,Deep River,Dita Bhargava,D,30,16.22%
+Treasurer,Deep River,Karen Dubois-Walton,D,23,12.43%
+Secretary of the State,Derby,Stephanie Thomas,D,187,66.31%
+Secretary of the State,Derby,Maritza Bond,D,95,33.69%
+Treasurer,Derby,Erick Russell,D,169,59.72%
+Treasurer,Derby,Dita Bhargava,D,60,21.20%
+Treasurer,Derby,Karen Dubois-Walton,D,54,19.08%
+Secretary of the State,Durham,Stephanie Thomas,D,183,78.88%
+Secretary of the State,Durham,Maritza Bond,D,49,21.12%
+Treasurer,Durham,Erick Russell,D,118,50.43%
+Treasurer,Durham,Dita Bhargava,D,61,26.07%
+Treasurer,Durham,Karen Dubois-Walton,D,55,23.50%
+Secretary of the State,Eastford,Stephanie Thomas,D,52,77.61%
+Secretary of the State,Eastford,Maritza Bond,D,15,22.39%
+Treasurer,Eastford,Erick Russell,D,40,58.82%
+Treasurer,Eastford,Dita Bhargava,D,16,23.53%
+Treasurer,Eastford,Karen Dubois-Walton,D,12,17.65%
+Secretary of the State,East Granby,Stephanie Thomas,D,149,83.24%
+Secretary of the State,East Granby,Maritza Bond,D,30,16.76%
+Treasurer,East Granby,Erick Russell,D,112,61.54%
+Treasurer,East Granby,Dita Bhargava,D,35,19.23%
+Treasurer,East Granby,Karen Dubois-Walton,D,35,19.23%
+State Representative 34,East Haddam,Kurt Comisky,D,58,10.98%
+State Representative 34,East Haddam,John Olin,D,470,89.02%
+Secretary of the State,East Haddam,Stephanie Thomas,D,400,76.63%
+Secretary of the State,East Haddam,Maritza Bond,D,122,23.37%
+Treasurer,East Haddam,Erick Russell,D,250,47.71%
+Treasurer,East Haddam,Dita Bhargava,D,149,28.44%
+Treasurer,East Haddam,Karen Dubois-Walton,D,125,23.85%
+State Representative 34,East Hampton,Kurt Comisky,D,126,27.45%
+State Representative 34,East Hampton,John Olin,D,333,72.55%
+Secretary of the State,East Hampton,Stephanie Thomas,D,307,65.04%
+Secretary of the State,East Hampton,Maritza Bond,D,165,34.96%
+Treasurer,East Hampton,Erick Russell,D,256,54.01%
+Treasurer,East Hampton,Dita Bhargava,D,131,27.64%
+Treasurer,East Hampton,Karen Dubois-Walton,D,87,18.35%
+Secretary of the State,East Hartford,Stephanie Thomas,D,909,72.37%
+Secretary of the State,East Hartford,Maritza Bond,D,347,27.63%
+Treasurer,East Hartford,Erick Russell,D,758,60.59%
+Treasurer,East Hartford,Dita Bhargava,D,210,16.79%
+Treasurer,East Hartford,Karen Dubois-Walton,D,283,22.62%
+Secretary of the State,East Haven,Stephanie Thomas,D,324,62.67%
+Secretary of the State,East Haven,Maritza Bond,D,193,37.33%
+Treasurer,East Haven,Erick Russell,D,266,51.55%
+Treasurer,East Haven,Dita Bhargava,D,101,19.57%
+Treasurer,East Haven,Karen Dubois-Walton,D,149,28.88%
+Secretary of the State,East Lyme,Stephanie Thomas,D,467,77.83%
+Secretary of the State,East Lyme,Maritza Bond,D,133,22.17%
+Treasurer,East Lyme,Erick Russell,D,323,53.83%
+Treasurer,East Lyme,Dita Bhargava,D,142,23.67%
+Treasurer,East Lyme,Karen Dubois-Walton,D,135,22.50%
+Secretary of the State,Easton,Stephanie Thomas,D,213,80.68%
+Secretary of the State,Easton,Maritza Bond,D,51,19.32%
+Treasurer,Easton,Erick Russell,D,120,44.78%
+Treasurer,Easton,Dita Bhargava,D,131,48.88%
+Treasurer,Easton,Karen Dubois-Walton,D,17,6.34%
+Secretary of the State,East Windsor,Stephanie Thomas,D,243,75.00%
+Secretary of the State,East Windsor,Maritza Bond,D,81,25.00%
+Treasurer,East Windsor,Erick Russell,D,190,58.46%
+Treasurer,East Windsor,Dita Bhargava,D,63,19.38%
+Treasurer,East Windsor,Karen Dubois-Walton,D,72,22.15%
+Judge of Probate 04,East Windsor,Mary Deneen,D,224,67.07%
+Judge of Probate 04,East Windsor,Keith Yagaloff,D,110,32.93%
+Secretary of the State,Ellington,Stephanie Thomas,D,296,78.51%
+Secretary of the State,Ellington,Maritza Bond,D,81,21.49%
+Treasurer,Ellington,Erick Russell,D,220,58.20%
+Treasurer,Ellington,Dita Bhargava,D,97,25.66%
+Treasurer,Ellington,Karen Dubois-Walton,D,61,16.14%
+Secretary of the State,Enfield,Stephanie Thomas,D,620,72.68%
+Secretary of the State,Enfield,Maritza Bond,D,233,27.32%
+Treasurer,Enfield,Erick Russell,D,479,56.42%
+Treasurer,Enfield,Dita Bhargava,D,190,22.38%
+Treasurer,Enfield,Karen Dubois-Walton,D,180,21.20%
+Secretary of the State,Essex,Stephanie Thomas,D,347,84.63%
+Secretary of the State,Essex,Maritza Bond,D,63,15.37%
+Treasurer,Essex,Erick Russell,D,252,61.61%
+Treasurer,Essex,Dita Bhargava,D,103,25.18%
+Treasurer,Essex,Karen Dubois-Walton,D,54,13.20%
+Secretary of the State,Fairfield,Stephanie Thomas,D,1494,84.89%
+Secretary of the State,Fairfield,Maritza Bond,D,266,15.11%
+Treasurer,Fairfield,Erick Russell,D,1070,60.42%
+Treasurer,Fairfield,Dita Bhargava,D,457,25.80%
+Treasurer,Fairfield,Karen Dubois-Walton,D,244,13.78%
+Secretary of the State,Farmington,Stephanie Thomas,D,812,79.45%
+Secretary of the State,Farmington,Maritza Bond,D,210,20.55%
+Treasurer,Farmington,Erick Russell,D,595,57.88%
+Treasurer,Farmington,Dita Bhargava,D,251,24.42%
+Treasurer,Farmington,Karen Dubois-Walton,D,182,17.70%
+Secretary of the State,Franklin,Stephanie Thomas,D,38,76.00%
+Secretary of the State,Franklin,Maritza Bond,D,12,24.00%
+Treasurer,Franklin,Erick Russell,D,29,56.86%
+Treasurer,Franklin,Dita Bhargava,D,13,25.49%
+Treasurer,Franklin,Karen Dubois-Walton,D,9,17.65%
+Secretary of the State,Glastonbury,Stephanie Thomas,D,1161,79.47%
+Secretary of the State,Glastonbury,Maritza Bond,D,300,20.53%
+Treasurer,Glastonbury,Erick Russell,D,822,56.26%
+Treasurer,Glastonbury,Dita Bhargava,D,378,25.87%
+Treasurer,Glastonbury,Karen Dubois-Walton,D,261,17.86%
+Secretary of the State,Goshen,Stephanie Thomas,D,127,83.01%
+Secretary of the State,Goshen,Maritza Bond,D,26,16.99%
+Treasurer,Goshen,Erick Russell,D,95,61.69%
+Treasurer,Goshen,Dita Bhargava,D,24,15.58%
+Treasurer,Goshen,Karen Dubois-Walton,D,35,22.73%
+Secretary of the State,Granby,Stephanie Thomas,D,372,79.15%
+Secretary of the State,Granby,Maritza Bond,D,98,20.85%
+Treasurer,Granby,Erick Russell,D,244,51.69%
+Treasurer,Granby,Dita Bhargava,D,140,29.66%
+Treasurer,Granby,Karen Dubois-Walton,D,88,18.64%
+Secretary of the State,Greenwich,Stephanie Thomas,D,1706,88.17%
+Secretary of the State,Greenwich,Maritza Bond,D,229,11.83%
+Treasurer,Greenwich,Erick Russell,D,944,48.46%
+Treasurer,Greenwich,Dita Bhargava,D,810,41.58%
+Treasurer,Greenwich,Karen Dubois-Walton,D,194,9.96%
+Secretary of the State,Griswold,Stephanie Thomas,D,173,70.33%
+Secretary of the State,Griswold,Maritza Bond,D,73,29.67%
+Treasurer,Griswold,Erick Russell,D,143,57.43%
+Treasurer,Griswold,Dita Bhargava,D,63,25.30%
+Treasurer,Griswold,Karen Dubois-Walton,D,43,17.27%
+Secretary of the State,Groton,Stephanie Thomas,D,872,80.22%
+Secretary of the State,Groton,Maritza Bond,D,215,19.78%
+Treasurer,Groton,Erick Russell,D,639,58.68%
+Treasurer,Groton,Dita Bhargava,D,242,22.22%
+Treasurer,Groton,Karen Dubois-Walton,D,208,19.10%
+State Representative 98,Guilford,Moira Rader,D,1062,70.75%
+State Representative 98,Guilford,Andy Gottlieb,D,439,29.25%
+Secretary of the State,Guilford,Stephanie Thomas,D,1290,79.98%
+Secretary of the State,Guilford,Maritza Bond,D,323,20.02%
+Treasurer,Guilford,Erick Russell,D,1025,63.86%
+Treasurer,Guilford,Dita Bhargava,D,316,19.69%
+Treasurer,Guilford,Karen Dubois-Walton,D,264,16.45%
+Secretary of the State,Haddam,Stephanie Thomas,D,222,73.03%
+Secretary of the State,Haddam,Maritza Bond,D,82,26.97%
+Treasurer,Haddam,Erick Russell,D,168,54.90%
+Treasurer,Haddam,Dita Bhargava,D,72,23.53%
+Treasurer,Haddam,Karen Dubois-Walton,D,66,21.57%
+Secretary of the State,Hamden,Stephanie Thomas,D,2525,67.77%
+Secretary of the State,Hamden,Maritza Bond,D,1201,32.23%
+Treasurer,Hamden,Erick Russell,D,1919,51.06%
+Treasurer,Hamden,Dita Bhargava,D,551,14.66%
+Treasurer,Hamden,Karen Dubois-Walton,D,1288,34.27%
+Secretary of the State,Hampton,Stephanie Thomas,D,74,85.06%
+Secretary of the State,Hampton,Maritza Bond,D,13,14.94%
+Treasurer,Hampton,Erick Russell,D,39,44.32%
+Treasurer,Hampton,Dita Bhargava,D,27,30.68%
+Treasurer,Hampton,Karen Dubois-Walton,D,22,25.00%
+Secretary of the State,Hartford,Stephanie Thomas,D,2062,62.09%
+Secretary of the State,Hartford,Maritza Bond,D,1259,37.91%
+Treasurer,Hartford,Erick Russell,D,1568,59.24%
+Treasurer,Hartford,Dita Bhargava,D,619,23.38%
+Treasurer,Hartford,Karen Dubois-Walton,D,460,17.38%
+Secretary of the State,Hartland,Stephanie Thomas,D,44,73.33%
+Secretary of the State,Hartland,Maritza Bond,D,16,26.67%
+Treasurer,Hartland,Erick Russell,D,32,54.24%
+Treasurer,Hartland,Dita Bhargava,D,13,22.03%
+Treasurer,Hartland,Karen Dubois-Walton,D,14,23.73%
+Secretary of the State,Harwinton,Stephanie Thomas,D,109,79.56%
+Secretary of the State,Harwinton,Maritza Bond,D,28,20.44%
+Treasurer,Harwinton,Erick Russell,D,87,63.04%
+Treasurer,Harwinton,Dita Bhargava,D,38,27.54%
+Treasurer,Harwinton,Karen Dubois-Walton,D,13,9.42%
+Secretary of the State,Hebron,Stephanie Thomas,D,258,84.59%
+Secretary of the State,Hebron,Maritza Bond,D,47,15.41%
+Treasurer,Hebron,Erick Russell,D,196,61.83%
+Treasurer,Hebron,Dita Bhargava,D,74,23.34%
+Treasurer,Hebron,Karen Dubois-Walton,D,47,14.83%
+Secretary of the State,Kent,Stephanie Thomas,D,202,85.59%
+Secretary of the State,Kent,Maritza Bond,D,34,14.41%
+Treasurer,Kent,Erick Russell,D,129,55.13%
+Treasurer,Kent,Dita Bhargava,D,70,29.91%
+Treasurer,Kent,Karen Dubois-Walton,D,35,14.96%
+Secretary of the State,Killingly,Stephanie Thomas,D,153,74.63%
+Secretary of the State,Killingly,Maritza Bond,D,52,25.37%
+Treasurer,Killingly,Erick Russell,D,122,58.37%
+Treasurer,Killingly,Dita Bhargava,D,50,23.92%
+Treasurer,Killingly,Karen Dubois-Walton,D,37,17.70%
+Secretary of the State,Killingworth,Stephanie Thomas,D,213,86.23%
+Secretary of the State,Killingworth,Maritza Bond,D,34,13.77%
+Treasurer,Killingworth,Erick Russell,D,155,62.25%
+Treasurer,Killingworth,Dita Bhargava,D,55,22.09%
+Treasurer,Killingworth,Karen Dubois-Walton,D,39,15.66%
+Secretary of the State,Lebanon,Stephanie Thomas,D,150,73.89%
+Secretary of the State,Lebanon,Maritza Bond,D,53,26.11%
+Treasurer,Lebanon,Erick Russell,D,123,60.29%
+Treasurer,Lebanon,Dita Bhargava,D,47,23.04%
+Treasurer,Lebanon,Karen Dubois-Walton,D,34,16.67%
+Secretary of the State,Ledyard,Stephanie Thomas,D,254,80.63%
+Secretary of the State,Ledyard,Maritza Bond,D,61,19.37%
+Treasurer,Ledyard,Erick Russell,D,174,55.24%
+Treasurer,Ledyard,Dita Bhargava,D,71,22.54%
+Treasurer,Ledyard,Karen Dubois-Walton,D,70,22.22%
+Secretary of the State,Lisbon,Stephanie Thomas,D,69,75.82%
+Secretary of the State,Lisbon,Maritza Bond,D,22,24.18%
+Treasurer,Lisbon,Erick Russell,D,44,47.83%
+Treasurer,Lisbon,Dita Bhargava,D,30,32.61%
+Treasurer,Lisbon,Karen Dubois-Walton,D,18,19.57%
+Secretary of the State,Litchfield,Stephanie Thomas,D,309,86.80%
+Secretary of the State,Litchfield,Maritza Bond,D,47,13.20%
+Treasurer,Litchfield,Erick Russell,D,181,51.13%
+Treasurer,Litchfield,Dita Bhargava,D,123,34.75%
+Treasurer,Litchfield,Karen Dubois-Walton,D,50,14.12%
+Secretary of the State,Lyme,Stephanie Thomas,D,125,86.21%
+Secretary of the State,Lyme,Maritza Bond,D,20,13.79%
+Treasurer,Lyme,Erick Russell,D,85,58.22%
+Treasurer,Lyme,Dita Bhargava,D,39,26.71%
+Treasurer,Lyme,Karen Dubois-Walton,D,22,15.07%
+Secretary of the State,Madison,Stephanie Thomas,D,606,82.34%
+Secretary of the State,Madison,Maritza Bond,D,130,17.66%
+Treasurer,Madison,Erick Russell,D,442,60.88%
+Treasurer,Madison,Dita Bhargava,D,156,21.49%
+Treasurer,Madison,Karen Dubois-Walton,D,128,17.63%
+Secretary of the State,Manchester,Stephanie Thomas,D,1440,72.00%
+Secretary of the State,Manchester,Maritza Bond,D,560,28.00%
+Treasurer,Manchester,Erick Russell,D,1090,54.36%
+Treasurer,Manchester,Dita Bhargava,D,494,24.64%
+Treasurer,Manchester,Karen Dubois-Walton,D,421,21.00%
+Secretary of the State,Mansfield,Stephanie Thomas,D,590,84.17%
+Secretary of the State,Mansfield,Maritza Bond,D,111,15.83%
+Treasurer,Mansfield,Erick Russell,D,424,60.40%
+Treasurer,Mansfield,Dita Bhargava,D,149,21.23%
+Treasurer,Mansfield,Karen Dubois-Walton,D,129,18.38%
+Secretary of the State,Marlborough,Stephanie Thomas,D,192,85.71%
+Secretary of the State,Marlborough,Maritza Bond,D,32,14.29%
+Treasurer,Marlborough,Erick Russell,D,128,57.40%
+Treasurer,Marlborough,Dita Bhargava,D,63,28.25%
+Treasurer,Marlborough,Karen Dubois-Walton,D,32,14.35%
+Secretary of the State,Meriden,Stephanie Thomas,D,800,68.20%
+Secretary of the State,Meriden,Maritza Bond,D,373,31.80%
+Treasurer,Meriden,Erick Russell,D,720,60.56%
+Treasurer,Meriden,Dita Bhargava,D,259,21.78%
+Treasurer,Meriden,Karen Dubois-Walton,D,210,17.66%
+Secretary of the State,Middlebury,Stephanie Thomas,D,180,76.60%
+Secretary of the State,Middlebury,Maritza Bond,D,55,23.40%
+Treasurer,Middlebury,Erick Russell,D,115,48.94%
+Treasurer,Middlebury,Dita Bhargava,D,75,31.91%
+Treasurer,Middlebury,Karen Dubois-Walton,D,45,19.15%
+Secretary of the State,Middlefield,Stephanie Thomas,D,126,70.39%
+Secretary of the State,Middlefield,Maritza Bond,D,53,29.61%
+Treasurer,Middlefield,Erick Russell,D,106,55.50%
+Treasurer,Middlefield,Dita Bhargava,D,47,24.61%
+Treasurer,Middlefield,Karen Dubois-Walton,D,38,19.90%
+Secretary of the State,Middletown,Stephanie Thomas,D,1113,69.48%
+Secretary of the State,Middletown,Maritza Bond,D,489,30.52%
+Treasurer,Middletown,Erick Russell,D,884,55.46%
+Treasurer,Middletown,Dita Bhargava,D,342,21.46%
+Treasurer,Middletown,Karen Dubois-Walton,D,368,23.09%
+Secretary of the State,Milford,Stephanie Thomas,D,1017,77.28%
+Secretary of the State,Milford,Maritza Bond,D,299,22.72%
+Treasurer,Milford,Erick Russell,D,791,60.57%
+Treasurer,Milford,Dita Bhargava,D,246,18.84%
+Treasurer,Milford,Karen Dubois-Walton,D,269,20.60%
+Secretary of the State,Monroe,Stephanie Thomas,D,315,80.98%
+Secretary of the State,Monroe,Maritza Bond,D,74,19.02%
+Treasurer,Monroe,Erick Russell,D,228,58.61%
+Treasurer,Monroe,Dita Bhargava,D,111,28.53%
+Treasurer,Monroe,Karen Dubois-Walton,D,50,12.85%
+Secretary of the State,Montville,Stephanie Thomas,D,210,67.96%
+Secretary of the State,Montville,Maritza Bond,D,99,32.04%
+Treasurer,Montville,Erick Russell,D,170,55.02%
+Treasurer,Montville,Dita Bhargava,D,71,22.98%
+Treasurer,Montville,Karen Dubois-Walton,D,68,22.01%
+Secretary of the State,Morris,Stephanie Thomas,D,51,78.46%
+Secretary of the State,Morris,Maritza Bond,D,14,21.54%
+Treasurer,Morris,Erick Russell,D,40,60.61%
+Treasurer,Morris,Dita Bhargava,D,14,21.21%
+Treasurer,Morris,Karen Dubois-Walton,D,12,18.18%
+Secretary of the State,Naugatuck,Stephanie Thomas,D,353,68.02%
+Secretary of the State,Naugatuck,Maritza Bond,D,166,31.98%
+Treasurer,Naugatuck,Erick Russell,D,317,60.50%
+Treasurer,Naugatuck,Dita Bhargava,D,103,19.66%
+Treasurer,Naugatuck,Karen Dubois-Walton,D,104,19.85%
+Secretary of the State,New Britain,Stephanie Thomas,D,1038,67.49%
+Secretary of the State,New Britain,Maritza Bond,D,500,32.51%
+Treasurer,New Britain,Erick Russell,D,866,57.09%
+Treasurer,New Britain,Dita Bhargava,D,318,20.96%
+Treasurer,New Britain,Karen Dubois-Walton,D,333,21.95%
+Secretary of the State,New Canaan,Stephanie Thomas,D,385,90.16%
+Secretary of the State,New Canaan,Maritza Bond,D,42,9.84%
+Treasurer,New Canaan,Erick Russell,D,248,58.22%
+Treasurer,New Canaan,Dita Bhargava,D,139,32.63%
+Treasurer,New Canaan,Karen Dubois-Walton,D,39,9.15%
+Secretary of the State,New Fairfield,Stephanie Thomas,D,262,85.34%
+Secretary of the State,New Fairfield,Maritza Bond,D,45,14.66%
+Treasurer,New Fairfield,Erick Russell,D,190,62.09%
+Treasurer,New Fairfield,Dita Bhargava,D,85,27.78%
+Treasurer,New Fairfield,Karen Dubois-Walton,D,31,10.13%
+Secretary of the State,New Hartford,Stephanie Thomas,D,189,79.41%
+Secretary of the State,New Hartford,Maritza Bond,D,49,20.59%
+Treasurer,New Hartford,Erick Russell,D,137,57.32%
+Treasurer,New Hartford,Dita Bhargava,D,47,19.67%
+Treasurer,New Hartford,Karen Dubois-Walton,D,55,23.01%
+State Representative 116,New Haven,Trenee McGee,D,0,0.00%
+State Representative 116,New Haven,Joseph Miller,D,0,0.00%
+Secretary of the State,New Haven,Stephanie Thomas,D,2792,54.54%
+Secretary of the State,New Haven,Maritza Bond,D,2327,45.46%
+Treasurer,New Haven,Erick Russell,D,2698,51.78%
+Treasurer,New Haven,Dita Bhargava,D,486,9.33%
+Treasurer,New Haven,Karen Dubois-Walton,D,2027,38.90%
+Secretary of the State,Newington,Stephanie Thomas,D,828,74.39%
+Secretary of the State,Newington,Maritza Bond,D,285,25.61%
+Treasurer,Newington,Erick Russell,D,636,56.94%
+Treasurer,Newington,Dita Bhargava,D,265,23.72%
+Treasurer,Newington,Karen Dubois-Walton,D,216,19.34%
+Secretary of the State,New London,Stephanie Thomas,D,324,67.78%
+Secretary of the State,New London,Maritza Bond,D,154,32.22%
+Treasurer,New London,Erick Russell,D,253,52.38%
+Treasurer,New London,Dita Bhargava,D,110,22.77%
+Treasurer,New London,Karen Dubois-Walton,D,120,24.84%
+Secretary of the State,New Milford,Stephanie Thomas,D,490,82.77%
+Secretary of the State,New Milford,Maritza Bond,D,102,17.23%
+Treasurer,New Milford,Erick Russell,D,308,52.38%
+Treasurer,New Milford,Dita Bhargava,D,150,25.51%
+Treasurer,New Milford,Karen Dubois-Walton,D,130,22.11%
+Secretary of the State,Newtown,Stephanie Thomas,D,815,85.16%
+Secretary of the State,Newtown,Maritza Bond,D,142,14.84%
+Treasurer,Newtown,Erick Russell,D,618,64.51%
+Treasurer,Newtown,Dita Bhargava,D,202,21.09%
+Treasurer,Newtown,Karen Dubois-Walton,D,138,14.41%
+Secretary of the State,Norfolk,Stephanie Thomas,D,76,81.72%
+Secretary of the State,Norfolk,Maritza Bond,D,17,18.28%
+Treasurer,Norfolk,Erick Russell,D,55,59.78%
+Treasurer,Norfolk,Dita Bhargava,D,16,17.39%
+Treasurer,Norfolk,Karen Dubois-Walton,D,21,22.83%
+Secretary of the State,North Branford,Stephanie Thomas,D,207,72.89%
+Secretary of the State,North Branford,Maritza Bond,D,77,27.11%
+Treasurer,North Branford,Erick Russell,D,167,58.19%
+Treasurer,North Branford,Dita Bhargava,D,62,21.60%
+Treasurer,North Branford,Karen Dubois-Walton,D,58,20.21%
+Secretary of the State,North Canaan,Stephanie Thomas,D,64,71.91%
+Secretary of the State,North Canaan,Maritza Bond,D,25,28.09%
+Treasurer,North Canaan,Erick Russell,D,53,56.38%
+Treasurer,North Canaan,Dita Bhargava,D,21,22.34%
+Treasurer,North Canaan,Karen Dubois-Walton,D,20,21.28%
+Secretary of the State,North Haven,Stephanie Thomas,D,424,64.34%
+Secretary of the State,North Haven,Maritza Bond,D,235,35.66%
+Treasurer,North Haven,Erick Russell,D,320,48.12%
+Treasurer,North Haven,Dita Bhargava,D,158,23.76%
+Treasurer,North Haven,Karen Dubois-Walton,D,187,28.12%
+Secretary of the State,North Stonington,Stephanie Thomas,D,90,78.95%
+Secretary of the State,North Stonington,Maritza Bond,D,24,21.05%
+Treasurer,North Stonington,Erick Russell,D,62,54.39%
+Treasurer,North Stonington,Dita Bhargava,D,27,23.68%
+Treasurer,North Stonington,Karen Dubois-Walton,D,25,21.93%
+Secretary of the State,Norwalk,Stephanie Thomas,D,2165,89.06%
+Secretary of the State,Norwalk,Maritza Bond,D,266,10.94%
+Treasurer,Norwalk,Erick Russell,D,1286,54.08%
+Treasurer,Norwalk,Dita Bhargava,D,703,29.56%
+Treasurer,Norwalk,Karen Dubois-Walton,D,389,16.36%
+Secretary of the State,Norwich,Stephanie Thomas,D,503,68.25%
+Secretary of the State,Norwich,Maritza Bond,D,234,31.75%
+Treasurer,Norwich,Erick Russell,D,386,51.67%
+Treasurer,Norwich,Dita Bhargava,D,165,22.09%
+Treasurer,Norwich,Karen Dubois-Walton,D,196,26.24%
+Secretary of the State,Old Lyme,Stephanie Thomas,D,277,81.95%
+Secretary of the State,Old Lyme,Maritza Bond,D,61,18.05%
+Treasurer,Old Lyme,Erick Russell,D,172,50.89%
+Treasurer,Old Lyme,Dita Bhargava,D,92,27.22%
+Treasurer,Old Lyme,Karen Dubois-Walton,D,74,21.89%
+Secretary of the State,Old Saybrook,Stephanie Thomas,D,336,79.06%
+Secretary of the State,Old Saybrook,Maritza Bond,D,89,20.94%
+Treasurer,Old Saybrook,Erick Russell,D,255,59.72%
+Treasurer,Old Saybrook,Dita Bhargava,D,103,24.12%
+Treasurer,Old Saybrook,Karen Dubois-Walton,D,69,16.16%
+Secretary of the State,Orange,Stephanie Thomas,D,287,76.94%
+Secretary of the State,Orange,Maritza Bond,D,86,23.06%
+Treasurer,Orange,Erick Russell,D,236,63.10%
+Treasurer,Orange,Dita Bhargava,D,75,20.05%
+Treasurer,Orange,Karen Dubois-Walton,D,63,16.84%
+Secretary of the State,Oxford,Stephanie Thomas,D,174,74.68%
+Secretary of the State,Oxford,Maritza Bond,D,59,25.32%
+Treasurer,Oxford,Erick Russell,D,145,61.18%
+Treasurer,Oxford,Dita Bhargava,D,51,21.52%
+Treasurer,Oxford,Karen Dubois-Walton,D,41,17.30%
+Secretary of the State,Plainfield,Stephanie Thomas,D,180,76.27%
+Secretary of the State,Plainfield,Maritza Bond,D,56,23.73%
+Treasurer,Plainfield,Erick Russell,D,143,60.34%
+Treasurer,Plainfield,Dita Bhargava,D,50,21.10%
+Treasurer,Plainfield,Karen Dubois-Walton,D,44,18.57%
+Secretary of the State,Plainville,Stephanie Thomas,D,293,75.91%
+Secretary of the State,Plainville,Maritza Bond,D,93,24.09%
+Treasurer,Plainville,Erick Russell,D,218,56.48%
+Treasurer,Plainville,Dita Bhargava,D,89,23.06%
+Treasurer,Plainville,Karen Dubois-Walton,D,79,20.47%
+Secretary of the State,Plymouth,Stephanie Thomas,D,109,71.71%
+Secretary of the State,Plymouth,Maritza Bond,D,43,28.29%
+Treasurer,Plymouth,Erick Russell,D,92,60.53%
+Treasurer,Plymouth,Dita Bhargava,D,30,19.74%
+Treasurer,Plymouth,Karen Dubois-Walton,D,30,19.74%
+Secretary of the State,Pomfret,Stephanie Thomas,D,120,89.55%
+Secretary of the State,Pomfret,Maritza Bond,D,14,10.45%
+Treasurer,Pomfret,Erick Russell,D,70,52.24%
+Treasurer,Pomfret,Dita Bhargava,D,35,26.12%
+Treasurer,Pomfret,Karen Dubois-Walton,D,29,21.64%
+Secretary of the State,Portland,Stephanie Thomas,D,249,76.15%
+Secretary of the State,Portland,Maritza Bond,D,78,23.85%
+Treasurer,Portland,Erick Russell,D,189,57.45%
+Treasurer,Portland,Dita Bhargava,D,92,27.96%
+Treasurer,Portland,Karen Dubois-Walton,D,48,14.59%
+Secretary of the State,Preston,Stephanie Thomas,D,76,80.00%
+Secretary of the State,Preston,Maritza Bond,D,19,20.00%
+Treasurer,Preston,Erick Russell,D,50,53.19%
+Treasurer,Preston,Dita Bhargava,D,27,28.72%
+Treasurer,Preston,Karen Dubois-Walton,D,17,18.09%
+Secretary of the State,Prospect,Stephanie Thomas,D,108,66.26%
+Secretary of the State,Prospect,Maritza Bond,D,55,33.74%
+Treasurer,Prospect,Erick Russell,D,85,51.20%
+Treasurer,Prospect,Dita Bhargava,D,39,23.49%
+Treasurer,Prospect,Karen Dubois-Walton,D,42,25.30%
+Secretary of the State,Putnam,Stephanie Thomas,D,165,77.83%
+Secretary of the State,Putnam,Maritza Bond,D,47,22.17%
+Treasurer,Putnam,Erick Russell,D,107,50.47%
+Treasurer,Putnam,Dita Bhargava,D,50,23.58%
+Treasurer,Putnam,Karen Dubois-Walton,D,55,25.94%
+Secretary of the State,Redding,Stephanie Thomas,D,454,90.08%
+Secretary of the State,Redding,Maritza Bond,D,50,9.92%
+Treasurer,Redding,Erick Russell,D,305,60.40%
+Treasurer,Redding,Dita Bhargava,D,147,29.11%
+Treasurer,Redding,Karen Dubois-Walton,D,53,10.50%
+Secretary of the State,Ridgefield,Stephanie Thomas,D,785,89.51%
+Secretary of the State,Ridgefield,Maritza Bond,D,92,10.49%
+Treasurer,Ridgefield,Erick Russell,D,485,55.56%
+Treasurer,Ridgefield,Dita Bhargava,D,295,33.79%
+Treasurer,Ridgefield,Karen Dubois-Walton,D,93,10.65%
+Secretary of the State,Rocky Hill,Stephanie Thomas,D,474,73.04%
+Secretary of the State,Rocky Hill,Maritza Bond,D,175,26.96%
+Treasurer,Rocky Hill,Erick Russell,D,319,49.08%
+Treasurer,Rocky Hill,Dita Bhargava,D,206,31.69%
+Treasurer,Rocky Hill,Karen Dubois-Walton,D,125,19.23%
+Secretary of the State,Roxbury,Stephanie Thomas,D,118,81.38%
+Secretary of the State,Roxbury,Maritza Bond,D,27,18.62%
+Treasurer,Roxbury,Erick Russell,D,80,55.94%
+Treasurer,Roxbury,Dita Bhargava,D,46,32.17%
+Treasurer,Roxbury,Karen Dubois-Walton,D,17,11.89%
+State Representative 34,Salem,Kurt Comisky,D,10,15.63%
+State Representative 34,Salem,John Olin,D,54,84.38%
+Secretary of the State,Salem,Stephanie Thomas,D,119,80.95%
+Secretary of the State,Salem,Maritza Bond,D,28,19.05%
+Treasurer,Salem,Erick Russell,D,84,56.76%
+Treasurer,Salem,Dita Bhargava,D,32,21.62%
+Treasurer,Salem,Karen Dubois-Walton,D,32,21.62%
+Secretary of the State,Salisbury,Stephanie Thomas,D,250,88.97%
+Secretary of the State,Salisbury,Maritza Bond,D,31,11.03%
+Treasurer,Salisbury,Erick Russell,D,181,64.41%
+Treasurer,Salisbury,Dita Bhargava,D,59,21.00%
+Treasurer,Salisbury,Karen Dubois-Walton,D,41,14.59%
+Secretary of the State,Scotland,Stephanie Thomas,D,20,57.14%
+Secretary of the State,Scotland,Maritza Bond,D,15,42.86%
+Treasurer,Scotland,Erick Russell,D,19,54.29%
+Treasurer,Scotland,Dita Bhargava,D,13,37.14%
+Treasurer,Scotland,Karen Dubois-Walton,D,3,8.57%
+Secretary of the State,Seymour,Stephanie Thomas,D,238,77.78%
+Secretary of the State,Seymour,Maritza Bond,D,68,22.22%
+Treasurer,Seymour,Erick Russell,D,172,56.39%
+Treasurer,Seymour,Dita Bhargava,D,67,21.97%
+Treasurer,Seymour,Karen Dubois-Walton,D,66,21.64%
+Secretary of the State,Sharon,Stephanie Thomas,D,0,0.00%
+Secretary of the State,Sharon,Maritza Bond,D,0,0.00%
+Treasurer,Sharon,Erick Russell,D,0,0.00%
+Treasurer,Sharon,Dita Bhargava,D,0,0.00%
+Treasurer,Sharon,Karen Dubois-Walton,D,0,0.00%
+Secretary of the State,Shelton,Stephanie Thomas,D,656,78.47%
+Secretary of the State,Shelton,Maritza Bond,D,180,21.53%
+Treasurer,Shelton,Erick Russell,D,489,58.21%
+Treasurer,Shelton,Dita Bhargava,D,205,24.40%
+Treasurer,Shelton,Karen Dubois-Walton,D,146,17.38%
+Secretary of the State,Sherman,Stephanie Thomas,D,96,84.96%
+Secretary of the State,Sherman,Maritza Bond,D,17,15.04%
+Treasurer,Sherman,Erick Russell,D,71,62.83%
+Treasurer,Sherman,Dita Bhargava,D,29,25.66%
+Treasurer,Sherman,Karen Dubois-Walton,D,13,11.50%
+State Representative 16,Simsbury,Eric Wellman,D,1053,49.18%
+State Representative 16,Simsbury,Melissa Osborne,D,1088,50.82%
+Secretary of the State,Simsbury,Stephanie Thomas,D,1562,75.46%
+Secretary of the State,Simsbury,Maritza Bond,D,508,24.54%
+Treasurer,Simsbury,Erick Russell,D,1189,57.38%
+Treasurer,Simsbury,Dita Bhargava,D,591,28.52%
+Treasurer,Simsbury,Karen Dubois-Walton,D,292,14.09%
+Secretary of the State,Somers,Stephanie Thomas,D,127,78.88%
+Secretary of the State,Somers,Maritza Bond,D,34,21.12%
+Treasurer,Somers,Erick Russell,D,103,63.58%
+Treasurer,Somers,Dita Bhargava,D,26,16.05%
+Treasurer,Somers,Karen Dubois-Walton,D,33,20.37%
+Secretary of the State,Southbury,Stephanie Thomas,D,600,82.87%
+Secretary of the State,Southbury,Maritza Bond,D,124,17.13%
+Treasurer,Southbury,Erick Russell,D,476,65.47%
+Treasurer,Southbury,Dita Bhargava,D,154,21.18%
+Treasurer,Southbury,Karen Dubois-Walton,D,97,13.34%
+Secretary of the State,Southington,Stephanie Thomas,D,815,75.46%
+Secretary of the State,Southington,Maritza Bond,D,265,24.54%
+Treasurer,Southington,Erick Russell,D,624,57.14%
+Treasurer,Southington,Dita Bhargava,D,265,24.27%
+Treasurer,Southington,Karen Dubois-Walton,D,203,18.59%
+Secretary of the State,South Windsor,Stephanie Thomas,D,789,77.96%
+Secretary of the State,South Windsor,Maritza Bond,D,223,22.04%
+Treasurer,South Windsor,Erick Russell,D,562,54.88%
+Treasurer,South Windsor,Dita Bhargava,D,254,24.80%
+Treasurer,South Windsor,Karen Dubois-Walton,D,208,20.31%
+Judge of Probate 04,South Windsor,Mary Deneen,D,568,55.36%
+Judge of Probate 04,South Windsor,Keith Yagaloff,D,458,44.64%
+Secretary of the State,Sprague,Stephanie Thomas,D,52,68.42%
+Secretary of the State,Sprague,Maritza Bond,D,24,31.58%
+Treasurer,Sprague,Erick Russell,D,42,55.26%
+Treasurer,Sprague,Dita Bhargava,D,18,23.68%
+Treasurer,Sprague,Karen Dubois-Walton,D,16,21.05%
+Secretary of the State,Stafford,Stephanie Thomas,D,219,84.56%
+Secretary of the State,Stafford,Maritza Bond,D,40,15.44%
+Treasurer,Stafford,Erick Russell,D,152,59.38%
+Treasurer,Stafford,Dita Bhargava,D,67,26.17%
+Treasurer,Stafford,Karen Dubois-Walton,D,37,14.45%
+Secretary of the State,Stamford,Stephanie Thomas,D,3327,83.93%
+Secretary of the State,Stamford,Maritza Bond,D,637,16.07%
+Treasurer,Stamford,Erick Russell,D,2378,59.46%
+Treasurer,Stamford,Dita Bhargava,D,1032,25.81%
+Treasurer,Stamford,Karen Dubois-Walton,D,589,14.73%
+Secretary of the State,Sterling,Stephanie Thomas,D,32,82.05%
+Secretary of the State,Sterling,Maritza Bond,D,7,17.95%
+Treasurer,Sterling,Erick Russell,D,21,53.85%
+Treasurer,Sterling,Dita Bhargava,D,9,23.08%
+Treasurer,Sterling,Karen Dubois-Walton,D,9,23.08%
+Secretary of the State,Stonington,Stephanie Thomas,D,670,82.72%
+Secretary of the State,Stonington,Maritza Bond,D,140,17.28%
+Treasurer,Stonington,Erick Russell,D,457,56.91%
+Treasurer,Stonington,Dita Bhargava,D,188,23.41%
+Treasurer,Stonington,Karen Dubois-Walton,D,158,19.68%
+State Senate 23,Stratford,Herron Gaston,D,176,70.68%
+State Senate 23,Stratford,Dennis Bradley,D,73,29.32%
+Secretary of the State,Stratford,Stephanie Thomas,D,1169,77.67%
+Secretary of the State,Stratford,Maritza Bond,D,336,22.33%
+Treasurer,Stratford,Erick Russell,D,904,60.43%
+Treasurer,Stratford,Dita Bhargava,D,336,22.46%
+Treasurer,Stratford,Karen Dubois-Walton,D,256,17.11%
+Secretary of the State,Suffield,Stephanie Thomas,D,263,72.25%
+Secretary of the State,Suffield,Maritza Bond,D,101,27.75%
+Treasurer,Suffield,Erick Russell,D,216,58.86%
+Treasurer,Suffield,Dita Bhargava,D,92,25.07%
+Treasurer,Suffield,Karen Dubois-Walton,D,59,16.08%
+Secretary of the State,Thomaston,Stephanie Thomas,D,81,66.39%
+Secretary of the State,Thomaston,Maritza Bond,D,41,33.61%
+Treasurer,Thomaston,Erick Russell,D,69,55.65%
+Treasurer,Thomaston,Dita Bhargava,D,27,21.77%
+Treasurer,Thomaston,Karen Dubois-Walton,D,28,22.58%
+Secretary of the State,Thompson,Stephanie Thomas,D,145,80.56%
+Secretary of the State,Thompson,Maritza Bond,D,35,19.44%
+Treasurer,Thompson,Erick Russell,D,107,60.11%
+Treasurer,Thompson,Dita Bhargava,D,28,15.73%
+Treasurer,Thompson,Karen Dubois-Walton,D,43,24.16%
+Secretary of the State,Tolland,Stephanie Thomas,D,397,85.56%
+Secretary of the State,Tolland,Maritza Bond,D,67,14.44%
+Treasurer,Tolland,Erick Russell,D,307,66.74%
+Treasurer,Tolland,Dita Bhargava,D,85,18.48%
+Treasurer,Tolland,Karen Dubois-Walton,D,68,14.78%
+Secretary of the State,Torrington,Stephanie Thomas,D,418,70.97%
+Secretary of the State,Torrington,Maritza Bond,D,171,29.03%
+Treasurer,Torrington,Erick Russell,D,339,57.46%
+Treasurer,Torrington,Dita Bhargava,D,124,21.02%
+Treasurer,Torrington,Karen Dubois-Walton,D,127,21.53%
+Secretary of the State,Trumbull,Stephanie Thomas,D,756,81.03%
+Secretary of the State,Trumbull,Maritza Bond,D,177,18.97%
+Treasurer,Trumbull,Erick Russell,D,516,54.32%
+Treasurer,Trumbull,Dita Bhargava,D,258,27.16%
+Treasurer,Trumbull,Karen Dubois-Walton,D,176,18.53%
+Secretary of the State,Union,Stephanie Thomas,D,21,84.00%
+Secretary of the State,Union,Maritza Bond,D,4,16.00%
+Treasurer,Union,Erick Russell,D,14,53.85%
+Treasurer,Union,Dita Bhargava,D,8,30.77%
+Treasurer,Union,Karen Dubois-Walton,D,4,15.38%
+Secretary of the State,Vernon,Stephanie Thomas,D,715,80.16%
+Secretary of the State,Vernon,Maritza Bond,D,177,19.84%
+Treasurer,Vernon,Erick Russell,D,534,59.33%
+Treasurer,Vernon,Dita Bhargava,D,212,23.56%
+Treasurer,Vernon,Karen Dubois-Walton,D,154,17.11%
+Secretary of the State,Voluntown,Stephanie Thomas,D,43,87.76%
+Secretary of the State,Voluntown,Maritza Bond,D,6,12.24%
+Treasurer,Voluntown,Erick Russell,D,27,55.10%
+Treasurer,Voluntown,Dita Bhargava,D,11,22.45%
+Treasurer,Voluntown,Karen Dubois-Walton,D,11,22.45%
+Secretary of the State,Wallingford,Stephanie Thomas,D,772,70.50%
+Secretary of the State,Wallingford,Maritza Bond,D,323,29.50%
+Treasurer,Wallingford,Erick Russell,D,646,58.94%
+Treasurer,Wallingford,Dita Bhargava,D,239,21.81%
+Treasurer,Wallingford,Karen Dubois-Walton,D,211,19.25%
+Secretary of the State,Warren,Stephanie Thomas,D,58,85.29%
+Secretary of the State,Warren,Maritza Bond,D,10,14.71%
+Treasurer,Warren,Erick Russell,D,41,61.19%
+Treasurer,Warren,Dita Bhargava,D,11,16.42%
+Treasurer,Warren,Karen Dubois-Walton,D,15,22.39%
+Secretary of the State,Washington,Stephanie Thomas,D,158,83.60%
+Secretary of the State,Washington,Maritza Bond,D,31,16.40%
+Treasurer,Washington,Erick Russell,D,113,60.11%
+Treasurer,Washington,Dita Bhargava,D,38,20.21%
+Treasurer,Washington,Karen Dubois-Walton,D,37,19.68%
+Secretary of the State,Waterbury,Stephanie Thomas,D,1104,70.32%
+Secretary of the State,Waterbury,Maritza Bond,D,466,29.68%
+Treasurer,Waterbury,Erick Russell,D,938,60.21%
+Treasurer,Waterbury,Dita Bhargava,D,225,14.44%
+Treasurer,Waterbury,Karen Dubois-Walton,D,395,25.35%
+Secretary of the State,Waterford,Stephanie Thomas,D,497,76.70%
+Secretary of the State,Waterford,Maritza Bond,D,151,23.30%
+Treasurer,Waterford,Erick Russell,D,331,50.46%
+Treasurer,Waterford,Dita Bhargava,D,179,27.29%
+Treasurer,Waterford,Karen Dubois-Walton,D,146,22.26%
+Secretary of the State,Watertown,Stephanie Thomas,D,246,75.00%
+Secretary of the State,Watertown,Maritza Bond,D,82,25.00%
+Treasurer,Watertown,Erick Russell,D,184,56.10%
+Treasurer,Watertown,Dita Bhargava,D,79,24.09%
+Treasurer,Watertown,Karen Dubois-Walton,D,65,19.82%
+Secretary of the State,Westbrook,Stephanie Thomas,D,151,77.04%
+Secretary of the State,Westbrook,Maritza Bond,D,45,22.96%
+Treasurer,Westbrook,Erick Russell,D,114,58.76%
+Treasurer,Westbrook,Dita Bhargava,D,55,28.35%
+Treasurer,Westbrook,Karen Dubois-Walton,D,25,12.89%
+Secretary of the State,West Hartford,Stephanie Thomas,D,3166,79.35%
+Secretary of the State,West Hartford,Maritza Bond,D,824,20.65%
+Treasurer,West Hartford,Erick Russell,D,2482,62.21%
+Treasurer,West Hartford,Dita Bhargava,D,902,22.61%
+Treasurer,West Hartford,Karen Dubois-Walton,D,606,15.19%
+State Representative 116,West Haven,Trenee McGee,D,540,63.68%
+State Representative 116,West Haven,Joseph Miller,D,308,36.32%
+Secretary of the State,West Haven,Stephanie Thomas,D,1115,61.67%
+Secretary of the State,West Haven,Maritza Bond,D,693,38.33%
+Treasurer,West Haven,Erick Russell,D,1064,58.11%
+Treasurer,West Haven,Dita Bhargava,D,335,18.30%
+Treasurer,West Haven,Karen Dubois-Walton,D,432,23.59%
+Secretary of the State,Weston,Stephanie Thomas,D,397,91.06%
+Secretary of the State,Weston,Maritza Bond,D,39,8.94%
+Treasurer,Weston,Erick Russell,D,280,65.12%
+Treasurer,Weston,Dita Bhargava,D,104,24.19%
+Treasurer,Weston,Karen Dubois-Walton,D,46,10.70%
+Secretary of the State,Westport,Stephanie Thomas,D,1265,93.77%
+Secretary of the State,Westport,Maritza Bond,D,84,6.23%
+Treasurer,Westport,Erick Russell,D,903,67.95%
+Treasurer,Westport,Dita Bhargava,D,313,23.55%
+Treasurer,Westport,Karen Dubois-Walton,D,113,8.50%
+Secretary of the State,Wethersfield,Stephanie Thomas,D,747,68.28%
+Secretary of the State,Wethersfield,Maritza Bond,D,347,31.72%
+Treasurer,Wethersfield,Erick Russell,D,608,55.42%
+Treasurer,Wethersfield,Dita Bhargava,D,287,26.16%
+Treasurer,Wethersfield,Karen Dubois-Walton,D,202,18.41%
+Secretary of the State,Willington,Stephanie Thomas,D,130,82.28%
+Secretary of the State,Willington,Maritza Bond,D,28,17.72%
+Treasurer,Willington,Erick Russell,D,95,60.13%
+Treasurer,Willington,Dita Bhargava,D,39,24.68%
+Treasurer,Willington,Karen Dubois-Walton,D,24,15.19%
+Secretary of the State,Wilton,Stephanie Thomas,D,711,96.34%
+Secretary of the State,Wilton,Maritza Bond,D,27,3.66%
+Treasurer,Wilton,Erick Russell,D,478,66.67%
+Treasurer,Wilton,Dita Bhargava,D,158,22.04%
+Treasurer,Wilton,Karen Dubois-Walton,D,81,11.30%
+Secretary of the State,Winchester,Stephanie Thomas,D,193,87.73%
+Secretary of the State,Winchester,Maritza Bond,D,27,12.27%
+Treasurer,Winchester,Erick Russell,D,127,58.26%
+Treasurer,Winchester,Dita Bhargava,D,47,21.56%
+Treasurer,Winchester,Karen Dubois-Walton,D,44,20.18%
+Secretary of the State,Windham,Stephanie Thomas,D,270,65.38%
+Secretary of the State,Windham,Maritza Bond,D,143,34.62%
+Treasurer,Windham,Erick Russell,D,216,52.30%
+Treasurer,Windham,Dita Bhargava,D,100,24.21%
+Treasurer,Windham,Karen Dubois-Walton,D,97,23.49%
+Secretary of the State,Windsor,Stephanie Thomas,D,1658,80.80%
+Secretary of the State,Windsor,Maritza Bond,D,394,19.20%
+Treasurer,Windsor,Erick Russell,D,1261,61.45%
+Treasurer,Windsor,Dita Bhargava,D,308,15.01%
+Treasurer,Windsor,Karen Dubois-Walton,D,483,23.54%
+Judge of Probate 04,Windsor,Mary Deneen,D,1877,92.10%
+Judge of Probate 04,Windsor,Keith Yagaloff,D,161,7.90%
+Secretary of the State,Windsor Locks,Stephanie Thomas,D,275,73.92%
+Secretary of the State,Windsor Locks,Maritza Bond,D,97,26.08%
+Treasurer,Windsor Locks,Erick Russell,D,205,55.11%
+Treasurer,Windsor Locks,Dita Bhargava,D,85,22.85%
+Treasurer,Windsor Locks,Karen Dubois-Walton,D,82,22.04%
+Secretary of the State,Wolcott,Stephanie Thomas,D,151,62.40%
+Secretary of the State,Wolcott,Maritza Bond,D,91,37.60%
+Treasurer,Wolcott,Erick Russell,D,138,56.79%
+Treasurer,Wolcott,Dita Bhargava,D,53,21.81%
+Treasurer,Wolcott,Karen Dubois-Walton,D,52,21.40%
+Secretary of the State,Woodbridge,Stephanie Thomas,D,399,76.44%
+Secretary of the State,Woodbridge,Maritza Bond,D,123,23.56%
+Treasurer,Woodbridge,Erick Russell,D,294,56.32%
+Treasurer,Woodbridge,Dita Bhargava,D,118,22.61%
+Treasurer,Woodbridge,Karen Dubois-Walton,D,110,21.07%
+Secretary of the State,Woodbury,Stephanie Thomas,D,355,84.32%
+Secretary of the State,Woodbury,Maritza Bond,D,66,15.68%
+Treasurer,Woodbury,Erick Russell,D,243,57.72%
+Treasurer,Woodbury,Dita Bhargava,D,124,29.45%
+Treasurer,Woodbury,Karen Dubois-Walton,D,54,12.83%
+Secretary of the State,Woodstock,Stephanie Thomas,D,194,82.91%
+Secretary of the State,Woodstock,Maritza Bond,D,40,17.09%
+Treasurer,Woodstock,Erick Russell,D,111,47.23%
+Treasurer,Woodstock,Dita Bhargava,D,74,31.49%
+Treasurer,Woodstock,Karen Dubois-Walton,D,50,21.28%

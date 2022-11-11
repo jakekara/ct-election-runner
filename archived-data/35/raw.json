@@ -1,0 +1,3539 @@
+{
+  "version": 42353,
+  "ElectionData": {
+    "election": {
+      "ID": "35",
+      "BC": "29,967",
+      "PR": "65 of 65 (100%)",
+      "RV": "205,981",
+      "T": "12 of 12",
+      "PT": "0 of 12",
+      "TO": "14.55",
+      "SVT": false
+    },
+    "voterTurnout": {
+      "7": {
+        "NM": "Berlin",
+        "PR": "5 of 5 (100%)",
+        "EV": "14273",
+        "VV": "2698",
+        "ABR": "143",
+        "ABC": "143",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "18.90%"
+      },
+      "11": {
+        "NM": "Bloomfield",
+        "PR": "1 of 1 (100%)",
+        "EV": "2563",
+        "VV": "287",
+        "ABR": "24",
+        "ABC": "23",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "11.20%"
+      },
+      "20": {
+        "NM": "Burlington",
+        "PR": "1 of 1 (100%)",
+        "EV": "6325",
+        "VV": "1062",
+        "ABR": "37",
+        "ABC": "37",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "16.79%"
+      },
+      "43": {
+        "NM": "East Hartford",
+        "PR": "7 of 7 (100%)",
+        "EV": "29916",
+        "VV": "2705",
+        "ABR": "112",
+        "ABC": "109",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "9.04%"
+      },
+      "44": {
+        "NM": "East Haven",
+        "PR": "7 of 7 (100%)",
+        "EV": "14633",
+        "VV": "3078",
+        "ABR": "275",
+        "ABC": "267",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "21.03%"
+      },
+      "47": {
+        "NM": "East Windsor",
+        "PR": "3 of 3 (100%)",
+        "EV": "8508",
+        "VV": "982",
+        "ABR": "38",
+        "ABC": "38",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "11.54%"
+      },
+      "48": {
+        "NM": "Ellington",
+        "PR": "1 of 1 (100%)",
+        "EV": "7950",
+        "VV": "1018",
+        "ABR": "39",
+        "ABC": "39",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "12.81%"
+      },
+      "52": {
+        "NM": "Farmington",
+        "PR": "7 of 7 (100%)",
+        "EV": "19566",
+        "VV": "2772",
+        "ABR": "122",
+        "ABC": "122",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "14.17%"
+      },
+      "89": {
+        "NM": "New Britain",
+        "PR": "17 of 17 (100%)",
+        "EV": "31110",
+        "VV": "4287",
+        "ABR": "337",
+        "ABC": "322",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "13.78%"
+      },
+      "95": {
+        "NM": "New London",
+        "PR": "2 of 2 (100%)",
+        "EV": "13348",
+        "VV": "1878",
+        "ABR": "75",
+        "ABC": "73",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "14.07%"
+      },
+      "132": {
+        "NM": "South Windsor",
+        "PR": "5 of 5 (100%)",
+        "EV": "16594",
+        "VV": "3358",
+        "ABR": "223",
+        "ABC": "223",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "20.24%"
+      },
+      "155": {
+        "NM": "West Hartford",
+        "PR": "9 of 9 (100%)",
+        "EV": "41195",
+        "VV": "5842",
+        "ABR": "466",
+        "ABC": "460",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "14.18%"
+      },
+      "170": {
+        "NM": "Total",
+        "PR": "",
+        "EV": "205981",
+        "VV": "29967",
+        "ABR": "1891",
+        "ABC": "1856",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "14.55%"
+      }
+    },
+    "townStatus": {
+      "1": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "2": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "3": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "4": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "5": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "6": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "7": {
+        "TS": "( Official Results )",
+        "PR": "5 of 5 (100.00%)"
+      },
+      "8": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "9": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "10": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "11": {
+        "TS": "( Official Results )",
+        "PR": "1 of 1 (100.00%)"
+      },
+      "12": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "13": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "14": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "15": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "16": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "17": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "18": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "19": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "20": {
+        "TS": "( Official Results )",
+        "PR": "1 of 1 (100.00%)"
+      },
+      "21": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "22": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "23": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "24": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "25": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "26": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "27": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "28": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "29": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "30": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "31": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "32": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "33": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "34": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "35": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "36": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "37": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "38": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "39": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "40": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "41": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "42": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "43": {
+        "TS": "( Official Results )",
+        "PR": "7 of 7 (100.00%)"
+      },
+      "44": {
+        "TS": "( Official Results )",
+        "PR": "7 of 7 (100.00%)"
+      },
+      "45": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "46": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "47": {
+        "TS": "( Official Results )",
+        "PR": "3 of 3 (100.00%)"
+      },
+      "48": {
+        "TS": "( Official Results )",
+        "PR": "1 of 1 (100.00%)"
+      },
+      "49": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "50": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "51": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "52": {
+        "TS": "( Official Results )",
+        "PR": "7 of 7 (100.00%)"
+      },
+      "53": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "54": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "55": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "56": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "57": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "58": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "59": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "60": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "61": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "62": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "63": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "64": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "65": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "66": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "67": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "68": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "69": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "70": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "71": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "72": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "73": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "74": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "75": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "76": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "77": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "78": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "79": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "80": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "81": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "82": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "83": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "84": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "85": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "86": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "87": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "88": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "89": {
+        "TS": "( Official Results )",
+        "PR": "17 of 17 (100.00%)"
+      },
+      "90": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "91": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "92": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "93": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "94": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "95": {
+        "TS": "( Official Results )",
+        "PR": "2 of 2 (100.00%)"
+      },
+      "96": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "97": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "98": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "99": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "100": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "101": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "102": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "103": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "104": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "105": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "106": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "107": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "108": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "109": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "110": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "111": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "112": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "113": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "114": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "115": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "116": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "117": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "118": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "119": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "120": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "121": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "122": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "123": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "124": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "125": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "126": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "127": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "128": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "129": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "130": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "131": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "132": {
+        "TS": "( Official Results )",
+        "PR": "5 of 5 (100.00%)"
+      },
+      "133": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "134": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "135": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "136": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "137": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "138": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "139": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "140": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "141": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "142": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "143": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "144": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "145": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "146": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "147": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "148": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "149": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "150": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "151": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "152": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "153": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "154": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "155": {
+        "TS": "( Official Results )",
+        "PR": "9 of 9 (100.00%)"
+      },
+      "156": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "157": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "158": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "159": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "160": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "161": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "162": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "163": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "164": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "165": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "166": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "167": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "168": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      },
+      "169": {
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
+      }
+    },
+    "townVotes": {
+      "7": {
+        "3416": [
+          {
+            "10059": {
+              "V": "829",
+              "TO": "30.73%"
+            }
+          },
+          {
+            "10061": {
+              "V": "1819",
+              "TO": "67.42%"
+            }
+          },
+          {
+            "10060": {
+              "V": "50",
+              "TO": "1.85%"
+            }
+          }
+        ]
+      },
+      "11": {
+        "3415": [
+          {
+            "10056": {
+              "V": "219",
+              "TO": "76.57%"
+            }
+          },
+          {
+            "10057": {
+              "V": "63",
+              "TO": "22.03%"
+            }
+          },
+          {
+            "10058": {
+              "V": "2",
+              "TO": "0.70%"
+            }
+          },
+          {
+            "10071": {
+              "V": "2",
+              "TO": "0.70%"
+            }
+          }
+        ]
+      },
+      "20": {
+        "3415": [
+          {
+            "10056": {
+              "V": "410",
+              "TO": "38.61%"
+            }
+          },
+          {
+            "10057": {
+              "V": "614",
+              "TO": "57.82%"
+            }
+          },
+          {
+            "10058": {
+              "V": "35",
+              "TO": "3.30%"
+            }
+          },
+          {
+            "10071": {
+              "V": "3",
+              "TO": "0.28%"
+            }
+          }
+        ]
+      },
+      "43": {
+        "3414": [
+          {
+            "10054": {
+              "V": "1800",
+              "TO": "66.67%"
+            }
+          },
+          {
+            "10055": {
+              "V": "900",
+              "TO": "33.33%"
+            }
+          }
+        ]
+      },
+      "44": {
+        "3412": [
+          {
+            "10067": {
+              "V": "1324",
+              "TO": "43.18%"
+            }
+          },
+          {
+            "10069": {
+              "V": "1577",
+              "TO": "51.44%"
+            }
+          },
+          {
+            "10068": {
+              "V": "84",
+              "TO": "2.74%"
+            }
+          },
+          {
+            "10070": {
+              "V": "81",
+              "TO": "2.64%"
+            }
+          }
+        ]
+      },
+      "47": {
+        "3414": [
+          {
+            "10054": {
+              "V": "402",
+              "TO": "41.02%"
+            }
+          },
+          {
+            "10055": {
+              "V": "578",
+              "TO": "58.98%"
+            }
+          }
+        ]
+      },
+      "48": {
+        "3414": [
+          {
+            "10054": {
+              "V": "458",
+              "TO": "44.99%"
+            }
+          },
+          {
+            "10055": {
+              "V": "560",
+              "TO": "55.01%"
+            }
+          }
+        ]
+      },
+      "52": {
+        "3415": [
+          {
+            "10056": {
+              "V": "1070",
+              "TO": "44.49%"
+            }
+          },
+          {
+            "10057": {
+              "V": "1269",
+              "TO": "52.77%"
+            }
+          },
+          {
+            "10058": {
+              "V": "63",
+              "TO": "2.62%"
+            }
+          },
+          {
+            "10071": {
+              "V": "3",
+              "TO": "0.12%"
+            }
+          }
+        ],
+        "3416": [
+          {
+            "10059": {
+              "V": "151",
+              "TO": "41.60%"
+            }
+          },
+          {
+            "10061": {
+              "V": "203",
+              "TO": "55.92%"
+            }
+          },
+          {
+            "10060": {
+              "V": "9",
+              "TO": "2.48%"
+            }
+          }
+        ]
+      },
+      "89": {
+        "3416": [
+          {
+            "10059": {
+              "V": "2210",
+              "TO": "51.95%"
+            }
+          },
+          {
+            "10061": {
+              "V": "1862",
+              "TO": "43.77%"
+            }
+          },
+          {
+            "10060": {
+              "V": "182",
+              "TO": "4.28%"
+            }
+          }
+        ]
+      },
+      "95": {
+        "3413": [
+          {
+            "10062": {
+              "V": "963",
+              "TO": "51.33%"
+            }
+          },
+          {
+            "10063": {
+              "V": "219",
+              "TO": "11.67%"
+            }
+          },
+          {
+            "10065": {
+              "V": "57",
+              "TO": "3.04%"
+            }
+          },
+          {
+            "10064": {
+              "V": "535",
+              "TO": "28.52%"
+            }
+          },
+          {
+            "10066": {
+              "V": "102",
+              "TO": "5.44%"
+            }
+          }
+        ]
+      },
+      "132": {
+        "3414": [
+          {
+            "10054": {
+              "V": "2077",
+              "TO": "61.89%"
+            }
+          },
+          {
+            "10055": {
+              "V": "1279",
+              "TO": "38.11%"
+            }
+          }
+        ]
+      },
+      "155": {
+        "3415": [
+          {
+            "10056": {
+              "V": "4364",
+              "TO": "74.84%"
+            }
+          },
+          {
+            "10057": {
+              "V": "1338",
+              "TO": "22.95%"
+            }
+          },
+          {
+            "10058": {
+              "V": "86",
+              "TO": "1.47%"
+            }
+          },
+          {
+            "10071": {
+              "V": "43",
+              "TO": "0.74%"
+            }
+          }
+        ]
+      }
+    },
+    "stateVotes": {
+      "3414": [
+        {
+          "10054": {
+            "V": "4737",
+            "TO": "58.82%"
+          }
+        },
+        {
+          "10055": {
+            "V": "3317",
+            "TO": "41.18%"
+          }
+        }
+      ],
+      "3415": [
+        {
+          "10056": {
+            "V": "6063",
+            "TO": "63.26%"
+          }
+        },
+        {
+          "10057": {
+            "V": "3284",
+            "TO": "34.27%"
+          }
+        },
+        {
+          "10058": {
+            "V": "186",
+            "TO": "1.94%"
+          }
+        },
+        {
+          "10071": {
+            "V": "51",
+            "TO": "0.53%"
+          }
+        }
+      ],
+      "3416": [
+        {
+          "10059": {
+            "V": "3190",
+            "TO": "43.61%"
+          }
+        },
+        {
+          "10061": {
+            "V": "3884",
+            "TO": "53.10%"
+          }
+        },
+        {
+          "10060": {
+            "V": "241",
+            "TO": "3.29%"
+          }
+        }
+      ],
+      "3413": [
+        {
+          "10062": {
+            "V": "963",
+            "TO": "51.33%"
+          }
+        },
+        {
+          "10063": {
+            "V": "219",
+            "TO": "11.67%"
+          }
+        },
+        {
+          "10065": {
+            "V": "57",
+            "TO": "3.04%"
+          }
+        },
+        {
+          "10064": {
+            "V": "535",
+            "TO": "28.52%"
+          }
+        },
+        {
+          "10066": {
+            "V": "102",
+            "TO": "5.44%"
+          }
+        }
+      ],
+      "3412": [
+        {
+          "10067": {
+            "V": "1324",
+            "TO": "43.18%"
+          }
+        },
+        {
+          "10069": {
+            "V": "1577",
+            "TO": "51.44%"
+          }
+        },
+        {
+          "10068": {
+            "V": "84",
+            "TO": "2.74%"
+          }
+        },
+        {
+          "10070": {
+            "V": "81",
+            "TO": "2.64%"
+          }
+        }
+      ]
+    },
+    "reports": {
+      "IR": "True",
+      "IO": "True"
+    },
+    "districts": [
+      {
+        "7": [
+          {
+            "19": {
+              "TN": "Berlin",
+              "PN": "1-Willard School",
+              "S": true
+            }
+          },
+          {
+            "15": {
+              "TN": "Berlin",
+              "PN": "2-American Legion",
+              "S": true
+            }
+          },
+          {
+            "17": {
+              "TN": "Berlin",
+              "PN": "3-Hubbard School",
+              "S": true
+            }
+          },
+          {
+            "18": {
+              "TN": "Berlin",
+              "PN": "4-Senior Center",
+              "S": true
+            }
+          },
+          {
+            "16": {
+              "TN": "Berlin",
+              "PN": "5-Griswold School",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "11": [
+          {
+            "31": {
+              "TN": "Bloomfield",
+              "PN": "1-Leisure Services Gym",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "20": [
+          {
+            "82": {
+              "TN": "Burlington",
+              "PN": "1-Town Hall",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "43": [
+          {
+            "143": {
+              "TN": "East Hartford",
+              "PN": "1-Anna Norris School",
+              "S": true
+            }
+          },
+          {
+            "146": {
+              "TN": "East Hartford",
+              "PN": "2-Langford School",
+              "S": true
+            }
+          },
+          {
+            "147": {
+              "TN": "East Hartford",
+              "PN": "3-Mayberry School",
+              "S": true
+            }
+          },
+          {
+            "149": {
+              "TN": "East Hartford",
+              "PN": "4-Silver Lane School",
+              "S": true
+            }
+          },
+          {
+            "145": {
+              "TN": "East Hartford",
+              "PN": "5-Hockanum School",
+              "S": true
+            }
+          },
+          {
+            "144": {
+              "TN": "East Hartford",
+              "PN": "6-Goodwin School",
+              "S": true
+            }
+          },
+          {
+            "148": {
+              "TN": "East Hartford",
+              "PN": "7-Saint Christopher Church Hall",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "44": [
+          {
+            "156": {
+              "TN": "East Haven",
+              "PN": "1-Tuttle School 1",
+              "S": false
+            }
+          },
+          {
+            "156": {
+              "TN": "East Haven",
+              "PN": "1-Tuttle School 1",
+              "S": true
+            }
+          },
+          {
+            "152": {
+              "TN": "East Haven",
+              "PN": "1-3-East Farm Village 1-S",
+              "S": false
+            }
+          },
+          {
+            "152": {
+              "TN": "East Haven",
+              "PN": "1-3-East Farm Village 1-S",
+              "S": true
+            }
+          },
+          {
+            "154": {
+              "TN": "East Haven",
+              "PN": "2-Momauguin School 2",
+              "S": false
+            }
+          },
+          {
+            "154": {
+              "TN": "East Haven",
+              "PN": "2-Momauguin School 2",
+              "S": true
+            }
+          },
+          {
+            "151": {
+              "TN": "East Haven",
+              "PN": "3-3-Deer Run School 3-S",
+              "S": false
+            }
+          },
+          {
+            "151": {
+              "TN": "East Haven",
+              "PN": "3-3-Deer Run School 3-S",
+              "S": true
+            }
+          },
+          {
+            "155": {
+              "TN": "East Haven",
+              "PN": "4-Overbrook School 4",
+              "S": false
+            }
+          },
+          {
+            "155": {
+              "TN": "East Haven",
+              "PN": "4-Overbrook School 4",
+              "S": true
+            }
+          },
+          {
+            "1249": {
+              "TN": "East Haven",
+              "PN": "5-Hays School 5",
+              "S": false
+            }
+          },
+          {
+            "1249": {
+              "TN": "East Haven",
+              "PN": "5-Hays School 5",
+              "S": true
+            }
+          },
+          {
+            "157": {
+              "TN": "East Haven",
+              "PN": "5-3-Woodview 5-S",
+              "S": false
+            }
+          },
+          {
+            "157": {
+              "TN": "East Haven",
+              "PN": "5-3-Woodview 5-S",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "47": [
+          {
+            "163": {
+              "TN": "East Windsor",
+              "PN": "1-Town Hall Annex",
+              "S": true
+            }
+          },
+          {
+            "164": {
+              "TN": "East Windsor",
+              "PN": "1-2-Town Hall Annex",
+              "S": true
+            }
+          },
+          {
+            "162": {
+              "TN": "East Windsor",
+              "PN": "2-Town Hall",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "48": [
+          {
+            "1447": {
+              "TN": "Ellington",
+              "PN": "1-Ellington Senior Center",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "52": [
+          {
+            "188": {
+              "TN": "Farmington",
+              "PN": "1-1-Irving Robbins School - District 1 Precinct 1",
+              "S": true
+            }
+          },
+          {
+            "189": {
+              "TN": "Farmington",
+              "PN": "1-2-Irving Robbins School - District 1 Precinct 2",
+              "S": true
+            }
+          },
+          {
+            "190": {
+              "TN": "Farmington",
+              "PN": "1-3-Irving Robbins School - District 1 Precinct 3",
+              "S": true
+            }
+          },
+          {
+            "191": {
+              "TN": "Farmington",
+              "PN": "1-4-Irving Robbins School - District 1 Precinct 4",
+              "S": true
+            }
+          },
+          {
+            "193": {
+              "TN": "Farmington",
+              "PN": "1-5-West Woods School - District 1 Precinct 5",
+              "S": true
+            }
+          },
+          {
+            "187": {
+              "TN": "Farmington",
+              "PN": "2-6-Community Center - District 2 Precinct 6",
+              "S": true
+            }
+          },
+          {
+            "192": {
+              "TN": "Farmington",
+              "PN": "2-7-Municipal Buildngs - FHS Library Town Hall",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "89": [
+          {
+            "400": {
+              "TN": "New Britain",
+              "PN": "1-Vance Village School",
+              "S": true
+            }
+          },
+          {
+            "1260": {
+              "TN": "New Britain",
+              "PN": "2-VFW Post 511",
+              "S": true
+            }
+          },
+          {
+            "394": {
+              "TN": "New Britain",
+              "PN": "3-Roosevelt Middle School",
+              "S": true
+            }
+          },
+          {
+            "386": {
+              "TN": "New Britain",
+              "PN": "4-Gaffney School",
+              "S": true
+            }
+          },
+          {
+            "392": {
+              "TN": "New Britain",
+              "PN": "5-New Britain Senior Center",
+              "S": true
+            }
+          },
+          {
+            "395": {
+              "TN": "New Britain",
+              "PN": "5-1-School Apartments",
+              "S": true
+            }
+          },
+          {
+            "388": {
+              "TN": "New Britain",
+              "PN": "5-2-Graham Apartments",
+              "S": true
+            }
+          },
+          {
+            "832": {
+              "TN": "New Britain",
+              "PN": "6-Angelico's Restaurant",
+              "S": true
+            }
+          },
+          {
+            "387": {
+              "TN": "New Britain",
+              "PN": "7-Generale Ameglio Society",
+              "S": true
+            }
+          },
+          {
+            "1261": {
+              "TN": "New Britain",
+              "PN": "8-International Church",
+              "S": true
+            }
+          },
+          {
+            "384": {
+              "TN": "New Britain",
+              "PN": "9-Chamberlain School",
+              "S": true
+            }
+          },
+          {
+            "398": {
+              "TN": "New Britain",
+              "PN": "10-St. Francis Of Assisi Church Hall",
+              "S": true
+            }
+          },
+          {
+            "390": {
+              "TN": "New Britain",
+              "PN": "11-Holmes Elementary School",
+              "S": true
+            }
+          },
+          {
+            "393": {
+              "TN": "New Britain",
+              "PN": "12-Pulaski Middle School",
+              "S": true
+            }
+          },
+          {
+            "1351": {
+              "TN": "New Britain",
+              "PN": "13-St. John Paul II School",
+              "S": true
+            }
+          },
+          {
+            "385": {
+              "TN": "New Britain",
+              "PN": "14-Diloreto School",
+              "S": true
+            }
+          },
+          {
+            "396": {
+              "TN": "New Britain",
+              "PN": "15-Slade Middle School",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "95": [
+          {
+            "480": {
+              "TN": "New London",
+              "PN": "1-New London High School",
+              "S": true
+            }
+          },
+          {
+            "478": {
+              "TN": "New London",
+              "PN": "2-Harbor School",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "132": [
+          {
+            "593": {
+              "TN": "South Windsor",
+              "PN": "1-Pleasant Valley School-Gym",
+              "S": true
+            }
+          },
+          {
+            "591": {
+              "TN": "South Windsor",
+              "PN": "2-Eli Terry School-Gym",
+              "S": true
+            }
+          },
+          {
+            "594": {
+              "TN": "South Windsor",
+              "PN": "3-South Windsor High School-Auxiliary Gym",
+              "S": true
+            }
+          },
+          {
+            "1451": {
+              "TN": "South Windsor",
+              "PN": "4-Charles Enes Community Center",
+              "S": true
+            }
+          },
+          {
+            "595": {
+              "TN": "South Windsor",
+              "PN": "5-Timothy Edwards School - Stairwell B",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "155": [
+          {
+            "1327": {
+              "TN": "West Hartford",
+              "PN": "1-King Philip Middle School",
+              "S": true
+            }
+          },
+          {
+            "724": {
+              "TN": "West Hartford",
+              "PN": "2-Bristow Middle School",
+              "S": true
+            }
+          },
+          {
+            "730": {
+              "TN": "West Hartford",
+              "PN": "3-West Hartford Town Hall",
+              "S": true
+            }
+          },
+          {
+            "726": {
+              "TN": "West Hartford",
+              "PN": "4-Elmwood Community Center",
+              "S": true
+            }
+          },
+          {
+            "731": {
+              "TN": "West Hartford",
+              "PN": "5-Wolcott School",
+              "S": true
+            }
+          },
+          {
+            "1448": {
+              "TN": "West Hartford",
+              "PN": "6-Conard High School",
+              "S": true
+            }
+          },
+          {
+            "1449": {
+              "TN": "West Hartford",
+              "PN": "7-Sedgwick Middle School",
+              "S": true
+            }
+          },
+          {
+            "723": {
+              "TN": "West Hartford",
+              "PN": "8-Braeburn School",
+              "S": true
+            }
+          },
+          {
+            "1450": {
+              "TN": "West Hartford",
+              "PN": "9-Hall High School",
+              "S": true
+            }
+          }
+        ]
+      }
+    ],
+    "officePrecincts": {
+      "3412": "7 of 7 (100%)",
+      "3413": "2 of 2 (100%)",
+      "3414": "16 of 16 (100%)",
+      "3415": "16 of 16 (100%)",
+      "3416": "24 of 24 (100%)"
+    },
+    "ballotQuestion": {},
+    "candidateGrouping": {
+      "3416": [
+        {
+          "10059": {
+            "V": "3431",
+            "TO": "46.90%"
+          }
+        }
+      ],
+      "3413": [
+        {
+          "10063": {
+            "V": "276",
+            "TO": "14.71%"
+          }
+        }
+      ],
+      "3412": [
+        {
+          "10067": {
+            "V": "1408",
+            "TO": "45.92%"
+          }
+        },
+        {
+          "10069": {
+            "V": "1658",
+            "TO": "54.08%"
+          }
+        }
+      ]
+    }
+  },
+  "LookupData": {
+    "election": {
+      "ID": "35",
+      "NM": "02/26/2019 -- Special Election 3rd, 5th & 6th Senatorial Districts and 39th &",
+      "DT": "02/26/2019",
+      "ET": "S",
+      "EC": "SE",
+      "P": "",
+      "DNM": "Special Election 3rd,5th &6th Senatorial - 39th & 99th Assembly Districts"
+    },
+    "townIds": {
+      "1": "Andover",
+      "2": "Ansonia",
+      "3": "Ashford",
+      "4": "Avon",
+      "5": "Barkhamsted",
+      "6": "Beacon Falls",
+      "7": "Berlin",
+      "8": "Bethany",
+      "9": "Bethel",
+      "10": "Bethlehem",
+      "11": "Bloomfield",
+      "12": "Bolton",
+      "13": "Bozrah",
+      "14": "Branford",
+      "15": "Bridgeport",
+      "16": "Bridgewater",
+      "17": "Bristol",
+      "18": "Brookfield",
+      "19": "Brooklyn",
+      "20": "Burlington",
+      "21": "Canaan",
+      "22": "Canterbury",
+      "23": "Canton",
+      "24": "Chaplin",
+      "25": "Cheshire",
+      "26": "Chester",
+      "27": "Clinton",
+      "28": "Colchester",
+      "29": "Colebrook",
+      "30": "Columbia",
+      "31": "Cornwall",
+      "32": "Coventry",
+      "33": "Cromwell",
+      "34": "Danbury",
+      "35": "Darien",
+      "36": "Deep River",
+      "37": "Derby",
+      "38": "Durham",
+      "39": "Eastford",
+      "40": "East Granby",
+      "41": "East Haddam",
+      "42": "East Hampton",
+      "43": "East Hartford",
+      "44": "East Haven",
+      "45": "East Lyme",
+      "46": "Easton",
+      "47": "East Windsor",
+      "48": "Ellington",
+      "49": "Enfield",
+      "50": "Essex",
+      "51": "Fairfield",
+      "52": "Farmington",
+      "53": "Franklin",
+      "54": "Glastonbury",
+      "55": "Goshen",
+      "56": "Granby",
+      "57": "Greenwich",
+      "58": "Griswold",
+      "59": "Groton",
+      "60": "Guilford",
+      "61": "Haddam",
+      "62": "Hamden",
+      "63": "Hampton",
+      "64": "Hartford",
+      "65": "Hartland",
+      "66": "Harwinton",
+      "67": "Hebron",
+      "68": "Kent",
+      "69": "Killingly",
+      "70": "Killingworth",
+      "71": "Lebanon",
+      "72": "Ledyard",
+      "73": "Lisbon",
+      "74": "Litchfield",
+      "75": "Lyme",
+      "76": "Madison",
+      "77": "Manchester",
+      "78": "Mansfield",
+      "79": "Marlborough",
+      "80": "Meriden",
+      "81": "Middlebury",
+      "82": "Middlefield",
+      "83": "Middletown",
+      "84": "Milford",
+      "85": "Monroe",
+      "86": "Montville",
+      "87": "Morris",
+      "88": "Naugatuck",
+      "89": "New Britain",
+      "90": "New Canaan",
+      "91": "New Fairfield",
+      "92": "New Hartford",
+      "93": "New Haven",
+      "94": "Newington",
+      "95": "New London",
+      "96": "New Milford",
+      "97": "Newtown",
+      "98": "Norfolk",
+      "99": "North Branford",
+      "100": "North Canaan",
+      "101": "North Haven",
+      "102": "North Stonington",
+      "103": "Norwalk",
+      "104": "Norwich",
+      "105": "Old Lyme",
+      "106": "Old Saybrook",
+      "107": "Orange",
+      "108": "Oxford",
+      "109": "Plainfield",
+      "110": "Plainville",
+      "111": "Plymouth",
+      "112": "Pomfret",
+      "113": "Portland",
+      "114": "Preston",
+      "115": "Prospect",
+      "116": "Putnam",
+      "117": "Redding",
+      "118": "Ridgefield",
+      "119": "Rocky Hill",
+      "120": "Roxbury",
+      "121": "Salem",
+      "122": "Salisbury",
+      "123": "Scotland",
+      "124": "Seymour",
+      "125": "Sharon",
+      "126": "Shelton",
+      "127": "Sherman",
+      "128": "Simsbury",
+      "129": "Somers",
+      "130": "Southbury",
+      "131": "Southington",
+      "132": "South Windsor",
+      "133": "Sprague",
+      "134": "Stafford",
+      "135": "Stamford",
+      "136": "Sterling",
+      "137": "Stonington",
+      "138": "Stratford",
+      "139": "Suffield",
+      "140": "Thomaston",
+      "141": "Thompson",
+      "142": "Tolland",
+      "143": "Torrington",
+      "144": "Trumbull",
+      "145": "Union",
+      "146": "Vernon",
+      "147": "Voluntown",
+      "148": "Wallingford",
+      "149": "Warren",
+      "150": "Washington",
+      "151": "Waterbury",
+      "152": "Waterford",
+      "153": "Watertown",
+      "154": "Westbrook",
+      "155": "West Hartford",
+      "156": "West Haven",
+      "157": "Weston",
+      "158": "Westport",
+      "159": "Wethersfield",
+      "160": "Willington",
+      "161": "Wilton",
+      "162": "Winchester",
+      "163": "Windham",
+      "164": "Windsor",
+      "165": "Windsor Locks",
+      "166": "Wolcott",
+      "167": "Woodbridge",
+      "168": "Woodbury",
+      "169": "Woodstock"
+    },
+    "counties": {
+      "1": "Fairfield",
+      "2": "Hartford",
+      "3": "Litchfield",
+      "4": "Middlesex",
+      "5": "New Haven",
+      "6": "New London",
+      "7": "Tolland",
+      "8": "Windham"
+    },
+    "countyTowns": [
+      {
+        "TownID": "1",
+        "CountyID": "7",
+        "TownName": "Andover"
+      },
+      {
+        "TownID": "2",
+        "CountyID": "5",
+        "TownName": "Ansonia"
+      },
+      {
+        "TownID": "3",
+        "CountyID": "8",
+        "TownName": "Ashford"
+      },
+      {
+        "TownID": "4",
+        "CountyID": "2",
+        "TownName": "Avon"
+      },
+      {
+        "TownID": "5",
+        "CountyID": "3",
+        "TownName": "Barkhamsted"
+      },
+      {
+        "TownID": "6",
+        "CountyID": "5",
+        "TownName": "Beacon Falls"
+      },
+      {
+        "TownID": "7",
+        "CountyID": "2",
+        "TownName": "Berlin"
+      },
+      {
+        "TownID": "8",
+        "CountyID": "5",
+        "TownName": "Bethany"
+      },
+      {
+        "TownID": "9",
+        "CountyID": "1",
+        "TownName": "Bethel"
+      },
+      {
+        "TownID": "10",
+        "CountyID": "3",
+        "TownName": "Bethlehem"
+      },
+      {
+        "TownID": "11",
+        "CountyID": "2",
+        "TownName": "Bloomfield"
+      },
+      {
+        "TownID": "12",
+        "CountyID": "7",
+        "TownName": "Bolton"
+      },
+      {
+        "TownID": "13",
+        "CountyID": "6",
+        "TownName": "Bozrah"
+      },
+      {
+        "TownID": "14",
+        "CountyID": "5",
+        "TownName": "Branford"
+      },
+      {
+        "TownID": "15",
+        "CountyID": "1",
+        "TownName": "Bridgeport"
+      },
+      {
+        "TownID": "16",
+        "CountyID": "3",
+        "TownName": "Bridgewater"
+      },
+      {
+        "TownID": "17",
+        "CountyID": "2",
+        "TownName": "Bristol"
+      },
+      {
+        "TownID": "18",
+        "CountyID": "1",
+        "TownName": "Brookfield"
+      },
+      {
+        "TownID": "19",
+        "CountyID": "8",
+        "TownName": "Brooklyn"
+      },
+      {
+        "TownID": "20",
+        "CountyID": "2",
+        "TownName": "Burlington"
+      },
+      {
+        "TownID": "21",
+        "CountyID": "3",
+        "TownName": "Canaan"
+      },
+      {
+        "TownID": "22",
+        "CountyID": "8",
+        "TownName": "Canterbury"
+      },
+      {
+        "TownID": "23",
+        "CountyID": "2",
+        "TownName": "Canton"
+      },
+      {
+        "TownID": "24",
+        "CountyID": "8",
+        "TownName": "Chaplin"
+      },
+      {
+        "TownID": "25",
+        "CountyID": "5",
+        "TownName": "Cheshire"
+      },
+      {
+        "TownID": "26",
+        "CountyID": "4",
+        "TownName": "Chester"
+      },
+      {
+        "TownID": "27",
+        "CountyID": "4",
+        "TownName": "Clinton"
+      },
+      {
+        "TownID": "28",
+        "CountyID": "6",
+        "TownName": "Colchester"
+      },
+      {
+        "TownID": "29",
+        "CountyID": "3",
+        "TownName": "Colebrook"
+      },
+      {
+        "TownID": "30",
+        "CountyID": "7",
+        "TownName": "Columbia"
+      },
+      {
+        "TownID": "31",
+        "CountyID": "3",
+        "TownName": "Cornwall"
+      },
+      {
+        "TownID": "32",
+        "CountyID": "7",
+        "TownName": "Coventry"
+      },
+      {
+        "TownID": "33",
+        "CountyID": "4",
+        "TownName": "Cromwell"
+      },
+      {
+        "TownID": "34",
+        "CountyID": "1",
+        "TownName": "Danbury"
+      },
+      {
+        "TownID": "35",
+        "CountyID": "1",
+        "TownName": "Darien"
+      },
+      {
+        "TownID": "36",
+        "CountyID": "4",
+        "TownName": "Deep River"
+      },
+      {
+        "TownID": "37",
+        "CountyID": "5",
+        "TownName": "Derby"
+      },
+      {
+        "TownID": "38",
+        "CountyID": "4",
+        "TownName": "Durham"
+      },
+      {
+        "TownID": "39",
+        "CountyID": "8",
+        "TownName": "Eastford"
+      },
+      {
+        "TownID": "40",
+        "CountyID": "2",
+        "TownName": "East Granby"
+      },
+      {
+        "TownID": "41",
+        "CountyID": "4",
+        "TownName": "East Haddam"
+      },
+      {
+        "TownID": "42",
+        "CountyID": "4",
+        "TownName": "East Hampton"
+      },
+      {
+        "TownID": "43",
+        "CountyID": "2",
+        "TownName": "East Hartford"
+      },
+      {
+        "TownID": "44",
+        "CountyID": "5",
+        "TownName": "East Haven"
+      },
+      {
+        "TownID": "45",
+        "CountyID": "6",
+        "TownName": "East Lyme"
+      },
+      {
+        "TownID": "46",
+        "CountyID": "1",
+        "TownName": "Easton"
+      },
+      {
+        "TownID": "47",
+        "CountyID": "2",
+        "TownName": "East Windsor"
+      },
+      {
+        "TownID": "48",
+        "CountyID": "7",
+        "TownName": "Ellington"
+      },
+      {
+        "TownID": "49",
+        "CountyID": "2",
+        "TownName": "Enfield"
+      },
+      {
+        "TownID": "50",
+        "CountyID": "4",
+        "TownName": "Essex"
+      },
+      {
+        "TownID": "51",
+        "CountyID": "1",
+        "TownName": "Fairfield"
+      },
+      {
+        "TownID": "52",
+        "CountyID": "2",
+        "TownName": "Farmington"
+      },
+      {
+        "TownID": "53",
+        "CountyID": "6",
+        "TownName": "Franklin"
+      },
+      {
+        "TownID": "54",
+        "CountyID": "2",
+        "TownName": "Glastonbury"
+      },
+      {
+        "TownID": "55",
+        "CountyID": "3",
+        "TownName": "Goshen"
+      },
+      {
+        "TownID": "56",
+        "CountyID": "2",
+        "TownName": "Granby"
+      },
+      {
+        "TownID": "57",
+        "CountyID": "1",
+        "TownName": "Greenwich"
+      },
+      {
+        "TownID": "58",
+        "CountyID": "6",
+        "TownName": "Griswold"
+      },
+      {
+        "TownID": "59",
+        "CountyID": "6",
+        "TownName": "Groton"
+      },
+      {
+        "TownID": "60",
+        "CountyID": "5",
+        "TownName": "Guilford"
+      },
+      {
+        "TownID": "61",
+        "CountyID": "4",
+        "TownName": "Haddam"
+      },
+      {
+        "TownID": "62",
+        "CountyID": "5",
+        "TownName": "Hamden"
+      },
+      {
+        "TownID": "63",
+        "CountyID": "8",
+        "TownName": "Hampton"
+      },
+      {
+        "TownID": "64",
+        "CountyID": "2",
+        "TownName": "Hartford"
+      },
+      {
+        "TownID": "65",
+        "CountyID": "2",
+        "TownName": "Hartland"
+      },
+      {
+        "TownID": "66",
+        "CountyID": "3",
+        "TownName": "Harwinton"
+      },
+      {
+        "TownID": "67",
+        "CountyID": "7",
+        "TownName": "Hebron"
+      },
+      {
+        "TownID": "68",
+        "CountyID": "3",
+        "TownName": "Kent"
+      },
+      {
+        "TownID": "69",
+        "CountyID": "8",
+        "TownName": "Killingly"
+      },
+      {
+        "TownID": "70",
+        "CountyID": "4",
+        "TownName": "Killingworth"
+      },
+      {
+        "TownID": "71",
+        "CountyID": "6",
+        "TownName": "Lebanon"
+      },
+      {
+        "TownID": "72",
+        "CountyID": "6",
+        "TownName": "Ledyard"
+      },
+      {
+        "TownID": "73",
+        "CountyID": "6",
+        "TownName": "Lisbon"
+      },
+      {
+        "TownID": "74",
+        "CountyID": "3",
+        "TownName": "Litchfield"
+      },
+      {
+        "TownID": "75",
+        "CountyID": "6",
+        "TownName": "Lyme"
+      },
+      {
+        "TownID": "76",
+        "CountyID": "5",
+        "TownName": "Madison"
+      },
+      {
+        "TownID": "77",
+        "CountyID": "2",
+        "TownName": "Manchester"
+      },
+      {
+        "TownID": "78",
+        "CountyID": "7",
+        "TownName": "Mansfield"
+      },
+      {
+        "TownID": "79",
+        "CountyID": "2",
+        "TownName": "Marlborough"
+      },
+      {
+        "TownID": "80",
+        "CountyID": "5",
+        "TownName": "Meriden"
+      },
+      {
+        "TownID": "81",
+        "CountyID": "5",
+        "TownName": "Middlebury"
+      },
+      {
+        "TownID": "82",
+        "CountyID": "4",
+        "TownName": "Middlefield"
+      },
+      {
+        "TownID": "83",
+        "CountyID": "4",
+        "TownName": "Middletown"
+      },
+      {
+        "TownID": "84",
+        "CountyID": "5",
+        "TownName": "Milford"
+      },
+      {
+        "TownID": "85",
+        "CountyID": "1",
+        "TownName": "Monroe"
+      },
+      {
+        "TownID": "86",
+        "CountyID": "6",
+        "TownName": "Montville"
+      },
+      {
+        "TownID": "87",
+        "CountyID": "3",
+        "TownName": "Morris"
+      },
+      {
+        "TownID": "88",
+        "CountyID": "5",
+        "TownName": "Naugatuck"
+      },
+      {
+        "TownID": "89",
+        "CountyID": "2",
+        "TownName": "New Britain"
+      },
+      {
+        "TownID": "90",
+        "CountyID": "1",
+        "TownName": "New Canaan"
+      },
+      {
+        "TownID": "91",
+        "CountyID": "1",
+        "TownName": "New Fairfield"
+      },
+      {
+        "TownID": "92",
+        "CountyID": "3",
+        "TownName": "New Hartford"
+      },
+      {
+        "TownID": "93",
+        "CountyID": "5",
+        "TownName": "New Haven"
+      },
+      {
+        "TownID": "94",
+        "CountyID": "2",
+        "TownName": "Newington"
+      },
+      {
+        "TownID": "95",
+        "CountyID": "6",
+        "TownName": "New London"
+      },
+      {
+        "TownID": "96",
+        "CountyID": "3",
+        "TownName": "New Milford"
+      },
+      {
+        "TownID": "97",
+        "CountyID": "1",
+        "TownName": "Newtown"
+      },
+      {
+        "TownID": "98",
+        "CountyID": "3",
+        "TownName": "Norfolk"
+      },
+      {
+        "TownID": "99",
+        "CountyID": "5",
+        "TownName": "North Branford"
+      },
+      {
+        "TownID": "100",
+        "CountyID": "3",
+        "TownName": "North Canaan"
+      },
+      {
+        "TownID": "101",
+        "CountyID": "5",
+        "TownName": "North Haven"
+      },
+      {
+        "TownID": "102",
+        "CountyID": "6",
+        "TownName": "North Stonington"
+      },
+      {
+        "TownID": "103",
+        "CountyID": "1",
+        "TownName": "Norwalk"
+      },
+      {
+        "TownID": "104",
+        "CountyID": "6",
+        "TownName": "Norwich"
+      },
+      {
+        "TownID": "105",
+        "CountyID": "6",
+        "TownName": "Old Lyme"
+      },
+      {
+        "TownID": "106",
+        "CountyID": "4",
+        "TownName": "Old Saybrook"
+      },
+      {
+        "TownID": "107",
+        "CountyID": "5",
+        "TownName": "Orange"
+      },
+      {
+        "TownID": "108",
+        "CountyID": "5",
+        "TownName": "Oxford"
+      },
+      {
+        "TownID": "109",
+        "CountyID": "8",
+        "TownName": "Plainfield"
+      },
+      {
+        "TownID": "110",
+        "CountyID": "2",
+        "TownName": "Plainville"
+      },
+      {
+        "TownID": "111",
+        "CountyID": "3",
+        "TownName": "Plymouth"
+      },
+      {
+        "TownID": "112",
+        "CountyID": "8",
+        "TownName": "Pomfret"
+      },
+      {
+        "TownID": "113",
+        "CountyID": "4",
+        "TownName": "Portland"
+      },
+      {
+        "TownID": "114",
+        "CountyID": "6",
+        "TownName": "Preston"
+      },
+      {
+        "TownID": "115",
+        "CountyID": "5",
+        "TownName": "Prospect"
+      },
+      {
+        "TownID": "116",
+        "CountyID": "8",
+        "TownName": "Putnam"
+      },
+      {
+        "TownID": "117",
+        "CountyID": "1",
+        "TownName": "Redding"
+      },
+      {
+        "TownID": "118",
+        "CountyID": "1",
+        "TownName": "Ridgefield"
+      },
+      {
+        "TownID": "119",
+        "CountyID": "2",
+        "TownName": "Rocky Hill"
+      },
+      {
+        "TownID": "120",
+        "CountyID": "3",
+        "TownName": "Roxbury"
+      },
+      {
+        "TownID": "121",
+        "CountyID": "6",
+        "TownName": "Salem"
+      },
+      {
+        "TownID": "122",
+        "CountyID": "3",
+        "TownName": "Salisbury"
+      },
+      {
+        "TownID": "123",
+        "CountyID": "8",
+        "TownName": "Scotland"
+      },
+      {
+        "TownID": "124",
+        "CountyID": "5",
+        "TownName": "Seymour"
+      },
+      {
+        "TownID": "125",
+        "CountyID": "3",
+        "TownName": "Sharon"
+      },
+      {
+        "TownID": "126",
+        "CountyID": "1",
+        "TownName": "Shelton"
+      },
+      {
+        "TownID": "127",
+        "CountyID": "1",
+        "TownName": "Sherman"
+      },
+      {
+        "TownID": "128",
+        "CountyID": "2",
+        "TownName": "Simsbury"
+      },
+      {
+        "TownID": "129",
+        "CountyID": "7",
+        "TownName": "Somers"
+      },
+      {
+        "TownID": "130",
+        "CountyID": "5",
+        "TownName": "Southbury"
+      },
+      {
+        "TownID": "131",
+        "CountyID": "2",
+        "TownName": "Southington"
+      },
+      {
+        "TownID": "132",
+        "CountyID": "2",
+        "TownName": "South Windsor"
+      },
+      {
+        "TownID": "133",
+        "CountyID": "6",
+        "TownName": "Sprague"
+      },
+      {
+        "TownID": "134",
+        "CountyID": "7",
+        "TownName": "Stafford"
+      },
+      {
+        "TownID": "135",
+        "CountyID": "1",
+        "TownName": "Stamford"
+      },
+      {
+        "TownID": "136",
+        "CountyID": "8",
+        "TownName": "Sterling"
+      },
+      {
+        "TownID": "137",
+        "CountyID": "6",
+        "TownName": "Stonington"
+      },
+      {
+        "TownID": "138",
+        "CountyID": "1",
+        "TownName": "Stratford"
+      },
+      {
+        "TownID": "139",
+        "CountyID": "2",
+        "TownName": "Suffield"
+      },
+      {
+        "TownID": "140",
+        "CountyID": "3",
+        "TownName": "Thomaston"
+      },
+      {
+        "TownID": "141",
+        "CountyID": "8",
+        "TownName": "Thompson"
+      },
+      {
+        "TownID": "142",
+        "CountyID": "7",
+        "TownName": "Tolland"
+      },
+      {
+        "TownID": "143",
+        "CountyID": "3",
+        "TownName": "Torrington"
+      },
+      {
+        "TownID": "144",
+        "CountyID": "1",
+        "TownName": "Trumbull"
+      },
+      {
+        "TownID": "145",
+        "CountyID": "7",
+        "TownName": "Union"
+      },
+      {
+        "TownID": "146",
+        "CountyID": "7",
+        "TownName": "Vernon"
+      },
+      {
+        "TownID": "147",
+        "CountyID": "6",
+        "TownName": "Voluntown"
+      },
+      {
+        "TownID": "148",
+        "CountyID": "5",
+        "TownName": "Wallingford"
+      },
+      {
+        "TownID": "149",
+        "CountyID": "3",
+        "TownName": "Warren"
+      },
+      {
+        "TownID": "150",
+        "CountyID": "3",
+        "TownName": "Washington"
+      },
+      {
+        "TownID": "151",
+        "CountyID": "5",
+        "TownName": "Waterbury"
+      },
+      {
+        "TownID": "152",
+        "CountyID": "6",
+        "TownName": "Waterford"
+      },
+      {
+        "TownID": "153",
+        "CountyID": "3",
+        "TownName": "Watertown"
+      },
+      {
+        "TownID": "154",
+        "CountyID": "4",
+        "TownName": "Westbrook"
+      },
+      {
+        "TownID": "155",
+        "CountyID": "2",
+        "TownName": "West Hartford"
+      },
+      {
+        "TownID": "156",
+        "CountyID": "5",
+        "TownName": "West Haven"
+      },
+      {
+        "TownID": "157",
+        "CountyID": "1",
+        "TownName": "Weston"
+      },
+      {
+        "TownID": "158",
+        "CountyID": "1",
+        "TownName": "Westport"
+      },
+      {
+        "TownID": "159",
+        "CountyID": "2",
+        "TownName": "Wethersfield"
+      },
+      {
+        "TownID": "160",
+        "CountyID": "7",
+        "TownName": "Willington"
+      },
+      {
+        "TownID": "161",
+        "CountyID": "1",
+        "TownName": "Wilton"
+      },
+      {
+        "TownID": "162",
+        "CountyID": "3",
+        "TownName": "Winchester"
+      },
+      {
+        "TownID": "163",
+        "CountyID": "8",
+        "TownName": "Windham"
+      },
+      {
+        "TownID": "164",
+        "CountyID": "2",
+        "TownName": "Windsor"
+      },
+      {
+        "TownID": "165",
+        "CountyID": "2",
+        "TownName": "Windsor Locks"
+      },
+      {
+        "TownID": "166",
+        "CountyID": "5",
+        "TownName": "Wolcott"
+      },
+      {
+        "TownID": "167",
+        "CountyID": "5",
+        "TownName": "Woodbridge"
+      },
+      {
+        "TownID": "168",
+        "CountyID": "3",
+        "TownName": "Woodbury"
+      },
+      {
+        "TownID": "169",
+        "CountyID": "8",
+        "TownName": "Woodstock"
+      }
+    ],
+    "pollingplaceIds": {
+      "19": "Berlin-1-Willard School",
+      "15": "Berlin-2-American Legion",
+      "17": "Berlin-3-Hubbard School",
+      "18": "Berlin-4-Senior Center",
+      "16": "Berlin-5-Griswold School",
+      "31": "Bloomfield-1-Leisure Services Gym",
+      "82": "Burlington-1-Town Hall",
+      "143": "East Hartford-1-Anna Norris School",
+      "146": "East Hartford-2-Langford School",
+      "147": "East Hartford-3-Mayberry School",
+      "149": "East Hartford-4-Silver Lane School",
+      "145": "East Hartford-5-Hockanum School",
+      "144": "East Hartford-6-Goodwin School",
+      "148": "East Hartford-7-Saint Christopher Church Hall",
+      "156": "East Haven-1-Tuttle School 1",
+      "152": "East Haven-1-3-East Farm Village 1-S",
+      "154": "East Haven-2-Momauguin School 2",
+      "151": "East Haven-3-3-Deer Run School 3-S",
+      "155": "East Haven-4-Overbrook School 4",
+      "1249": "East Haven-5-Hays School 5",
+      "157": "East Haven-5-3-Woodview 5-S",
+      "163": "East Windsor-1-Town Hall Annex",
+      "164": "East Windsor-1-2-Town Hall Annex",
+      "162": "East Windsor-2-Town Hall",
+      "1447": "Ellington-1-Ellington Senior Center",
+      "188": "Farmington-1-1-Irving Robbins School - District 1 Precinct 1",
+      "189": "Farmington-1-2-Irving Robbins School - District 1 Precinct 2",
+      "190": "Farmington-1-3-Irving Robbins School - District 1 Precinct 3",
+      "191": "Farmington-1-4-Irving Robbins School - District 1 Precinct 4",
+      "193": "Farmington-1-5-West Woods School - District 1 Precinct 5",
+      "187": "Farmington-2-6-Community Center - District 2 Precinct 6",
+      "192": "Farmington-2-7-Municipal Buildngs - FHS Library Town Hall",
+      "400": "New Britain-1-Vance Village School",
+      "1260": "New Britain-2-VFW Post 511",
+      "394": "New Britain-3-Roosevelt Middle School",
+      "386": "New Britain-4-Gaffney School",
+      "392": "New Britain-5-New Britain Senior Center",
+      "395": "New Britain-5-1-School Apartments",
+      "388": "New Britain-5-2-Graham Apartments",
+      "832": "New Britain-6-Angelico's Restaurant",
+      "387": "New Britain-7-Generale Ameglio Society",
+      "1261": "New Britain-8-International Church",
+      "384": "New Britain-9-Chamberlain School",
+      "398": "New Britain-10-St. Francis Of Assisi Church Hall",
+      "390": "New Britain-11-Holmes Elementary School",
+      "393": "New Britain-12-Pulaski Middle School",
+      "1351": "New Britain-13-St. John Paul II School",
+      "385": "New Britain-14-Diloreto School",
+      "396": "New Britain-15-Slade Middle School",
+      "480": "New London-1-New London High School",
+      "478": "New London-2-Harbor School",
+      "593": "South Windsor-1-Pleasant Valley School-Gym",
+      "591": "South Windsor-2-Eli Terry School-Gym",
+      "594": "South Windsor-3-South Windsor High School-Auxiliary Gym",
+      "1451": "South Windsor-4-Charles Enes Community Center",
+      "595": "South Windsor-5-Timothy Edwards School - Stairwell B",
+      "1327": "West Hartford-1-King Philip Middle School",
+      "724": "West Hartford-2-Bristow Middle School",
+      "730": "West Hartford-3-West Hartford Town Hall",
+      "726": "West Hartford-4-Elmwood Community Center",
+      "731": "West Hartford-5-Wolcott School",
+      "1448": "West Hartford-6-Conard High School",
+      "1449": "West Hartford-7-Sedgwick Middle School",
+      "723": "West Hartford-8-Braeburn School",
+      "1450": "West Hartford-9-Hall High School"
+    },
+    "townPollingPlaces": {
+      "7": [
+        19,
+        15,
+        17,
+        18,
+        16
+      ],
+      "11": [
+        31
+      ],
+      "20": [
+        82
+      ],
+      "43": [
+        143,
+        146,
+        147,
+        149,
+        145,
+        144,
+        148
+      ],
+      "44": [
+        156,
+        152,
+        154,
+        151,
+        155,
+        1249,
+        157
+      ],
+      "47": [
+        163,
+        164,
+        162
+      ],
+      "48": [
+        1447
+      ],
+      "52": [
+        188,
+        189,
+        190,
+        191,
+        193,
+        187,
+        192
+      ],
+      "89": [
+        400,
+        1260,
+        394,
+        386,
+        392,
+        395,
+        388,
+        832,
+        387,
+        1261,
+        384,
+        398,
+        390,
+        393,
+        1351,
+        385,
+        396
+      ],
+      "95": [
+        480,
+        478
+      ],
+      "132": [
+        593,
+        591,
+        594,
+        1451,
+        595
+      ],
+      "155": [
+        1327,
+        724,
+        730,
+        726,
+        731,
+        1448,
+        1449,
+        723,
+        1450
+      ]
+    },
+    "officeList": [
+      {
+        "3414": {
+          "ID": "3414",
+          "NM": "State Senator to Fill a Vacancy 3",
+          "OT": "S",
+          "OO": "1",
+          "DT": "Connecticut 03",
+          "D": "3"
+        }
+      },
+      {
+        "3415": {
+          "ID": "3415",
+          "NM": "State Senator to Fill a Vacancy 5",
+          "OT": "S",
+          "OO": "2",
+          "DT": "Connecticut 05",
+          "D": "5"
+        }
+      },
+      {
+        "3416": {
+          "ID": "3416",
+          "NM": "State Senator to Fill a Vacancy 6",
+          "OT": "S",
+          "OO": "3",
+          "DT": "Connecticut 06",
+          "D": "6"
+        }
+      },
+      {
+        "3413": {
+          "ID": "3413",
+          "NM": "State Representative to Fill a Vacancy 39",
+          "OT": "A",
+          "OO": "4",
+          "DT": "Connecticut 39",
+          "D": "39"
+        }
+      },
+      {
+        "3412": {
+          "ID": "3412",
+          "NM": "State Representative to Fill a Vacancy 99",
+          "OT": "A",
+          "OO": "5",
+          "DT": "Connecticut 99",
+          "D": "99"
+        }
+      }
+    ],
+    "partyIds": {
+      "1": {
+        "CD": "D",
+        "NM": "Democratic Party",
+        "P": "250"
+      },
+      "2": {
+        "CD": "C",
+        "NM": "Conservative Party",
+        "P": "226"
+      },
+      "3": {
+        "CD": "IND",
+        "NM": "Independent Party",
+        "P": "204"
+      },
+      "4": {
+        "CD": "NL",
+        "NM": "Natural Law Party",
+        "P": "181"
+      },
+      "5": {
+        "CD": "INDP",
+        "NM": "Independance Party",
+        "P": "159"
+      },
+      "6": {
+        "CD": "R",
+        "NM": "Republican Party",
+        "P": "135"
+      },
+      "7": {
+        "CD": "G",
+        "NM": "Green Party",
+        "P": "112"
+      },
+      "8": {
+        "CD": "LI",
+        "NM": "Libertarian Party",
+        "P": "89"
+      },
+      "9": {
+        "CD": "RE",
+        "NM": "Reform Party",
+        "P": "65"
+      },
+      "11": {
+        "CD": "PE",
+        "NM": "People Party",
+        "P": "101"
+      },
+      "12": {
+        "CD": "WF",
+        "NM": "Working Families Party",
+        "P": "22"
+      },
+      "13": {
+        "CD": "O",
+        "NM": "Open Party",
+        "P": "103"
+      },
+      "14": {
+        "CD": "BL",
+        "NM": "The Bottom Line Party",
+        "P": "104"
+      },
+      "15": {
+        "CD": "PC",
+        "NM": "Petitioning Candidate",
+        "P": "0"
+      },
+      "16": {
+        "CD": "WE",
+        "NM": "We the People  Party",
+        "P": "106"
+      },
+      "17": {
+        "CD": "CC",
+        "NM": "Christian Center Party",
+        "P": "107"
+      },
+      "18": {
+        "CD": "IFM",
+        "NM": "Independence for Montville Party",
+        "P": "108"
+      },
+      "19": {
+        "CD": "SC",
+        "NM": "Smart Choice Party",
+        "P": "109"
+      },
+      "20": {
+        "CD": "SCF",
+        "NM": "Simsbury Citizens First Party",
+        "P": "110"
+      },
+      "21": {
+        "CD": "CP",
+        "NM": "Chatham Party",
+        "P": "111"
+      },
+      "22": {
+        "CD": "RB",
+        "NM": "Realistic Balance Party",
+        "P": "112"
+      },
+      "23": {
+        "CD": "WIP",
+        "NM": "Winsted Independent Party",
+        "P": "113"
+      },
+      "24": {
+        "CD": "11",
+        "NM": "A Brookfield Party",
+        "P": "114"
+      },
+      "25": {
+        "CD": "SWN",
+        "NM": "Save Westport Now Party",
+        "P": "115"
+      },
+      "26": {
+        "CD": "CFW",
+        "NM": "Coalition For Westport Party",
+        "P": "116"
+      },
+      "1023": {
+        "CD": "ASP",
+        "NM": "A Sentinel Party",
+        "P": "126"
+      },
+      "1024": {
+        "CD": "TP",
+        "NM": "Test Party",
+        "P": "127"
+      },
+      "1026": {
+        "CD": "WI",
+        "NM": "Write In",
+        "P": "274"
+      },
+      "1028": {
+        "CD": "CA",
+        "NM": "Red party",
+        "P": "131"
+      },
+      "1032": {
+        "CD": "PP",
+        "NM": "Peace and Progress Party",
+        "P": "135"
+      },
+      "1033": {
+        "CD": "NonP",
+        "NM": "Non Partisan",
+        "P": "136"
+      },
+      "1034": {
+        "CD": "CGP",
+        "NM": "Common Ground Party",
+        "P": "137"
+      },
+      "1035": {
+        "CD": "CFP",
+        "NM": "Clinton First Party",
+        "P": "138"
+      },
+      "1036": {
+        "CD": "KCP",
+        "NM": "Killingworth Conservative Party",
+        "P": "139"
+      },
+      "1037": {
+        "CD": "AIP",
+        "NM": "American Independent Party",
+        "P": "140"
+      },
+      "1038": {
+        "CD": "CIP",
+        "NM": "Colchester Independent Party",
+        "P": "141"
+      },
+      "1039": {
+        "CD": "URHP",
+        "NM": "Unite Rocky Hill Party",
+        "P": "142"
+      },
+      "1040": {
+        "CD": "U",
+        "NM": "Unaffiliated",
+        "P": "143"
+      },
+      "1041": {
+        "CD": "TW",
+        "NM": "Trump Winsted Party",
+        "P": "144"
+      },
+      "1042": {
+        "CD": "ABC",
+        "NM": "A Better Choice",
+        "P": "145"
+      },
+      "1044": {
+        "CD": "RCLP",
+        "NM": "Redding Civic League Party",
+        "P": "147"
+      },
+      "1045": {
+        "CD": "GFCT",
+        "NM": "Griebel Frank for CT Party",
+        "P": "0"
+      },
+      "1046": {
+        "CD": "ACL",
+        "NM": "Amigo Constitution Liberty Party",
+        "P": "0"
+      },
+      "1047": {
+        "CD": "AMP",
+        "NM": "A Meriden Party",
+        "P": "150"
+      },
+      "1048": {
+        "CD": "BTB",
+        "NM": "Back to Basics Party",
+        "P": "151"
+      },
+      "1049": {
+        "CD": "THP",
+        "NM": "The Hartford Party",
+        "P": "152"
+      },
+      "1050": {
+        "CD": "SCP",
+        "NM": "Second Chance Party",
+        "P": "153"
+      },
+      "1051": {
+        "CD": "FTP",
+        "NM": "For the People Party",
+        "P": "154"
+      },
+      "1052": {
+        "CD": "VFE",
+        "NM": "Voices for Enfield Party",
+        "P": "155"
+      },
+      "1053": {
+        "CD": "IPP",
+        "NM": "Independent Progressive Party",
+        "P": "156"
+      }
+    },
+    "townParties": {
+      "7": "[1,6,12,3,8,7,1046,15,1026]",
+      "11": "[1,6,12,3,8,7,1046,15,1026]",
+      "20": "[1,6,12,3,8,7,1046,15,1026]",
+      "43": "[1,6,12,3,8,7,1046,15,1026]",
+      "44": "[1,6,12,3,8,7,1046,15,1026]",
+      "47": "[1,6,12,3,8,7,1046,15,1026]",
+      "48": "[1,6,12,3,8,7,1046,15,1026]",
+      "52": "[1,6,12,3,8,7,1046,15,1026]",
+      "89": "[1,6,12,3,8,7,1046,15,1026]",
+      "95": "[1,6,12,3,8,7,1046,15,1026]",
+      "132": "[1,6,12,3,8,7,1046,15,1026]",
+      "155": "[1,6,12,3,8,7,1046,15,1026]"
+    },
+    "candidateIds": {
+      "10054": {
+        "NM": "Saud Anwar",
+        "LN": "Anwar",
+        "FN": "Saud",
+        "MN": "",
+        "P": "1",
+        "AD": "93 Rockledge Drive, South Windsor, CT-06074",
+        "CO": "0"
+      },
+      "10067": {
+        "NM": "Josh Balter",
+        "LN": "Balter",
+        "FN": "Josh",
+        "MN": "",
+        "P": "1",
+        "AD": "35 Red Bluff Road, East Haven, CT-06513",
+        "CO": "0"
+      },
+      "10061": {
+        "NM": "Gennaro Bizzarro",
+        "LN": "Bizzarro",
+        "FN": "Gennaro",
+        "MN": "",
+        "P": "6",
+        "AD": "440 Shuttle Meadow Avenue, New Britain, CT-06052",
+        "CO": "0"
+      },
+      "10066": {
+        "NM": "Jason L. Catala",
+        "LN": "Catala",
+        "FN": "Jason",
+        "MN": "L.",
+        "P": "15",
+        "AD": "476 Ocean Avenue, New London, CT-06320",
+        "CO": "0"
+      },
+      "10063": {
+        "NM": "Kat Goulart",
+        "LN": "Goulart",
+        "FN": "Kat",
+        "MN": "",
+        "P": "6",
+        "AD": "54 Dow Street, New London, CT-06320",
+        "CO": "0"
+      },
+      "10071": {
+        "NM": "Mark Stewart Greenstein",
+        "LN": "Greenstein",
+        "FN": "Mark",
+        "MN": "Stewart",
+        "P": "1046",
+        "AD": "381 South Main Street, West Hartford, CT-06107",
+        "CO": "0"
+      },
+      "10059": {
+        "NM": "Rick Lopes",
+        "LN": "Lopes",
+        "FN": "Rick",
+        "MN": "",
+        "P": "1",
+        "AD": "208 S. Mountain Drive, New Britain, CT-06052",
+        "CO": "0"
+      },
+      "10064": {
+        "NM": "Mirna Martinez",
+        "LN": "Martinez",
+        "FN": "Mirna",
+        "MN": "",
+        "P": "7",
+        "AD": "19 Prospect Street, New London, CT-06320",
+        "CO": "0"
+      },
+      "10055": {
+        "NM": "Sarah A. Muska",
+        "LN": "Muska",
+        "FN": "Sarah",
+        "MN": "A.",
+        "P": "6",
+        "AD": "25 Maple Avenue, Broad Brook, CT-06016",
+        "CO": "0"
+      },
+      "10062": {
+        "NM": "Anthony L. Nolan",
+        "LN": "Nolan",
+        "FN": "Anthony",
+        "MN": "L",
+        "P": "1",
+        "AD": "105 Blackhall Street, New London, CT",
+        "CO": "0"
+      },
+      "10058": {
+        "NM": "Jeffrey F. Przech",
+        "LN": "Przech",
+        "FN": "Jeffrey",
+        "MN": "F.",
+        "P": "3",
+        "AD": "12 Lake Garda Drive, Farmington, CT-06085",
+        "CO": "0"
+      },
+      "10056": {
+        "NM": "Derek Slap",
+        "LN": "Slap",
+        "FN": "Derek",
+        "MN": "",
+        "P": "1",
+        "AD": "51 Fairlee Road, West Hartford, CT-06107",
+        "CO": "0"
+      },
+      "10057": {
+        "NM": "Bill Wadsworth",
+        "LN": "Wadsworth",
+        "FN": "Bill",
+        "MN": "",
+        "P": "6",
+        "AD": "23 Red Oak Hill Road, Farmington, CT-06032",
+        "CO": "0"
+      },
+      "10069": {
+        "NM": "Joseph Zullo",
+        "LN": "Zullo",
+        "FN": "Joseph",
+        "MN": "",
+        "P": "6",
+        "AD": "2 Lisa Lane, East Haven, CT-06512",
+        "CO": "0"
+      },
+      "10068": {
+        "NM": "Josh Balter",
+        "LN": "Balter",
+        "FN": "Josh",
+        "MN": "",
+        "P": "12",
+        "AD": "35 Red Bluff Road, East Haven, CT-06513",
+        "CO": "0"
+      },
+      "10065": {
+        "NM": "Kat Goulart",
+        "LN": "Goulart",
+        "FN": "Kat",
+        "MN": "",
+        "P": "3",
+        "AD": "54 Dow Street, New London, CT-06320",
+        "CO": "0"
+      },
+      "10060": {
+        "NM": "Rick Lopes",
+        "LN": "Lopes",
+        "FN": "Rick",
+        "MN": "",
+        "P": "12",
+        "AD": "208 S. Mountain Drive, New Britain, CT-06052",
+        "CO": "0"
+      },
+      "10070": {
+        "NM": "Joseph Zullo",
+        "LN": "Zullo",
+        "FN": "Joseph",
+        "MN": "",
+        "P": "3",
+        "AD": "2 Lisa Lane, East Haven, CT-06512",
+        "CO": "0"
+      }
+    }
+  }
+}

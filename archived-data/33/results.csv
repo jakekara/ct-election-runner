@@ -1,0 +1,1772 @@
+office,town,candidate,party,votes,vote_percent
+Governor,statewide,Ned Lamont,D,172567,81.19%
+Governor,statewide,Joe Ganim,D,39976,18.81%
+Lieutenant Governor,statewide,Susan Bysiewicz,D,130451,62.20%
+Lieutenant Governor,statewide,Eva Bermudez Zimmerman,D,79281,37.80%
+Representative in Congress 05,statewide,Mary Messina Glassman,D,14964,37.73%
+Representative in Congress 05,statewide,Jahana Hayes,D,24693,62.27%
+State Senator 09,statewide,"Antonio ""Tony"" Guerrera",D,3699,43.63%
+State Senator 09,statewide,Matt Lesser,D,4779,56.37%
+State Senator 13,statewide,Mary Daugherty Abrams,D,4296,73.21%
+State Senator 13,statewide,Alex Tiktinsky,D,1572,26.79%
+State Senator 16,statewide,Dagmara Scalise,D,2642,49.65%
+State Senator 16,statewide,Vickie Orsini Nardello,D,2679,50.35%
+State Senator 17,statewide,Jorge Cabrera,D,2508,38.82%
+State Senator 17,statewide,Sean Grace,D,1832,28.35%
+State Senator 17,statewide,Valerie Horsley,D,2121,32.83%
+State Senator 23,statewide,Dennis Bradley,D,2989,54.78%
+State Senator 23,statewide,Aaron Turner,D,2467,45.22%
+State Senator 34,statewide,Aili McKeen,D,3242,70.88%
+State Senator 34,statewide,Josh Balter,D,1332,29.12%
+State Representative 03,statewide,Minnie Gonzalez,D,847,65.15%
+State Representative 03,statewide,Gannon R Long,D,453,34.85%
+State Representative 05,statewide,Lawrence O Jaggon,D,597,25.95%
+State Representative 05,statewide,Brandon McGee,D,1704,74.05%
+State Representative 18,statewide,Andy Fleischmann,D,1558,47.72%
+State Representative 18,statewide,Jillian Gilchrest,D,1707,52.28%
+State Representative 29,statewide,Christopher Duff,D,994,46.17%
+State Representative 29,statewide,Kerry Szeps Wood,D,1159,53.83%
+State Representative 38,statewide,Baird Welch-Collins,D,616,36.84%
+State Representative 38,statewide,Nick Gauthier,D,448,26.79%
+State Representative 38,statewide,Patrick Murphy,D,608,36.36%
+State Representative 43,statewide,Kate Rotella,D,1151,52.99%
+State Representative 43,statewide,Chris Donahue,D,1021,47.01%
+State Representative 60,statewide,Jane M Garibay,D,1368,67.39%
+State Representative 60,statewide,Kathleen Tracy,D,662,32.61%
+State Representative 126,statewide,Shante Hanks,D,1037,47.53%
+State Representative 126,statewide,Charlie Stallworth,D,1145,52.47%
+State Representative 140,statewide,Travis Simms,D,562,53.22%
+State Representative 140,statewide,Colin Anthony Hosten,D,494,46.78%
+State Representative 146,statewide,David Michel,D,1063,68.49%
+State Representative 146,statewide,Terry B Adams,D,489,31.51%
+Treasurer,statewide,Shawn Wooden,D,116167,56.82%
+Treasurer,statewide,Dita Bhargava,D,88298,43.18%
+Attorney General,statewide,William Tong,D,119574,57.43%
+Attorney General,statewide,Paul R Doyle,D,34822,16.72%
+Attorney General,statewide,Chris Mattei,D,53822,25.85%
+Judge of Probate 27,statewide,Andrea Truppa,D,1132,65.43%
+Judge of Probate 27,statewide,Michael J Cartier,D,598,34.57%
+Judge of Probate 51,statewide,Doug Stern,D,3680,72.93%
+Judge of Probate 51,statewide,Darnell D Crosland,D,1366,27.07%
+Registrar of Voters,statewide,Donna Ferguson,D,376,44.71%
+Registrar of Voters,statewide,James D Pape,D,465,55.29%
+Registrar of Voters,statewide,Karen Stockton,D,151,63.71%
+Registrar of Voters,statewide,Cheryl A. Roberts,D,86,36.29%
+Registrar of Voters,statewide,Mary Hegarty,D,2269,85.98%
+Registrar of Voters,statewide,Joseph S Huley,D,370,14.02%
+Governor,Andover,Ned Lamont,D,218,87.20%
+Governor,Andover,Joe Ganim,D,32,12.80%
+Lieutenant Governor,Andover,Susan Bysiewicz,D,155,62.00%
+Lieutenant Governor,Andover,Eva Bermudez Zimmerman,D,95,38.00%
+Treasurer,Andover,Shawn Wooden,D,121,50.00%
+Treasurer,Andover,Dita Bhargava,D,121,50.00%
+Attorney General,Andover,William Tong,D,126,52.07%
+Attorney General,Andover,Paul R Doyle,D,42,17.36%
+Attorney General,Andover,Chris Mattei,D,74,30.58%
+Governor,Ansonia,Ned Lamont,D,517,62.14%
+Governor,Ansonia,Joe Ganim,D,315,37.86%
+Lieutenant Governor,Ansonia,Susan Bysiewicz,D,522,63.35%
+Lieutenant Governor,Ansonia,Eva Bermudez Zimmerman,D,302,36.65%
+State Senator 17,Ansonia,Jorge Cabrera,D,303,36.82%
+State Senator 17,Ansonia,Sean Grace,D,255,30.98%
+State Senator 17,Ansonia,Valerie Horsley,D,265,32.20%
+Treasurer,Ansonia,Shawn Wooden,D,471,58.51%
+Treasurer,Ansonia,Dita Bhargava,D,334,41.49%
+Attorney General,Ansonia,William Tong,D,379,46.50%
+Attorney General,Ansonia,Paul R Doyle,D,175,21.47%
+Attorney General,Ansonia,Chris Mattei,D,261,32.02%
+Governor,Ashford,Ned Lamont,D,344,88.43%
+Governor,Ashford,Joe Ganim,D,45,11.57%
+Lieutenant Governor,Ashford,Susan Bysiewicz,D,247,63.50%
+Lieutenant Governor,Ashford,Eva Bermudez Zimmerman,D,142,36.50%
+Treasurer,Ashford,Shawn Wooden,D,208,54.59%
+Treasurer,Ashford,Dita Bhargava,D,173,45.41%
+Attorney General,Ashford,William Tong,D,251,65.71%
+Attorney General,Ashford,Paul R Doyle,D,35,9.16%
+Attorney General,Ashford,Chris Mattei,D,96,25.13%
+Governor,Avon,Ned Lamont,D,1330,92.75%
+Governor,Avon,Joe Ganim,D,104,7.25%
+Lieutenant Governor,Avon,Susan Bysiewicz,D,943,65.90%
+Lieutenant Governor,Avon,Eva Bermudez Zimmerman,D,488,34.10%
+Representative in Congress 05,Avon,Mary Messina Glassman,D,844,58.45%
+Representative in Congress 05,Avon,Jahana Hayes,D,600,41.55%
+Treasurer,Avon,Shawn Wooden,D,768,55.29%
+Treasurer,Avon,Dita Bhargava,D,621,44.71%
+Attorney General,Avon,William Tong,D,906,64.16%
+Attorney General,Avon,Paul R Doyle,D,128,9.07%
+Attorney General,Avon,Chris Mattei,D,378,26.77%
+Governor,Barkhamsted,Ned Lamont,D,179,90.40%
+Governor,Barkhamsted,Joe Ganim,D,19,9.60%
+Lieutenant Governor,Barkhamsted,Susan Bysiewicz,D,137,67.82%
+Lieutenant Governor,Barkhamsted,Eva Bermudez Zimmerman,D,65,32.18%
+Treasurer,Barkhamsted,Shawn Wooden,D,105,54.12%
+Treasurer,Barkhamsted,Dita Bhargava,D,89,45.88%
+Attorney General,Barkhamsted,William Tong,D,120,60.00%
+Attorney General,Barkhamsted,Paul R Doyle,D,19,9.50%
+Attorney General,Barkhamsted,Chris Mattei,D,61,30.50%
+Governor,Beacon Falls,Ned Lamont,D,255,74.34%
+Governor,Beacon Falls,Joe Ganim,D,88,25.66%
+Lieutenant Governor,Beacon Falls,Susan Bysiewicz,D,244,71.76%
+Lieutenant Governor,Beacon Falls,Eva Bermudez Zimmerman,D,96,28.24%
+State Senator 17,Beacon Falls,Jorge Cabrera,D,76,22.29%
+State Senator 17,Beacon Falls,Sean Grace,D,200,58.65%
+State Senator 17,Beacon Falls,Valerie Horsley,D,65,19.06%
+Treasurer,Beacon Falls,Shawn Wooden,D,195,59.27%
+Treasurer,Beacon Falls,Dita Bhargava,D,134,40.73%
+Attorney General,Beacon Falls,William Tong,D,185,54.90%
+Attorney General,Beacon Falls,Paul R Doyle,D,50,14.84%
+Attorney General,Beacon Falls,Chris Mattei,D,102,30.27%
+Governor,Berlin,Ned Lamont,D,1107,81.76%
+Governor,Berlin,Joe Ganim,D,247,18.24%
+Lieutenant Governor,Berlin,Susan Bysiewicz,D,923,68.37%
+Lieutenant Governor,Berlin,Eva Bermudez Zimmerman,D,427,31.63%
+Treasurer,Berlin,Shawn Wooden,D,759,58.47%
+Treasurer,Berlin,Dita Bhargava,D,539,41.53%
+Attorney General,Berlin,William Tong,D,750,56.39%
+Attorney General,Berlin,Paul R Doyle,D,264,19.85%
+Attorney General,Berlin,Chris Mattei,D,316,23.76%
+Governor,Bethany,Ned Lamont,D,409,87.02%
+Governor,Bethany,Joe Ganim,D,61,12.98%
+Lieutenant Governor,Bethany,Susan Bysiewicz,D,299,63.62%
+Lieutenant Governor,Bethany,Eva Bermudez Zimmerman,D,171,36.38%
+State Senator 17,Bethany,Jorge Cabrera,D,248,53.22%
+State Senator 17,Bethany,Sean Grace,D,63,13.52%
+State Senator 17,Bethany,Valerie Horsley,D,155,33.26%
+Treasurer,Bethany,Shawn Wooden,D,251,54.57%
+Treasurer,Bethany,Dita Bhargava,D,209,45.43%
+Attorney General,Bethany,William Tong,D,293,64.25%
+Attorney General,Bethany,Paul R Doyle,D,22,4.82%
+Attorney General,Bethany,Chris Mattei,D,141,30.92%
+Governor,Bethel,Ned Lamont,D,886,85.52%
+Governor,Bethel,Joe Ganim,D,150,14.48%
+Lieutenant Governor,Bethel,Susan Bysiewicz,D,660,64.45%
+Lieutenant Governor,Bethel,Eva Bermudez Zimmerman,D,364,35.55%
+Representative in Congress 05,Bethel,Mary Messina Glassman,D,354,34.24%
+Representative in Congress 05,Bethel,Jahana Hayes,D,680,65.76%
+Treasurer,Bethel,Shawn Wooden,D,475,47.12%
+Treasurer,Bethel,Dita Bhargava,D,533,52.88%
+Attorney General,Bethel,William Tong,D,626,61.61%
+Attorney General,Bethel,Paul R Doyle,D,122,12.01%
+Attorney General,Bethel,Chris Mattei,D,268,26.38%
+Governor,Bethlehem,Ned Lamont,D,245,80.86%
+Governor,Bethlehem,Joe Ganim,D,58,19.14%
+Lieutenant Governor,Bethlehem,Susan Bysiewicz,D,204,68.92%
+Lieutenant Governor,Bethlehem,Eva Bermudez Zimmerman,D,92,31.08%
+Representative in Congress 05,Bethlehem,Mary Messina Glassman,D,82,27.24%
+Representative in Congress 05,Bethlehem,Jahana Hayes,D,219,72.76%
+Treasurer,Bethlehem,Shawn Wooden,D,153,53.13%
+Treasurer,Bethlehem,Dita Bhargava,D,135,46.88%
+Attorney General,Bethlehem,William Tong,D,185,63.57%
+Attorney General,Bethlehem,Paul R Doyle,D,41,14.09%
+Attorney General,Bethlehem,Chris Mattei,D,65,22.34%
+Governor,Bloomfield,Ned Lamont,D,2451,81.78%
+Governor,Bloomfield,Joe Ganim,D,546,18.22%
+Lieutenant Governor,Bloomfield,Susan Bysiewicz,D,1786,59.51%
+Lieutenant Governor,Bloomfield,Eva Bermudez Zimmerman,D,1215,40.49%
+Treasurer,Bloomfield,Shawn Wooden,D,2182,73.92%
+Treasurer,Bloomfield,Dita Bhargava,D,770,26.08%
+Attorney General,Bloomfield,William Tong,D,1824,61.48%
+Attorney General,Bloomfield,Paul R Doyle,D,288,9.71%
+Attorney General,Bloomfield,Chris Mattei,D,855,28.82%
+Governor,Bolton,Ned Lamont,D,330,87.77%
+Governor,Bolton,Joe Ganim,D,46,12.23%
+Lieutenant Governor,Bolton,Susan Bysiewicz,D,238,63.13%
+Lieutenant Governor,Bolton,Eva Bermudez Zimmerman,D,139,36.87%
+Treasurer,Bolton,Shawn Wooden,D,181,51.27%
+Treasurer,Bolton,Dita Bhargava,D,172,48.73%
+Attorney General,Bolton,William Tong,D,209,57.26%
+Attorney General,Bolton,Paul R Doyle,D,41,11.23%
+Attorney General,Bolton,Chris Mattei,D,115,31.51%
+Governor,Bozrah,Ned Lamont,D,112,77.78%
+Governor,Bozrah,Joe Ganim,D,32,22.22%
+Lieutenant Governor,Bozrah,Susan Bysiewicz,D,103,67.76%
+Lieutenant Governor,Bozrah,Eva Bermudez Zimmerman,D,49,32.24%
+Treasurer,Bozrah,Shawn Wooden,D,90,60.40%
+Treasurer,Bozrah,Dita Bhargava,D,59,39.60%
+Attorney General,Bozrah,William Tong,D,88,58.67%
+Attorney General,Bozrah,Paul R Doyle,D,17,11.33%
+Attorney General,Bozrah,Chris Mattei,D,45,30.00%
+Governor,Branford,Ned Lamont,D,1983,85.84%
+Governor,Branford,Joe Ganim,D,327,14.16%
+Lieutenant Governor,Branford,Susan Bysiewicz,D,1439,62.24%
+Lieutenant Governor,Branford,Eva Bermudez Zimmerman,D,873,37.76%
+Treasurer,Branford,Shawn Wooden,D,1262,55.91%
+Treasurer,Branford,Dita Bhargava,D,995,44.09%
+Attorney General,Branford,William Tong,D,1289,56.83%
+Attorney General,Branford,Paul R Doyle,D,201,8.86%
+Attorney General,Branford,Chris Mattei,D,778,34.30%
+Governor,Bridgeport,Ned Lamont,D,3703,42.50%
+Governor,Bridgeport,Joe Ganim,D,5009,57.50%
+Lieutenant Governor,Bridgeport,Susan Bysiewicz,D,3353,44.34%
+Lieutenant Governor,Bridgeport,Eva Bermudez Zimmerman,D,4209,55.66%
+State Senator 23,Bridgeport,Dennis Bradley,D,2727,56.15%
+State Senator 23,Bridgeport,Aaron Turner,D,2130,43.85%
+State Representative 126,Bridgeport,Shante Hanks,D,1037,47.53%
+State Representative 126,Bridgeport,Charlie Stallworth,D,1145,52.47%
+Treasurer,Bridgeport,Shawn Wooden,D,3870,50.67%
+Treasurer,Bridgeport,Dita Bhargava,D,3767,49.33%
+Attorney General,Bridgeport,William Tong,D,3745,47.87%
+Attorney General,Bridgeport,Paul R Doyle,D,3163,40.43%
+Attorney General,Bridgeport,Chris Mattei,D,915,11.70%
+Governor,Bridgewater,Ned Lamont,D,154,90.59%
+Governor,Bridgewater,Joe Ganim,D,16,9.41%
+Lieutenant Governor,Bridgewater,Susan Bysiewicz,D,122,69.32%
+Lieutenant Governor,Bridgewater,Eva Bermudez Zimmerman,D,54,30.68%
+Representative in Congress 05,Bridgewater,Mary Messina Glassman,D,65,36.72%
+Representative in Congress 05,Bridgewater,Jahana Hayes,D,112,63.28%
+Treasurer,Bridgewater,Shawn Wooden,D,96,57.83%
+Treasurer,Bridgewater,Dita Bhargava,D,70,42.17%
+Attorney General,Bridgewater,William Tong,D,110,65.48%
+Attorney General,Bridgewater,Paul R Doyle,D,21,12.50%
+Attorney General,Bridgewater,Chris Mattei,D,37,22.02%
+Governor,Bristol,Ned Lamont,D,2480,83.84%
+Governor,Bristol,Joe Ganim,D,478,16.16%
+Lieutenant Governor,Bristol,Susan Bysiewicz,D,2027,68.60%
+Lieutenant Governor,Bristol,Eva Bermudez Zimmerman,D,928,31.40%
+Treasurer,Bristol,Shawn Wooden,D,1761,60.56%
+Treasurer,Bristol,Dita Bhargava,D,1147,39.44%
+Attorney General,Bristol,William Tong,D,1686,57.27%
+Attorney General,Bristol,Paul R Doyle,D,437,14.84%
+Attorney General,Bristol,Chris Mattei,D,821,27.89%
+Governor,Brookfield,Ned Lamont,D,663,88.52%
+Governor,Brookfield,Joe Ganim,D,86,11.48%
+Lieutenant Governor,Brookfield,Susan Bysiewicz,D,505,66.89%
+Lieutenant Governor,Brookfield,Eva Bermudez Zimmerman,D,250,33.11%
+Representative in Congress 05,Brookfield,Mary Messina Glassman,D,285,38.10%
+Representative in Congress 05,Brookfield,Jahana Hayes,D,463,61.90%
+Treasurer,Brookfield,Shawn Wooden,D,375,52.01%
+Treasurer,Brookfield,Dita Bhargava,D,346,47.99%
+Attorney General,Brookfield,William Tong,D,443,60.11%
+Attorney General,Brookfield,Paul R Doyle,D,81,10.99%
+Attorney General,Brookfield,Chris Mattei,D,213,28.90%
+Governor,Brooklyn,Ned Lamont,D,246,84.83%
+Governor,Brooklyn,Joe Ganim,D,44,15.17%
+Lieutenant Governor,Brooklyn,Susan Bysiewicz,D,186,63.70%
+Lieutenant Governor,Brooklyn,Eva Bermudez Zimmerman,D,106,36.30%
+Treasurer,Brooklyn,Shawn Wooden,D,161,56.29%
+Treasurer,Brooklyn,Dita Bhargava,D,125,43.71%
+Attorney General,Brooklyn,William Tong,D,182,62.98%
+Attorney General,Brooklyn,Paul R Doyle,D,28,9.69%
+Attorney General,Brooklyn,Chris Mattei,D,79,27.34%
+Governor,Burlington,Ned Lamont,D,490,89.42%
+Governor,Burlington,Joe Ganim,D,58,10.58%
+Lieutenant Governor,Burlington,Susan Bysiewicz,D,343,62.36%
+Lieutenant Governor,Burlington,Eva Bermudez Zimmerman,D,207,37.64%
+Representative in Congress 05,Burlington,Mary Messina Glassman,D,280,51.28%
+Representative in Congress 05,Burlington,Jahana Hayes,D,266,48.72%
+Treasurer,Burlington,Shawn Wooden,D,298,56.02%
+Treasurer,Burlington,Dita Bhargava,D,234,43.98%
+Attorney General,Burlington,William Tong,D,329,60.59%
+Attorney General,Burlington,Paul R Doyle,D,59,10.87%
+Attorney General,Burlington,Chris Mattei,D,155,28.55%
+Governor,Canaan,Ned Lamont,D,121,92.37%
+Governor,Canaan,Joe Ganim,D,10,7.63%
+Lieutenant Governor,Canaan,Susan Bysiewicz,D,82,64.06%
+Lieutenant Governor,Canaan,Eva Bermudez Zimmerman,D,46,35.94%
+Representative in Congress 05,Canaan,Mary Messina Glassman,D,17,12.69%
+Representative in Congress 05,Canaan,Jahana Hayes,D,117,87.31%
+Treasurer,Canaan,Shawn Wooden,D,71,58.68%
+Treasurer,Canaan,Dita Bhargava,D,50,41.32%
+Attorney General,Canaan,William Tong,D,91,73.39%
+Attorney General,Canaan,Paul R Doyle,D,12,9.68%
+Attorney General,Canaan,Chris Mattei,D,21,16.94%
+Governor,Canterbury,Ned Lamont,D,209,90.09%
+Governor,Canterbury,Joe Ganim,D,23,9.91%
+Lieutenant Governor,Canterbury,Susan Bysiewicz,D,169,74.12%
+Lieutenant Governor,Canterbury,Eva Bermudez Zimmerman,D,59,25.88%
+Treasurer,Canterbury,Shawn Wooden,D,128,57.40%
+Treasurer,Canterbury,Dita Bhargava,D,95,42.60%
+Attorney General,Canterbury,William Tong,D,148,66.07%
+Attorney General,Canterbury,Paul R Doyle,D,25,11.16%
+Attorney General,Canterbury,Chris Mattei,D,51,22.77%
+Judge of Probate 27,Canterbury,Andrea Truppa,D,171,74.67%
+Judge of Probate 27,Canterbury,Michael J Cartier,D,58,25.33%
+Governor,Canton,Ned Lamont,D,787,90.67%
+Governor,Canton,Joe Ganim,D,81,9.33%
+Lieutenant Governor,Canton,Susan Bysiewicz,D,505,58.79%
+Lieutenant Governor,Canton,Eva Bermudez Zimmerman,D,354,41.21%
+Representative in Congress 05,Canton,Mary Messina Glassman,D,431,48.98%
+Representative in Congress 05,Canton,Jahana Hayes,D,449,51.02%
+Treasurer,Canton,Shawn Wooden,D,440,52.95%
+Treasurer,Canton,Dita Bhargava,D,391,47.05%
+Attorney General,Canton,William Tong,D,537,63.10%
+Attorney General,Canton,Paul R Doyle,D,70,8.23%
+Attorney General,Canton,Chris Mattei,D,244,28.67%
+Governor,Chaplin,Ned Lamont,D,131,94.24%
+Governor,Chaplin,Joe Ganim,D,8,5.76%
+Lieutenant Governor,Chaplin,Susan Bysiewicz,D,77,55.80%
+Lieutenant Governor,Chaplin,Eva Bermudez Zimmerman,D,61,44.20%
+Treasurer,Chaplin,Shawn Wooden,D,88,64.71%
+Treasurer,Chaplin,Dita Bhargava,D,48,35.29%
+Attorney General,Chaplin,William Tong,D,91,67.91%
+Attorney General,Chaplin,Paul R Doyle,D,14,10.45%
+Attorney General,Chaplin,Chris Mattei,D,29,21.64%
+Governor,Cheshire,Ned Lamont,D,1675,84.72%
+Governor,Cheshire,Joe Ganim,D,302,15.28%
+Lieutenant Governor,Cheshire,Susan Bysiewicz,D,1312,66.00%
+Lieutenant Governor,Cheshire,Eva Bermudez Zimmerman,D,676,34.00%
+Representative in Congress 05,Cheshire,Mary Messina Glassman,D,656,32.92%
+Representative in Congress 05,Cheshire,Jahana Hayes,D,1337,67.08%
+State Senator 13,Cheshire,Mary Daugherty Abrams,D,1138,77.15%
+State Senator 13,Cheshire,Alex Tiktinsky,D,337,22.85%
+State Senator 16,Cheshire,Dagmara Scalise,D,205,43.34%
+State Senator 16,Cheshire,Vickie Orsini Nardello,D,268,56.66%
+Treasurer,Cheshire,Shawn Wooden,D,985,50.77%
+Treasurer,Cheshire,Dita Bhargava,D,955,49.23%
+Attorney General,Cheshire,William Tong,D,1188,60.64%
+Attorney General,Cheshire,Paul R Doyle,D,224,11.43%
+Attorney General,Cheshire,Chris Mattei,D,547,27.92%
+Governor,Chester,Ned Lamont,D,375,93.52%
+Governor,Chester,Joe Ganim,D,26,6.48%
+Lieutenant Governor,Chester,Susan Bysiewicz,D,257,63.77%
+Lieutenant Governor,Chester,Eva Bermudez Zimmerman,D,146,36.23%
+Treasurer,Chester,Shawn Wooden,D,255,66.06%
+Treasurer,Chester,Dita Bhargava,D,131,33.94%
+Attorney General,Chester,William Tong,D,268,68.54%
+Attorney General,Chester,Paul R Doyle,D,33,8.44%
+Attorney General,Chester,Chris Mattei,D,90,23.02%
+Governor,Clinton,Ned Lamont,D,709,84.71%
+Governor,Clinton,Joe Ganim,D,128,15.29%
+Lieutenant Governor,Clinton,Susan Bysiewicz,D,565,67.83%
+Lieutenant Governor,Clinton,Eva Bermudez Zimmerman,D,268,32.17%
+Treasurer,Clinton,Shawn Wooden,D,501,61.70%
+Treasurer,Clinton,Dita Bhargava,D,311,38.30%
+Attorney General,Clinton,William Tong,D,528,64.08%
+Attorney General,Clinton,Paul R Doyle,D,80,9.71%
+Attorney General,Clinton,Chris Mattei,D,216,26.21%
+Governor,Colchester,Ned Lamont,D,840,88.79%
+Governor,Colchester,Joe Ganim,D,106,11.21%
+Lieutenant Governor,Colchester,Susan Bysiewicz,D,618,64.92%
+Lieutenant Governor,Colchester,Eva Bermudez Zimmerman,D,334,35.08%
+Treasurer,Colchester,Shawn Wooden,D,518,56.30%
+Treasurer,Colchester,Dita Bhargava,D,402,43.70%
+Attorney General,Colchester,William Tong,D,511,54.36%
+Attorney General,Colchester,Paul R Doyle,D,130,13.83%
+Attorney General,Colchester,Chris Mattei,D,299,31.81%
+Governor,Colebrook,Ned Lamont,D,77,85.56%
+Governor,Colebrook,Joe Ganim,D,13,14.44%
+Lieutenant Governor,Colebrook,Susan Bysiewicz,D,64,71.11%
+Lieutenant Governor,Colebrook,Eva Bermudez Zimmerman,D,26,28.89%
+Treasurer,Colebrook,Shawn Wooden,D,48,54.55%
+Treasurer,Colebrook,Dita Bhargava,D,40,45.45%
+Attorney General,Colebrook,William Tong,D,66,74.16%
+Attorney General,Colebrook,Paul R Doyle,D,6,6.74%
+Attorney General,Colebrook,Chris Mattei,D,17,19.10%
+Governor,Columbia,Ned Lamont,D,385,91.67%
+Governor,Columbia,Joe Ganim,D,35,8.33%
+Lieutenant Governor,Columbia,Susan Bysiewicz,D,237,57.66%
+Lieutenant Governor,Columbia,Eva Bermudez Zimmerman,D,174,42.34%
+Treasurer,Columbia,Shawn Wooden,D,225,56.68%
+Treasurer,Columbia,Dita Bhargava,D,172,43.32%
+Attorney General,Columbia,William Tong,D,232,57.43%
+Attorney General,Columbia,Paul R Doyle,D,47,11.63%
+Attorney General,Columbia,Chris Mattei,D,125,30.94%
+Governor,Cornwall,Ned Lamont,D,286,93.16%
+Governor,Cornwall,Joe Ganim,D,21,6.84%
+Lieutenant Governor,Cornwall,Susan Bysiewicz,D,165,55.18%
+Lieutenant Governor,Cornwall,Eva Bermudez Zimmerman,D,134,44.82%
+Representative in Congress 05,Cornwall,Mary Messina Glassman,D,49,15.65%
+Representative in Congress 05,Cornwall,Jahana Hayes,D,264,84.35%
+Treasurer,Cornwall,Shawn Wooden,D,171,58.97%
+Treasurer,Cornwall,Dita Bhargava,D,119,41.03%
+Attorney General,Cornwall,William Tong,D,233,80.34%
+Attorney General,Cornwall,Paul R Doyle,D,26,8.97%
+Attorney General,Cornwall,Chris Mattei,D,31,10.69%
+Governor,Coventry,Ned Lamont,D,707,91.11%
+Governor,Coventry,Joe Ganim,D,69,8.89%
+Lieutenant Governor,Coventry,Susan Bysiewicz,D,477,61.39%
+Lieutenant Governor,Coventry,Eva Bermudez Zimmerman,D,300,38.61%
+Treasurer,Coventry,Shawn Wooden,D,408,53.54%
+Treasurer,Coventry,Dita Bhargava,D,354,46.46%
+Attorney General,Coventry,William Tong,D,468,60.86%
+Attorney General,Coventry,Paul R Doyle,D,77,10.01%
+Attorney General,Coventry,Chris Mattei,D,224,29.13%
+Governor,Cromwell,Ned Lamont,D,970,85.46%
+Governor,Cromwell,Joe Ganim,D,165,14.54%
+Lieutenant Governor,Cromwell,Susan Bysiewicz,D,759,66.70%
+Lieutenant Governor,Cromwell,Eva Bermudez Zimmerman,D,379,33.30%
+State Senator 09,Cromwell,"Antonio ""Tony"" Guerrera",D,394,34.50%
+State Senator 09,Cromwell,Matt Lesser,D,748,65.50%
+Treasurer,Cromwell,Shawn Wooden,D,595,53.60%
+Treasurer,Cromwell,Dita Bhargava,D,515,46.40%
+Attorney General,Cromwell,William Tong,D,428,37.19%
+Attorney General,Cromwell,Paul R Doyle,D,502,43.61%
+Attorney General,Cromwell,Chris Mattei,D,221,19.20%
+Governor,Danbury,Ned Lamont,D,2259,84.20%
+Governor,Danbury,Joe Ganim,D,424,15.80%
+Lieutenant Governor,Danbury,Susan Bysiewicz,D,1635,60.98%
+Lieutenant Governor,Danbury,Eva Bermudez Zimmerman,D,1046,39.02%
+Representative in Congress 05,Danbury,Mary Messina Glassman,D,966,35.41%
+Representative in Congress 05,Danbury,Jahana Hayes,D,1762,64.59%
+Treasurer,Danbury,Shawn Wooden,D,1395,52.98%
+Treasurer,Danbury,Dita Bhargava,D,1238,47.02%
+Attorney General,Danbury,William Tong,D,1576,59.03%
+Attorney General,Danbury,Paul R Doyle,D,405,15.17%
+Attorney General,Danbury,Chris Mattei,D,689,25.81%
+Governor,Darien,Ned Lamont,D,679,94.31%
+Governor,Darien,Joe Ganim,D,41,5.69%
+Lieutenant Governor,Darien,Susan Bysiewicz,D,562,80.63%
+Lieutenant Governor,Darien,Eva Bermudez Zimmerman,D,135,19.37%
+Treasurer,Darien,Shawn Wooden,D,366,53.35%
+Treasurer,Darien,Dita Bhargava,D,320,46.65%
+Attorney General,Darien,William Tong,D,595,83.68%
+Attorney General,Darien,Paul R Doyle,D,38,5.34%
+Attorney General,Darien,Chris Mattei,D,78,10.97%
+Governor,Deep River,Ned Lamont,D,338,88.95%
+Governor,Deep River,Joe Ganim,D,42,11.05%
+Lieutenant Governor,Deep River,Susan Bysiewicz,D,258,68.25%
+Lieutenant Governor,Deep River,Eva Bermudez Zimmerman,D,120,31.75%
+Treasurer,Deep River,Shawn Wooden,D,208,56.37%
+Treasurer,Deep River,Dita Bhargava,D,161,43.63%
+Attorney General,Deep River,William Tong,D,236,65.01%
+Attorney General,Deep River,Paul R Doyle,D,38,10.47%
+Attorney General,Deep River,Chris Mattei,D,89,24.52%
+Governor,Derby,Ned Lamont,D,449,62.97%
+Governor,Derby,Joe Ganim,D,264,37.03%
+Lieutenant Governor,Derby,Susan Bysiewicz,D,483,69.30%
+Lieutenant Governor,Derby,Eva Bermudez Zimmerman,D,214,30.70%
+State Senator 17,Derby,Jorge Cabrera,D,293,41.68%
+State Senator 17,Derby,Sean Grace,D,220,31.29%
+State Senator 17,Derby,Valerie Horsley,D,190,27.03%
+Treasurer,Derby,Shawn Wooden,D,398,59.14%
+Treasurer,Derby,Dita Bhargava,D,275,40.86%
+Attorney General,Derby,William Tong,D,328,47.13%
+Attorney General,Derby,Paul R Doyle,D,104,14.94%
+Attorney General,Derby,Chris Mattei,D,264,37.93%
+Governor,Durham,Ned Lamont,D,436,87.20%
+Governor,Durham,Joe Ganim,D,64,12.80%
+Lieutenant Governor,Durham,Susan Bysiewicz,D,324,64.16%
+Lieutenant Governor,Durham,Eva Bermudez Zimmerman,D,181,35.84%
+State Senator 34,Durham,Aili McKeen,D,85,66.93%
+State Senator 34,Durham,Josh Balter,D,42,33.07%
+Treasurer,Durham,Shawn Wooden,D,274,57.08%
+Treasurer,Durham,Dita Bhargava,D,206,42.92%
+Attorney General,Durham,William Tong,D,261,52.94%
+Attorney General,Durham,Paul R Doyle,D,72,14.60%
+Attorney General,Durham,Chris Mattei,D,160,32.45%
+Governor,Eastford,Ned Lamont,D,98,89.09%
+Governor,Eastford,Joe Ganim,D,12,10.91%
+Lieutenant Governor,Eastford,Susan Bysiewicz,D,54,48.21%
+Lieutenant Governor,Eastford,Eva Bermudez Zimmerman,D,58,51.79%
+Treasurer,Eastford,Shawn Wooden,D,78,70.27%
+Treasurer,Eastford,Dita Bhargava,D,33,29.73%
+Attorney General,Eastford,William Tong,D,73,65.18%
+Attorney General,Eastford,Paul R Doyle,D,18,16.07%
+Attorney General,Eastford,Chris Mattei,D,21,18.75%
+Governor,East Granby,Ned Lamont,D,281,90.06%
+Governor,East Granby,Joe Ganim,D,31,9.94%
+Lieutenant Governor,East Granby,Susan Bysiewicz,D,211,67.20%
+Lieutenant Governor,East Granby,Eva Bermudez Zimmerman,D,103,32.80%
+Treasurer,East Granby,Shawn Wooden,D,185,61.46%
+Treasurer,East Granby,Dita Bhargava,D,116,38.54%
+Attorney General,East Granby,William Tong,D,186,60.00%
+Attorney General,East Granby,Paul R Doyle,D,32,10.32%
+Attorney General,East Granby,Chris Mattei,D,92,29.68%
+Governor,East Haddam,Ned Lamont,D,565,88.70%
+Governor,East Haddam,Joe Ganim,D,72,11.30%
+Lieutenant Governor,East Haddam,Susan Bysiewicz,D,415,65.46%
+Lieutenant Governor,East Haddam,Eva Bermudez Zimmerman,D,219,34.54%
+Treasurer,East Haddam,Shawn Wooden,D,333,53.28%
+Treasurer,East Haddam,Dita Bhargava,D,292,46.72%
+Attorney General,East Haddam,William Tong,D,413,65.87%
+Attorney General,East Haddam,Paul R Doyle,D,71,11.32%
+Attorney General,East Haddam,Chris Mattei,D,143,22.81%
+Governor,East Hampton,Ned Lamont,D,595,84.04%
+Governor,East Hampton,Joe Ganim,D,113,15.96%
+Lieutenant Governor,East Hampton,Susan Bysiewicz,D,412,58.61%
+Lieutenant Governor,East Hampton,Eva Bermudez Zimmerman,D,291,41.39%
+Treasurer,East Hampton,Shawn Wooden,D,360,51.65%
+Treasurer,East Hampton,Dita Bhargava,D,337,48.35%
+Attorney General,East Hampton,William Tong,D,365,52.44%
+Attorney General,East Hampton,Paul R Doyle,D,114,16.38%
+Attorney General,East Hampton,Chris Mattei,D,217,31.18%
+Governor,East Hartford,Ned Lamont,D,2145,78.92%
+Governor,East Hartford,Joe Ganim,D,573,21.08%
+Lieutenant Governor,East Hartford,Susan Bysiewicz,D,1597,57.86%
+Lieutenant Governor,East Hartford,Eva Bermudez Zimmerman,D,1163,42.14%
+Treasurer,East Hartford,Shawn Wooden,D,1659,63.10%
+Treasurer,East Hartford,Dita Bhargava,D,970,36.90%
+Attorney General,East Hartford,William Tong,D,1480,57.74%
+Attorney General,East Hartford,Paul R Doyle,D,521,20.33%
+Attorney General,East Hartford,Chris Mattei,D,562,21.93%
+Governor,East Haven,Ned Lamont,D,766,67.49%
+Governor,East Haven,Joe Ganim,D,369,32.51%
+Lieutenant Governor,East Haven,Susan Bysiewicz,D,723,65.73%
+Lieutenant Governor,East Haven,Eva Bermudez Zimmerman,D,377,34.27%
+State Senator 34,East Haven,Aili McKeen,D,549,50.46%
+State Senator 34,East Haven,Josh Balter,D,539,49.54%
+Treasurer,East Haven,Shawn Wooden,D,592,55.85%
+Treasurer,East Haven,Dita Bhargava,D,468,44.15%
+Attorney General,East Haven,William Tong,D,581,53.06%
+Attorney General,East Haven,Paul R Doyle,D,157,14.34%
+Attorney General,East Haven,Chris Mattei,D,357,32.60%
+Governor,East Lyme,Ned Lamont,D,1100,89.36%
+Governor,East Lyme,Joe Ganim,D,131,10.64%
+Lieutenant Governor,East Lyme,Susan Bysiewicz,D,842,69.47%
+Lieutenant Governor,East Lyme,Eva Bermudez Zimmerman,D,370,30.53%
+Treasurer,East Lyme,Shawn Wooden,D,640,53.56%
+Treasurer,East Lyme,Dita Bhargava,D,555,46.44%
+Attorney General,East Lyme,William Tong,D,757,63.03%
+Attorney General,East Lyme,Paul R Doyle,D,140,11.66%
+Attorney General,East Lyme,Chris Mattei,D,304,25.31%
+Governor,Easton,Ned Lamont,D,394,85.84%
+Governor,Easton,Joe Ganim,D,65,14.16%
+Lieutenant Governor,Easton,Susan Bysiewicz,D,294,66.52%
+Lieutenant Governor,Easton,Eva Bermudez Zimmerman,D,148,33.48%
+Treasurer,Easton,Shawn Wooden,D,205,47.24%
+Treasurer,Easton,Dita Bhargava,D,229,52.76%
+Attorney General,Easton,William Tong,D,277,63.10%
+Attorney General,Easton,Paul R Doyle,D,39,8.88%
+Attorney General,Easton,Chris Mattei,D,123,28.02%
+Governor,East Windsor,Ned Lamont,D,373,81.09%
+Governor,East Windsor,Joe Ganim,D,87,18.91%
+Lieutenant Governor,East Windsor,Susan Bysiewicz,D,308,66.81%
+Lieutenant Governor,East Windsor,Eva Bermudez Zimmerman,D,153,33.19%
+Treasurer,East Windsor,Shawn Wooden,D,271,59.56%
+Treasurer,East Windsor,Dita Bhargava,D,184,40.44%
+Attorney General,East Windsor,William Tong,D,273,59.74%
+Attorney General,East Windsor,Paul R Doyle,D,52,11.38%
+Attorney General,East Windsor,Chris Mattei,D,132,28.88%
+Governor,Ellington,Ned Lamont,D,584,88.48%
+Governor,Ellington,Joe Ganim,D,76,11.52%
+Lieutenant Governor,Ellington,Susan Bysiewicz,D,430,65.35%
+Lieutenant Governor,Ellington,Eva Bermudez Zimmerman,D,228,34.65%
+Treasurer,Ellington,Shawn Wooden,D,375,57.52%
+Treasurer,Ellington,Dita Bhargava,D,277,42.48%
+Attorney General,Ellington,William Tong,D,406,61.80%
+Attorney General,Ellington,Paul R Doyle,D,80,12.18%
+Attorney General,Ellington,Chris Mattei,D,171,26.03%
+Governor,Enfield,Ned Lamont,D,1375,84.88%
+Governor,Enfield,Joe Ganim,D,245,15.12%
+Lieutenant Governor,Enfield,Susan Bysiewicz,D,1157,70.98%
+Lieutenant Governor,Enfield,Eva Bermudez Zimmerman,D,473,29.02%
+Treasurer,Enfield,Shawn Wooden,D,905,56.67%
+Treasurer,Enfield,Dita Bhargava,D,692,43.33%
+Attorney General,Enfield,William Tong,D,927,57.01%
+Attorney General,Enfield,Paul R Doyle,D,194,11.93%
+Attorney General,Enfield,Chris Mattei,D,505,31.06%
+Governor,Essex,Ned Lamont,D,682,93.17%
+Governor,Essex,Joe Ganim,D,50,6.83%
+Lieutenant Governor,Essex,Susan Bysiewicz,D,503,70.45%
+Lieutenant Governor,Essex,Eva Bermudez Zimmerman,D,211,29.55%
+Treasurer,Essex,Shawn Wooden,D,412,59.20%
+Treasurer,Essex,Dita Bhargava,D,284,40.80%
+Attorney General,Essex,William Tong,D,489,68.97%
+Attorney General,Essex,Paul R Doyle,D,60,8.46%
+Attorney General,Essex,Chris Mattei,D,160,22.57%
+Governor,Fairfield,Ned Lamont,D,3261,90.61%
+Governor,Fairfield,Joe Ganim,D,338,9.39%
+Lieutenant Governor,Fairfield,Susan Bysiewicz,D,2476,70.10%
+Lieutenant Governor,Fairfield,Eva Bermudez Zimmerman,D,1056,29.90%
+Treasurer,Fairfield,Shawn Wooden,D,1927,55.60%
+Treasurer,Fairfield,Dita Bhargava,D,1539,44.40%
+Attorney General,Fairfield,William Tong,D,2335,66.83%
+Attorney General,Fairfield,Paul R Doyle,D,338,9.67%
+Attorney General,Fairfield,Chris Mattei,D,821,23.50%
+Governor,Farmington,Ned Lamont,D,1626,90.48%
+Governor,Farmington,Joe Ganim,D,171,9.52%
+Lieutenant Governor,Farmington,Susan Bysiewicz,D,1117,62.79%
+Lieutenant Governor,Farmington,Eva Bermudez Zimmerman,D,662,37.21%
+Representative in Congress 05,Farmington,Mary Messina Glassman,D,930,51.84%
+Representative in Congress 05,Farmington,Jahana Hayes,D,864,48.16%
+Treasurer,Farmington,Shawn Wooden,D,993,57.33%
+Treasurer,Farmington,Dita Bhargava,D,739,42.67%
+Attorney General,Farmington,William Tong,D,1018,57.61%
+Attorney General,Farmington,Paul R Doyle,D,255,14.43%
+Attorney General,Farmington,Chris Mattei,D,494,27.96%
+Governor,Franklin,Ned Lamont,D,83,84.69%
+Governor,Franklin,Joe Ganim,D,15,15.31%
+Lieutenant Governor,Franklin,Susan Bysiewicz,D,75,75.76%
+Lieutenant Governor,Franklin,Eva Bermudez Zimmerman,D,24,24.24%
+Treasurer,Franklin,Shawn Wooden,D,51,51.52%
+Treasurer,Franklin,Dita Bhargava,D,48,48.48%
+Attorney General,Franklin,William Tong,D,59,59.60%
+Attorney General,Franklin,Paul R Doyle,D,10,10.10%
+Attorney General,Franklin,Chris Mattei,D,30,30.30%
+Governor,Glastonbury,Ned Lamont,D,2289,89.98%
+Governor,Glastonbury,Joe Ganim,D,255,10.02%
+Lieutenant Governor,Glastonbury,Susan Bysiewicz,D,1545,60.99%
+Lieutenant Governor,Glastonbury,Eva Bermudez Zimmerman,D,988,39.01%
+Treasurer,Glastonbury,Shawn Wooden,D,1340,54.65%
+Treasurer,Glastonbury,Dita Bhargava,D,1112,45.35%
+Attorney General,Glastonbury,William Tong,D,1297,51.96%
+Attorney General,Glastonbury,Paul R Doyle,D,384,15.38%
+Attorney General,Glastonbury,Chris Mattei,D,815,32.65%
+Governor,Goshen,Ned Lamont,D,205,88.36%
+Governor,Goshen,Joe Ganim,D,27,11.64%
+Lieutenant Governor,Goshen,Susan Bysiewicz,D,138,60.53%
+Lieutenant Governor,Goshen,Eva Bermudez Zimmerman,D,90,39.47%
+Representative in Congress 05,Goshen,Mary Messina Glassman,D,54,23.68%
+Representative in Congress 05,Goshen,Jahana Hayes,D,174,76.32%
+Treasurer,Goshen,Shawn Wooden,D,107,50.23%
+Treasurer,Goshen,Dita Bhargava,D,106,49.77%
+Attorney General,Goshen,William Tong,D,119,55.09%
+Attorney General,Goshen,Paul R Doyle,D,32,14.81%
+Attorney General,Goshen,Chris Mattei,D,65,30.09%
+Governor,Granby,Ned Lamont,D,699,90.66%
+Governor,Granby,Joe Ganim,D,72,9.34%
+Lieutenant Governor,Granby,Susan Bysiewicz,D,436,56.84%
+Lieutenant Governor,Granby,Eva Bermudez Zimmerman,D,331,43.16%
+Treasurer,Granby,Shawn Wooden,D,399,54.36%
+Treasurer,Granby,Dita Bhargava,D,335,45.64%
+Attorney General,Granby,William Tong,D,392,52.34%
+Attorney General,Granby,Paul R Doyle,D,71,9.48%
+Attorney General,Granby,Chris Mattei,D,286,38.18%
+Governor,Greenwich,Ned Lamont,D,2516,93.29%
+Governor,Greenwich,Joe Ganim,D,181,6.71%
+Lieutenant Governor,Greenwich,Susan Bysiewicz,D,1936,74.12%
+Lieutenant Governor,Greenwich,Eva Bermudez Zimmerman,D,676,25.88%
+Treasurer,Greenwich,Shawn Wooden,D,1169,44.91%
+Treasurer,Greenwich,Dita Bhargava,D,1434,55.09%
+Attorney General,Greenwich,William Tong,D,1748,67.26%
+Attorney General,Greenwich,Paul R Doyle,D,228,8.77%
+Attorney General,Greenwich,Chris Mattei,D,623,23.97%
+Registrar of Voters,Greenwich,Mary Hegarty,D,2269,85.98%
+Registrar of Voters,Greenwich,Joseph S Huley,D,370,14.02%
+Governor,Griswold,Ned Lamont,D,475,86.05%
+Governor,Griswold,Joe Ganim,D,77,13.95%
+Lieutenant Governor,Griswold,Susan Bysiewicz,D,404,73.19%
+Lieutenant Governor,Griswold,Eva Bermudez Zimmerman,D,148,26.81%
+Treasurer,Griswold,Shawn Wooden,D,319,59.74%
+Treasurer,Griswold,Dita Bhargava,D,215,40.26%
+Attorney General,Griswold,William Tong,D,311,57.59%
+Attorney General,Griswold,Paul R Doyle,D,65,12.04%
+Attorney General,Griswold,Chris Mattei,D,164,30.37%
+Governor,Groton,Ned Lamont,D,1467,85.04%
+Governor,Groton,Joe Ganim,D,258,14.96%
+Lieutenant Governor,Groton,Susan Bysiewicz,D,1162,67.64%
+Lieutenant Governor,Groton,Eva Bermudez Zimmerman,D,556,32.36%
+Treasurer,Groton,Shawn Wooden,D,938,55.67%
+Treasurer,Groton,Dita Bhargava,D,747,44.33%
+Attorney General,Groton,William Tong,D,1105,65.00%
+Attorney General,Groton,Paul R Doyle,D,179,10.53%
+Attorney General,Groton,Chris Mattei,D,416,24.47%
+Governor,Guilford,Ned Lamont,D,1954,90.63%
+Governor,Guilford,Joe Ganim,D,202,9.37%
+Lieutenant Governor,Guilford,Susan Bysiewicz,D,1429,66.90%
+Lieutenant Governor,Guilford,Eva Bermudez Zimmerman,D,707,33.10%
+Treasurer,Guilford,Shawn Wooden,D,1177,57.11%
+Treasurer,Guilford,Dita Bhargava,D,884,42.89%
+Attorney General,Guilford,William Tong,D,1111,52.48%
+Attorney General,Guilford,Paul R Doyle,D,156,7.37%
+Attorney General,Guilford,Chris Mattei,D,850,40.15%
+Governor,Haddam,Ned Lamont,D,572,88.14%
+Governor,Haddam,Joe Ganim,D,77,11.86%
+Lieutenant Governor,Haddam,Susan Bysiewicz,D,394,61.37%
+Lieutenant Governor,Haddam,Eva Bermudez Zimmerman,D,248,38.63%
+Treasurer,Haddam,Shawn Wooden,D,329,52.31%
+Treasurer,Haddam,Dita Bhargava,D,300,47.69%
+Attorney General,Haddam,William Tong,D,387,60.94%
+Attorney General,Haddam,Paul R Doyle,D,90,14.17%
+Attorney General,Haddam,Chris Mattei,D,158,24.88%
+Governor,Hamden,Ned Lamont,D,4995,78.33%
+Governor,Hamden,Joe Ganim,D,1382,21.67%
+Lieutenant Governor,Hamden,Susan Bysiewicz,D,3860,61.17%
+Lieutenant Governor,Hamden,Eva Bermudez Zimmerman,D,2450,38.83%
+State Senator 17,Hamden,Jorge Cabrera,D,956,37.94%
+State Senator 17,Hamden,Sean Grace,D,801,31.79%
+State Senator 17,Hamden,Valerie Horsley,D,763,30.28%
+Treasurer,Hamden,Shawn Wooden,D,3774,60.95%
+Treasurer,Hamden,Dita Bhargava,D,2418,39.05%
+Attorney General,Hamden,William Tong,D,3303,52.43%
+Attorney General,Hamden,Paul R Doyle,D,680,10.79%
+Attorney General,Hamden,Chris Mattei,D,2317,36.78%
+Governor,Hampton,Ned Lamont,D,154,83.70%
+Governor,Hampton,Joe Ganim,D,30,16.30%
+Lieutenant Governor,Hampton,Susan Bysiewicz,D,122,65.59%
+Lieutenant Governor,Hampton,Eva Bermudez Zimmerman,D,64,34.41%
+Treasurer,Hampton,Shawn Wooden,D,105,57.69%
+Treasurer,Hampton,Dita Bhargava,D,77,42.31%
+Attorney General,Hampton,William Tong,D,124,69.66%
+Attorney General,Hampton,Paul R Doyle,D,20,11.24%
+Attorney General,Hampton,Chris Mattei,D,34,19.10%
+Governor,Hartford,Ned Lamont,D,4435,76.52%
+Governor,Hartford,Joe Ganim,D,1361,23.48%
+Lieutenant Governor,Hartford,Susan Bysiewicz,D,2985,50.99%
+Lieutenant Governor,Hartford,Eva Bermudez Zimmerman,D,2869,49.01%
+State Representative 03,Hartford,Minnie Gonzalez,D,847,65.15%
+State Representative 03,Hartford,Gannon R Long,D,453,34.85%
+State Representative 05,Hartford,Lawrence O Jaggon,D,93,16.85%
+State Representative 05,Hartford,Brandon McGee,D,459,83.15%
+Treasurer,Hartford,Shawn Wooden,D,3917,69.02%
+Treasurer,Hartford,Dita Bhargava,D,1758,30.98%
+Attorney General,Hartford,William Tong,D,3411,61.61%
+Attorney General,Hartford,Paul R Doyle,D,1055,19.06%
+Attorney General,Hartford,Chris Mattei,D,1070,19.33%
+Governor,Hartland,Ned Lamont,D,96,93.20%
+Governor,Hartland,Joe Ganim,D,7,6.80%
+Lieutenant Governor,Hartland,Susan Bysiewicz,D,62,59.62%
+Lieutenant Governor,Hartland,Eva Bermudez Zimmerman,D,42,40.38%
+Treasurer,Hartland,Shawn Wooden,D,49,49.49%
+Treasurer,Hartland,Dita Bhargava,D,50,50.51%
+Attorney General,Hartland,William Tong,D,63,63.64%
+Attorney General,Hartland,Paul R Doyle,D,6,6.06%
+Attorney General,Hartland,Chris Mattei,D,30,30.30%
+Governor,Harwinton,Ned Lamont,D,264,85.16%
+Governor,Harwinton,Joe Ganim,D,46,14.84%
+Lieutenant Governor,Harwinton,Susan Bysiewicz,D,200,64.52%
+Lieutenant Governor,Harwinton,Eva Bermudez Zimmerman,D,110,35.48%
+Representative in Congress 05,Harwinton,Mary Messina Glassman,D,150,48.54%
+Representative in Congress 05,Harwinton,Jahana Hayes,D,159,51.46%
+Treasurer,Harwinton,Shawn Wooden,D,148,50.00%
+Treasurer,Harwinton,Dita Bhargava,D,148,50.00%
+Attorney General,Harwinton,William Tong,D,179,59.27%
+Attorney General,Harwinton,Paul R Doyle,D,44,14.57%
+Attorney General,Harwinton,Chris Mattei,D,79,26.16%
+Governor,Hebron,Ned Lamont,D,524,88.96%
+Governor,Hebron,Joe Ganim,D,65,11.04%
+Lieutenant Governor,Hebron,Susan Bysiewicz,D,397,67.06%
+Lieutenant Governor,Hebron,Eva Bermudez Zimmerman,D,195,32.94%
+Treasurer,Hebron,Shawn Wooden,D,335,58.57%
+Treasurer,Hebron,Dita Bhargava,D,237,41.43%
+Attorney General,Hebron,William Tong,D,315,53.66%
+Attorney General,Hebron,Paul R Doyle,D,94,16.01%
+Attorney General,Hebron,Chris Mattei,D,178,30.32%
+Governor,Kent,Ned Lamont,D,333,88.33%
+Governor,Kent,Joe Ganim,D,44,11.67%
+Lieutenant Governor,Kent,Susan Bysiewicz,D,265,68.30%
+Lieutenant Governor,Kent,Eva Bermudez Zimmerman,D,123,31.70%
+Representative in Congress 05,Kent,Mary Messina Glassman,D,75,18.38%
+Representative in Congress 05,Kent,Jahana Hayes,D,333,81.62%
+Treasurer,Kent,Shawn Wooden,D,193,52.16%
+Treasurer,Kent,Dita Bhargava,D,177,47.84%
+Attorney General,Kent,William Tong,D,223,58.84%
+Attorney General,Kent,Paul R Doyle,D,35,9.23%
+Attorney General,Kent,Chris Mattei,D,121,31.93%
+Governor,Killingly,Ned Lamont,D,438,78.49%
+Governor,Killingly,Joe Ganim,D,120,21.51%
+Lieutenant Governor,Killingly,Susan Bysiewicz,D,388,68.67%
+Lieutenant Governor,Killingly,Eva Bermudez Zimmerman,D,177,31.33%
+Treasurer,Killingly,Shawn Wooden,D,314,57.19%
+Treasurer,Killingly,Dita Bhargava,D,235,42.81%
+Attorney General,Killingly,William Tong,D,304,55.58%
+Attorney General,Killingly,Paul R Doyle,D,98,17.92%
+Attorney General,Killingly,Chris Mattei,D,145,26.51%
+Judge of Probate 27,Killingly,Andrea Truppa,D,436,75.43%
+Judge of Probate 27,Killingly,Michael J Cartier,D,142,24.57%
+Governor,Killingworth,Ned Lamont,D,394,90.57%
+Governor,Killingworth,Joe Ganim,D,41,9.43%
+Lieutenant Governor,Killingworth,Susan Bysiewicz,D,274,63.43%
+Lieutenant Governor,Killingworth,Eva Bermudez Zimmerman,D,158,36.57%
+Treasurer,Killingworth,Shawn Wooden,D,267,62.97%
+Treasurer,Killingworth,Dita Bhargava,D,157,37.03%
+Attorney General,Killingworth,William Tong,D,281,65.81%
+Attorney General,Killingworth,Paul R Doyle,D,35,8.20%
+Attorney General,Killingworth,Chris Mattei,D,111,26.00%
+Governor,Lebanon,Ned Lamont,D,340,88.77%
+Governor,Lebanon,Joe Ganim,D,43,11.23%
+Lieutenant Governor,Lebanon,Susan Bysiewicz,D,212,56.23%
+Lieutenant Governor,Lebanon,Eva Bermudez Zimmerman,D,165,43.77%
+Treasurer,Lebanon,Shawn Wooden,D,195,52.99%
+Treasurer,Lebanon,Dita Bhargava,D,173,47.01%
+Attorney General,Lebanon,William Tong,D,203,54.86%
+Attorney General,Lebanon,Paul R Doyle,D,59,15.95%
+Attorney General,Lebanon,Chris Mattei,D,108,29.19%
+Governor,Ledyard,Ned Lamont,D,615,87.73%
+Governor,Ledyard,Joe Ganim,D,86,12.27%
+Lieutenant Governor,Ledyard,Susan Bysiewicz,D,494,70.88%
+Lieutenant Governor,Ledyard,Eva Bermudez Zimmerman,D,203,29.12%
+Treasurer,Ledyard,Shawn Wooden,D,378,55.83%
+Treasurer,Ledyard,Dita Bhargava,D,299,44.17%
+Attorney General,Ledyard,William Tong,D,414,60.09%
+Attorney General,Ledyard,Paul R Doyle,D,45,6.53%
+Attorney General,Ledyard,Chris Mattei,D,230,33.38%
+Governor,Lisbon,Ned Lamont,D,187,81.66%
+Governor,Lisbon,Joe Ganim,D,42,18.34%
+Lieutenant Governor,Lisbon,Susan Bysiewicz,D,163,71.49%
+Lieutenant Governor,Lisbon,Eva Bermudez Zimmerman,D,65,28.51%
+Treasurer,Lisbon,Shawn Wooden,D,118,52.91%
+Treasurer,Lisbon,Dita Bhargava,D,105,47.09%
+Attorney General,Lisbon,William Tong,D,137,59.83%
+Attorney General,Lisbon,Paul R Doyle,D,21,9.17%
+Attorney General,Lisbon,Chris Mattei,D,71,31.00%
+Governor,Litchfield,Ned Lamont,D,589,88.04%
+Governor,Litchfield,Joe Ganim,D,80,11.96%
+Lieutenant Governor,Litchfield,Susan Bysiewicz,D,416,63.03%
+Lieutenant Governor,Litchfield,Eva Bermudez Zimmerman,D,244,36.97%
+Representative in Congress 05,Litchfield,Mary Messina Glassman,D,212,31.27%
+Representative in Congress 05,Litchfield,Jahana Hayes,D,466,68.73%
+Treasurer,Litchfield,Shawn Wooden,D,294,45.09%
+Treasurer,Litchfield,Dita Bhargava,D,358,54.91%
+Attorney General,Litchfield,William Tong,D,361,55.45%
+Attorney General,Litchfield,Paul R Doyle,D,75,11.52%
+Attorney General,Litchfield,Chris Mattei,D,215,33.03%
+Governor,Lyme,Ned Lamont,D,258,94.16%
+Governor,Lyme,Joe Ganim,D,16,5.84%
+Lieutenant Governor,Lyme,Susan Bysiewicz,D,156,57.35%
+Lieutenant Governor,Lyme,Eva Bermudez Zimmerman,D,116,42.65%
+Treasurer,Lyme,Shawn Wooden,D,182,68.16%
+Treasurer,Lyme,Dita Bhargava,D,85,31.84%
+Attorney General,Lyme,William Tong,D,197,73.51%
+Attorney General,Lyme,Paul R Doyle,D,24,8.96%
+Attorney General,Lyme,Chris Mattei,D,47,17.54%
+Governor,Madison,Ned Lamont,D,1137,90.17%
+Governor,Madison,Joe Ganim,D,124,9.83%
+Lieutenant Governor,Madison,Susan Bysiewicz,D,868,69.44%
+Lieutenant Governor,Madison,Eva Bermudez Zimmerman,D,382,30.56%
+Treasurer,Madison,Shawn Wooden,D,687,56.50%
+Treasurer,Madison,Dita Bhargava,D,529,43.50%
+Attorney General,Madison,William Tong,D,705,57.04%
+Attorney General,Madison,Paul R Doyle,D,75,6.07%
+Attorney General,Madison,Chris Mattei,D,456,36.89%
+Governor,Manchester,Ned Lamont,D,3067,87.48%
+Governor,Manchester,Joe Ganim,D,439,12.52%
+Lieutenant Governor,Manchester,Susan Bysiewicz,D,2111,60.56%
+Lieutenant Governor,Manchester,Eva Bermudez Zimmerman,D,1375,39.44%
+Treasurer,Manchester,Shawn Wooden,D,1958,57.03%
+Treasurer,Manchester,Dita Bhargava,D,1475,42.97%
+Attorney General,Manchester,William Tong,D,1991,56.02%
+Attorney General,Manchester,Paul R Doyle,D,585,16.46%
+Attorney General,Manchester,Chris Mattei,D,978,27.52%
+Governor,Mansfield,Ned Lamont,D,1432,94.02%
+Governor,Mansfield,Joe Ganim,D,91,5.98%
+Lieutenant Governor,Mansfield,Susan Bysiewicz,D,887,58.90%
+Lieutenant Governor,Mansfield,Eva Bermudez Zimmerman,D,619,41.10%
+Treasurer,Mansfield,Shawn Wooden,D,911,62.10%
+Treasurer,Mansfield,Dita Bhargava,D,556,37.90%
+Attorney General,Mansfield,William Tong,D,1068,72.70%
+Attorney General,Mansfield,Paul R Doyle,D,124,8.44%
+Attorney General,Mansfield,Chris Mattei,D,277,18.86%
+Governor,Marlborough,Ned Lamont,D,399,90.89%
+Governor,Marlborough,Joe Ganim,D,40,9.11%
+Lieutenant Governor,Marlborough,Susan Bysiewicz,D,276,63.89%
+Lieutenant Governor,Marlborough,Eva Bermudez Zimmerman,D,156,36.11%
+Treasurer,Marlborough,Shawn Wooden,D,232,54.46%
+Treasurer,Marlborough,Dita Bhargava,D,194,45.54%
+Attorney General,Marlborough,William Tong,D,251,58.92%
+Attorney General,Marlborough,Paul R Doyle,D,71,16.67%
+Attorney General,Marlborough,Chris Mattei,D,104,24.41%
+Governor,Meriden,Ned Lamont,D,2083,77.01%
+Governor,Meriden,Joe Ganim,D,622,22.99%
+Lieutenant Governor,Meriden,Susan Bysiewicz,D,1743,64.60%
+Lieutenant Governor,Meriden,Eva Bermudez Zimmerman,D,955,35.40%
+Representative in Congress 05,Meriden,Mary Messina Glassman,D,1032,38.70%
+Representative in Congress 05,Meriden,Jahana Hayes,D,1635,61.30%
+State Senator 13,Meriden,Mary Daugherty Abrams,D,1878,70.31%
+State Senator 13,Meriden,Alex Tiktinsky,D,793,29.69%
+Treasurer,Meriden,Shawn Wooden,D,1539,59.51%
+Treasurer,Meriden,Dita Bhargava,D,1047,40.49%
+Attorney General,Meriden,William Tong,D,1697,64.30%
+Attorney General,Meriden,Paul R Doyle,D,439,16.64%
+Attorney General,Meriden,Chris Mattei,D,503,19.06%
+Governor,Middlebury,Ned Lamont,D,341,84.41%
+Governor,Middlebury,Joe Ganim,D,63,15.59%
+Lieutenant Governor,Middlebury,Susan Bysiewicz,D,272,67.33%
+Lieutenant Governor,Middlebury,Eva Bermudez Zimmerman,D,132,32.67%
+Representative in Congress 05,Middlebury,Mary Messina Glassman,D,139,33.66%
+Representative in Congress 05,Middlebury,Jahana Hayes,D,274,66.34%
+Treasurer,Middlebury,Shawn Wooden,D,236,59.60%
+Treasurer,Middlebury,Dita Bhargava,D,160,40.40%
+Attorney General,Middlebury,William Tong,D,226,56.64%
+Attorney General,Middlebury,Paul R Doyle,D,78,19.55%
+Attorney General,Middlebury,Chris Mattei,D,95,23.81%
+Governor,Middlefield,Ned Lamont,D,337,89.15%
+Governor,Middlefield,Joe Ganim,D,41,10.85%
+Lieutenant Governor,Middlefield,Susan Bysiewicz,D,250,66.49%
+Lieutenant Governor,Middlefield,Eva Bermudez Zimmerman,D,126,33.51%
+State Senator 13,Middlefield,Mary Daugherty Abrams,D,308,82.35%
+State Senator 13,Middlefield,Alex Tiktinsky,D,66,17.65%
+Treasurer,Middlefield,Shawn Wooden,D,209,58.06%
+Treasurer,Middlefield,Dita Bhargava,D,151,41.94%
+Attorney General,Middlefield,William Tong,D,217,59.45%
+Attorney General,Middlefield,Paul R Doyle,D,63,17.26%
+Attorney General,Middlefield,Chris Mattei,D,85,23.29%
+Governor,Middletown,Ned Lamont,D,3192,83.63%
+Governor,Middletown,Joe Ganim,D,625,16.37%
+Lieutenant Governor,Middletown,Susan Bysiewicz,D,2344,61.52%
+Lieutenant Governor,Middletown,Eva Bermudez Zimmerman,D,1466,38.48%
+State Senator 09,Middletown,"Antonio ""Tony"" Guerrera",D,600,24.77%
+State Senator 09,Middletown,Matt Lesser,D,1822,75.23%
+State Senator 13,Middletown,Mary Daugherty Abrams,D,972,72.11%
+State Senator 13,Middletown,Alex Tiktinsky,D,376,27.89%
+Treasurer,Middletown,Shawn Wooden,D,1944,53.32%
+Treasurer,Middletown,Dita Bhargava,D,1702,46.68%
+Attorney General,Middletown,William Tong,D,1645,43.29%
+Attorney General,Middletown,Paul R Doyle,D,1390,36.58%
+Attorney General,Middletown,Chris Mattei,D,765,20.13%
+Governor,Milford,Ned Lamont,D,2206,78.53%
+Governor,Milford,Joe Ganim,D,603,21.47%
+Lieutenant Governor,Milford,Susan Bysiewicz,D,1809,65.14%
+Lieutenant Governor,Milford,Eva Bermudez Zimmerman,D,968,34.86%
+Treasurer,Milford,Shawn Wooden,D,1506,55.45%
+Treasurer,Milford,Dita Bhargava,D,1210,44.55%
+Attorney General,Milford,William Tong,D,1473,53.18%
+Attorney General,Milford,Paul R Doyle,D,646,23.32%
+Attorney General,Milford,Chris Mattei,D,651,23.50%
+Governor,Monroe,Ned Lamont,D,675,84.69%
+Governor,Monroe,Joe Ganim,D,122,15.31%
+Lieutenant Governor,Monroe,Susan Bysiewicz,D,553,70.63%
+Lieutenant Governor,Monroe,Eva Bermudez Zimmerman,D,230,29.37%
+Treasurer,Monroe,Shawn Wooden,D,383,49.61%
+Treasurer,Monroe,Dita Bhargava,D,389,50.39%
+Attorney General,Monroe,William Tong,D,508,66.06%
+Attorney General,Monroe,Paul R Doyle,D,83,10.79%
+Attorney General,Monroe,Chris Mattei,D,178,23.15%
+Governor,Montville,Ned Lamont,D,621,82.47%
+Governor,Montville,Joe Ganim,D,132,17.53%
+Lieutenant Governor,Montville,Susan Bysiewicz,D,509,68.60%
+Lieutenant Governor,Montville,Eva Bermudez Zimmerman,D,233,31.40%
+State Representative 38,Montville,Baird Welch-Collins,D,69,26.95%
+State Representative 38,Montville,Nick Gauthier,D,56,21.88%
+State Representative 38,Montville,Patrick Murphy,D,131,51.17%
+Treasurer,Montville,Shawn Wooden,D,456,62.64%
+Treasurer,Montville,Dita Bhargava,D,272,37.36%
+Attorney General,Montville,William Tong,D,443,59.86%
+Attorney General,Montville,Paul R Doyle,D,85,11.49%
+Attorney General,Montville,Chris Mattei,D,212,28.65%
+Governor,Morris,Ned Lamont,D,136,88.31%
+Governor,Morris,Joe Ganim,D,18,11.69%
+Lieutenant Governor,Morris,Susan Bysiewicz,D,99,65.56%
+Lieutenant Governor,Morris,Eva Bermudez Zimmerman,D,52,34.44%
+Representative in Congress 05,Morris,Mary Messina Glassman,D,41,26.11%
+Representative in Congress 05,Morris,Jahana Hayes,D,116,73.89%
+Treasurer,Morris,Shawn Wooden,D,75,50.00%
+Treasurer,Morris,Dita Bhargava,D,75,50.00%
+Attorney General,Morris,William Tong,D,91,60.67%
+Attorney General,Morris,Paul R Doyle,D,20,13.33%
+Attorney General,Morris,Chris Mattei,D,39,26.00%
+Governor,Naugatuck,Ned Lamont,D,827,66.69%
+Governor,Naugatuck,Joe Ganim,D,413,33.31%
+Lieutenant Governor,Naugatuck,Susan Bysiewicz,D,781,63.44%
+Lieutenant Governor,Naugatuck,Eva Bermudez Zimmerman,D,450,36.56%
+State Senator 17,Naugatuck,Jorge Cabrera,D,314,41.15%
+State Senator 17,Naugatuck,Sean Grace,D,213,27.92%
+State Senator 17,Naugatuck,Valerie Horsley,D,236,30.93%
+Treasurer,Naugatuck,Shawn Wooden,D,669,56.03%
+Treasurer,Naugatuck,Dita Bhargava,D,525,43.97%
+Attorney General,Naugatuck,William Tong,D,644,52.53%
+Attorney General,Naugatuck,Paul R Doyle,D,304,24.80%
+Attorney General,Naugatuck,Chris Mattei,D,278,22.68%
+Governor,New Britain,Ned Lamont,D,2662,75.97%
+Governor,New Britain,Joe Ganim,D,842,24.03%
+Lieutenant Governor,New Britain,Susan Bysiewicz,D,2019,57.33%
+Lieutenant Governor,New Britain,Eva Bermudez Zimmerman,D,1503,42.67%
+Representative in Congress 05,New Britain,Mary Messina Glassman,D,1438,40.43%
+Representative in Congress 05,New Britain,Jahana Hayes,D,2119,59.57%
+Treasurer,New Britain,Shawn Wooden,D,2045,60.59%
+Treasurer,New Britain,Dita Bhargava,D,1330,39.41%
+Attorney General,New Britain,William Tong,D,1969,57.71%
+Attorney General,New Britain,Paul R Doyle,D,782,22.92%
+Attorney General,New Britain,Chris Mattei,D,661,19.37%
+Governor,New Canaan,Ned Lamont,D,809,93.85%
+Governor,New Canaan,Joe Ganim,D,53,6.15%
+Lieutenant Governor,New Canaan,Susan Bysiewicz,D,621,75.09%
+Lieutenant Governor,New Canaan,Eva Bermudez Zimmerman,D,206,24.91%
+Treasurer,New Canaan,Shawn Wooden,D,442,54.17%
+Treasurer,New Canaan,Dita Bhargava,D,374,45.83%
+Attorney General,New Canaan,William Tong,D,678,80.52%
+Attorney General,New Canaan,Paul R Doyle,D,64,7.60%
+Attorney General,New Canaan,Chris Mattei,D,100,11.88%
+Governor,New Fairfield,Ned Lamont,D,430,86.52%
+Governor,New Fairfield,Joe Ganim,D,67,13.48%
+Lieutenant Governor,New Fairfield,Susan Bysiewicz,D,331,67.97%
+Lieutenant Governor,New Fairfield,Eva Bermudez Zimmerman,D,156,32.03%
+Representative in Congress 05,New Fairfield,Mary Messina Glassman,D,197,40.20%
+Representative in Congress 05,New Fairfield,Jahana Hayes,D,293,59.80%
+Treasurer,New Fairfield,Shawn Wooden,D,261,54.49%
+Treasurer,New Fairfield,Dita Bhargava,D,218,45.51%
+Attorney General,New Fairfield,William Tong,D,311,64.26%
+Attorney General,New Fairfield,Paul R Doyle,D,44,9.09%
+Attorney General,New Fairfield,Chris Mattei,D,129,26.65%
+Governor,New Hartford,Ned Lamont,D,386,90.40%
+Governor,New Hartford,Joe Ganim,D,41,9.60%
+Lieutenant Governor,New Hartford,Susan Bysiewicz,D,263,60.88%
+Lieutenant Governor,New Hartford,Eva Bermudez Zimmerman,D,169,39.12%
+Treasurer,New Hartford,Shawn Wooden,D,232,56.86%
+Treasurer,New Hartford,Dita Bhargava,D,176,43.14%
+Attorney General,New Hartford,William Tong,D,286,68.10%
+Attorney General,New Hartford,Paul R Doyle,D,38,9.05%
+Attorney General,New Hartford,Chris Mattei,D,96,22.86%
+Governor,New Haven,Ned Lamont,D,7187,74.82%
+Governor,New Haven,Joe Ganim,D,2419,25.18%
+Lieutenant Governor,New Haven,Susan Bysiewicz,D,4357,46.52%
+Lieutenant Governor,New Haven,Eva Bermudez Zimmerman,D,5008,53.48%
+Treasurer,New Haven,Shawn Wooden,D,5815,64.70%
+Treasurer,New Haven,Dita Bhargava,D,3172,35.30%
+Attorney General,New Haven,William Tong,D,4409,47.72%
+Attorney General,New Haven,Paul R Doyle,D,1291,13.97%
+Attorney General,New Haven,Chris Mattei,D,3540,38.31%
+Governor,Newington,Ned Lamont,D,2254,85.22%
+Governor,Newington,Joe Ganim,D,391,14.78%
+Lieutenant Governor,Newington,Susan Bysiewicz,D,1679,64.04%
+Lieutenant Governor,Newington,Eva Bermudez Zimmerman,D,943,35.96%
+State Senator 09,Newington,"Antonio ""Tony"" Guerrera",D,1261,47.03%
+State Senator 09,Newington,Matt Lesser,D,1420,52.97%
+State Representative 29,Newington,Christopher Duff,D,64,37.65%
+State Representative 29,Newington,Kerry Szeps Wood,D,106,62.35%
+Treasurer,Newington,Shawn Wooden,D,1419,55.28%
+Treasurer,Newington,Dita Bhargava,D,1148,44.72%
+Attorney General,Newington,William Tong,D,975,36.39%
+Attorney General,Newington,Paul R Doyle,D,1308,48.82%
+Attorney General,Newington,Chris Mattei,D,396,14.78%
+Governor,New London,Ned Lamont,D,1102,82.49%
+Governor,New London,Joe Ganim,D,234,17.51%
+Lieutenant Governor,New London,Susan Bysiewicz,D,684,50.22%
+Lieutenant Governor,New London,Eva Bermudez Zimmerman,D,678,49.78%
+Treasurer,New London,Shawn Wooden,D,746,58.42%
+Treasurer,New London,Dita Bhargava,D,531,41.58%
+Attorney General,New London,William Tong,D,741,57.22%
+Attorney General,New London,Paul R Doyle,D,183,14.13%
+Attorney General,New London,Chris Mattei,D,371,28.65%
+Governor,New Milford,Ned Lamont,D,1098,86.46%
+Governor,New Milford,Joe Ganim,D,172,13.54%
+Lieutenant Governor,New Milford,Susan Bysiewicz,D,811,64.06%
+Lieutenant Governor,New Milford,Eva Bermudez Zimmerman,D,455,35.94%
+Representative in Congress 05,New Milford,Mary Messina Glassman,D,442,34.72%
+Representative in Congress 05,New Milford,Jahana Hayes,D,831,65.28%
+Treasurer,New Milford,Shawn Wooden,D,657,53.59%
+Treasurer,New Milford,Dita Bhargava,D,569,46.41%
+Attorney General,New Milford,William Tong,D,815,65.25%
+Attorney General,New Milford,Paul R Doyle,D,150,12.01%
+Attorney General,New Milford,Chris Mattei,D,284,22.74%
+Governor,Newtown,Ned Lamont,D,1489,87.49%
+Governor,Newtown,Joe Ganim,D,213,12.51%
+Lieutenant Governor,Newtown,Susan Bysiewicz,D,883,51.37%
+Lieutenant Governor,Newtown,Eva Bermudez Zimmerman,D,836,48.63%
+Representative in Congress 05,Newtown,Mary Messina Glassman,D,654,38.11%
+Representative in Congress 05,Newtown,Jahana Hayes,D,1062,61.89%
+Treasurer,Newtown,Shawn Wooden,D,801,47.94%
+Treasurer,Newtown,Dita Bhargava,D,870,52.06%
+Attorney General,Newtown,William Tong,D,1093,64.60%
+Attorney General,Newtown,Paul R Doyle,D,185,10.93%
+Attorney General,Newtown,Chris Mattei,D,414,24.47%
+Governor,Norfolk,Ned Lamont,D,174,92.55%
+Governor,Norfolk,Joe Ganim,D,14,7.45%
+Lieutenant Governor,Norfolk,Susan Bysiewicz,D,141,75.00%
+Lieutenant Governor,Norfolk,Eva Bermudez Zimmerman,D,47,25.00%
+Representative in Congress 05,Norfolk,Mary Messina Glassman,D,76,40.00%
+Representative in Congress 05,Norfolk,Jahana Hayes,D,114,60.00%
+Treasurer,Norfolk,Shawn Wooden,D,108,60.34%
+Treasurer,Norfolk,Dita Bhargava,D,71,39.66%
+Attorney General,Norfolk,William Tong,D,125,70.62%
+Attorney General,Norfolk,Paul R Doyle,D,15,8.47%
+Attorney General,Norfolk,Chris Mattei,D,37,20.90%
+Governor,North Branford,Ned Lamont,D,496,80.13%
+Governor,North Branford,Joe Ganim,D,123,19.87%
+Lieutenant Governor,North Branford,Susan Bysiewicz,D,423,68.23%
+Lieutenant Governor,North Branford,Eva Bermudez Zimmerman,D,197,31.77%
+Treasurer,North Branford,Shawn Wooden,D,359,59.05%
+Treasurer,North Branford,Dita Bhargava,D,249,40.95%
+Attorney General,North Branford,William Tong,D,364,58.80%
+Attorney General,North Branford,Paul R Doyle,D,57,9.21%
+Attorney General,North Branford,Chris Mattei,D,198,31.99%
+Governor,North Canaan,Ned Lamont,D,150,86.71%
+Governor,North Canaan,Joe Ganim,D,23,13.29%
+Lieutenant Governor,North Canaan,Susan Bysiewicz,D,124,71.26%
+Lieutenant Governor,North Canaan,Eva Bermudez Zimmerman,D,50,28.74%
+Representative in Congress 05,North Canaan,Mary Messina Glassman,D,69,39.66%
+Representative in Congress 05,North Canaan,Jahana Hayes,D,105,60.34%
+Treasurer,North Canaan,Shawn Wooden,D,83,49.70%
+Treasurer,North Canaan,Dita Bhargava,D,84,50.30%
+Attorney General,North Canaan,William Tong,D,94,55.62%
+Attorney General,North Canaan,Paul R Doyle,D,26,15.38%
+Attorney General,North Canaan,Chris Mattei,D,49,28.99%
+Governor,North Haven,Ned Lamont,D,1097,80.48%
+Governor,North Haven,Joe Ganim,D,266,19.52%
+Lieutenant Governor,North Haven,Susan Bysiewicz,D,901,66.64%
+Lieutenant Governor,North Haven,Eva Bermudez Zimmerman,D,451,33.36%
+State Senator 34,North Haven,Aili McKeen,D,803,70.62%
+State Senator 34,North Haven,Josh Balter,D,334,29.38%
+Treasurer,North Haven,Shawn Wooden,D,752,56.37%
+Treasurer,North Haven,Dita Bhargava,D,582,43.63%
+Attorney General,North Haven,William Tong,D,752,55.79%
+Attorney General,North Haven,Paul R Doyle,D,133,9.87%
+Attorney General,North Haven,Chris Mattei,D,463,34.35%
+Governor,North Stonington,Ned Lamont,D,278,88.25%
+Governor,North Stonington,Joe Ganim,D,37,11.75%
+Lieutenant Governor,North Stonington,Susan Bysiewicz,D,224,72.26%
+Lieutenant Governor,North Stonington,Eva Bermudez Zimmerman,D,86,27.74%
+State Representative 43,North Stonington,Kate Rotella,D,208,65.20%
+State Representative 43,North Stonington,Chris Donahue,D,111,34.80%
+Treasurer,North Stonington,Shawn Wooden,D,150,49.83%
+Treasurer,North Stonington,Dita Bhargava,D,151,50.17%
+Attorney General,North Stonington,William Tong,D,181,59.34%
+Attorney General,North Stonington,Paul R Doyle,D,36,11.80%
+Attorney General,North Stonington,Chris Mattei,D,88,28.85%
+Governor,Norwalk,Ned Lamont,D,3440,80.85%
+Governor,Norwalk,Joe Ganim,D,815,19.15%
+Lieutenant Governor,Norwalk,Susan Bysiewicz,D,2541,61.51%
+Lieutenant Governor,Norwalk,Eva Bermudez Zimmerman,D,1590,38.49%
+State Representative 140,Norwalk,Travis Simms,D,562,53.22%
+State Representative 140,Norwalk,Colin Anthony Hosten,D,494,46.78%
+Treasurer,Norwalk,Shawn Wooden,D,2291,56.75%
+Treasurer,Norwalk,Dita Bhargava,D,1746,43.25%
+Attorney General,Norwalk,William Tong,D,2603,63.04%
+Attorney General,Norwalk,Paul R Doyle,D,615,14.89%
+Attorney General,Norwalk,Chris Mattei,D,911,22.06%
+Judge of Probate 51,Norwalk,Doug Stern,D,2891,70.96%
+Judge of Probate 51,Norwalk,Darnell D Crosland,D,1183,29.04%
+Governor,Norwich,Ned Lamont,D,1379,81.89%
+Governor,Norwich,Joe Ganim,D,305,18.11%
+Lieutenant Governor,Norwich,Susan Bysiewicz,D,1107,65.70%
+Lieutenant Governor,Norwich,Eva Bermudez Zimmerman,D,578,34.30%
+Treasurer,Norwich,Shawn Wooden,D,829,50.80%
+Treasurer,Norwich,Dita Bhargava,D,803,49.20%
+Attorney General,Norwich,William Tong,D,808,48.18%
+Attorney General,Norwich,Paul R Doyle,D,166,9.90%
+Attorney General,Norwich,Chris Mattei,D,703,41.92%
+Governor,Old Lyme,Ned Lamont,D,575,91.41%
+Governor,Old Lyme,Joe Ganim,D,54,8.59%
+Lieutenant Governor,Old Lyme,Susan Bysiewicz,D,459,73.91%
+Lieutenant Governor,Old Lyme,Eva Bermudez Zimmerman,D,162,26.09%
+Treasurer,Old Lyme,Shawn Wooden,D,375,61.88%
+Treasurer,Old Lyme,Dita Bhargava,D,231,38.12%
+Attorney General,Old Lyme,William Tong,D,325,52.33%
+Attorney General,Old Lyme,Paul R Doyle,D,69,11.11%
+Attorney General,Old Lyme,Chris Mattei,D,227,36.55%
+Governor,Old Saybrook,Ned Lamont,D,720,89.44%
+Governor,Old Saybrook,Joe Ganim,D,85,10.56%
+Lieutenant Governor,Old Saybrook,Susan Bysiewicz,D,529,66.29%
+Lieutenant Governor,Old Saybrook,Eva Bermudez Zimmerman,D,269,33.71%
+Treasurer,Old Saybrook,Shawn Wooden,D,434,55.29%
+Treasurer,Old Saybrook,Dita Bhargava,D,351,44.71%
+Attorney General,Old Saybrook,William Tong,D,496,63.27%
+Attorney General,Old Saybrook,Paul R Doyle,D,100,12.76%
+Attorney General,Old Saybrook,Chris Mattei,D,188,23.98%
+Governor,Orange,Ned Lamont,D,682,84.41%
+Governor,Orange,Joe Ganim,D,126,15.59%
+Lieutenant Governor,Orange,Susan Bysiewicz,D,557,68.60%
+Lieutenant Governor,Orange,Eva Bermudez Zimmerman,D,255,31.40%
+Treasurer,Orange,Shawn Wooden,D,478,61.13%
+Treasurer,Orange,Dita Bhargava,D,304,38.87%
+Attorney General,Orange,William Tong,D,390,48.63%
+Attorney General,Orange,Paul R Doyle,D,128,15.96%
+Attorney General,Orange,Chris Mattei,D,284,35.41%
+Governor,Oxford,Ned Lamont,D,350,79.19%
+Governor,Oxford,Joe Ganim,D,92,20.81%
+Lieutenant Governor,Oxford,Susan Bysiewicz,D,303,68.86%
+Lieutenant Governor,Oxford,Eva Bermudez Zimmerman,D,137,31.14%
+Treasurer,Oxford,Shawn Wooden,D,247,58.53%
+Treasurer,Oxford,Dita Bhargava,D,175,41.47%
+Attorney General,Oxford,William Tong,D,261,60.56%
+Attorney General,Oxford,Paul R Doyle,D,41,9.51%
+Attorney General,Oxford,Chris Mattei,D,129,29.93%
+Governor,Plainfield,Ned Lamont,D,638,81.38%
+Governor,Plainfield,Joe Ganim,D,146,18.62%
+Lieutenant Governor,Plainfield,Susan Bysiewicz,D,583,74.74%
+Lieutenant Governor,Plainfield,Eva Bermudez Zimmerman,D,197,25.26%
+Treasurer,Plainfield,Shawn Wooden,D,438,58.24%
+Treasurer,Plainfield,Dita Bhargava,D,314,41.76%
+Attorney General,Plainfield,William Tong,D,387,50.39%
+Attorney General,Plainfield,Paul R Doyle,D,152,19.79%
+Attorney General,Plainfield,Chris Mattei,D,229,29.82%
+Judge of Probate 27,Plainfield,Andrea Truppa,D,448,55.51%
+Judge of Probate 27,Plainfield,Michael J Cartier,D,359,44.49%
+Governor,Plainville,Ned Lamont,D,832,83.37%
+Governor,Plainville,Joe Ganim,D,166,16.63%
+Lieutenant Governor,Plainville,Susan Bysiewicz,D,671,67.44%
+Lieutenant Governor,Plainville,Eva Bermudez Zimmerman,D,324,32.56%
+Representative in Congress 05,Plainville,Mary Messina Glassman,D,411,40.61%
+Representative in Congress 05,Plainville,Jahana Hayes,D,601,59.39%
+Treasurer,Plainville,Shawn Wooden,D,575,57.85%
+Treasurer,Plainville,Dita Bhargava,D,419,42.15%
+Attorney General,Plainville,William Tong,D,618,61.43%
+Attorney General,Plainville,Paul R Doyle,D,141,14.02%
+Attorney General,Plainville,Chris Mattei,D,247,24.55%
+Governor,Plymouth,Ned Lamont,D,279,81.58%
+Governor,Plymouth,Joe Ganim,D,63,18.42%
+Lieutenant Governor,Plymouth,Susan Bysiewicz,D,223,65.40%
+Lieutenant Governor,Plymouth,Eva Bermudez Zimmerman,D,118,34.60%
+Representative in Congress 05,Plymouth,Mary Messina Glassman,D,127,37.24%
+Representative in Congress 05,Plymouth,Jahana Hayes,D,214,62.76%
+Treasurer,Plymouth,Shawn Wooden,D,165,50.30%
+Treasurer,Plymouth,Dita Bhargava,D,163,49.70%
+Attorney General,Plymouth,William Tong,D,168,50.76%
+Attorney General,Plymouth,Paul R Doyle,D,49,14.80%
+Attorney General,Plymouth,Chris Mattei,D,114,34.44%
+Governor,Pomfret,Ned Lamont,D,253,93.36%
+Governor,Pomfret,Joe Ganim,D,18,6.64%
+Lieutenant Governor,Pomfret,Susan Bysiewicz,D,147,54.24%
+Lieutenant Governor,Pomfret,Eva Bermudez Zimmerman,D,124,45.76%
+Treasurer,Pomfret,Shawn Wooden,D,132,49.81%
+Treasurer,Pomfret,Dita Bhargava,D,133,50.19%
+Attorney General,Pomfret,William Tong,D,148,55.64%
+Attorney General,Pomfret,Paul R Doyle,D,27,10.15%
+Attorney General,Pomfret,Chris Mattei,D,91,34.21%
+Governor,Portland,Ned Lamont,D,555,85.25%
+Governor,Portland,Joe Ganim,D,96,14.75%
+Lieutenant Governor,Portland,Susan Bysiewicz,D,364,55.57%
+Lieutenant Governor,Portland,Eva Bermudez Zimmerman,D,291,44.43%
+Treasurer,Portland,Shawn Wooden,D,308,48.13%
+Treasurer,Portland,Dita Bhargava,D,332,51.88%
+Attorney General,Portland,William Tong,D,332,51.39%
+Attorney General,Portland,Paul R Doyle,D,121,18.73%
+Attorney General,Portland,Chris Mattei,D,193,29.88%
+Governor,Preston,Ned Lamont,D,195,82.28%
+Governor,Preston,Joe Ganim,D,42,17.72%
+Lieutenant Governor,Preston,Susan Bysiewicz,D,187,79.24%
+Lieutenant Governor,Preston,Eva Bermudez Zimmerman,D,49,20.76%
+Treasurer,Preston,Shawn Wooden,D,137,59.31%
+Treasurer,Preston,Dita Bhargava,D,94,40.69%
+Attorney General,Preston,William Tong,D,151,64.53%
+Attorney General,Preston,Paul R Doyle,D,26,11.11%
+Attorney General,Preston,Chris Mattei,D,57,24.36%
+Registrar of Voters,Preston,Karen Stockton,D,151,63.71%
+Registrar of Voters,Preston,Cheryl A. Roberts,D,86,36.29%
+Governor,Prospect,Ned Lamont,D,339,73.54%
+Governor,Prospect,Joe Ganim,D,122,26.46%
+Lieutenant Governor,Prospect,Susan Bysiewicz,D,323,69.91%
+Lieutenant Governor,Prospect,Eva Bermudez Zimmerman,D,139,30.09%
+State Senator 16,Prospect,Dagmara Scalise,D,107,22.81%
+State Senator 16,Prospect,Vickie Orsini Nardello,D,362,77.19%
+Treasurer,Prospect,Shawn Wooden,D,247,55.63%
+Treasurer,Prospect,Dita Bhargava,D,197,44.37%
+Attorney General,Prospect,William Tong,D,257,56.86%
+Attorney General,Prospect,Paul R Doyle,D,87,19.25%
+Attorney General,Prospect,Chris Mattei,D,108,23.89%
+Governor,Putnam,Ned Lamont,D,299,88.99%
+Governor,Putnam,Joe Ganim,D,37,11.01%
+Lieutenant Governor,Putnam,Susan Bysiewicz,D,236,69.62%
+Lieutenant Governor,Putnam,Eva Bermudez Zimmerman,D,103,30.38%
+Treasurer,Putnam,Shawn Wooden,D,197,60.06%
+Treasurer,Putnam,Dita Bhargava,D,131,39.94%
+Attorney General,Putnam,William Tong,D,197,58.28%
+Attorney General,Putnam,Paul R Doyle,D,68,20.12%
+Attorney General,Putnam,Chris Mattei,D,73,21.60%
+Governor,Redding,Ned Lamont,D,622,92.42%
+Governor,Redding,Joe Ganim,D,51,7.58%
+Lieutenant Governor,Redding,Susan Bysiewicz,D,456,70.05%
+Lieutenant Governor,Redding,Eva Bermudez Zimmerman,D,195,29.95%
+Treasurer,Redding,Shawn Wooden,D,321,49.69%
+Treasurer,Redding,Dita Bhargava,D,325,50.31%
+Attorney General,Redding,William Tong,D,493,76.20%
+Attorney General,Redding,Paul R Doyle,D,41,6.34%
+Attorney General,Redding,Chris Mattei,D,113,17.47%
+Governor,Ridgefield,Ned Lamont,D,1312,93.12%
+Governor,Ridgefield,Joe Ganim,D,97,6.88%
+Lieutenant Governor,Ridgefield,Susan Bysiewicz,D,986,71.45%
+Lieutenant Governor,Ridgefield,Eva Bermudez Zimmerman,D,394,28.55%
+Treasurer,Ridgefield,Shawn Wooden,D,597,43.74%
+Treasurer,Ridgefield,Dita Bhargava,D,768,56.26%
+Attorney General,Ridgefield,William Tong,D,970,71.17%
+Attorney General,Ridgefield,Paul R Doyle,D,137,10.05%
+Attorney General,Ridgefield,Chris Mattei,D,256,18.78%
+Governor,Rocky Hill,Ned Lamont,D,1407,82.04%
+Governor,Rocky Hill,Joe Ganim,D,308,17.96%
+Lieutenant Governor,Rocky Hill,Susan Bysiewicz,D,1144,67.29%
+Lieutenant Governor,Rocky Hill,Eva Bermudez Zimmerman,D,556,32.71%
+State Senator 09,Rocky Hill,"Antonio ""Tony"" Guerrera",D,1166,66.40%
+State Senator 09,Rocky Hill,Matt Lesser,D,590,33.60%
+State Representative 29,Rocky Hill,Christopher Duff,D,813,47.32%
+State Representative 29,Rocky Hill,Kerry Szeps Wood,D,905,52.68%
+Treasurer,Rocky Hill,Shawn Wooden,D,985,59.27%
+Treasurer,Rocky Hill,Dita Bhargava,D,677,40.73%
+Attorney General,Rocky Hill,William Tong,D,601,34.19%
+Attorney General,Rocky Hill,Paul R Doyle,D,906,51.54%
+Attorney General,Rocky Hill,Chris Mattei,D,251,14.28%
+Governor,Roxbury,Ned Lamont,D,211,91.74%
+Governor,Roxbury,Joe Ganim,D,19,8.26%
+Lieutenant Governor,Roxbury,Susan Bysiewicz,D,154,68.44%
+Lieutenant Governor,Roxbury,Eva Bermudez Zimmerman,D,71,31.56%
+Representative in Congress 05,Roxbury,Mary Messina Glassman,D,55,23.61%
+Representative in Congress 05,Roxbury,Jahana Hayes,D,178,76.39%
+Treasurer,Roxbury,Shawn Wooden,D,134,59.82%
+Treasurer,Roxbury,Dita Bhargava,D,90,40.18%
+Attorney General,Roxbury,William Tong,D,143,63.56%
+Attorney General,Roxbury,Paul R Doyle,D,21,9.33%
+Attorney General,Roxbury,Chris Mattei,D,61,27.11%
+Governor,Salem,Ned Lamont,D,221,92.86%
+Governor,Salem,Joe Ganim,D,17,7.14%
+Lieutenant Governor,Salem,Susan Bysiewicz,D,146,61.60%
+Lieutenant Governor,Salem,Eva Bermudez Zimmerman,D,91,38.40%
+Treasurer,Salem,Shawn Wooden,D,115,48.52%
+Treasurer,Salem,Dita Bhargava,D,122,51.48%
+Attorney General,Salem,William Tong,D,160,67.80%
+Attorney General,Salem,Paul R Doyle,D,29,12.29%
+Attorney General,Salem,Chris Mattei,D,47,19.92%
+Governor,Salisbury,Ned Lamont,D,489,91.40%
+Governor,Salisbury,Joe Ganim,D,46,8.60%
+Lieutenant Governor,Salisbury,Susan Bysiewicz,D,415,78.01%
+Lieutenant Governor,Salisbury,Eva Bermudez Zimmerman,D,117,21.99%
+Representative in Congress 05,Salisbury,Mary Messina Glassman,D,137,25.18%
+Representative in Congress 05,Salisbury,Jahana Hayes,D,407,74.82%
+Treasurer,Salisbury,Shawn Wooden,D,320,62.26%
+Treasurer,Salisbury,Dita Bhargava,D,194,37.74%
+Attorney General,Salisbury,William Tong,D,398,75.38%
+Attorney General,Salisbury,Paul R Doyle,D,37,7.01%
+Attorney General,Salisbury,Chris Mattei,D,93,17.61%
+Governor,Scotland,Ned Lamont,D,73,89.02%
+Governor,Scotland,Joe Ganim,D,9,10.98%
+Lieutenant Governor,Scotland,Susan Bysiewicz,D,57,67.86%
+Lieutenant Governor,Scotland,Eva Bermudez Zimmerman,D,27,32.14%
+Treasurer,Scotland,Shawn Wooden,D,44,57.14%
+Treasurer,Scotland,Dita Bhargava,D,33,42.86%
+Attorney General,Scotland,William Tong,D,47,56.63%
+Attorney General,Scotland,Paul R Doyle,D,7,8.43%
+Attorney General,Scotland,Chris Mattei,D,29,34.94%
+Governor,Seymour,Ned Lamont,D,419,69.72%
+Governor,Seymour,Joe Ganim,D,182,30.28%
+Lieutenant Governor,Seymour,Susan Bysiewicz,D,381,64.14%
+Lieutenant Governor,Seymour,Eva Bermudez Zimmerman,D,213,35.86%
+Treasurer,Seymour,Shawn Wooden,D,323,54.19%
+Treasurer,Seymour,Dita Bhargava,D,273,45.81%
+Attorney General,Seymour,William Tong,D,326,54.15%
+Attorney General,Seymour,Paul R Doyle,D,85,14.12%
+Attorney General,Seymour,Chris Mattei,D,191,31.73%
+Governor,Sharon,Ned Lamont,D,264,92.63%
+Governor,Sharon,Joe Ganim,D,21,7.37%
+Lieutenant Governor,Sharon,Susan Bysiewicz,D,206,72.54%
+Lieutenant Governor,Sharon,Eva Bermudez Zimmerman,D,78,27.46%
+Representative in Congress 05,Sharon,Mary Messina Glassman,D,113,38.83%
+Representative in Congress 05,Sharon,Jahana Hayes,D,178,61.17%
+Treasurer,Sharon,Shawn Wooden,D,153,55.23%
+Treasurer,Sharon,Dita Bhargava,D,124,44.77%
+Attorney General,Sharon,William Tong,D,189,67.02%
+Attorney General,Sharon,Paul R Doyle,D,24,8.51%
+Attorney General,Sharon,Chris Mattei,D,69,24.47%
+Governor,Shelton,Ned Lamont,D,1180,77.79%
+Governor,Shelton,Joe Ganim,D,337,22.21%
+Lieutenant Governor,Shelton,Susan Bysiewicz,D,982,66.04%
+Lieutenant Governor,Shelton,Eva Bermudez Zimmerman,D,505,33.96%
+Treasurer,Shelton,Shawn Wooden,D,720,48.98%
+Treasurer,Shelton,Dita Bhargava,D,750,51.02%
+Attorney General,Shelton,William Tong,D,738,49.63%
+Attorney General,Shelton,Paul R Doyle,D,166,11.16%
+Attorney General,Shelton,Chris Mattei,D,583,39.21%
+Governor,Sherman,Ned Lamont,D,197,90.78%
+Governor,Sherman,Joe Ganim,D,20,9.22%
+Lieutenant Governor,Sherman,Susan Bysiewicz,D,111,51.63%
+Lieutenant Governor,Sherman,Eva Bermudez Zimmerman,D,104,48.37%
+Representative in Congress 05,Sherman,Mary Messina Glassman,D,74,33.64%
+Representative in Congress 05,Sherman,Jahana Hayes,D,146,66.36%
+Treasurer,Sherman,Shawn Wooden,D,129,61.43%
+Treasurer,Sherman,Dita Bhargava,D,81,38.57%
+Attorney General,Sherman,William Tong,D,150,71.09%
+Attorney General,Sherman,Paul R Doyle,D,21,9.95%
+Attorney General,Sherman,Chris Mattei,D,40,18.96%
+Governor,Simsbury,Ned Lamont,D,2261,92.74%
+Governor,Simsbury,Joe Ganim,D,177,7.26%
+Lieutenant Governor,Simsbury,Susan Bysiewicz,D,1626,67.11%
+Lieutenant Governor,Simsbury,Eva Bermudez Zimmerman,D,797,32.89%
+Representative in Congress 05,Simsbury,Mary Messina Glassman,D,1917,76.22%
+Representative in Congress 05,Simsbury,Jahana Hayes,D,598,23.78%
+Treasurer,Simsbury,Shawn Wooden,D,1432,60.14%
+Treasurer,Simsbury,Dita Bhargava,D,949,39.86%
+Attorney General,Simsbury,William Tong,D,1631,67.59%
+Attorney General,Simsbury,Paul R Doyle,D,241,9.99%
+Attorney General,Simsbury,Chris Mattei,D,541,22.42%
+Governor,Somers,Ned Lamont,D,294,89.09%
+Governor,Somers,Joe Ganim,D,36,10.91%
+Lieutenant Governor,Somers,Susan Bysiewicz,D,229,69.82%
+Lieutenant Governor,Somers,Eva Bermudez Zimmerman,D,99,30.18%
+Treasurer,Somers,Shawn Wooden,D,168,51.85%
+Treasurer,Somers,Dita Bhargava,D,156,48.15%
+Attorney General,Somers,William Tong,D,183,56.31%
+Attorney General,Somers,Paul R Doyle,D,52,16.00%
+Attorney General,Somers,Chris Mattei,D,90,27.69%
+Governor,Southbury,Ned Lamont,D,1209,88.18%
+Governor,Southbury,Joe Ganim,D,162,11.82%
+Lieutenant Governor,Southbury,Susan Bysiewicz,D,987,72.73%
+Lieutenant Governor,Southbury,Eva Bermudez Zimmerman,D,370,27.27%
+Representative in Congress 05,Southbury,Mary Messina Glassman,D,611,44.44%
+Representative in Congress 05,Southbury,Jahana Hayes,D,764,55.56%
+Treasurer,Southbury,Shawn Wooden,D,699,53.03%
+Treasurer,Southbury,Dita Bhargava,D,619,46.97%
+Attorney General,Southbury,William Tong,D,944,70.08%
+Attorney General,Southbury,Paul R Doyle,D,115,8.54%
+Attorney General,Southbury,Chris Mattei,D,288,21.38%
+Governor,Southington,Ned Lamont,D,1991,83.31%
+Governor,Southington,Joe Ganim,D,399,16.69%
+Lieutenant Governor,Southington,Susan Bysiewicz,D,1643,68.72%
+Lieutenant Governor,Southington,Eva Bermudez Zimmerman,D,748,31.28%
+State Senator 16,Southington,Dagmara Scalise,D,1583,66.60%
+State Senator 16,Southington,Vickie Orsini Nardello,D,794,33.40%
+Treasurer,Southington,Shawn Wooden,D,1291,55.17%
+Treasurer,Southington,Dita Bhargava,D,1049,44.83%
+Attorney General,Southington,William Tong,D,1376,57.96%
+Attorney General,Southington,Paul R Doyle,D,351,14.79%
+Attorney General,Southington,Chris Mattei,D,647,27.25%
+Governor,South Windsor,Ned Lamont,D,1534,90.13%
+Governor,South Windsor,Joe Ganim,D,168,9.87%
+Lieutenant Governor,South Windsor,Susan Bysiewicz,D,1198,70.85%
+Lieutenant Governor,South Windsor,Eva Bermudez Zimmerman,D,493,29.15%
+Treasurer,South Windsor,Shawn Wooden,D,956,57.66%
+Treasurer,South Windsor,Dita Bhargava,D,702,42.34%
+Attorney General,South Windsor,William Tong,D,877,52.26%
+Attorney General,South Windsor,Paul R Doyle,D,191,11.38%
+Attorney General,South Windsor,Chris Mattei,D,610,36.35%
+Governor,Sprague,Ned Lamont,D,143,84.12%
+Governor,Sprague,Joe Ganim,D,27,15.88%
+Lieutenant Governor,Sprague,Susan Bysiewicz,D,119,71.69%
+Lieutenant Governor,Sprague,Eva Bermudez Zimmerman,D,47,28.31%
+Treasurer,Sprague,Shawn Wooden,D,77,49.36%
+Treasurer,Sprague,Dita Bhargava,D,79,50.64%
+Attorney General,Sprague,William Tong,D,74,45.96%
+Attorney General,Sprague,Paul R Doyle,D,26,16.15%
+Attorney General,Sprague,Chris Mattei,D,61,37.89%
+Governor,Stafford,Ned Lamont,D,501,86.83%
+Governor,Stafford,Joe Ganim,D,76,13.17%
+Lieutenant Governor,Stafford,Susan Bysiewicz,D,365,64.04%
+Lieutenant Governor,Stafford,Eva Bermudez Zimmerman,D,205,35.96%
+Treasurer,Stafford,Shawn Wooden,D,314,56.88%
+Treasurer,Stafford,Dita Bhargava,D,238,43.12%
+Attorney General,Stafford,William Tong,D,339,60.21%
+Attorney General,Stafford,Paul R Doyle,D,65,11.55%
+Attorney General,Stafford,Chris Mattei,D,159,28.24%
+Governor,Stamford,Ned Lamont,D,5608,82.51%
+Governor,Stamford,Joe Ganim,D,1189,17.49%
+Lieutenant Governor,Stamford,Susan Bysiewicz,D,4461,67.19%
+Lieutenant Governor,Stamford,Eva Bermudez Zimmerman,D,2178,32.81%
+State Representative 146,Stamford,David Michel,D,1063,68.49%
+State Representative 146,Stamford,Terry B Adams,D,489,31.51%
+Treasurer,Stamford,Shawn Wooden,D,3907,59.77%
+Treasurer,Stamford,Dita Bhargava,D,2630,40.23%
+Attorney General,Stamford,William Tong,D,5337,74.40%
+Attorney General,Stamford,Paul R Doyle,D,550,7.67%
+Attorney General,Stamford,Chris Mattei,D,1286,17.93%
+Governor,Sterling,Ned Lamont,D,92,80.00%
+Governor,Sterling,Joe Ganim,D,23,20.00%
+Lieutenant Governor,Sterling,Susan Bysiewicz,D,75,64.66%
+Lieutenant Governor,Sterling,Eva Bermudez Zimmerman,D,41,35.34%
+Treasurer,Sterling,Shawn Wooden,D,62,55.36%
+Treasurer,Sterling,Dita Bhargava,D,50,44.64%
+Attorney General,Sterling,William Tong,D,74,64.35%
+Attorney General,Sterling,Paul R Doyle,D,15,13.04%
+Attorney General,Sterling,Chris Mattei,D,26,22.61%
+Judge of Probate 27,Sterling,Andrea Truppa,D,77,66.38%
+Judge of Probate 27,Sterling,Michael J Cartier,D,39,33.62%
+Governor,Stonington,Ned Lamont,D,1541,85.75%
+Governor,Stonington,Joe Ganim,D,256,14.25%
+Lieutenant Governor,Stonington,Susan Bysiewicz,D,1272,71.78%
+Lieutenant Governor,Stonington,Eva Bermudez Zimmerman,D,500,28.22%
+State Representative 43,Stonington,Kate Rotella,D,943,50.89%
+State Representative 43,Stonington,Chris Donahue,D,910,49.11%
+Treasurer,Stonington,Shawn Wooden,D,932,55.54%
+Treasurer,Stonington,Dita Bhargava,D,746,44.46%
+Attorney General,Stonington,William Tong,D,1100,65.36%
+Attorney General,Stonington,Paul R Doyle,D,232,13.78%
+Attorney General,Stonington,Chris Mattei,D,351,20.86%
+Governor,Stratford,Ned Lamont,D,1946,66.51%
+Governor,Stratford,Joe Ganim,D,980,33.49%
+Lieutenant Governor,Stratford,Susan Bysiewicz,D,1728,59.92%
+Lieutenant Governor,Stratford,Eva Bermudez Zimmerman,D,1156,40.08%
+State Senator 23,Stratford,Dennis Bradley,D,262,43.74%
+State Senator 23,Stratford,Aaron Turner,D,337,56.26%
+Treasurer,Stratford,Shawn Wooden,D,1471,52.05%
+Treasurer,Stratford,Dita Bhargava,D,1355,47.95%
+Attorney General,Stratford,William Tong,D,1697,59.29%
+Attorney General,Stratford,Paul R Doyle,D,542,18.94%
+Attorney General,Stratford,Chris Mattei,D,623,21.77%
+Governor,Suffield,Ned Lamont,D,538,85.67%
+Governor,Suffield,Joe Ganim,D,90,14.33%
+Lieutenant Governor,Suffield,Susan Bysiewicz,D,390,62.80%
+Lieutenant Governor,Suffield,Eva Bermudez Zimmerman,D,231,37.20%
+Treasurer,Suffield,Shawn Wooden,D,345,57.50%
+Treasurer,Suffield,Dita Bhargava,D,255,42.50%
+Attorney General,Suffield,William Tong,D,320,52.81%
+Attorney General,Suffield,Paul R Doyle,D,78,12.87%
+Attorney General,Suffield,Chris Mattei,D,208,34.32%
+Governor,Thomaston,Ned Lamont,D,241,77.99%
+Governor,Thomaston,Joe Ganim,D,68,22.01%
+Lieutenant Governor,Thomaston,Susan Bysiewicz,D,213,68.93%
+Lieutenant Governor,Thomaston,Eva Bermudez Zimmerman,D,96,31.07%
+Representative in Congress 05,Thomaston,Mary Messina Glassman,D,94,30.42%
+Representative in Congress 05,Thomaston,Jahana Hayes,D,215,69.58%
+Treasurer,Thomaston,Shawn Wooden,D,156,52.00%
+Treasurer,Thomaston,Dita Bhargava,D,144,48.00%
+Attorney General,Thomaston,William Tong,D,157,51.31%
+Attorney General,Thomaston,Paul R Doyle,D,75,24.51%
+Attorney General,Thomaston,Chris Mattei,D,74,24.18%
+Governor,Thompson,Ned Lamont,D,335,87.24%
+Governor,Thompson,Joe Ganim,D,49,12.76%
+Lieutenant Governor,Thompson,Susan Bysiewicz,D,304,79.37%
+Lieutenant Governor,Thompson,Eva Bermudez Zimmerman,D,79,20.63%
+Treasurer,Thompson,Shawn Wooden,D,240,64.86%
+Treasurer,Thompson,Dita Bhargava,D,130,35.14%
+Attorney General,Thompson,William Tong,D,223,59.47%
+Attorney General,Thompson,Paul R Doyle,D,79,21.07%
+Attorney General,Thompson,Chris Mattei,D,73,19.47%
+Governor,Tolland,Ned Lamont,D,767,90.13%
+Governor,Tolland,Joe Ganim,D,84,9.87%
+Lieutenant Governor,Tolland,Susan Bysiewicz,D,508,60.19%
+Lieutenant Governor,Tolland,Eva Bermudez Zimmerman,D,336,39.81%
+Treasurer,Tolland,Shawn Wooden,D,444,54.28%
+Treasurer,Tolland,Dita Bhargava,D,374,45.72%
+Attorney General,Tolland,William Tong,D,474,56.77%
+Attorney General,Tolland,Paul R Doyle,D,122,14.61%
+Attorney General,Tolland,Chris Mattei,D,239,28.62%
+Governor,Torrington,Ned Lamont,D,1009,79.64%
+Governor,Torrington,Joe Ganim,D,258,20.36%
+Lieutenant Governor,Torrington,Susan Bysiewicz,D,847,66.48%
+Lieutenant Governor,Torrington,Eva Bermudez Zimmerman,D,427,33.52%
+Representative in Congress 05,Torrington,Mary Messina Glassman,D,227,34.34%
+Representative in Congress 05,Torrington,Jahana Hayes,D,434,65.66%
+Treasurer,Torrington,Shawn Wooden,D,696,56.36%
+Treasurer,Torrington,Dita Bhargava,D,539,43.64%
+Attorney General,Torrington,William Tong,D,747,59.38%
+Attorney General,Torrington,Paul R Doyle,D,165,13.12%
+Attorney General,Torrington,Chris Mattei,D,346,27.50%
+Governor,Trumbull,Ned Lamont,D,1492,81.44%
+Governor,Trumbull,Joe Ganim,D,340,18.56%
+Lieutenant Governor,Trumbull,Susan Bysiewicz,D,1272,70.71%
+Lieutenant Governor,Trumbull,Eva Bermudez Zimmerman,D,527,29.29%
+Treasurer,Trumbull,Shawn Wooden,D,922,51.71%
+Treasurer,Trumbull,Dita Bhargava,D,861,48.29%
+Attorney General,Trumbull,William Tong,D,1095,61.17%
+Attorney General,Trumbull,Paul R Doyle,D,196,10.95%
+Attorney General,Trumbull,Chris Mattei,D,499,27.88%
+Governor,Union,Ned Lamont,D,48,94.12%
+Governor,Union,Joe Ganim,D,3,5.88%
+Lieutenant Governor,Union,Susan Bysiewicz,D,31,60.78%
+Lieutenant Governor,Union,Eva Bermudez Zimmerman,D,20,39.22%
+Treasurer,Union,Shawn Wooden,D,36,72.00%
+Treasurer,Union,Dita Bhargava,D,14,28.00%
+Attorney General,Union,William Tong,D,31,62.00%
+Attorney General,Union,Paul R Doyle,D,7,14.00%
+Attorney General,Union,Chris Mattei,D,12,24.00%
+Governor,Vernon,Ned Lamont,D,1337,88.78%
+Governor,Vernon,Joe Ganim,D,169,11.22%
+Lieutenant Governor,Vernon,Susan Bysiewicz,D,946,63.45%
+Lieutenant Governor,Vernon,Eva Bermudez Zimmerman,D,545,36.55%
+Treasurer,Vernon,Shawn Wooden,D,843,57.46%
+Treasurer,Vernon,Dita Bhargava,D,624,42.54%
+Attorney General,Vernon,William Tong,D,848,57.37%
+Attorney General,Vernon,Paul R Doyle,D,177,11.98%
+Attorney General,Vernon,Chris Mattei,D,453,30.65%
+Governor,Voluntown,Ned Lamont,D,122,91.73%
+Governor,Voluntown,Joe Ganim,D,11,8.27%
+Lieutenant Governor,Voluntown,Susan Bysiewicz,D,89,66.42%
+Lieutenant Governor,Voluntown,Eva Bermudez Zimmerman,D,45,33.58%
+Treasurer,Voluntown,Shawn Wooden,D,75,57.69%
+Treasurer,Voluntown,Dita Bhargava,D,55,42.31%
+Attorney General,Voluntown,William Tong,D,70,53.03%
+Attorney General,Voluntown,Paul R Doyle,D,14,10.61%
+Attorney General,Voluntown,Chris Mattei,D,48,36.36%
+Governor,Wallingford,Ned Lamont,D,1828,81.90%
+Governor,Wallingford,Joe Ganim,D,404,18.10%
+Lieutenant Governor,Wallingford,Susan Bysiewicz,D,1494,67.48%
+Lieutenant Governor,Wallingford,Eva Bermudez Zimmerman,D,720,32.52%
+State Senator 34,Wallingford,Aili McKeen,D,1805,81.23%
+State Senator 34,Wallingford,Josh Balter,D,417,18.77%
+Treasurer,Wallingford,Shawn Wooden,D,1230,56.55%
+Treasurer,Wallingford,Dita Bhargava,D,945,43.45%
+Attorney General,Wallingford,William Tong,D,1456,65.79%
+Attorney General,Wallingford,Paul R Doyle,D,248,11.21%
+Attorney General,Wallingford,Chris Mattei,D,509,23.00%
+Governor,Warren,Ned Lamont,D,102,92.73%
+Governor,Warren,Joe Ganim,D,8,7.27%
+Lieutenant Governor,Warren,Susan Bysiewicz,D,73,64.04%
+Lieutenant Governor,Warren,Eva Bermudez Zimmerman,D,41,35.96%
+Representative in Congress 05,Warren,Mary Messina Glassman,D,33,28.95%
+Representative in Congress 05,Warren,Jahana Hayes,D,81,71.05%
+Treasurer,Warren,Shawn Wooden,D,64,57.14%
+Treasurer,Warren,Dita Bhargava,D,48,42.86%
+Attorney General,Warren,William Tong,D,78,68.42%
+Attorney General,Warren,Paul R Doyle,D,6,5.26%
+Attorney General,Warren,Chris Mattei,D,30,26.32%
+Governor,Washington,Ned Lamont,D,341,94.20%
+Governor,Washington,Joe Ganim,D,21,5.80%
+Lieutenant Governor,Washington,Susan Bysiewicz,D,238,66.30%
+Lieutenant Governor,Washington,Eva Bermudez Zimmerman,D,121,33.70%
+Representative in Congress 05,Washington,Mary Messina Glassman,D,95,25.61%
+Representative in Congress 05,Washington,Jahana Hayes,D,276,74.39%
+Treasurer,Washington,Shawn Wooden,D,218,63.37%
+Treasurer,Washington,Dita Bhargava,D,126,36.63%
+Attorney General,Washington,William Tong,D,213,61.03%
+Attorney General,Washington,Paul R Doyle,D,34,9.74%
+Attorney General,Washington,Chris Mattei,D,102,29.23%
+Governor,Waterbury,Ned Lamont,D,3005,56.39%
+Governor,Waterbury,Joe Ganim,D,2324,43.61%
+Lieutenant Governor,Waterbury,Susan Bysiewicz,D,2499,47.41%
+Lieutenant Governor,Waterbury,Eva Bermudez Zimmerman,D,2772,52.59%
+Representative in Congress 05,Waterbury,Mary Messina Glassman,D,770,16.00%
+Representative in Congress 05,Waterbury,Jahana Hayes,D,4044,84.00%
+State Senator 16,Waterbury,Dagmara Scalise,D,386,31.80%
+State Senator 16,Waterbury,Vickie Orsini Nardello,D,828,68.20%
+Treasurer,Waterbury,Shawn Wooden,D,2540,49.60%
+Treasurer,Waterbury,Dita Bhargava,D,2581,50.40%
+Attorney General,Waterbury,William Tong,D,2207,42.74%
+Attorney General,Waterbury,Paul R Doyle,D,2099,40.65%
+Attorney General,Waterbury,Chris Mattei,D,858,16.62%
+Governor,Waterford,Ned Lamont,D,1189,83.97%
+Governor,Waterford,Joe Ganim,D,227,16.03%
+Lieutenant Governor,Waterford,Susan Bysiewicz,D,925,65.79%
+Lieutenant Governor,Waterford,Eva Bermudez Zimmerman,D,481,34.21%
+State Representative 38,Waterford,Baird Welch-Collins,D,547,38.63%
+State Representative 38,Waterford,Nick Gauthier,D,392,27.68%
+State Representative 38,Waterford,Patrick Murphy,D,477,33.69%
+Treasurer,Waterford,Shawn Wooden,D,730,53.99%
+Treasurer,Waterford,Dita Bhargava,D,622,46.01%
+Attorney General,Waterford,William Tong,D,793,57.93%
+Attorney General,Waterford,Paul R Doyle,D,181,13.22%
+Attorney General,Waterford,Chris Mattei,D,395,28.85%
+Governor,Watertown,Ned Lamont,D,675,73.37%
+Governor,Watertown,Joe Ganim,D,245,26.63%
+Lieutenant Governor,Watertown,Susan Bysiewicz,D,606,65.94%
+Lieutenant Governor,Watertown,Eva Bermudez Zimmerman,D,313,34.06%
+Representative in Congress 05,Watertown,Mary Messina Glassman,D,279,30.00%
+Representative in Congress 05,Watertown,Jahana Hayes,D,651,70.00%
+Treasurer,Watertown,Shawn Wooden,D,484,53.72%
+Treasurer,Watertown,Dita Bhargava,D,417,46.28%
+Attorney General,Watertown,William Tong,D,533,59.16%
+Attorney General,Watertown,Paul R Doyle,D,163,18.09%
+Attorney General,Watertown,Chris Mattei,D,205,22.75%
+Governor,Westbrook,Ned Lamont,D,345,88.01%
+Governor,Westbrook,Joe Ganim,D,47,11.99%
+Lieutenant Governor,Westbrook,Susan Bysiewicz,D,250,64.77%
+Lieutenant Governor,Westbrook,Eva Bermudez Zimmerman,D,136,35.23%
+Treasurer,Westbrook,Shawn Wooden,D,193,51.74%
+Treasurer,Westbrook,Dita Bhargava,D,180,48.26%
+Attorney General,Westbrook,William Tong,D,227,60.21%
+Attorney General,Westbrook,Paul R Doyle,D,51,13.53%
+Attorney General,Westbrook,Chris Mattei,D,99,26.26%
+Governor,West Hartford,Ned Lamont,D,6735,90.99%
+Governor,West Hartford,Joe Ganim,D,667,9.01%
+Lieutenant Governor,West Hartford,Susan Bysiewicz,D,3998,54.58%
+Lieutenant Governor,West Hartford,Eva Bermudez Zimmerman,D,3327,45.42%
+State Representative 18,West Hartford,Andy Fleischmann,D,1558,47.72%
+State Representative 18,West Hartford,Jillian Gilchrest,D,1707,52.28%
+Treasurer,West Hartford,Shawn Wooden,D,3979,55.94%
+Treasurer,West Hartford,Dita Bhargava,D,3134,44.06%
+Attorney General,West Hartford,William Tong,D,4408,60.95%
+Attorney General,West Hartford,Paul R Doyle,D,906,12.53%
+Attorney General,West Hartford,Chris Mattei,D,1918,26.52%
+Governor,West Haven,Ned Lamont,D,1994,59.40%
+Governor,West Haven,Joe Ganim,D,1363,40.60%
+Lieutenant Governor,West Haven,Susan Bysiewicz,D,2003,60.90%
+Lieutenant Governor,West Haven,Eva Bermudez Zimmerman,D,1286,39.10%
+Treasurer,West Haven,Shawn Wooden,D,1853,57.58%
+Treasurer,West Haven,Dita Bhargava,D,1365,42.42%
+Attorney General,West Haven,William Tong,D,1457,44.10%
+Attorney General,West Haven,Paul R Doyle,D,858,25.97%
+Attorney General,West Haven,Chris Mattei,D,989,29.93%
+Governor,Weston,Ned Lamont,D,706,94.39%
+Governor,Weston,Joe Ganim,D,42,5.61%
+Lieutenant Governor,Weston,Susan Bysiewicz,D,526,72.65%
+Lieutenant Governor,Weston,Eva Bermudez Zimmerman,D,198,27.35%
+Treasurer,Weston,Shawn Wooden,D,357,50.21%
+Treasurer,Weston,Dita Bhargava,D,354,49.79%
+Attorney General,Weston,William Tong,D,518,72.14%
+Attorney General,Weston,Paul R Doyle,D,35,4.87%
+Attorney General,Weston,Chris Mattei,D,165,22.98%
+Governor,Westport,Ned Lamont,D,1861,94.32%
+Governor,Westport,Joe Ganim,D,112,5.68%
+Lieutenant Governor,Westport,Susan Bysiewicz,D,1425,73.57%
+Lieutenant Governor,Westport,Eva Bermudez Zimmerman,D,512,26.43%
+Treasurer,Westport,Shawn Wooden,D,1015,53.70%
+Treasurer,Westport,Dita Bhargava,D,875,46.30%
+Attorney General,Westport,William Tong,D,1346,70.29%
+Attorney General,Westport,Paul R Doyle,D,120,6.27%
+Attorney General,Westport,Chris Mattei,D,449,23.45%
+Governor,Wethersfield,Ned Lamont,D,2015,85.53%
+Governor,Wethersfield,Joe Ganim,D,341,14.47%
+Lieutenant Governor,Wethersfield,Susan Bysiewicz,D,1362,58.18%
+Lieutenant Governor,Wethersfield,Eva Bermudez Zimmerman,D,979,41.82%
+State Senator 09,Wethersfield,"Antonio ""Tony"" Guerrera",D,278,58.28%
+State Senator 09,Wethersfield,Matt Lesser,D,199,41.72%
+State Representative 29,Wethersfield,Christopher Duff,D,117,44.15%
+State Representative 29,Wethersfield,Kerry Szeps Wood,D,148,55.85%
+Treasurer,Wethersfield,Shawn Wooden,D,1318,58.27%
+Treasurer,Wethersfield,Dita Bhargava,D,944,41.73%
+Attorney General,Wethersfield,William Tong,D,756,31.68%
+Attorney General,Wethersfield,Paul R Doyle,D,1215,50.92%
+Attorney General,Wethersfield,Chris Mattei,D,415,17.39%
+Governor,Willington,Ned Lamont,D,323,89.72%
+Governor,Willington,Joe Ganim,D,37,10.28%
+Lieutenant Governor,Willington,Susan Bysiewicz,D,218,61.76%
+Lieutenant Governor,Willington,Eva Bermudez Zimmerman,D,135,38.24%
+Treasurer,Willington,Shawn Wooden,D,191,55.20%
+Treasurer,Willington,Dita Bhargava,D,155,44.80%
+Attorney General,Willington,William Tong,D,221,62.78%
+Attorney General,Willington,Paul R Doyle,D,40,11.36%
+Attorney General,Willington,Chris Mattei,D,91,25.85%
+Governor,Wilton,Ned Lamont,D,980,92.98%
+Governor,Wilton,Joe Ganim,D,74,7.02%
+Lieutenant Governor,Wilton,Susan Bysiewicz,D,752,73.29%
+Lieutenant Governor,Wilton,Eva Bermudez Zimmerman,D,274,26.71%
+Treasurer,Wilton,Shawn Wooden,D,538,54.18%
+Treasurer,Wilton,Dita Bhargava,D,455,45.82%
+Attorney General,Wilton,William Tong,D,734,72.82%
+Attorney General,Wilton,Paul R Doyle,D,74,7.34%
+Attorney General,Wilton,Chris Mattei,D,200,19.84%
+Judge of Probate 51,Wilton,Doug Stern,D,789,81.17%
+Judge of Probate 51,Wilton,Darnell D Crosland,D,183,18.83%
+Governor,Winchester,Ned Lamont,D,326,84.90%
+Governor,Winchester,Joe Ganim,D,58,15.10%
+Lieutenant Governor,Winchester,Susan Bysiewicz,D,250,65.27%
+Lieutenant Governor,Winchester,Eva Bermudez Zimmerman,D,133,34.73%
+Treasurer,Winchester,Shawn Wooden,D,211,55.38%
+Treasurer,Winchester,Dita Bhargava,D,170,44.62%
+Attorney General,Winchester,William Tong,D,246,64.06%
+Attorney General,Winchester,Paul R Doyle,D,37,9.64%
+Attorney General,Winchester,Chris Mattei,D,101,26.30%
+Governor,Windham,Ned Lamont,D,984,85.12%
+Governor,Windham,Joe Ganim,D,172,14.88%
+Lieutenant Governor,Windham,Susan Bysiewicz,D,592,49.42%
+Lieutenant Governor,Windham,Eva Bermudez Zimmerman,D,606,50.58%
+Treasurer,Windham,Shawn Wooden,D,638,57.89%
+Treasurer,Windham,Dita Bhargava,D,464,42.11%
+Attorney General,Windham,William Tong,D,713,63.43%
+Attorney General,Windham,Paul R Doyle,D,151,13.43%
+Attorney General,Windham,Chris Mattei,D,260,23.13%
+Governor,Windsor,Ned Lamont,D,2855,80.92%
+Governor,Windsor,Joe Ganim,D,673,19.08%
+Lieutenant Governor,Windsor,Susan Bysiewicz,D,2241,63.70%
+Lieutenant Governor,Windsor,Eva Bermudez Zimmerman,D,1277,36.30%
+State Representative 05,Windsor,Lawrence O Jaggon,D,504,28.82%
+State Representative 05,Windsor,Brandon McGee,D,1245,71.18%
+State Representative 60,Windsor,Jane M Garibay,D,964,74.10%
+State Representative 60,Windsor,Kathleen Tracy,D,337,25.90%
+Treasurer,Windsor,Shawn Wooden,D,2289,66.16%
+Treasurer,Windsor,Dita Bhargava,D,1171,33.84%
+Attorney General,Windsor,William Tong,D,1706,48.72%
+Attorney General,Windsor,Paul R Doyle,D,490,13.99%
+Attorney General,Windsor,Chris Mattei,D,1306,37.29%
+Governor,Windsor Locks,Ned Lamont,D,607,83.49%
+Governor,Windsor Locks,Joe Ganim,D,120,16.51%
+Lieutenant Governor,Windsor Locks,Susan Bysiewicz,D,537,73.36%
+Lieutenant Governor,Windsor Locks,Eva Bermudez Zimmerman,D,195,26.64%
+State Representative 60,Windsor Locks,Jane M Garibay,D,404,55.42%
+State Representative 60,Windsor Locks,Kathleen Tracy,D,325,44.58%
+Treasurer,Windsor Locks,Shawn Wooden,D,433,60.81%
+Treasurer,Windsor Locks,Dita Bhargava,D,279,39.19%
+Attorney General,Windsor Locks,William Tong,D,403,55.13%
+Attorney General,Windsor Locks,Paul R Doyle,D,151,20.66%
+Attorney General,Windsor Locks,Chris Mattei,D,177,24.21%
+Governor,Wolcott,Ned Lamont,D,563,68.74%
+Governor,Wolcott,Joe Ganim,D,256,31.26%
+Lieutenant Governor,Wolcott,Susan Bysiewicz,D,502,62.99%
+Lieutenant Governor,Wolcott,Eva Bermudez Zimmerman,D,295,37.01%
+Representative in Congress 05,Wolcott,Mary Messina Glassman,D,223,26.87%
+Representative in Congress 05,Wolcott,Jahana Hayes,D,607,73.13%
+State Senator 16,Wolcott,Dagmara Scalise,D,361,45.81%
+State Senator 16,Wolcott,Vickie Orsini Nardello,D,427,54.19%
+Treasurer,Wolcott,Shawn Wooden,D,429,55.28%
+Treasurer,Wolcott,Dita Bhargava,D,347,44.72%
+Attorney General,Wolcott,William Tong,D,393,49.56%
+Attorney General,Wolcott,Paul R Doyle,D,205,25.85%
+Attorney General,Wolcott,Chris Mattei,D,195,24.59%
+Registrar of Voters,Wolcott,Donna Ferguson,D,376,44.71%
+Registrar of Voters,Wolcott,James D Pape,D,465,55.29%
+Governor,Woodbridge,Ned Lamont,D,842,87.07%
+Governor,Woodbridge,Joe Ganim,D,125,12.93%
+Lieutenant Governor,Woodbridge,Susan Bysiewicz,D,622,64.86%
+Lieutenant Governor,Woodbridge,Eva Bermudez Zimmerman,D,337,35.14%
+State Senator 17,Woodbridge,Jorge Cabrera,D,318,37.63%
+State Senator 17,Woodbridge,Sean Grace,D,80,9.47%
+State Senator 17,Woodbridge,Valerie Horsley,D,447,52.90%
+Treasurer,Woodbridge,Shawn Wooden,D,532,57.95%
+Treasurer,Woodbridge,Dita Bhargava,D,386,42.05%
+Attorney General,Woodbridge,William Tong,D,586,62.54%
+Attorney General,Woodbridge,Paul R Doyle,D,71,7.58%
+Attorney General,Woodbridge,Chris Mattei,D,280,29.88%
+Governor,Woodbury,Ned Lamont,D,645,86.93%
+Governor,Woodbury,Joe Ganim,D,97,13.07%
+Lieutenant Governor,Woodbury,Susan Bysiewicz,D,513,69.61%
+Lieutenant Governor,Woodbury,Eva Bermudez Zimmerman,D,224,30.39%
+Representative in Congress 05,Woodbury,Mary Messina Glassman,D,260,34.90%
+Representative in Congress 05,Woodbury,Jahana Hayes,D,485,65.10%
+Treasurer,Woodbury,Shawn Wooden,D,384,53.48%
+Treasurer,Woodbury,Dita Bhargava,D,334,46.52%
+Attorney General,Woodbury,William Tong,D,455,62.07%
+Attorney General,Woodbury,Paul R Doyle,D,87,11.87%
+Attorney General,Woodbury,Chris Mattei,D,191,26.06%
+Governor,Woodstock,Ned Lamont,D,379,87.73%
+Governor,Woodstock,Joe Ganim,D,53,12.27%
+Lieutenant Governor,Woodstock,Susan Bysiewicz,D,254,58.93%
+Lieutenant Governor,Woodstock,Eva Bermudez Zimmerman,D,177,41.07%
+Treasurer,Woodstock,Shawn Wooden,D,217,51.06%
+Treasurer,Woodstock,Dita Bhargava,D,208,48.94%
+Attorney General,Woodstock,William Tong,D,285,67.38%
+Attorney General,Woodstock,Paul R Doyle,D,54,12.77%
+Attorney General,Woodstock,Chris Mattei,D,84,19.86%

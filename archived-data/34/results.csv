@@ -1,0 +1,2899 @@
+office,town,candidate,party,votes,vote_percent
+Governor,statewide,Mark Boughton,R,30475,21.33%
+Governor,statewide,Timothy M Herbst,R,25063,17.54%
+Governor,statewide,Steve Obsitnik,R,19102,13.37%
+Governor,statewide,Bob Stefanowski,R,42041,29.43%
+Governor,statewide,David Stemerman,R,26177,18.32%
+Lieutenant Governor,statewide,Joe Markley,R,65919,47.64%
+Lieutenant Governor,statewide,Jayme Stevenson,R,27156,19.62%
+Lieutenant Governor,statewide,Erin E Stewart,R,45307,32.74%
+United States Senator,statewide,Matthew Corey,R,99899,76.54%
+United States Senator,statewide,Dominic Rapini,R,30624,23.46%
+Representative in Congress 05,statewide,Manny Santos,R,16816,52.39%
+Representative in Congress 05,statewide,Ruby Corby-O'Neill,R,8419,26.23%
+Representative in Congress 05,statewide,Richard DuPont,R,6863,21.38%
+State Senator 09,statewide,Ed Charamut,R,1966,51.81%
+State Senator 09,statewide,Tyler Flanigan,R,1829,48.19%
+State Senator 14,statewide,Anthony Giannattasio,R,1520,35.26%
+State Senator 14,statewide,Pam Staneski,R,2791,64.74%
+State Senator 23,statewide,John Rodriguez,R,148,51.21%
+State Senator 23,statewide,"Casimir ""Caz"" Mizera",R,141,48.79%
+State Representative 100,statewide,Tyrell Brown,R,247,35.49%
+State Representative 100,statewide,Anthony Gennaro,R,449,64.51%
+State Representative 116,statewide,Richard D DePalma,R,141,63.51%
+State Representative 116,statewide,Roman Khondker,R,81,36.49%
+State Representative 128,statewide,Luis A Colon,R,10,21.28%
+State Representative 128,statewide,Ethan Book,R,37,78.72%
+State Representative 147,statewide,Anzelmo Graziosi,R,706,62.15%
+State Representative 147,statewide,Marcy Minnick,R,430,37.85%
+Treasurer,statewide,Thad Gray,R,74042,56.04%
+Treasurer,statewide,Art Linares,R,58087,43.96%
+Comptroller,statewide,Kurt Miller,R,68846,52.44%
+Comptroller,statewide,Mark Greenberg,R,62440,47.56%
+Attorney General,statewide,Sue Hatfield,R,106076,79.33%
+Attorney General,statewide,John Shaban,R,27639,20.67%
+Registrar of Voters,statewide,David Papcin,R,371,55.04%
+Registrar of Voters,statewide,Nancy Valentine,R,303,44.96%
+Governor,Andover,Mark Boughton,R,22,9.73%
+Governor,Andover,Timothy M Herbst,R,69,30.53%
+Governor,Andover,Steve Obsitnik,R,35,15.49%
+Governor,Andover,Bob Stefanowski,R,56,24.78%
+Governor,Andover,David Stemerman,R,44,19.47%
+Lieutenant Governor,Andover,Joe Markley,R,102,47.00%
+Lieutenant Governor,Andover,Jayme Stevenson,R,28,12.90%
+Lieutenant Governor,Andover,Erin E Stewart,R,87,40.09%
+United States Senator,Andover,Matthew Corey,R,164,81.19%
+United States Senator,Andover,Dominic Rapini,R,38,18.81%
+Treasurer,Andover,Thad Gray,R,117,55.45%
+Treasurer,Andover,Art Linares,R,94,44.55%
+Comptroller,Andover,Kurt Miller,R,99,47.60%
+Comptroller,Andover,Mark Greenberg,R,109,52.40%
+Attorney General,Andover,Sue Hatfield,R,164,79.61%
+Attorney General,Andover,John Shaban,R,42,20.39%
+Governor,Ansonia,Mark Boughton,R,125,18.77%
+Governor,Ansonia,Timothy M Herbst,R,174,26.13%
+Governor,Ansonia,Steve Obsitnik,R,74,11.11%
+Governor,Ansonia,Bob Stefanowski,R,214,32.13%
+Governor,Ansonia,David Stemerman,R,79,11.86%
+Lieutenant Governor,Ansonia,Joe Markley,R,311,48.37%
+Lieutenant Governor,Ansonia,Jayme Stevenson,R,130,20.22%
+Lieutenant Governor,Ansonia,Erin E Stewart,R,202,31.42%
+United States Senator,Ansonia,Matthew Corey,R,407,65.43%
+United States Senator,Ansonia,Dominic Rapini,R,215,34.57%
+Treasurer,Ansonia,Thad Gray,R,370,58.82%
+Treasurer,Ansonia,Art Linares,R,259,41.18%
+Comptroller,Ansonia,Kurt Miller,R,399,62.05%
+Comptroller,Ansonia,Mark Greenberg,R,244,37.95%
+Attorney General,Ansonia,Sue Hatfield,R,490,76.80%
+Attorney General,Ansonia,John Shaban,R,148,23.20%
+Registrar of Voters,Ansonia,David Papcin,R,371,55.04%
+Registrar of Voters,Ansonia,Nancy Valentine,R,303,44.96%
+Governor,Ashford,Mark Boughton,R,29,12.83%
+Governor,Ashford,Timothy M Herbst,R,85,37.61%
+Governor,Ashford,Steve Obsitnik,R,21,9.29%
+Governor,Ashford,Bob Stefanowski,R,65,28.76%
+Governor,Ashford,David Stemerman,R,26,11.50%
+Lieutenant Governor,Ashford,Joe Markley,R,129,57.85%
+Lieutenant Governor,Ashford,Jayme Stevenson,R,37,16.59%
+Lieutenant Governor,Ashford,Erin E Stewart,R,57,25.56%
+United States Senator,Ashford,Matthew Corey,R,172,79.26%
+United States Senator,Ashford,Dominic Rapini,R,45,20.74%
+Treasurer,Ashford,Thad Gray,R,106,49.30%
+Treasurer,Ashford,Art Linares,R,109,50.70%
+Comptroller,Ashford,Kurt Miller,R,107,49.31%
+Comptroller,Ashford,Mark Greenberg,R,110,50.69%
+Attorney General,Ashford,Sue Hatfield,R,176,80.00%
+Attorney General,Ashford,John Shaban,R,44,20.00%
+Governor,Avon,Mark Boughton,R,210,14.60%
+Governor,Avon,Timothy M Herbst,R,190,13.21%
+Governor,Avon,Steve Obsitnik,R,178,12.38%
+Governor,Avon,Bob Stefanowski,R,404,28.09%
+Governor,Avon,David Stemerman,R,456,31.71%
+Lieutenant Governor,Avon,Joe Markley,R,566,40.46%
+Lieutenant Governor,Avon,Jayme Stevenson,R,163,11.65%
+Lieutenant Governor,Avon,Erin E Stewart,R,670,47.89%
+United States Senator,Avon,Matthew Corey,R,1077,82.97%
+United States Senator,Avon,Dominic Rapini,R,221,17.03%
+Representative in Congress 05,Avon,Manny Santos,R,693,52.82%
+Representative in Congress 05,Avon,Ruby Corby-O'Neill,R,356,27.13%
+Representative in Congress 05,Avon,Richard DuPont,R,263,20.05%
+Treasurer,Avon,Thad Gray,R,723,55.06%
+Treasurer,Avon,Art Linares,R,590,44.94%
+Comptroller,Avon,Kurt Miller,R,593,44.92%
+Comptroller,Avon,Mark Greenberg,R,727,55.08%
+Attorney General,Avon,Sue Hatfield,R,1051,79.32%
+Attorney General,Avon,John Shaban,R,274,20.68%
+Governor,Barkhamsted,Mark Boughton,R,41,12.62%
+Governor,Barkhamsted,Timothy M Herbst,R,64,19.69%
+Governor,Barkhamsted,Steve Obsitnik,R,27,8.31%
+Governor,Barkhamsted,Bob Stefanowski,R,107,32.92%
+Governor,Barkhamsted,David Stemerman,R,86,26.46%
+Lieutenant Governor,Barkhamsted,Joe Markley,R,177,55.84%
+Lieutenant Governor,Barkhamsted,Jayme Stevenson,R,45,14.20%
+Lieutenant Governor,Barkhamsted,Erin E Stewart,R,95,29.97%
+United States Senator,Barkhamsted,Matthew Corey,R,252,84.00%
+United States Senator,Barkhamsted,Dominic Rapini,R,48,16.00%
+Treasurer,Barkhamsted,Thad Gray,R,148,49.66%
+Treasurer,Barkhamsted,Art Linares,R,150,50.34%
+Comptroller,Barkhamsted,Kurt Miller,R,129,44.03%
+Comptroller,Barkhamsted,Mark Greenberg,R,164,55.97%
+Attorney General,Barkhamsted,Sue Hatfield,R,239,79.93%
+Attorney General,Barkhamsted,John Shaban,R,60,20.07%
+Governor,Beacon Falls,Mark Boughton,R,74,21.20%
+Governor,Beacon Falls,Timothy M Herbst,R,62,17.77%
+Governor,Beacon Falls,Steve Obsitnik,R,31,8.88%
+Governor,Beacon Falls,Bob Stefanowski,R,134,38.40%
+Governor,Beacon Falls,David Stemerman,R,48,13.75%
+Lieutenant Governor,Beacon Falls,Joe Markley,R,183,54.14%
+Lieutenant Governor,Beacon Falls,Jayme Stevenson,R,60,17.75%
+Lieutenant Governor,Beacon Falls,Erin E Stewart,R,95,28.11%
+United States Senator,Beacon Falls,Matthew Corey,R,246,76.40%
+United States Senator,Beacon Falls,Dominic Rapini,R,76,23.60%
+Treasurer,Beacon Falls,Thad Gray,R,199,61.42%
+Treasurer,Beacon Falls,Art Linares,R,125,38.58%
+Comptroller,Beacon Falls,Kurt Miller,R,178,54.43%
+Comptroller,Beacon Falls,Mark Greenberg,R,149,45.57%
+Attorney General,Beacon Falls,Sue Hatfield,R,268,81.21%
+Attorney General,Beacon Falls,John Shaban,R,62,18.79%
+Governor,Berlin,Mark Boughton,R,173,12.86%
+Governor,Berlin,Timothy M Herbst,R,254,18.88%
+Governor,Berlin,Steve Obsitnik,R,184,13.68%
+Governor,Berlin,Bob Stefanowski,R,409,30.41%
+Governor,Berlin,David Stemerman,R,325,24.16%
+Lieutenant Governor,Berlin,Joe Markley,R,503,37.54%
+Lieutenant Governor,Berlin,Jayme Stevenson,R,110,8.21%
+Lieutenant Governor,Berlin,Erin E Stewart,R,727,54.25%
+United States Senator,Berlin,Matthew Corey,R,956,77.79%
+United States Senator,Berlin,Dominic Rapini,R,273,22.21%
+Treasurer,Berlin,Thad Gray,R,638,52.38%
+Treasurer,Berlin,Art Linares,R,580,47.62%
+Comptroller,Berlin,Kurt Miller,R,554,45.63%
+Comptroller,Berlin,Mark Greenberg,R,660,54.37%
+Attorney General,Berlin,Sue Hatfield,R,952,76.71%
+Attorney General,Berlin,John Shaban,R,289,23.29%
+Governor,Bethany,Mark Boughton,R,78,19.02%
+Governor,Bethany,Timothy M Herbst,R,72,17.56%
+Governor,Bethany,Steve Obsitnik,R,54,13.17%
+Governor,Bethany,Bob Stefanowski,R,138,33.66%
+Governor,Bethany,David Stemerman,R,68,16.59%
+Lieutenant Governor,Bethany,Joe Markley,R,194,48.50%
+Lieutenant Governor,Bethany,Jayme Stevenson,R,81,20.25%
+Lieutenant Governor,Bethany,Erin E Stewart,R,125,31.25%
+United States Senator,Bethany,Matthew Corey,R,255,67.11%
+United States Senator,Bethany,Dominic Rapini,R,125,32.89%
+Treasurer,Bethany,Thad Gray,R,244,63.54%
+Treasurer,Bethany,Art Linares,R,140,36.46%
+Comptroller,Bethany,Kurt Miller,R,239,62.08%
+Comptroller,Bethany,Mark Greenberg,R,146,37.92%
+Attorney General,Bethany,Sue Hatfield,R,300,78.33%
+Attorney General,Bethany,John Shaban,R,83,21.67%
+Governor,Bethel,Mark Boughton,R,721,64.26%
+Governor,Bethel,Timothy M Herbst,R,89,7.93%
+Governor,Bethel,Steve Obsitnik,R,48,4.28%
+Governor,Bethel,Bob Stefanowski,R,180,16.04%
+Governor,Bethel,David Stemerman,R,84,7.49%
+Lieutenant Governor,Bethel,Joe Markley,R,699,65.39%
+Lieutenant Governor,Bethel,Jayme Stevenson,R,181,16.93%
+Lieutenant Governor,Bethel,Erin E Stewart,R,189,17.68%
+United States Senator,Bethel,Matthew Corey,R,846,83.02%
+United States Senator,Bethel,Dominic Rapini,R,173,16.98%
+Representative in Congress 05,Bethel,Manny Santos,R,633,61.64%
+Representative in Congress 05,Bethel,Ruby Corby-O'Neill,R,256,24.93%
+Representative in Congress 05,Bethel,Richard DuPont,R,138,13.44%
+Treasurer,Bethel,Thad Gray,R,735,72.13%
+Treasurer,Bethel,Art Linares,R,284,27.87%
+Comptroller,Bethel,Kurt Miller,R,639,62.16%
+Comptroller,Bethel,Mark Greenberg,R,389,37.84%
+Attorney General,Bethel,Sue Hatfield,R,858,82.18%
+Attorney General,Bethel,John Shaban,R,186,17.82%
+Governor,Bethlehem,Mark Boughton,R,96,27.27%
+Governor,Bethlehem,Timothy M Herbst,R,57,16.19%
+Governor,Bethlehem,Steve Obsitnik,R,36,10.23%
+Governor,Bethlehem,Bob Stefanowski,R,118,33.52%
+Governor,Bethlehem,David Stemerman,R,45,12.78%
+Lieutenant Governor,Bethlehem,Joe Markley,R,167,48.83%
+Lieutenant Governor,Bethlehem,Jayme Stevenson,R,33,9.65%
+Lieutenant Governor,Bethlehem,Erin E Stewart,R,142,41.52%
+United States Senator,Bethlehem,Matthew Corey,R,253,78.82%
+United States Senator,Bethlehem,Dominic Rapini,R,68,21.18%
+Representative in Congress 05,Bethlehem,Manny Santos,R,117,35.89%
+Representative in Congress 05,Bethlehem,Ruby Corby-O'Neill,R,103,31.60%
+Representative in Congress 05,Bethlehem,Richard DuPont,R,106,32.52%
+Treasurer,Bethlehem,Thad Gray,R,184,58.60%
+Treasurer,Bethlehem,Art Linares,R,130,41.40%
+Comptroller,Bethlehem,Kurt Miller,R,134,41.10%
+Comptroller,Bethlehem,Mark Greenberg,R,192,58.90%
+Attorney General,Bethlehem,Sue Hatfield,R,252,78.26%
+Attorney General,Bethlehem,John Shaban,R,70,21.74%
+Governor,Bloomfield,Mark Boughton,R,61,12.15%
+Governor,Bloomfield,Timothy M Herbst,R,66,13.15%
+Governor,Bloomfield,Steve Obsitnik,R,77,15.34%
+Governor,Bloomfield,Bob Stefanowski,R,136,27.09%
+Governor,Bloomfield,David Stemerman,R,162,32.27%
+Lieutenant Governor,Bloomfield,Joe Markley,R,164,33.54%
+Lieutenant Governor,Bloomfield,Jayme Stevenson,R,92,18.81%
+Lieutenant Governor,Bloomfield,Erin E Stewart,R,233,47.65%
+United States Senator,Bloomfield,Matthew Corey,R,372,81.22%
+United States Senator,Bloomfield,Dominic Rapini,R,86,18.78%
+Treasurer,Bloomfield,Thad Gray,R,251,53.86%
+Treasurer,Bloomfield,Art Linares,R,215,46.14%
+Comptroller,Bloomfield,Kurt Miller,R,232,49.89%
+Comptroller,Bloomfield,Mark Greenberg,R,233,50.11%
+Attorney General,Bloomfield,Sue Hatfield,R,376,79.66%
+Attorney General,Bloomfield,John Shaban,R,96,20.34%
+Governor,Bolton,Mark Boughton,R,56,15.86%
+Governor,Bolton,Timothy M Herbst,R,61,17.28%
+Governor,Bolton,Steve Obsitnik,R,54,15.30%
+Governor,Bolton,Bob Stefanowski,R,107,30.31%
+Governor,Bolton,David Stemerman,R,75,21.25%
+Lieutenant Governor,Bolton,Joe Markley,R,151,43.64%
+Lieutenant Governor,Bolton,Jayme Stevenson,R,58,16.76%
+Lieutenant Governor,Bolton,Erin E Stewart,R,137,39.60%
+United States Senator,Bolton,Matthew Corey,R,272,83.95%
+United States Senator,Bolton,Dominic Rapini,R,52,16.05%
+Treasurer,Bolton,Thad Gray,R,178,54.60%
+Treasurer,Bolton,Art Linares,R,148,45.40%
+Comptroller,Bolton,Kurt Miller,R,171,52.62%
+Comptroller,Bolton,Mark Greenberg,R,154,47.38%
+Attorney General,Bolton,Sue Hatfield,R,270,81.82%
+Attorney General,Bolton,John Shaban,R,60,18.18%
+Governor,Bozrah,Mark Boughton,R,17,12.41%
+Governor,Bozrah,Timothy M Herbst,R,37,27.01%
+Governor,Bozrah,Steve Obsitnik,R,22,16.06%
+Governor,Bozrah,Bob Stefanowski,R,39,28.47%
+Governor,Bozrah,David Stemerman,R,22,16.06%
+Lieutenant Governor,Bozrah,Joe Markley,R,62,46.97%
+Lieutenant Governor,Bozrah,Jayme Stevenson,R,25,18.94%
+Lieutenant Governor,Bozrah,Erin E Stewart,R,45,34.09%
+United States Senator,Bozrah,Matthew Corey,R,97,78.23%
+United States Senator,Bozrah,Dominic Rapini,R,27,21.77%
+Treasurer,Bozrah,Thad Gray,R,57,44.19%
+Treasurer,Bozrah,Art Linares,R,72,55.81%
+Comptroller,Bozrah,Kurt Miller,R,61,49.59%
+Comptroller,Bozrah,Mark Greenberg,R,62,50.41%
+Attorney General,Bozrah,Sue Hatfield,R,107,79.85%
+Attorney General,Bozrah,John Shaban,R,27,20.15%
+Governor,Branford,Mark Boughton,R,171,13.85%
+Governor,Branford,Timothy M Herbst,R,204,16.52%
+Governor,Branford,Steve Obsitnik,R,159,12.87%
+Governor,Branford,Bob Stefanowski,R,555,44.94%
+Governor,Branford,David Stemerman,R,146,11.82%
+Lieutenant Governor,Branford,Joe Markley,R,532,45.20%
+Lieutenant Governor,Branford,Jayme Stevenson,R,296,25.15%
+Lieutenant Governor,Branford,Erin E Stewart,R,349,29.65%
+United States Senator,Branford,Matthew Corey,R,678,59.63%
+United States Senator,Branford,Dominic Rapini,R,459,40.37%
+Treasurer,Branford,Thad Gray,R,672,58.54%
+Treasurer,Branford,Art Linares,R,476,41.46%
+Comptroller,Branford,Kurt Miller,R,549,47.91%
+Comptroller,Branford,Mark Greenberg,R,597,52.09%
+Attorney General,Branford,Sue Hatfield,R,930,79.97%
+Attorney General,Branford,John Shaban,R,233,20.03%
+Governor,Bridgeport,Mark Boughton,R,178,22.45%
+Governor,Bridgeport,Timothy M Herbst,R,140,17.65%
+Governor,Bridgeport,Steve Obsitnik,R,92,11.60%
+Governor,Bridgeport,Bob Stefanowski,R,247,31.15%
+Governor,Bridgeport,David Stemerman,R,136,17.15%
+Lieutenant Governor,Bridgeport,Joe Markley,R,292,38.83%
+Lieutenant Governor,Bridgeport,Jayme Stevenson,R,228,30.32%
+Lieutenant Governor,Bridgeport,Erin E Stewart,R,232,30.85%
+United States Senator,Bridgeport,Matthew Corey,R,510,73.17%
+United States Senator,Bridgeport,Dominic Rapini,R,187,26.83%
+State Senator 23,Bridgeport,John Rodriguez,R,132,60.27%
+State Senator 23,Bridgeport,"Casimir ""Caz"" Mizera",R,87,39.73%
+State Representative 128,Bridgeport,Luis A Colon,R,10,21.28%
+State Representative 128,Bridgeport,Ethan Book,R,37,78.72%
+Treasurer,Bridgeport,Thad Gray,R,396,55.23%
+Treasurer,Bridgeport,Art Linares,R,321,44.77%
+Comptroller,Bridgeport,Kurt Miller,R,379,53.08%
+Comptroller,Bridgeport,Mark Greenberg,R,335,46.92%
+Attorney General,Bridgeport,Sue Hatfield,R,525,72.02%
+Attorney General,Bridgeport,John Shaban,R,204,27.98%
+Governor,Bridgewater,Mark Boughton,R,112,58.95%
+Governor,Bridgewater,Timothy M Herbst,R,14,7.37%
+Governor,Bridgewater,Steve Obsitnik,R,8,4.21%
+Governor,Bridgewater,Bob Stefanowski,R,38,20.00%
+Governor,Bridgewater,David Stemerman,R,18,9.47%
+Lieutenant Governor,Bridgewater,Joe Markley,R,96,54.24%
+Lieutenant Governor,Bridgewater,Jayme Stevenson,R,43,24.29%
+Lieutenant Governor,Bridgewater,Erin E Stewart,R,38,21.47%
+United States Senator,Bridgewater,Matthew Corey,R,143,85.63%
+United States Senator,Bridgewater,Dominic Rapini,R,24,14.37%
+Representative in Congress 05,Bridgewater,Manny Santos,R,90,48.91%
+Representative in Congress 05,Bridgewater,Ruby Corby-O'Neill,R,77,41.85%
+Representative in Congress 05,Bridgewater,Richard DuPont,R,17,9.24%
+Treasurer,Bridgewater,Thad Gray,R,135,78.03%
+Treasurer,Bridgewater,Art Linares,R,38,21.97%
+Comptroller,Bridgewater,Kurt Miller,R,110,63.22%
+Comptroller,Bridgewater,Mark Greenberg,R,64,36.78%
+Attorney General,Bridgewater,Sue Hatfield,R,142,82.08%
+Attorney General,Bridgewater,John Shaban,R,31,17.92%
+Governor,Bristol,Mark Boughton,R,324,14.34%
+Governor,Bristol,Timothy M Herbst,R,405,17.93%
+Governor,Bristol,Steve Obsitnik,R,309,13.68%
+Governor,Bristol,Bob Stefanowski,R,773,34.22%
+Governor,Bristol,David Stemerman,R,448,19.83%
+Lieutenant Governor,Bristol,Joe Markley,R,995,44.36%
+Lieutenant Governor,Bristol,Jayme Stevenson,R,223,9.94%
+Lieutenant Governor,Bristol,Erin E Stewart,R,1025,45.70%
+United States Senator,Bristol,Matthew Corey,R,1654,77.65%
+United States Senator,Bristol,Dominic Rapini,R,476,22.35%
+Treasurer,Bristol,Thad Gray,R,1090,51.22%
+Treasurer,Bristol,Art Linares,R,1038,48.78%
+Comptroller,Bristol,Kurt Miller,R,971,45.67%
+Comptroller,Bristol,Mark Greenberg,R,1155,54.33%
+Attorney General,Bristol,Sue Hatfield,R,1726,79.65%
+Attorney General,Bristol,John Shaban,R,441,20.35%
+Governor,Brookfield,Mark Boughton,R,854,66.05%
+Governor,Brookfield,Timothy M Herbst,R,105,8.12%
+Governor,Brookfield,Steve Obsitnik,R,68,5.26%
+Governor,Brookfield,Bob Stefanowski,R,175,13.53%
+Governor,Brookfield,David Stemerman,R,91,7.04%
+Lieutenant Governor,Brookfield,Joe Markley,R,768,62.29%
+Lieutenant Governor,Brookfield,Jayme Stevenson,R,212,17.19%
+Lieutenant Governor,Brookfield,Erin E Stewart,R,253,20.52%
+United States Senator,Brookfield,Matthew Corey,R,1003,85.51%
+United States Senator,Brookfield,Dominic Rapini,R,170,14.49%
+Representative in Congress 05,Brookfield,Manny Santos,R,749,63.10%
+Representative in Congress 05,Brookfield,Ruby Corby-O'Neill,R,297,25.02%
+Representative in Congress 05,Brookfield,Richard DuPont,R,141,11.88%
+Treasurer,Brookfield,Thad Gray,R,844,71.46%
+Treasurer,Brookfield,Art Linares,R,337,28.54%
+Comptroller,Brookfield,Kurt Miller,R,797,66.92%
+Comptroller,Brookfield,Mark Greenberg,R,394,33.08%
+Attorney General,Brookfield,Sue Hatfield,R,981,82.92%
+Attorney General,Brookfield,John Shaban,R,202,17.08%
+Governor,Brooklyn,Mark Boughton,R,32,9.67%
+Governor,Brooklyn,Timothy M Herbst,R,74,22.36%
+Governor,Brooklyn,Steve Obsitnik,R,53,16.01%
+Governor,Brooklyn,Bob Stefanowski,R,123,37.16%
+Governor,Brooklyn,David Stemerman,R,49,14.80%
+Lieutenant Governor,Brooklyn,Joe Markley,R,190,59.19%
+Lieutenant Governor,Brooklyn,Jayme Stevenson,R,64,19.94%
+Lieutenant Governor,Brooklyn,Erin E Stewart,R,67,20.87%
+United States Senator,Brooklyn,Matthew Corey,R,246,79.61%
+United States Senator,Brooklyn,Dominic Rapini,R,63,20.39%
+Treasurer,Brooklyn,Thad Gray,R,197,62.74%
+Treasurer,Brooklyn,Art Linares,R,117,37.26%
+Comptroller,Brooklyn,Kurt Miller,R,139,45.13%
+Comptroller,Brooklyn,Mark Greenberg,R,169,54.87%
+Attorney General,Brooklyn,Sue Hatfield,R,237,75.00%
+Attorney General,Brooklyn,John Shaban,R,79,25.00%
+Governor,Burlington,Mark Boughton,R,97,14.00%
+Governor,Burlington,Timothy M Herbst,R,99,14.29%
+Governor,Burlington,Steve Obsitnik,R,94,13.56%
+Governor,Burlington,Bob Stefanowski,R,204,29.44%
+Governor,Burlington,David Stemerman,R,199,28.72%
+Lieutenant Governor,Burlington,Joe Markley,R,280,41.48%
+Lieutenant Governor,Burlington,Jayme Stevenson,R,80,11.85%
+Lieutenant Governor,Burlington,Erin E Stewart,R,315,46.67%
+United States Senator,Burlington,Matthew Corey,R,511,82.02%
+United States Senator,Burlington,Dominic Rapini,R,112,17.98%
+Representative in Congress 05,Burlington,Manny Santos,R,331,52.54%
+Representative in Congress 05,Burlington,Ruby Corby-O'Neill,R,153,24.29%
+Representative in Congress 05,Burlington,Richard DuPont,R,146,23.17%
+Treasurer,Burlington,Thad Gray,R,348,55.50%
+Treasurer,Burlington,Art Linares,R,279,44.50%
+Comptroller,Burlington,Kurt Miller,R,310,48.97%
+Comptroller,Burlington,Mark Greenberg,R,323,51.03%
+Attorney General,Burlington,Sue Hatfield,R,517,80.16%
+Attorney General,Burlington,John Shaban,R,128,19.84%
+Governor,Canaan,Mark Boughton,R,34,39.08%
+Governor,Canaan,Timothy M Herbst,R,18,20.69%
+Governor,Canaan,Steve Obsitnik,R,4,4.60%
+Governor,Canaan,Bob Stefanowski,R,19,21.84%
+Governor,Canaan,David Stemerman,R,12,13.79%
+Lieutenant Governor,Canaan,Joe Markley,R,41,48.24%
+Lieutenant Governor,Canaan,Jayme Stevenson,R,18,21.18%
+Lieutenant Governor,Canaan,Erin E Stewart,R,26,30.59%
+United States Senator,Canaan,Matthew Corey,R,60,76.92%
+United States Senator,Canaan,Dominic Rapini,R,18,23.08%
+Representative in Congress 05,Canaan,Manny Santos,R,48,62.34%
+Representative in Congress 05,Canaan,Ruby Corby-O'Neill,R,16,20.78%
+Representative in Congress 05,Canaan,Richard DuPont,R,13,16.88%
+Treasurer,Canaan,Thad Gray,R,58,71.60%
+Treasurer,Canaan,Art Linares,R,23,28.40%
+Comptroller,Canaan,Kurt Miller,R,41,52.56%
+Comptroller,Canaan,Mark Greenberg,R,37,47.44%
+Attorney General,Canaan,Sue Hatfield,R,75,91.46%
+Attorney General,Canaan,John Shaban,R,7,8.54%
+Governor,Canterbury,Mark Boughton,R,25,7.16%
+Governor,Canterbury,Timothy M Herbst,R,83,23.78%
+Governor,Canterbury,Steve Obsitnik,R,53,15.19%
+Governor,Canterbury,Bob Stefanowski,R,159,45.56%
+Governor,Canterbury,David Stemerman,R,29,8.31%
+Lieutenant Governor,Canterbury,Joe Markley,R,225,65.60%
+Lieutenant Governor,Canterbury,Jayme Stevenson,R,49,14.29%
+Lieutenant Governor,Canterbury,Erin E Stewart,R,69,20.12%
+United States Senator,Canterbury,Matthew Corey,R,261,81.06%
+United States Senator,Canterbury,Dominic Rapini,R,61,18.94%
+Treasurer,Canterbury,Thad Gray,R,181,55.86%
+Treasurer,Canterbury,Art Linares,R,143,44.14%
+Comptroller,Canterbury,Kurt Miller,R,155,48.59%
+Comptroller,Canterbury,Mark Greenberg,R,164,51.41%
+Attorney General,Canterbury,Sue Hatfield,R,272,81.19%
+Attorney General,Canterbury,John Shaban,R,63,18.81%
+Governor,Canton,Mark Boughton,R,130,17.33%
+Governor,Canton,Timothy M Herbst,R,120,16.00%
+Governor,Canton,Steve Obsitnik,R,89,11.87%
+Governor,Canton,Bob Stefanowski,R,230,30.67%
+Governor,Canton,David Stemerman,R,181,24.13%
+Lieutenant Governor,Canton,Joe Markley,R,346,47.53%
+Lieutenant Governor,Canton,Jayme Stevenson,R,99,13.60%
+Lieutenant Governor,Canton,Erin E Stewart,R,283,38.87%
+United States Senator,Canton,Matthew Corey,R,592,85.18%
+United States Senator,Canton,Dominic Rapini,R,103,14.82%
+Representative in Congress 05,Canton,Manny Santos,R,376,53.49%
+Representative in Congress 05,Canton,Ruby Corby-O'Neill,R,192,27.31%
+Representative in Congress 05,Canton,Richard DuPont,R,135,19.20%
+Treasurer,Canton,Thad Gray,R,371,53.08%
+Treasurer,Canton,Art Linares,R,328,46.92%
+Comptroller,Canton,Kurt Miller,R,295,42.69%
+Comptroller,Canton,Mark Greenberg,R,396,57.31%
+Attorney General,Canton,Sue Hatfield,R,566,80.40%
+Attorney General,Canton,John Shaban,R,138,19.60%
+Governor,Chaplin,Mark Boughton,R,25,14.88%
+Governor,Chaplin,Timothy M Herbst,R,42,25.00%
+Governor,Chaplin,Steve Obsitnik,R,34,20.24%
+Governor,Chaplin,Bob Stefanowski,R,44,26.19%
+Governor,Chaplin,David Stemerman,R,23,13.69%
+Lieutenant Governor,Chaplin,Joe Markley,R,87,53.37%
+Lieutenant Governor,Chaplin,Jayme Stevenson,R,34,20.86%
+Lieutenant Governor,Chaplin,Erin E Stewart,R,42,25.77%
+United States Senator,Chaplin,Matthew Corey,R,117,78.00%
+United States Senator,Chaplin,Dominic Rapini,R,33,22.00%
+Treasurer,Chaplin,Thad Gray,R,76,49.35%
+Treasurer,Chaplin,Art Linares,R,78,50.65%
+Comptroller,Chaplin,Kurt Miller,R,75,49.34%
+Comptroller,Chaplin,Mark Greenberg,R,77,50.66%
+Attorney General,Chaplin,Sue Hatfield,R,115,72.78%
+Attorney General,Chaplin,John Shaban,R,43,27.22%
+Governor,Cheshire,Mark Boughton,R,310,17.79%
+Governor,Cheshire,Timothy M Herbst,R,289,16.58%
+Governor,Cheshire,Steve Obsitnik,R,238,13.65%
+Governor,Cheshire,Bob Stefanowski,R,611,35.05%
+Governor,Cheshire,David Stemerman,R,295,16.92%
+Lieutenant Governor,Cheshire,Joe Markley,R,1191,69.65%
+Lieutenant Governor,Cheshire,Jayme Stevenson,R,152,8.89%
+Lieutenant Governor,Cheshire,Erin E Stewart,R,367,21.46%
+United States Senator,Cheshire,Matthew Corey,R,1216,76.14%
+United States Senator,Cheshire,Dominic Rapini,R,381,23.86%
+Representative in Congress 05,Cheshire,Manny Santos,R,951,58.27%
+Representative in Congress 05,Cheshire,Ruby Corby-O'Neill,R,339,20.77%
+Representative in Congress 05,Cheshire,Richard DuPont,R,342,20.96%
+Treasurer,Cheshire,Thad Gray,R,943,58.90%
+Treasurer,Cheshire,Art Linares,R,658,41.10%
+Comptroller,Cheshire,Kurt Miller,R,800,49.35%
+Comptroller,Cheshire,Mark Greenberg,R,821,50.65%
+Attorney General,Cheshire,Sue Hatfield,R,1346,82.17%
+Attorney General,Cheshire,John Shaban,R,292,17.83%
+Governor,Chester,Mark Boughton,R,28,14.43%
+Governor,Chester,Timothy M Herbst,R,48,24.74%
+Governor,Chester,Steve Obsitnik,R,26,13.40%
+Governor,Chester,Bob Stefanowski,R,48,24.74%
+Governor,Chester,David Stemerman,R,44,22.68%
+Lieutenant Governor,Chester,Joe Markley,R,85,45.70%
+Lieutenant Governor,Chester,Jayme Stevenson,R,29,15.59%
+Lieutenant Governor,Chester,Erin E Stewart,R,72,38.71%
+United States Senator,Chester,Matthew Corey,R,147,81.67%
+United States Senator,Chester,Dominic Rapini,R,33,18.33%
+Treasurer,Chester,Thad Gray,R,41,21.93%
+Treasurer,Chester,Art Linares,R,146,78.07%
+Comptroller,Chester,Kurt Miller,R,87,47.80%
+Comptroller,Chester,Mark Greenberg,R,95,52.20%
+Attorney General,Chester,Sue Hatfield,R,143,78.14%
+Attorney General,Chester,John Shaban,R,40,21.86%
+Governor,Clinton,Mark Boughton,R,109,13.29%
+Governor,Clinton,Timothy M Herbst,R,211,25.73%
+Governor,Clinton,Steve Obsitnik,R,83,10.12%
+Governor,Clinton,Bob Stefanowski,R,291,35.49%
+Governor,Clinton,David Stemerman,R,126,15.37%
+Lieutenant Governor,Clinton,Joe Markley,R,332,41.97%
+Lieutenant Governor,Clinton,Jayme Stevenson,R,194,24.53%
+Lieutenant Governor,Clinton,Erin E Stewart,R,265,33.50%
+United States Senator,Clinton,Matthew Corey,R,537,71.89%
+United States Senator,Clinton,Dominic Rapini,R,210,28.11%
+Treasurer,Clinton,Thad Gray,R,143,17.63%
+Treasurer,Clinton,Art Linares,R,668,82.37%
+Comptroller,Clinton,Kurt Miller,R,371,48.94%
+Comptroller,Clinton,Mark Greenberg,R,387,51.06%
+Attorney General,Clinton,Sue Hatfield,R,610,79.12%
+Attorney General,Clinton,John Shaban,R,161,20.88%
+Governor,Colchester,Mark Boughton,R,115,15.07%
+Governor,Colchester,Timothy M Herbst,R,160,20.97%
+Governor,Colchester,Steve Obsitnik,R,117,15.33%
+Governor,Colchester,Bob Stefanowski,R,237,31.06%
+Governor,Colchester,David Stemerman,R,134,17.56%
+Lieutenant Governor,Colchester,Joe Markley,R,337,44.99%
+Lieutenant Governor,Colchester,Jayme Stevenson,R,108,14.42%
+Lieutenant Governor,Colchester,Erin E Stewart,R,304,40.59%
+United States Senator,Colchester,Matthew Corey,R,554,77.81%
+United States Senator,Colchester,Dominic Rapini,R,158,22.19%
+Treasurer,Colchester,Thad Gray,R,185,24.87%
+Treasurer,Colchester,Art Linares,R,559,75.13%
+Comptroller,Colchester,Kurt Miller,R,339,47.88%
+Comptroller,Colchester,Mark Greenberg,R,369,52.12%
+Attorney General,Colchester,Sue Hatfield,R,593,81.57%
+Attorney General,Colchester,John Shaban,R,134,18.43%
+Governor,Colebrook,Mark Boughton,R,19,16.67%
+Governor,Colebrook,Timothy M Herbst,R,25,21.93%
+Governor,Colebrook,Steve Obsitnik,R,15,13.16%
+Governor,Colebrook,Bob Stefanowski,R,29,25.44%
+Governor,Colebrook,David Stemerman,R,26,22.81%
+Lieutenant Governor,Colebrook,Joe Markley,R,67,60.91%
+Lieutenant Governor,Colebrook,Jayme Stevenson,R,12,10.91%
+Lieutenant Governor,Colebrook,Erin E Stewart,R,31,28.18%
+United States Senator,Colebrook,Matthew Corey,R,98,89.09%
+United States Senator,Colebrook,Dominic Rapini,R,12,10.91%
+Treasurer,Colebrook,Thad Gray,R,65,59.63%
+Treasurer,Colebrook,Art Linares,R,44,40.37%
+Comptroller,Colebrook,Kurt Miller,R,59,54.13%
+Comptroller,Colebrook,Mark Greenberg,R,50,45.87%
+Attorney General,Colebrook,Sue Hatfield,R,91,82.73%
+Attorney General,Colebrook,John Shaban,R,19,17.27%
+Governor,Columbia,Mark Boughton,R,38,11.08%
+Governor,Columbia,Timothy M Herbst,R,66,19.24%
+Governor,Columbia,Steve Obsitnik,R,61,17.78%
+Governor,Columbia,Bob Stefanowski,R,98,28.57%
+Governor,Columbia,David Stemerman,R,80,23.32%
+Lieutenant Governor,Columbia,Joe Markley,R,141,41.23%
+Lieutenant Governor,Columbia,Jayme Stevenson,R,62,18.13%
+Lieutenant Governor,Columbia,Erin E Stewart,R,139,40.64%
+United States Senator,Columbia,Matthew Corey,R,261,80.80%
+United States Senator,Columbia,Dominic Rapini,R,62,19.20%
+Treasurer,Columbia,Thad Gray,R,187,57.54%
+Treasurer,Columbia,Art Linares,R,138,42.46%
+Comptroller,Columbia,Kurt Miller,R,171,53.11%
+Comptroller,Columbia,Mark Greenberg,R,151,46.89%
+Attorney General,Columbia,Sue Hatfield,R,271,82.62%
+Attorney General,Columbia,John Shaban,R,57,17.38%
+Governor,Cornwall,Mark Boughton,R,30,33.71%
+Governor,Cornwall,Timothy M Herbst,R,12,13.48%
+Governor,Cornwall,Steve Obsitnik,R,9,10.11%
+Governor,Cornwall,Bob Stefanowski,R,18,20.22%
+Governor,Cornwall,David Stemerman,R,20,22.47%
+Lieutenant Governor,Cornwall,Joe Markley,R,45,51.72%
+Lieutenant Governor,Cornwall,Jayme Stevenson,R,17,19.54%
+Lieutenant Governor,Cornwall,Erin E Stewart,R,25,28.74%
+United States Senator,Cornwall,Matthew Corey,R,70,83.33%
+United States Senator,Cornwall,Dominic Rapini,R,14,16.67%
+Representative in Congress 05,Cornwall,Manny Santos,R,53,63.86%
+Representative in Congress 05,Cornwall,Ruby Corby-O'Neill,R,12,14.46%
+Representative in Congress 05,Cornwall,Richard DuPont,R,18,21.69%
+Treasurer,Cornwall,Thad Gray,R,67,80.72%
+Treasurer,Cornwall,Art Linares,R,16,19.28%
+Comptroller,Cornwall,Kurt Miller,R,46,53.49%
+Comptroller,Cornwall,Mark Greenberg,R,40,46.51%
+Attorney General,Cornwall,Sue Hatfield,R,75,86.21%
+Attorney General,Cornwall,John Shaban,R,12,13.79%
+Governor,Coventry,Mark Boughton,R,93,14.31%
+Governor,Coventry,Timothy M Herbst,R,137,21.08%
+Governor,Coventry,Steve Obsitnik,R,143,22.00%
+Governor,Coventry,Bob Stefanowski,R,159,24.46%
+Governor,Coventry,David Stemerman,R,118,18.15%
+Lieutenant Governor,Coventry,Joe Markley,R,278,43.71%
+Lieutenant Governor,Coventry,Jayme Stevenson,R,135,21.23%
+Lieutenant Governor,Coventry,Erin E Stewart,R,223,35.06%
+United States Senator,Coventry,Matthew Corey,R,507,83.25%
+United States Senator,Coventry,Dominic Rapini,R,102,16.75%
+Treasurer,Coventry,Thad Gray,R,377,62.21%
+Treasurer,Coventry,Art Linares,R,229,37.79%
+Comptroller,Coventry,Kurt Miller,R,281,46.52%
+Comptroller,Coventry,Mark Greenberg,R,323,53.48%
+Attorney General,Coventry,Sue Hatfield,R,502,81.76%
+Attorney General,Coventry,John Shaban,R,112,18.24%
+Governor,Cromwell,Mark Boughton,R,83,9.96%
+Governor,Cromwell,Timothy M Herbst,R,210,25.21%
+Governor,Cromwell,Steve Obsitnik,R,99,11.88%
+Governor,Cromwell,Bob Stefanowski,R,224,26.89%
+Governor,Cromwell,David Stemerman,R,217,26.05%
+Lieutenant Governor,Cromwell,Joe Markley,R,311,38.11%
+Lieutenant Governor,Cromwell,Jayme Stevenson,R,110,13.48%
+Lieutenant Governor,Cromwell,Erin E Stewart,R,395,48.41%
+United States Senator,Cromwell,Matthew Corey,R,594,77.04%
+United States Senator,Cromwell,Dominic Rapini,R,177,22.96%
+State Senator 09,Cromwell,Ed Charamut,R,307,39.26%
+State Senator 09,Cromwell,Tyler Flanigan,R,475,60.74%
+Treasurer,Cromwell,Thad Gray,R,341,44.52%
+Treasurer,Cromwell,Art Linares,R,425,55.48%
+Comptroller,Cromwell,Kurt Miller,R,337,44.46%
+Comptroller,Cromwell,Mark Greenberg,R,421,55.54%
+Attorney General,Cromwell,Sue Hatfield,R,588,75.68%
+Attorney General,Cromwell,John Shaban,R,189,24.32%
+Governor,Danbury,Mark Boughton,R,2268,78.59%
+Governor,Danbury,Timothy M Herbst,R,160,5.54%
+Governor,Danbury,Steve Obsitnik,R,90,3.12%
+Governor,Danbury,Bob Stefanowski,R,262,9.08%
+Governor,Danbury,David Stemerman,R,106,3.67%
+Lieutenant Governor,Danbury,Joe Markley,R,1945,70.34%
+Lieutenant Governor,Danbury,Jayme Stevenson,R,318,11.50%
+Lieutenant Governor,Danbury,Erin E Stewart,R,502,18.16%
+United States Senator,Danbury,Matthew Corey,R,2330,87.01%
+United States Senator,Danbury,Dominic Rapini,R,348,12.99%
+Representative in Congress 05,Danbury,Manny Santos,R,1886,70.37%
+Representative in Congress 05,Danbury,Ruby Corby-O'Neill,R,503,18.77%
+Representative in Congress 05,Danbury,Richard DuPont,R,291,10.86%
+Treasurer,Danbury,Thad Gray,R,2079,77.84%
+Treasurer,Danbury,Art Linares,R,592,22.16%
+Comptroller,Danbury,Kurt Miller,R,1933,72.29%
+Comptroller,Danbury,Mark Greenberg,R,741,27.71%
+Attorney General,Danbury,Sue Hatfield,R,2361,87.80%
+Attorney General,Danbury,John Shaban,R,328,12.20%
+Governor,Darien,Mark Boughton,R,278,16.35%
+Governor,Darien,Timothy M Herbst,R,152,8.94%
+Governor,Darien,Steve Obsitnik,R,338,19.88%
+Governor,Darien,Bob Stefanowski,R,353,20.76%
+Governor,Darien,David Stemerman,R,579,34.06%
+Lieutenant Governor,Darien,Joe Markley,R,216,12.56%
+Lieutenant Governor,Darien,Jayme Stevenson,R,1417,82.38%
+Lieutenant Governor,Darien,Erin E Stewart,R,87,5.06%
+United States Senator,Darien,Matthew Corey,R,1093,76.76%
+United States Senator,Darien,Dominic Rapini,R,331,23.24%
+State Representative 147,Darien,Anzelmo Graziosi,R,90,35.57%
+State Representative 147,Darien,Marcy Minnick,R,163,64.43%
+Treasurer,Darien,Thad Gray,R,1077,74.43%
+Treasurer,Darien,Art Linares,R,370,25.57%
+Comptroller,Darien,Kurt Miller,R,919,65.08%
+Comptroller,Darien,Mark Greenberg,R,493,34.92%
+Attorney General,Darien,Sue Hatfield,R,1103,74.93%
+Attorney General,Darien,John Shaban,R,369,25.07%
+Governor,Deep River,Mark Boughton,R,31,13.54%
+Governor,Deep River,Timothy M Herbst,R,48,20.96%
+Governor,Deep River,Steve Obsitnik,R,37,16.16%
+Governor,Deep River,Bob Stefanowski,R,76,33.19%
+Governor,Deep River,David Stemerman,R,37,16.16%
+Lieutenant Governor,Deep River,Joe Markley,R,101,45.50%
+Lieutenant Governor,Deep River,Jayme Stevenson,R,39,17.57%
+Lieutenant Governor,Deep River,Erin E Stewart,R,82,36.94%
+United States Senator,Deep River,Matthew Corey,R,159,76.44%
+United States Senator,Deep River,Dominic Rapini,R,49,23.56%
+Treasurer,Deep River,Thad Gray,R,35,15.56%
+Treasurer,Deep River,Art Linares,R,190,84.44%
+Comptroller,Deep River,Kurt Miller,R,111,52.61%
+Comptroller,Deep River,Mark Greenberg,R,100,47.39%
+Attorney General,Deep River,Sue Hatfield,R,162,76.06%
+Attorney General,Deep River,John Shaban,R,51,23.94%
+Governor,Derby,Mark Boughton,R,68,19.43%
+Governor,Derby,Timothy M Herbst,R,75,21.43%
+Governor,Derby,Steve Obsitnik,R,43,12.29%
+Governor,Derby,Bob Stefanowski,R,124,35.43%
+Governor,Derby,David Stemerman,R,40,11.43%
+Lieutenant Governor,Derby,Joe Markley,R,175,51.78%
+Lieutenant Governor,Derby,Jayme Stevenson,R,61,18.05%
+Lieutenant Governor,Derby,Erin E Stewart,R,102,30.18%
+United States Senator,Derby,Matthew Corey,R,213,65.14%
+United States Senator,Derby,Dominic Rapini,R,114,34.86%
+Treasurer,Derby,Thad Gray,R,163,50.15%
+Treasurer,Derby,Art Linares,R,162,49.85%
+Comptroller,Derby,Kurt Miller,R,194,59.51%
+Comptroller,Derby,Mark Greenberg,R,132,40.49%
+Attorney General,Derby,Sue Hatfield,R,257,77.64%
+Attorney General,Derby,John Shaban,R,74,22.36%
+Governor,Durham,Mark Boughton,R,91,16.85%
+Governor,Durham,Timothy M Herbst,R,105,19.44%
+Governor,Durham,Steve Obsitnik,R,62,11.48%
+Governor,Durham,Bob Stefanowski,R,198,36.67%
+Governor,Durham,David Stemerman,R,84,15.56%
+Lieutenant Governor,Durham,Joe Markley,R,213,40.73%
+Lieutenant Governor,Durham,Jayme Stevenson,R,77,14.72%
+Lieutenant Governor,Durham,Erin E Stewart,R,233,44.55%
+United States Senator,Durham,Matthew Corey,R,366,75.00%
+United States Senator,Durham,Dominic Rapini,R,122,25.00%
+Treasurer,Durham,Thad Gray,R,221,45.29%
+Treasurer,Durham,Art Linares,R,267,54.71%
+Comptroller,Durham,Kurt Miller,R,246,50.93%
+Comptroller,Durham,Mark Greenberg,R,237,49.07%
+Attorney General,Durham,Sue Hatfield,R,398,80.24%
+Attorney General,Durham,John Shaban,R,98,19.76%
+Governor,Eastford,Mark Boughton,R,13,9.85%
+Governor,Eastford,Timothy M Herbst,R,35,26.52%
+Governor,Eastford,Steve Obsitnik,R,21,15.91%
+Governor,Eastford,Bob Stefanowski,R,49,37.12%
+Governor,Eastford,David Stemerman,R,14,10.61%
+Lieutenant Governor,Eastford,Joe Markley,R,58,44.96%
+Lieutenant Governor,Eastford,Jayme Stevenson,R,29,22.48%
+Lieutenant Governor,Eastford,Erin E Stewart,R,42,32.56%
+United States Senator,Eastford,Matthew Corey,R,95,79.83%
+United States Senator,Eastford,Dominic Rapini,R,24,20.17%
+Treasurer,Eastford,Thad Gray,R,63,50.40%
+Treasurer,Eastford,Art Linares,R,62,49.60%
+Comptroller,Eastford,Kurt Miller,R,65,55.56%
+Comptroller,Eastford,Mark Greenberg,R,52,44.44%
+Attorney General,Eastford,Sue Hatfield,R,99,79.84%
+Attorney General,Eastford,John Shaban,R,25,20.16%
+Governor,East Granby,Mark Boughton,R,55,15.54%
+Governor,East Granby,Timothy M Herbst,R,52,14.69%
+Governor,East Granby,Steve Obsitnik,R,46,12.99%
+Governor,East Granby,Bob Stefanowski,R,134,37.85%
+Governor,East Granby,David Stemerman,R,67,18.93%
+Lieutenant Governor,East Granby,Joe Markley,R,151,43.77%
+Lieutenant Governor,East Granby,Jayme Stevenson,R,50,14.49%
+Lieutenant Governor,East Granby,Erin E Stewart,R,144,41.74%
+United States Senator,East Granby,Matthew Corey,R,275,84.62%
+United States Senator,East Granby,Dominic Rapini,R,50,15.38%
+Treasurer,East Granby,Thad Gray,R,182,54.82%
+Treasurer,East Granby,Art Linares,R,150,45.18%
+Comptroller,East Granby,Kurt Miller,R,167,52.02%
+Comptroller,East Granby,Mark Greenberg,R,154,47.98%
+Attorney General,East Granby,Sue Hatfield,R,255,77.04%
+Attorney General,East Granby,John Shaban,R,76,22.96%
+Governor,East Haddam,Mark Boughton,R,79,13.55%
+Governor,East Haddam,Timothy M Herbst,R,150,25.73%
+Governor,East Haddam,Steve Obsitnik,R,85,14.58%
+Governor,East Haddam,Bob Stefanowski,R,160,27.44%
+Governor,East Haddam,David Stemerman,R,109,18.70%
+Lieutenant Governor,East Haddam,Joe Markley,R,277,48.17%
+Lieutenant Governor,East Haddam,Jayme Stevenson,R,93,16.17%
+Lieutenant Governor,East Haddam,Erin E Stewart,R,205,35.65%
+United States Senator,East Haddam,Matthew Corey,R,422,78.44%
+United States Senator,East Haddam,Dominic Rapini,R,116,21.56%
+Treasurer,East Haddam,Thad Gray,R,137,23.95%
+Treasurer,East Haddam,Art Linares,R,435,76.05%
+Comptroller,East Haddam,Kurt Miller,R,256,47.76%
+Comptroller,East Haddam,Mark Greenberg,R,280,52.24%
+Attorney General,East Haddam,Sue Hatfield,R,443,80.25%
+Attorney General,East Haddam,John Shaban,R,109,19.75%
+Governor,East Hampton,Mark Boughton,R,87,12.32%
+Governor,East Hampton,Timothy M Herbst,R,131,18.56%
+Governor,East Hampton,Steve Obsitnik,R,85,12.04%
+Governor,East Hampton,Bob Stefanowski,R,252,35.69%
+Governor,East Hampton,David Stemerman,R,151,21.39%
+Lieutenant Governor,East Hampton,Joe Markley,R,316,45.27%
+Lieutenant Governor,East Hampton,Jayme Stevenson,R,88,12.61%
+Lieutenant Governor,East Hampton,Erin E Stewart,R,294,42.12%
+United States Senator,East Hampton,Matthew Corey,R,499,75.95%
+United States Senator,East Hampton,Dominic Rapini,R,158,24.05%
+Treasurer,East Hampton,Thad Gray,R,153,22.11%
+Treasurer,East Hampton,Art Linares,R,539,77.89%
+Comptroller,East Hampton,Kurt Miller,R,296,44.71%
+Comptroller,East Hampton,Mark Greenberg,R,366,55.29%
+Attorney General,East Hampton,Sue Hatfield,R,528,78.22%
+Attorney General,East Hampton,John Shaban,R,147,21.78%
+Governor,East Hartford,Mark Boughton,R,105,11.90%
+Governor,East Hartford,Timothy M Herbst,R,149,16.89%
+Governor,East Hartford,Steve Obsitnik,R,111,12.59%
+Governor,East Hartford,Bob Stefanowski,R,292,33.11%
+Governor,East Hartford,David Stemerman,R,225,25.51%
+Lieutenant Governor,East Hartford,Joe Markley,R,295,34.79%
+Lieutenant Governor,East Hartford,Jayme Stevenson,R,133,15.68%
+Lieutenant Governor,East Hartford,Erin E Stewart,R,420,49.53%
+United States Senator,East Hartford,Matthew Corey,R,631,78.39%
+United States Senator,East Hartford,Dominic Rapini,R,174,21.61%
+Treasurer,East Hartford,Thad Gray,R,409,48.86%
+Treasurer,East Hartford,Art Linares,R,428,51.14%
+Comptroller,East Hartford,Kurt Miller,R,314,38.77%
+Comptroller,East Hartford,Mark Greenberg,R,496,61.23%
+Attorney General,East Hartford,Sue Hatfield,R,656,80.10%
+Attorney General,East Hartford,John Shaban,R,163,19.90%
+Governor,East Haven,Mark Boughton,R,94,12.52%
+Governor,East Haven,Timothy M Herbst,R,172,22.90%
+Governor,East Haven,Steve Obsitnik,R,70,9.32%
+Governor,East Haven,Bob Stefanowski,R,333,44.34%
+Governor,East Haven,David Stemerman,R,82,10.92%
+Lieutenant Governor,East Haven,Joe Markley,R,322,45.80%
+Lieutenant Governor,East Haven,Jayme Stevenson,R,159,22.62%
+Lieutenant Governor,East Haven,Erin E Stewart,R,222,31.58%
+United States Senator,East Haven,Matthew Corey,R,390,57.61%
+United States Senator,East Haven,Dominic Rapini,R,287,42.39%
+Treasurer,East Haven,Thad Gray,R,315,46.88%
+Treasurer,East Haven,Art Linares,R,357,53.13%
+Comptroller,East Haven,Kurt Miller,R,323,48.94%
+Comptroller,East Haven,Mark Greenberg,R,337,51.06%
+Attorney General,East Haven,Sue Hatfield,R,531,77.41%
+Attorney General,East Haven,John Shaban,R,155,22.59%
+Governor,East Lyme,Mark Boughton,R,266,28.30%
+Governor,East Lyme,Timothy M Herbst,R,141,15.00%
+Governor,East Lyme,Steve Obsitnik,R,153,16.28%
+Governor,East Lyme,Bob Stefanowski,R,247,26.28%
+Governor,East Lyme,David Stemerman,R,133,14.15%
+Lieutenant Governor,East Lyme,Joe Markley,R,349,39.66%
+Lieutenant Governor,East Lyme,Jayme Stevenson,R,213,24.20%
+Lieutenant Governor,East Lyme,Erin E Stewart,R,318,36.14%
+United States Senator,East Lyme,Matthew Corey,R,648,78.45%
+United States Senator,East Lyme,Dominic Rapini,R,178,21.55%
+Treasurer,East Lyme,Thad Gray,R,379,44.28%
+Treasurer,East Lyme,Art Linares,R,477,55.72%
+Comptroller,East Lyme,Kurt Miller,R,437,51.53%
+Comptroller,East Lyme,Mark Greenberg,R,411,48.47%
+Attorney General,East Lyme,Sue Hatfield,R,730,84.10%
+Attorney General,East Lyme,John Shaban,R,138,15.90%
+Governor,Easton,Mark Boughton,R,108,20.65%
+Governor,Easton,Timothy M Herbst,R,79,15.11%
+Governor,Easton,Steve Obsitnik,R,72,13.77%
+Governor,Easton,Bob Stefanowski,R,175,33.46%
+Governor,Easton,David Stemerman,R,89,17.02%
+Lieutenant Governor,Easton,Joe Markley,R,217,43.66%
+Lieutenant Governor,Easton,Jayme Stevenson,R,152,30.58%
+Lieutenant Governor,Easton,Erin E Stewart,R,128,25.75%
+United States Senator,Easton,Matthew Corey,R,361,75.84%
+United States Senator,Easton,Dominic Rapini,R,115,24.16%
+Treasurer,Easton,Thad Gray,R,315,65.22%
+Treasurer,Easton,Art Linares,R,168,34.78%
+Comptroller,Easton,Kurt Miller,R,310,64.45%
+Comptroller,Easton,Mark Greenberg,R,171,35.55%
+Attorney General,Easton,Sue Hatfield,R,267,53.51%
+Attorney General,Easton,John Shaban,R,232,46.49%
+Governor,East Windsor,Mark Boughton,R,76,16.20%
+Governor,East Windsor,Timothy M Herbst,R,119,25.37%
+Governor,East Windsor,Steve Obsitnik,R,45,9.59%
+Governor,East Windsor,Bob Stefanowski,R,122,26.01%
+Governor,East Windsor,David Stemerman,R,107,22.81%
+Lieutenant Governor,East Windsor,Joe Markley,R,220,48.89%
+Lieutenant Governor,East Windsor,Jayme Stevenson,R,66,14.67%
+Lieutenant Governor,East Windsor,Erin E Stewart,R,164,36.44%
+United States Senator,East Windsor,Matthew Corey,R,347,79.41%
+United States Senator,East Windsor,Dominic Rapini,R,90,20.59%
+Treasurer,East Windsor,Thad Gray,R,215,50.71%
+Treasurer,East Windsor,Art Linares,R,209,49.29%
+Comptroller,East Windsor,Kurt Miller,R,220,52.38%
+Comptroller,East Windsor,Mark Greenberg,R,200,47.62%
+Attorney General,East Windsor,Sue Hatfield,R,340,77.45%
+Attorney General,East Windsor,John Shaban,R,99,22.55%
+Governor,Ellington,Mark Boughton,R,158,18.79%
+Governor,Ellington,Timothy M Herbst,R,135,16.05%
+Governor,Ellington,Steve Obsitnik,R,90,10.70%
+Governor,Ellington,Bob Stefanowski,R,249,29.61%
+Governor,Ellington,David Stemerman,R,209,24.85%
+Lieutenant Governor,Ellington,Joe Markley,R,420,51.16%
+Lieutenant Governor,Ellington,Jayme Stevenson,R,96,11.69%
+Lieutenant Governor,Ellington,Erin E Stewart,R,305,37.15%
+United States Senator,Ellington,Matthew Corey,R,653,82.45%
+United States Senator,Ellington,Dominic Rapini,R,139,17.55%
+Treasurer,Ellington,Thad Gray,R,463,58.76%
+Treasurer,Ellington,Art Linares,R,325,41.24%
+Comptroller,Ellington,Kurt Miller,R,397,50.57%
+Comptroller,Ellington,Mark Greenberg,R,388,49.43%
+Attorney General,Ellington,Sue Hatfield,R,664,82.48%
+Attorney General,Ellington,John Shaban,R,141,17.52%
+Governor,Enfield,Mark Boughton,R,185,12.16%
+Governor,Enfield,Timothy M Herbst,R,388,25.49%
+Governor,Enfield,Steve Obsitnik,R,175,11.50%
+Governor,Enfield,Bob Stefanowski,R,490,32.19%
+Governor,Enfield,David Stemerman,R,284,18.66%
+Lieutenant Governor,Enfield,Joe Markley,R,798,53.70%
+Lieutenant Governor,Enfield,Jayme Stevenson,R,200,13.46%
+Lieutenant Governor,Enfield,Erin E Stewart,R,488,32.84%
+United States Senator,Enfield,Matthew Corey,R,1089,76.91%
+United States Senator,Enfield,Dominic Rapini,R,327,23.09%
+Treasurer,Enfield,Thad Gray,R,837,57.92%
+Treasurer,Enfield,Art Linares,R,608,42.08%
+Comptroller,Enfield,Kurt Miller,R,667,47.04%
+Comptroller,Enfield,Mark Greenberg,R,751,52.96%
+Attorney General,Enfield,Sue Hatfield,R,1142,78.49%
+Attorney General,Enfield,John Shaban,R,313,21.51%
+Governor,Essex,Mark Boughton,R,95,15.52%
+Governor,Essex,Timothy M Herbst,R,98,16.01%
+Governor,Essex,Steve Obsitnik,R,85,13.89%
+Governor,Essex,Bob Stefanowski,R,218,35.62%
+Governor,Essex,David Stemerman,R,116,18.95%
+Lieutenant Governor,Essex,Joe Markley,R,251,42.98%
+Lieutenant Governor,Essex,Jayme Stevenson,R,146,25.00%
+Lieutenant Governor,Essex,Erin E Stewart,R,187,32.02%
+United States Senator,Essex,Matthew Corey,R,427,77.08%
+United States Senator,Essex,Dominic Rapini,R,127,22.92%
+Treasurer,Essex,Thad Gray,R,154,25.88%
+Treasurer,Essex,Art Linares,R,441,74.12%
+Comptroller,Essex,Kurt Miller,R,314,56.88%
+Comptroller,Essex,Mark Greenberg,R,238,43.12%
+Attorney General,Essex,Sue Hatfield,R,459,80.67%
+Attorney General,Essex,John Shaban,R,110,19.33%
+Governor,Fairfield,Mark Boughton,R,537,17.62%
+Governor,Fairfield,Timothy M Herbst,R,430,14.11%
+Governor,Fairfield,Steve Obsitnik,R,544,17.85%
+Governor,Fairfield,Bob Stefanowski,R,828,27.17%
+Governor,Fairfield,David Stemerman,R,708,23.24%
+Lieutenant Governor,Fairfield,Joe Markley,R,1185,40.76%
+Lieutenant Governor,Fairfield,Jayme Stevenson,R,978,33.64%
+Lieutenant Governor,Fairfield,Erin E Stewart,R,744,25.59%
+United States Senator,Fairfield,Matthew Corey,R,1922,70.02%
+United States Senator,Fairfield,Dominic Rapini,R,823,29.98%
+Treasurer,Fairfield,Thad Gray,R,1814,65.09%
+Treasurer,Fairfield,Art Linares,R,973,34.91%
+Comptroller,Fairfield,Kurt Miller,R,1620,58.70%
+Comptroller,Fairfield,Mark Greenberg,R,1140,41.30%
+Attorney General,Fairfield,Sue Hatfield,R,2079,73.62%
+Attorney General,Fairfield,John Shaban,R,745,26.38%
+Governor,Farmington,Mark Boughton,R,250,14.91%
+Governor,Farmington,Timothy M Herbst,R,215,12.82%
+Governor,Farmington,Steve Obsitnik,R,216,12.88%
+Governor,Farmington,Bob Stefanowski,R,511,30.47%
+Governor,Farmington,David Stemerman,R,485,28.92%
+Lieutenant Governor,Farmington,Joe Markley,R,642,38.70%
+Lieutenant Governor,Farmington,Jayme Stevenson,R,172,10.37%
+Lieutenant Governor,Farmington,Erin E Stewart,R,845,50.93%
+United States Senator,Farmington,Matthew Corey,R,1226,79.05%
+United States Senator,Farmington,Dominic Rapini,R,325,20.95%
+Representative in Congress 05,Farmington,Manny Santos,R,828,53.11%
+Representative in Congress 05,Farmington,Ruby Corby-O'Neill,R,393,25.21%
+Representative in Congress 05,Farmington,Richard DuPont,R,338,21.68%
+Treasurer,Farmington,Thad Gray,R,835,53.35%
+Treasurer,Farmington,Art Linares,R,730,46.65%
+Comptroller,Farmington,Kurt Miller,R,757,48.16%
+Comptroller,Farmington,Mark Greenberg,R,815,51.84%
+Attorney General,Farmington,Sue Hatfield,R,1276,80.66%
+Attorney General,Farmington,John Shaban,R,306,19.34%
+Governor,Franklin,Mark Boughton,R,17,13.39%
+Governor,Franklin,Timothy M Herbst,R,21,16.54%
+Governor,Franklin,Steve Obsitnik,R,30,23.62%
+Governor,Franklin,Bob Stefanowski,R,38,29.92%
+Governor,Franklin,David Stemerman,R,21,16.54%
+Lieutenant Governor,Franklin,Joe Markley,R,57,46.34%
+Lieutenant Governor,Franklin,Jayme Stevenson,R,25,20.33%
+Lieutenant Governor,Franklin,Erin E Stewart,R,41,33.33%
+United States Senator,Franklin,Matthew Corey,R,93,81.58%
+United States Senator,Franklin,Dominic Rapini,R,21,18.42%
+Treasurer,Franklin,Thad Gray,R,72,62.07%
+Treasurer,Franklin,Art Linares,R,44,37.93%
+Comptroller,Franklin,Kurt Miller,R,56,48.28%
+Comptroller,Franklin,Mark Greenberg,R,60,51.72%
+Attorney General,Franklin,Sue Hatfield,R,105,84.00%
+Attorney General,Franklin,John Shaban,R,20,16.00%
+Governor,Glastonbury,Mark Boughton,R,210,10.99%
+Governor,Glastonbury,Timothy M Herbst,R,328,17.16%
+Governor,Glastonbury,Steve Obsitnik,R,307,16.06%
+Governor,Glastonbury,Bob Stefanowski,R,493,25.80%
+Governor,Glastonbury,David Stemerman,R,573,29.98%
+Lieutenant Governor,Glastonbury,Joe Markley,R,758,40.84%
+Lieutenant Governor,Glastonbury,Jayme Stevenson,R,257,13.85%
+Lieutenant Governor,Glastonbury,Erin E Stewart,R,841,45.31%
+United States Senator,Glastonbury,Matthew Corey,R,1423,81.31%
+United States Senator,Glastonbury,Dominic Rapini,R,327,18.69%
+Treasurer,Glastonbury,Thad Gray,R,1030,58.86%
+Treasurer,Glastonbury,Art Linares,R,720,41.14%
+Comptroller,Glastonbury,Kurt Miller,R,943,53.67%
+Comptroller,Glastonbury,Mark Greenberg,R,814,46.33%
+Attorney General,Glastonbury,Sue Hatfield,R,1481,82.78%
+Attorney General,Glastonbury,John Shaban,R,308,17.22%
+Governor,Goshen,Mark Boughton,R,89,26.81%
+Governor,Goshen,Timothy M Herbst,R,53,15.96%
+Governor,Goshen,Steve Obsitnik,R,18,5.42%
+Governor,Goshen,Bob Stefanowski,R,105,31.63%
+Governor,Goshen,David Stemerman,R,67,20.18%
+Lieutenant Governor,Goshen,Joe Markley,R,180,56.43%
+Lieutenant Governor,Goshen,Jayme Stevenson,R,39,12.23%
+Lieutenant Governor,Goshen,Erin E Stewart,R,100,31.35%
+United States Senator,Goshen,Matthew Corey,R,256,84.21%
+United States Senator,Goshen,Dominic Rapini,R,48,15.79%
+Representative in Congress 05,Goshen,Manny Santos,R,145,48.01%
+Representative in Congress 05,Goshen,Ruby Corby-O'Neill,R,76,25.17%
+Representative in Congress 05,Goshen,Richard DuPont,R,81,26.82%
+Treasurer,Goshen,Thad Gray,R,214,69.93%
+Treasurer,Goshen,Art Linares,R,92,30.07%
+Comptroller,Goshen,Kurt Miller,R,143,44.41%
+Comptroller,Goshen,Mark Greenberg,R,179,55.59%
+Attorney General,Goshen,Sue Hatfield,R,259,84.09%
+Attorney General,Goshen,John Shaban,R,49,15.91%
+Governor,Granby,Mark Boughton,R,163,17.53%
+Governor,Granby,Timothy M Herbst,R,193,20.75%
+Governor,Granby,Steve Obsitnik,R,118,12.69%
+Governor,Granby,Bob Stefanowski,R,237,25.48%
+Governor,Granby,David Stemerman,R,219,23.55%
+Lieutenant Governor,Granby,Joe Markley,R,479,52.75%
+Lieutenant Governor,Granby,Jayme Stevenson,R,126,13.88%
+Lieutenant Governor,Granby,Erin E Stewart,R,303,33.37%
+United States Senator,Granby,Matthew Corey,R,716,83.45%
+United States Senator,Granby,Dominic Rapini,R,142,16.55%
+Treasurer,Granby,Thad Gray,R,472,54.50%
+Treasurer,Granby,Art Linares,R,394,45.50%
+Comptroller,Granby,Kurt Miller,R,430,49.83%
+Comptroller,Granby,Mark Greenberg,R,433,50.17%
+Attorney General,Granby,Sue Hatfield,R,711,81.63%
+Attorney General,Granby,John Shaban,R,160,18.37%
+Governor,Greenwich,Mark Boughton,R,558,17.80%
+Governor,Greenwich,Timothy M Herbst,R,392,12.50%
+Governor,Greenwich,Steve Obsitnik,R,716,22.84%
+Governor,Greenwich,Bob Stefanowski,R,633,20.19%
+Governor,Greenwich,David Stemerman,R,836,26.67%
+Lieutenant Governor,Greenwich,Joe Markley,R,1191,40.58%
+Lieutenant Governor,Greenwich,Jayme Stevenson,R,870,29.64%
+Lieutenant Governor,Greenwich,Erin E Stewart,R,874,29.78%
+United States Senator,Greenwich,Matthew Corey,R,2016,73.47%
+United States Senator,Greenwich,Dominic Rapini,R,728,26.53%
+Treasurer,Greenwich,Thad Gray,R,1998,70.30%
+Treasurer,Greenwich,Art Linares,R,844,29.70%
+Comptroller,Greenwich,Kurt Miller,R,1761,64.15%
+Comptroller,Greenwich,Mark Greenberg,R,984,35.85%
+Attorney General,Greenwich,Sue Hatfield,R,2104,74.03%
+Attorney General,Greenwich,John Shaban,R,738,25.97%
+Governor,Griswold,Mark Boughton,R,45,9.11%
+Governor,Griswold,Timothy M Herbst,R,180,36.44%
+Governor,Griswold,Steve Obsitnik,R,70,14.17%
+Governor,Griswold,Bob Stefanowski,R,138,27.94%
+Governor,Griswold,David Stemerman,R,61,12.35%
+Lieutenant Governor,Griswold,Joe Markley,R,211,44.42%
+Lieutenant Governor,Griswold,Jayme Stevenson,R,130,27.37%
+Lieutenant Governor,Griswold,Erin E Stewart,R,134,28.21%
+United States Senator,Griswold,Matthew Corey,R,348,76.15%
+United States Senator,Griswold,Dominic Rapini,R,109,23.85%
+Treasurer,Griswold,Thad Gray,R,203,44.23%
+Treasurer,Griswold,Art Linares,R,256,55.77%
+Comptroller,Griswold,Kurt Miller,R,228,50.33%
+Comptroller,Griswold,Mark Greenberg,R,225,49.67%
+Attorney General,Griswold,Sue Hatfield,R,408,85.89%
+Attorney General,Griswold,John Shaban,R,67,14.11%
+Governor,Groton,Mark Boughton,R,145,12.38%
+Governor,Groton,Timothy M Herbst,R,278,23.74%
+Governor,Groton,Steve Obsitnik,R,279,23.83%
+Governor,Groton,Bob Stefanowski,R,317,27.07%
+Governor,Groton,David Stemerman,R,152,12.98%
+Lieutenant Governor,Groton,Joe Markley,R,510,45.78%
+Lieutenant Governor,Groton,Jayme Stevenson,R,270,24.24%
+Lieutenant Governor,Groton,Erin E Stewart,R,334,29.98%
+United States Senator,Groton,Matthew Corey,R,812,76.53%
+United States Senator,Groton,Dominic Rapini,R,249,23.47%
+Treasurer,Groton,Thad Gray,R,519,47.88%
+Treasurer,Groton,Art Linares,R,565,52.12%
+Comptroller,Groton,Kurt Miller,R,542,51.47%
+Comptroller,Groton,Mark Greenberg,R,511,48.53%
+Attorney General,Groton,Sue Hatfield,R,900,82.27%
+Attorney General,Groton,John Shaban,R,194,17.73%
+Governor,Guilford,Mark Boughton,R,163,13.66%
+Governor,Guilford,Timothy M Herbst,R,176,14.75%
+Governor,Guilford,Steve Obsitnik,R,152,12.74%
+Governor,Guilford,Bob Stefanowski,R,515,43.17%
+Governor,Guilford,David Stemerman,R,187,15.67%
+Lieutenant Governor,Guilford,Joe Markley,R,588,50.87%
+Lieutenant Governor,Guilford,Jayme Stevenson,R,248,21.45%
+Lieutenant Governor,Guilford,Erin E Stewart,R,320,27.68%
+United States Senator,Guilford,Matthew Corey,R,775,69.82%
+United States Senator,Guilford,Dominic Rapini,R,335,30.18%
+Treasurer,Guilford,Thad Gray,R,588,53.31%
+Treasurer,Guilford,Art Linares,R,515,46.69%
+Comptroller,Guilford,Kurt Miller,R,530,47.79%
+Comptroller,Guilford,Mark Greenberg,R,579,52.21%
+Attorney General,Guilford,Sue Hatfield,R,922,82.10%
+Attorney General,Guilford,John Shaban,R,201,17.90%
+Governor,Haddam,Mark Boughton,R,93,15.60%
+Governor,Haddam,Timothy M Herbst,R,189,31.71%
+Governor,Haddam,Steve Obsitnik,R,71,11.91%
+Governor,Haddam,Bob Stefanowski,R,149,25.00%
+Governor,Haddam,David Stemerman,R,94,15.77%
+Lieutenant Governor,Haddam,Joe Markley,R,265,45.61%
+Lieutenant Governor,Haddam,Jayme Stevenson,R,102,17.56%
+Lieutenant Governor,Haddam,Erin E Stewart,R,214,36.83%
+United States Senator,Haddam,Matthew Corey,R,419,75.63%
+United States Senator,Haddam,Dominic Rapini,R,135,24.37%
+Treasurer,Haddam,Thad Gray,R,121,20.79%
+Treasurer,Haddam,Art Linares,R,461,79.21%
+Comptroller,Haddam,Kurt Miller,R,275,49.02%
+Comptroller,Haddam,Mark Greenberg,R,286,50.98%
+Attorney General,Haddam,Sue Hatfield,R,455,80.11%
+Attorney General,Haddam,John Shaban,R,113,19.89%
+Governor,Hamden,Mark Boughton,R,238,16.94%
+Governor,Hamden,Timothy M Herbst,R,248,17.65%
+Governor,Hamden,Steve Obsitnik,R,161,11.46%
+Governor,Hamden,Bob Stefanowski,R,589,41.92%
+Governor,Hamden,David Stemerman,R,169,12.03%
+Lieutenant Governor,Hamden,Joe Markley,R,581,43.59%
+Lieutenant Governor,Hamden,Jayme Stevenson,R,307,23.03%
+Lieutenant Governor,Hamden,Erin E Stewart,R,445,33.38%
+United States Senator,Hamden,Matthew Corey,R,702,54.38%
+United States Senator,Hamden,Dominic Rapini,R,589,45.62%
+Treasurer,Hamden,Thad Gray,R,682,53.32%
+Treasurer,Hamden,Art Linares,R,597,46.68%
+Comptroller,Hamden,Kurt Miller,R,694,54.91%
+Comptroller,Hamden,Mark Greenberg,R,570,45.09%
+Attorney General,Hamden,Sue Hatfield,R,1011,77.95%
+Attorney General,Hamden,John Shaban,R,286,22.05%
+Governor,Hampton,Mark Boughton,R,16,14.55%
+Governor,Hampton,Timothy M Herbst,R,33,30.00%
+Governor,Hampton,Steve Obsitnik,R,24,21.82%
+Governor,Hampton,Bob Stefanowski,R,23,20.91%
+Governor,Hampton,David Stemerman,R,14,12.73%
+Lieutenant Governor,Hampton,Joe Markley,R,57,53.77%
+Lieutenant Governor,Hampton,Jayme Stevenson,R,13,12.26%
+Lieutenant Governor,Hampton,Erin E Stewart,R,36,33.96%
+United States Senator,Hampton,Matthew Corey,R,66,66.67%
+United States Senator,Hampton,Dominic Rapini,R,33,33.33%
+Treasurer,Hampton,Thad Gray,R,49,49.00%
+Treasurer,Hampton,Art Linares,R,51,51.00%
+Comptroller,Hampton,Kurt Miller,R,56,54.90%
+Comptroller,Hampton,Mark Greenberg,R,46,45.10%
+Attorney General,Hampton,Sue Hatfield,R,76,72.38%
+Attorney General,Hampton,John Shaban,R,29,27.62%
+Governor,Hartford,Mark Boughton,R,69,19.22%
+Governor,Hartford,Timothy M Herbst,R,54,15.04%
+Governor,Hartford,Steve Obsitnik,R,52,14.48%
+Governor,Hartford,Bob Stefanowski,R,82,22.84%
+Governor,Hartford,David Stemerman,R,102,28.41%
+Lieutenant Governor,Hartford,Joe Markley,R,119,34.10%
+Lieutenant Governor,Hartford,Jayme Stevenson,R,67,19.20%
+Lieutenant Governor,Hartford,Erin E Stewart,R,163,46.70%
+United States Senator,Hartford,Matthew Corey,R,257,76.72%
+United States Senator,Hartford,Dominic Rapini,R,78,23.28%
+Treasurer,Hartford,Thad Gray,R,143,43.47%
+Treasurer,Hartford,Art Linares,R,186,56.53%
+Comptroller,Hartford,Kurt Miller,R,142,43.03%
+Comptroller,Hartford,Mark Greenberg,R,188,56.97%
+Attorney General,Hartford,Sue Hatfield,R,263,77.13%
+Attorney General,Hartford,John Shaban,R,78,22.87%
+Governor,Hartland,Mark Boughton,R,26,11.71%
+Governor,Hartland,Timothy M Herbst,R,77,34.68%
+Governor,Hartland,Steve Obsitnik,R,38,17.12%
+Governor,Hartland,Bob Stefanowski,R,51,22.97%
+Governor,Hartland,David Stemerman,R,30,13.51%
+Lieutenant Governor,Hartland,Joe Markley,R,159,72.27%
+Lieutenant Governor,Hartland,Jayme Stevenson,R,23,10.45%
+Lieutenant Governor,Hartland,Erin E Stewart,R,38,17.27%
+United States Senator,Hartland,Matthew Corey,R,181,84.98%
+United States Senator,Hartland,Dominic Rapini,R,32,15.02%
+Treasurer,Hartland,Thad Gray,R,110,51.16%
+Treasurer,Hartland,Art Linares,R,105,48.84%
+Comptroller,Hartland,Kurt Miller,R,106,50.48%
+Comptroller,Hartland,Mark Greenberg,R,104,49.52%
+Attorney General,Hartland,Sue Hatfield,R,164,76.64%
+Attorney General,Hartland,John Shaban,R,50,23.36%
+Governor,Harwinton,Mark Boughton,R,67,13.11%
+Governor,Harwinton,Timothy M Herbst,R,111,21.72%
+Governor,Harwinton,Steve Obsitnik,R,58,11.35%
+Governor,Harwinton,Bob Stefanowski,R,154,30.14%
+Governor,Harwinton,David Stemerman,R,121,23.68%
+Lieutenant Governor,Harwinton,Joe Markley,R,273,54.06%
+Lieutenant Governor,Harwinton,Jayme Stevenson,R,64,12.67%
+Lieutenant Governor,Harwinton,Erin E Stewart,R,168,33.27%
+United States Senator,Harwinton,Matthew Corey,R,375,80.13%
+United States Senator,Harwinton,Dominic Rapini,R,93,19.87%
+Representative in Congress 05,Harwinton,Manny Santos,R,229,47.81%
+Representative in Congress 05,Harwinton,Ruby Corby-O'Neill,R,134,27.97%
+Representative in Congress 05,Harwinton,Richard DuPont,R,116,24.22%
+Treasurer,Harwinton,Thad Gray,R,274,58.55%
+Treasurer,Harwinton,Art Linares,R,194,41.45%
+Comptroller,Harwinton,Kurt Miller,R,191,39.96%
+Comptroller,Harwinton,Mark Greenberg,R,287,60.04%
+Attorney General,Harwinton,Sue Hatfield,R,389,81.21%
+Attorney General,Harwinton,John Shaban,R,90,18.79%
+Governor,Hebron,Mark Boughton,R,84,13.59%
+Governor,Hebron,Timothy M Herbst,R,96,15.53%
+Governor,Hebron,Steve Obsitnik,R,78,12.62%
+Governor,Hebron,Bob Stefanowski,R,182,29.45%
+Governor,Hebron,David Stemerman,R,178,28.80%
+Lieutenant Governor,Hebron,Joe Markley,R,233,38.45%
+Lieutenant Governor,Hebron,Jayme Stevenson,R,109,17.99%
+Lieutenant Governor,Hebron,Erin E Stewart,R,264,43.56%
+United States Senator,Hebron,Matthew Corey,R,454,79.37%
+United States Senator,Hebron,Dominic Rapini,R,118,20.63%
+Treasurer,Hebron,Thad Gray,R,347,59.72%
+Treasurer,Hebron,Art Linares,R,234,40.28%
+Comptroller,Hebron,Kurt Miller,R,285,50.00%
+Comptroller,Hebron,Mark Greenberg,R,285,50.00%
+Attorney General,Hebron,Sue Hatfield,R,481,82.22%
+Attorney General,Hebron,John Shaban,R,104,17.78%
+Governor,Kent,Mark Boughton,R,78,47.27%
+Governor,Kent,Timothy M Herbst,R,16,9.70%
+Governor,Kent,Steve Obsitnik,R,21,12.73%
+Governor,Kent,Bob Stefanowski,R,32,19.39%
+Governor,Kent,David Stemerman,R,18,10.91%
+Lieutenant Governor,Kent,Joe Markley,R,78,49.37%
+Lieutenant Governor,Kent,Jayme Stevenson,R,32,20.25%
+Lieutenant Governor,Kent,Erin E Stewart,R,48,30.38%
+United States Senator,Kent,Matthew Corey,R,139,89.68%
+United States Senator,Kent,Dominic Rapini,R,16,10.32%
+Representative in Congress 05,Kent,Manny Santos,R,54,34.62%
+Representative in Congress 05,Kent,Ruby Corby-O'Neill,R,79,50.64%
+Representative in Congress 05,Kent,Richard DuPont,R,23,14.74%
+Treasurer,Kent,Thad Gray,R,110,70.06%
+Treasurer,Kent,Art Linares,R,47,29.94%
+Comptroller,Kent,Kurt Miller,R,78,49.06%
+Comptroller,Kent,Mark Greenberg,R,81,50.94%
+Attorney General,Kent,Sue Hatfield,R,135,85.99%
+Attorney General,Kent,John Shaban,R,22,14.01%
+Governor,Killingly,Mark Boughton,R,51,9.92%
+Governor,Killingly,Timothy M Herbst,R,135,26.26%
+Governor,Killingly,Steve Obsitnik,R,71,13.81%
+Governor,Killingly,Bob Stefanowski,R,182,35.41%
+Governor,Killingly,David Stemerman,R,75,14.59%
+Lieutenant Governor,Killingly,Joe Markley,R,337,65.44%
+Lieutenant Governor,Killingly,Jayme Stevenson,R,84,16.31%
+Lieutenant Governor,Killingly,Erin E Stewart,R,94,18.25%
+United States Senator,Killingly,Matthew Corey,R,415,83.84%
+United States Senator,Killingly,Dominic Rapini,R,80,16.16%
+Treasurer,Killingly,Thad Gray,R,293,59.55%
+Treasurer,Killingly,Art Linares,R,199,40.45%
+Comptroller,Killingly,Kurt Miller,R,248,51.03%
+Comptroller,Killingly,Mark Greenberg,R,238,48.97%
+Attorney General,Killingly,Sue Hatfield,R,409,82.63%
+Attorney General,Killingly,John Shaban,R,86,17.37%
+Governor,Killingworth,Mark Boughton,R,73,15.24%
+Governor,Killingworth,Timothy M Herbst,R,126,26.30%
+Governor,Killingworth,Steve Obsitnik,R,51,10.65%
+Governor,Killingworth,Bob Stefanowski,R,162,33.82%
+Governor,Killingworth,David Stemerman,R,67,13.99%
+Lieutenant Governor,Killingworth,Joe Markley,R,194,41.90%
+Lieutenant Governor,Killingworth,Jayme Stevenson,R,101,21.81%
+Lieutenant Governor,Killingworth,Erin E Stewart,R,168,36.29%
+United States Senator,Killingworth,Matthew Corey,R,321,73.96%
+United States Senator,Killingworth,Dominic Rapini,R,113,26.04%
+Treasurer,Killingworth,Thad Gray,R,148,32.96%
+Treasurer,Killingworth,Art Linares,R,301,67.04%
+Comptroller,Killingworth,Kurt Miller,R,220,50.57%
+Comptroller,Killingworth,Mark Greenberg,R,215,49.43%
+Attorney General,Killingworth,Sue Hatfield,R,357,79.87%
+Attorney General,Killingworth,John Shaban,R,90,20.13%
+Governor,Lebanon,Mark Boughton,R,53,11.52%
+Governor,Lebanon,Timothy M Herbst,R,119,25.87%
+Governor,Lebanon,Steve Obsitnik,R,90,19.57%
+Governor,Lebanon,Bob Stefanowski,R,119,25.87%
+Governor,Lebanon,David Stemerman,R,79,17.17%
+Lieutenant Governor,Lebanon,Joe Markley,R,194,43.11%
+Lieutenant Governor,Lebanon,Jayme Stevenson,R,95,21.11%
+Lieutenant Governor,Lebanon,Erin E Stewart,R,161,35.78%
+United States Senator,Lebanon,Matthew Corey,R,337,79.67%
+United States Senator,Lebanon,Dominic Rapini,R,86,20.33%
+Treasurer,Lebanon,Thad Gray,R,220,50.23%
+Treasurer,Lebanon,Art Linares,R,218,49.77%
+Comptroller,Lebanon,Kurt Miller,R,208,49.06%
+Comptroller,Lebanon,Mark Greenberg,R,216,50.94%
+Attorney General,Lebanon,Sue Hatfield,R,347,78.86%
+Attorney General,Lebanon,John Shaban,R,93,21.14%
+Governor,Ledyard,Mark Boughton,R,130,16.80%
+Governor,Ledyard,Timothy M Herbst,R,185,23.90%
+Governor,Ledyard,Steve Obsitnik,R,168,21.71%
+Governor,Ledyard,Bob Stefanowski,R,198,25.58%
+Governor,Ledyard,David Stemerman,R,93,12.02%
+Lieutenant Governor,Ledyard,Joe Markley,R,409,53.96%
+Lieutenant Governor,Ledyard,Jayme Stevenson,R,169,22.30%
+Lieutenant Governor,Ledyard,Erin E Stewart,R,180,23.75%
+United States Senator,Ledyard,Matthew Corey,R,600,82.19%
+United States Senator,Ledyard,Dominic Rapini,R,130,17.81%
+Treasurer,Ledyard,Thad Gray,R,401,55.69%
+Treasurer,Ledyard,Art Linares,R,319,44.31%
+Comptroller,Ledyard,Kurt Miller,R,409,56.88%
+Comptroller,Ledyard,Mark Greenberg,R,310,43.12%
+Attorney General,Ledyard,Sue Hatfield,R,634,84.76%
+Attorney General,Ledyard,John Shaban,R,114,15.24%
+Governor,Lisbon,Mark Boughton,R,15,6.55%
+Governor,Lisbon,Timothy M Herbst,R,52,22.71%
+Governor,Lisbon,Steve Obsitnik,R,44,19.21%
+Governor,Lisbon,Bob Stefanowski,R,87,37.99%
+Governor,Lisbon,David Stemerman,R,31,13.54%
+Lieutenant Governor,Lisbon,Joe Markley,R,110,51.89%
+Lieutenant Governor,Lisbon,Jayme Stevenson,R,53,25.00%
+Lieutenant Governor,Lisbon,Erin E Stewart,R,49,23.11%
+United States Senator,Lisbon,Matthew Corey,R,164,82.41%
+United States Senator,Lisbon,Dominic Rapini,R,35,17.59%
+Treasurer,Lisbon,Thad Gray,R,115,57.79%
+Treasurer,Lisbon,Art Linares,R,84,42.21%
+Comptroller,Lisbon,Kurt Miller,R,87,44.16%
+Comptroller,Lisbon,Mark Greenberg,R,110,55.84%
+Attorney General,Lisbon,Sue Hatfield,R,173,80.47%
+Attorney General,Lisbon,John Shaban,R,42,19.53%
+Governor,Litchfield,Mark Boughton,R,157,21.16%
+Governor,Litchfield,Timothy M Herbst,R,126,16.98%
+Governor,Litchfield,Steve Obsitnik,R,84,11.32%
+Governor,Litchfield,Bob Stefanowski,R,247,33.29%
+Governor,Litchfield,David Stemerman,R,128,17.25%
+Lieutenant Governor,Litchfield,Joe Markley,R,406,56.23%
+Lieutenant Governor,Litchfield,Jayme Stevenson,R,110,15.24%
+Lieutenant Governor,Litchfield,Erin E Stewart,R,206,28.53%
+United States Senator,Litchfield,Matthew Corey,R,545,80.74%
+United States Senator,Litchfield,Dominic Rapini,R,130,19.26%
+Representative in Congress 05,Litchfield,Manny Santos,R,281,39.47%
+Representative in Congress 05,Litchfield,Ruby Corby-O'Neill,R,242,33.99%
+Representative in Congress 05,Litchfield,Richard DuPont,R,189,26.54%
+Treasurer,Litchfield,Thad Gray,R,479,68.72%
+Treasurer,Litchfield,Art Linares,R,218,31.28%
+Comptroller,Litchfield,Kurt Miller,R,351,48.89%
+Comptroller,Litchfield,Mark Greenberg,R,367,51.11%
+Attorney General,Litchfield,Sue Hatfield,R,572,81.25%
+Attorney General,Litchfield,John Shaban,R,132,18.75%
+Governor,Lyme,Mark Boughton,R,22,10.68%
+Governor,Lyme,Timothy M Herbst,R,39,18.93%
+Governor,Lyme,Steve Obsitnik,R,34,16.50%
+Governor,Lyme,Bob Stefanowski,R,70,33.98%
+Governor,Lyme,David Stemerman,R,41,19.90%
+Lieutenant Governor,Lyme,Joe Markley,R,61,31.44%
+Lieutenant Governor,Lyme,Jayme Stevenson,R,52,26.80%
+Lieutenant Governor,Lyme,Erin E Stewart,R,81,41.75%
+United States Senator,Lyme,Matthew Corey,R,149,80.11%
+United States Senator,Lyme,Dominic Rapini,R,37,19.89%
+Treasurer,Lyme,Thad Gray,R,54,27.41%
+Treasurer,Lyme,Art Linares,R,143,72.59%
+Comptroller,Lyme,Kurt Miller,R,109,57.98%
+Comptroller,Lyme,Mark Greenberg,R,79,42.02%
+Attorney General,Lyme,Sue Hatfield,R,158,82.29%
+Attorney General,Lyme,John Shaban,R,34,17.71%
+Governor,Madison,Mark Boughton,R,157,11.09%
+Governor,Madison,Timothy M Herbst,R,150,10.59%
+Governor,Madison,Steve Obsitnik,R,176,12.43%
+Governor,Madison,Bob Stefanowski,R,755,53.32%
+Governor,Madison,David Stemerman,R,178,12.57%
+Lieutenant Governor,Madison,Joe Markley,R,458,33.85%
+Lieutenant Governor,Madison,Jayme Stevenson,R,337,24.91%
+Lieutenant Governor,Madison,Erin E Stewart,R,558,41.24%
+United States Senator,Madison,Matthew Corey,R,931,73.60%
+United States Senator,Madison,Dominic Rapini,R,334,26.40%
+Treasurer,Madison,Thad Gray,R,592,45.64%
+Treasurer,Madison,Art Linares,R,705,54.36%
+Comptroller,Madison,Kurt Miller,R,634,49.45%
+Comptroller,Madison,Mark Greenberg,R,648,50.55%
+Attorney General,Madison,Sue Hatfield,R,1064,81.97%
+Attorney General,Madison,John Shaban,R,234,18.03%
+Governor,Manchester,Mark Boughton,R,297,17.04%
+Governor,Manchester,Timothy M Herbst,R,251,14.40%
+Governor,Manchester,Steve Obsitnik,R,289,16.58%
+Governor,Manchester,Bob Stefanowski,R,494,28.34%
+Governor,Manchester,David Stemerman,R,412,23.64%
+Lieutenant Governor,Manchester,Joe Markley,R,733,42.67%
+Lieutenant Governor,Manchester,Jayme Stevenson,R,263,15.31%
+Lieutenant Governor,Manchester,Erin E Stewart,R,722,42.03%
+United States Senator,Manchester,Matthew Corey,R,1387,84.62%
+United States Senator,Manchester,Dominic Rapini,R,252,15.38%
+Treasurer,Manchester,Thad Gray,R,841,51.72%
+Treasurer,Manchester,Art Linares,R,785,48.28%
+Comptroller,Manchester,Kurt Miller,R,690,42.62%
+Comptroller,Manchester,Mark Greenberg,R,929,57.38%
+Attorney General,Manchester,Sue Hatfield,R,1335,80.66%
+Attorney General,Manchester,John Shaban,R,320,19.34%
+Governor,Mansfield,Mark Boughton,R,45,13.16%
+Governor,Mansfield,Timothy M Herbst,R,57,16.67%
+Governor,Mansfield,Steve Obsitnik,R,49,14.33%
+Governor,Mansfield,Bob Stefanowski,R,104,30.41%
+Governor,Mansfield,David Stemerman,R,87,25.44%
+Lieutenant Governor,Mansfield,Joe Markley,R,137,41.27%
+Lieutenant Governor,Mansfield,Jayme Stevenson,R,59,17.77%
+Lieutenant Governor,Mansfield,Erin E Stewart,R,136,40.96%
+United States Senator,Mansfield,Matthew Corey,R,261,83.12%
+United States Senator,Mansfield,Dominic Rapini,R,53,16.88%
+Treasurer,Mansfield,Thad Gray,R,179,56.83%
+Treasurer,Mansfield,Art Linares,R,136,43.17%
+Comptroller,Mansfield,Kurt Miller,R,164,51.74%
+Comptroller,Mansfield,Mark Greenberg,R,153,48.26%
+Attorney General,Mansfield,Sue Hatfield,R,268,82.72%
+Attorney General,Mansfield,John Shaban,R,56,17.28%
+Governor,Marlborough,Mark Boughton,R,44,10.92%
+Governor,Marlborough,Timothy M Herbst,R,63,15.63%
+Governor,Marlborough,Steve Obsitnik,R,52,12.90%
+Governor,Marlborough,Bob Stefanowski,R,117,29.03%
+Governor,Marlborough,David Stemerman,R,127,31.51%
+Lieutenant Governor,Marlborough,Joe Markley,R,163,41.27%
+Lieutenant Governor,Marlborough,Jayme Stevenson,R,45,11.39%
+Lieutenant Governor,Marlborough,Erin E Stewart,R,187,47.34%
+United States Senator,Marlborough,Matthew Corey,R,292,77.25%
+United States Senator,Marlborough,Dominic Rapini,R,86,22.75%
+Treasurer,Marlborough,Thad Gray,R,185,48.18%
+Treasurer,Marlborough,Art Linares,R,199,51.82%
+Comptroller,Marlborough,Kurt Miller,R,184,48.55%
+Comptroller,Marlborough,Mark Greenberg,R,195,51.45%
+Attorney General,Marlborough,Sue Hatfield,R,303,80.16%
+Attorney General,Marlborough,John Shaban,R,75,19.84%
+Governor,Meriden,Mark Boughton,R,260,18.49%
+Governor,Meriden,Timothy M Herbst,R,292,20.77%
+Governor,Meriden,Steve Obsitnik,R,146,10.38%
+Governor,Meriden,Bob Stefanowski,R,503,35.78%
+Governor,Meriden,David Stemerman,R,205,14.58%
+Lieutenant Governor,Meriden,Joe Markley,R,851,61.58%
+Lieutenant Governor,Meriden,Jayme Stevenson,R,149,10.78%
+Lieutenant Governor,Meriden,Erin E Stewart,R,382,27.64%
+United States Senator,Meriden,Matthew Corey,R,972,76.66%
+United States Senator,Meriden,Dominic Rapini,R,296,23.34%
+Representative in Congress 05,Meriden,Manny Santos,R,1077,78.96%
+Representative in Congress 05,Meriden,Ruby Corby-O'Neill,R,162,11.88%
+Representative in Congress 05,Meriden,Richard DuPont,R,125,9.16%
+Treasurer,Meriden,Thad Gray,R,671,51.85%
+Treasurer,Meriden,Art Linares,R,623,48.15%
+Comptroller,Meriden,Kurt Miller,R,538,41.13%
+Comptroller,Meriden,Mark Greenberg,R,770,58.87%
+Attorney General,Meriden,Sue Hatfield,R,1054,80.21%
+Attorney General,Meriden,John Shaban,R,260,19.79%
+Governor,Middlebury,Mark Boughton,R,264,30.99%
+Governor,Middlebury,Timothy M Herbst,R,110,12.91%
+Governor,Middlebury,Steve Obsitnik,R,70,8.22%
+Governor,Middlebury,Bob Stefanowski,R,234,27.46%
+Governor,Middlebury,David Stemerman,R,174,20.42%
+Lieutenant Governor,Middlebury,Joe Markley,R,428,52.45%
+Lieutenant Governor,Middlebury,Jayme Stevenson,R,98,12.01%
+Lieutenant Governor,Middlebury,Erin E Stewart,R,290,35.54%
+United States Senator,Middlebury,Matthew Corey,R,574,74.55%
+United States Senator,Middlebury,Dominic Rapini,R,196,25.45%
+Representative in Congress 05,Middlebury,Manny Santos,R,398,50.51%
+Representative in Congress 05,Middlebury,Ruby Corby-O'Neill,R,180,22.84%
+Representative in Congress 05,Middlebury,Richard DuPont,R,210,26.65%
+Treasurer,Middlebury,Thad Gray,R,523,68.28%
+Treasurer,Middlebury,Art Linares,R,243,31.72%
+Comptroller,Middlebury,Kurt Miller,R,435,55.63%
+Comptroller,Middlebury,Mark Greenberg,R,347,44.37%
+Attorney General,Middlebury,Sue Hatfield,R,602,76.30%
+Attorney General,Middlebury,John Shaban,R,187,23.70%
+Governor,Middlefield,Mark Boughton,R,35,13.57%
+Governor,Middlefield,Timothy M Herbst,R,58,22.48%
+Governor,Middlefield,Steve Obsitnik,R,36,13.95%
+Governor,Middlefield,Bob Stefanowski,R,80,31.01%
+Governor,Middlefield,David Stemerman,R,49,18.99%
+Lieutenant Governor,Middlefield,Joe Markley,R,106,42.23%
+Lieutenant Governor,Middlefield,Jayme Stevenson,R,41,16.33%
+Lieutenant Governor,Middlefield,Erin E Stewart,R,104,41.43%
+United States Senator,Middlefield,Matthew Corey,R,173,72.08%
+United States Senator,Middlefield,Dominic Rapini,R,67,27.92%
+Treasurer,Middlefield,Thad Gray,R,115,47.33%
+Treasurer,Middlefield,Art Linares,R,128,52.67%
+Comptroller,Middlefield,Kurt Miller,R,108,44.63%
+Comptroller,Middlefield,Mark Greenberg,R,134,55.37%
+Attorney General,Middlefield,Sue Hatfield,R,182,73.39%
+Attorney General,Middlefield,John Shaban,R,66,26.61%
+Governor,Middletown,Mark Boughton,R,170,12.54%
+Governor,Middletown,Timothy M Herbst,R,292,21.53%
+Governor,Middletown,Steve Obsitnik,R,162,11.95%
+Governor,Middletown,Bob Stefanowski,R,448,33.04%
+Governor,Middletown,David Stemerman,R,284,20.94%
+Lieutenant Governor,Middletown,Joe Markley,R,524,39.70%
+Lieutenant Governor,Middletown,Jayme Stevenson,R,223,16.89%
+Lieutenant Governor,Middletown,Erin E Stewart,R,573,43.41%
+United States Senator,Middletown,Matthew Corey,R,932,73.16%
+United States Senator,Middletown,Dominic Rapini,R,342,26.84%
+State Senator 09,Middletown,Ed Charamut,R,373,53.06%
+State Senator 09,Middletown,Tyler Flanigan,R,330,46.94%
+State Representative 100,Middletown,Tyrell Brown,R,247,35.49%
+State Representative 100,Middletown,Anthony Gennaro,R,449,64.51%
+Treasurer,Middletown,Thad Gray,R,497,38.50%
+Treasurer,Middletown,Art Linares,R,794,61.50%
+Comptroller,Middletown,Kurt Miller,R,557,43.79%
+Comptroller,Middletown,Mark Greenberg,R,715,56.21%
+Attorney General,Middletown,Sue Hatfield,R,986,77.03%
+Attorney General,Middletown,John Shaban,R,294,22.97%
+Governor,Milford,Mark Boughton,R,537,20.07%
+Governor,Milford,Timothy M Herbst,R,496,18.54%
+Governor,Milford,Steve Obsitnik,R,301,11.25%
+Governor,Milford,Bob Stefanowski,R,969,36.21%
+Governor,Milford,David Stemerman,R,373,13.94%
+Lieutenant Governor,Milford,Joe Markley,R,1351,52.20%
+Lieutenant Governor,Milford,Jayme Stevenson,R,514,19.86%
+Lieutenant Governor,Milford,Erin E Stewart,R,723,27.94%
+United States Senator,Milford,Matthew Corey,R,1728,71.35%
+United States Senator,Milford,Dominic Rapini,R,694,28.65%
+State Senator 14,Milford,Anthony Giannattasio,R,924,34.75%
+State Senator 14,Milford,Pam Staneski,R,1735,65.25%
+Treasurer,Milford,Thad Gray,R,1495,60.11%
+Treasurer,Milford,Art Linares,R,992,39.89%
+Comptroller,Milford,Kurt Miller,R,1344,54.13%
+Comptroller,Milford,Mark Greenberg,R,1139,45.87%
+Attorney General,Milford,Sue Hatfield,R,1978,78.59%
+Attorney General,Milford,John Shaban,R,539,21.41%
+Governor,Monroe,Mark Boughton,R,284,27.57%
+Governor,Monroe,Timothy M Herbst,R,208,20.19%
+Governor,Monroe,Steve Obsitnik,R,115,11.17%
+Governor,Monroe,Bob Stefanowski,R,306,29.71%
+Governor,Monroe,David Stemerman,R,117,11.36%
+Lieutenant Governor,Monroe,Joe Markley,R,452,46.36%
+Lieutenant Governor,Monroe,Jayme Stevenson,R,267,27.38%
+Lieutenant Governor,Monroe,Erin E Stewart,R,256,26.26%
+United States Senator,Monroe,Matthew Corey,R,711,75.64%
+United States Senator,Monroe,Dominic Rapini,R,229,24.36%
+Treasurer,Monroe,Thad Gray,R,525,55.85%
+Treasurer,Monroe,Art Linares,R,415,44.15%
+Comptroller,Monroe,Kurt Miller,R,560,59.96%
+Comptroller,Monroe,Mark Greenberg,R,374,40.04%
+Attorney General,Monroe,Sue Hatfield,R,743,78.21%
+Attorney General,Monroe,John Shaban,R,207,21.79%
+Governor,Montville,Mark Boughton,R,140,21.02%
+Governor,Montville,Timothy M Herbst,R,161,24.17%
+Governor,Montville,Steve Obsitnik,R,123,18.47%
+Governor,Montville,Bob Stefanowski,R,182,27.33%
+Governor,Montville,David Stemerman,R,60,9.01%
+Lieutenant Governor,Montville,Joe Markley,R,284,43.83%
+Lieutenant Governor,Montville,Jayme Stevenson,R,150,23.15%
+Lieutenant Governor,Montville,Erin E Stewart,R,214,33.02%
+United States Senator,Montville,Matthew Corey,R,478,76.85%
+United States Senator,Montville,Dominic Rapini,R,144,23.15%
+Treasurer,Montville,Thad Gray,R,289,46.02%
+Treasurer,Montville,Art Linares,R,339,53.98%
+Comptroller,Montville,Kurt Miller,R,317,51.05%
+Comptroller,Montville,Mark Greenberg,R,304,48.95%
+Attorney General,Montville,Sue Hatfield,R,502,79.06%
+Attorney General,Montville,John Shaban,R,133,20.94%
+Governor,Morris,Mark Boughton,R,51,21.89%
+Governor,Morris,Timothy M Herbst,R,32,13.73%
+Governor,Morris,Steve Obsitnik,R,13,5.58%
+Governor,Morris,Bob Stefanowski,R,94,40.34%
+Governor,Morris,David Stemerman,R,43,18.45%
+Lieutenant Governor,Morris,Joe Markley,R,116,51.10%
+Lieutenant Governor,Morris,Jayme Stevenson,R,35,15.42%
+Lieutenant Governor,Morris,Erin E Stewart,R,76,33.48%
+United States Senator,Morris,Matthew Corey,R,172,81.13%
+United States Senator,Morris,Dominic Rapini,R,40,18.87%
+Representative in Congress 05,Morris,Manny Santos,R,74,33.48%
+Representative in Congress 05,Morris,Ruby Corby-O'Neill,R,45,20.36%
+Representative in Congress 05,Morris,Richard DuPont,R,102,46.15%
+Treasurer,Morris,Thad Gray,R,136,64.45%
+Treasurer,Morris,Art Linares,R,75,35.55%
+Comptroller,Morris,Kurt Miller,R,98,44.95%
+Comptroller,Morris,Mark Greenberg,R,120,55.05%
+Attorney General,Morris,Sue Hatfield,R,168,77.06%
+Attorney General,Morris,John Shaban,R,50,22.94%
+Governor,Naugatuck,Mark Boughton,R,328,28.62%
+Governor,Naugatuck,Timothy M Herbst,R,223,19.46%
+Governor,Naugatuck,Steve Obsitnik,R,119,10.38%
+Governor,Naugatuck,Bob Stefanowski,R,316,27.57%
+Governor,Naugatuck,David Stemerman,R,160,13.96%
+Lieutenant Governor,Naugatuck,Joe Markley,R,571,51.40%
+Lieutenant Governor,Naugatuck,Jayme Stevenson,R,178,16.02%
+Lieutenant Governor,Naugatuck,Erin E Stewart,R,362,32.58%
+United States Senator,Naugatuck,Matthew Corey,R,799,75.31%
+United States Senator,Naugatuck,Dominic Rapini,R,262,24.69%
+Treasurer,Naugatuck,Thad Gray,R,624,58.37%
+Treasurer,Naugatuck,Art Linares,R,445,41.63%
+Comptroller,Naugatuck,Kurt Miller,R,545,51.56%
+Comptroller,Naugatuck,Mark Greenberg,R,512,48.44%
+Attorney General,Naugatuck,Sue Hatfield,R,865,79.65%
+Attorney General,Naugatuck,John Shaban,R,221,20.35%
+Governor,New Britain,Mark Boughton,R,265,21.00%
+Governor,New Britain,Timothy M Herbst,R,246,19.49%
+Governor,New Britain,Steve Obsitnik,R,143,11.33%
+Governor,New Britain,Bob Stefanowski,R,357,28.29%
+Governor,New Britain,David Stemerman,R,251,19.89%
+Lieutenant Governor,New Britain,Joe Markley,R,358,27.97%
+Lieutenant Governor,New Britain,Jayme Stevenson,R,100,7.81%
+Lieutenant Governor,New Britain,Erin E Stewart,R,822,64.22%
+United States Senator,New Britain,Matthew Corey,R,851,77.08%
+United States Senator,New Britain,Dominic Rapini,R,253,22.92%
+Representative in Congress 05,New Britain,Manny Santos,R,574,50.48%
+Representative in Congress 05,New Britain,Ruby Corby-O'Neill,R,311,27.35%
+Representative in Congress 05,New Britain,Richard DuPont,R,252,22.16%
+Treasurer,New Britain,Thad Gray,R,527,45.99%
+Treasurer,New Britain,Art Linares,R,619,54.01%
+Comptroller,New Britain,Kurt Miller,R,496,44.29%
+Comptroller,New Britain,Mark Greenberg,R,624,55.71%
+Attorney General,New Britain,Sue Hatfield,R,876,77.45%
+Attorney General,New Britain,John Shaban,R,255,22.55%
+Governor,New Canaan,Mark Boughton,R,262,16.96%
+Governor,New Canaan,Timothy M Herbst,R,108,6.99%
+Governor,New Canaan,Steve Obsitnik,R,431,27.90%
+Governor,New Canaan,Bob Stefanowski,R,426,27.57%
+Governor,New Canaan,David Stemerman,R,318,20.58%
+Lieutenant Governor,New Canaan,Joe Markley,R,535,35.91%
+Lieutenant Governor,New Canaan,Jayme Stevenson,R,788,52.89%
+Lieutenant Governor,New Canaan,Erin E Stewart,R,167,11.21%
+United States Senator,New Canaan,Matthew Corey,R,1077,81.10%
+United States Senator,New Canaan,Dominic Rapini,R,251,18.90%
+Treasurer,New Canaan,Thad Gray,R,872,62.51%
+Treasurer,New Canaan,Art Linares,R,523,37.49%
+Comptroller,New Canaan,Kurt Miller,R,876,64.75%
+Comptroller,New Canaan,Mark Greenberg,R,477,35.25%
+Attorney General,New Canaan,Sue Hatfield,R,1158,82.36%
+Attorney General,New Canaan,John Shaban,R,248,17.64%
+Governor,New Fairfield,Mark Boughton,R,582,68.79%
+Governor,New Fairfield,Timothy M Herbst,R,56,6.62%
+Governor,New Fairfield,Steve Obsitnik,R,43,5.08%
+Governor,New Fairfield,Bob Stefanowski,R,93,10.99%
+Governor,New Fairfield,David Stemerman,R,72,8.51%
+Lieutenant Governor,New Fairfield,Joe Markley,R,592,73.09%
+Lieutenant Governor,New Fairfield,Jayme Stevenson,R,103,12.72%
+Lieutenant Governor,New Fairfield,Erin E Stewart,R,115,14.20%
+United States Senator,New Fairfield,Matthew Corey,R,653,83.72%
+United States Senator,New Fairfield,Dominic Rapini,R,127,16.28%
+Representative in Congress 05,New Fairfield,Manny Santos,R,499,64.06%
+Representative in Congress 05,New Fairfield,Ruby Corby-O'Neill,R,191,24.52%
+Representative in Congress 05,New Fairfield,Richard DuPont,R,89,11.42%
+Treasurer,New Fairfield,Thad Gray,R,608,78.05%
+Treasurer,New Fairfield,Art Linares,R,171,21.95%
+Comptroller,New Fairfield,Kurt Miller,R,527,68.00%
+Comptroller,New Fairfield,Mark Greenberg,R,248,32.00%
+Attorney General,New Fairfield,Sue Hatfield,R,662,84.87%
+Attorney General,New Fairfield,John Shaban,R,118,15.13%
+Governor,New Hartford,Mark Boughton,R,116,19.11%
+Governor,New Hartford,Timothy M Herbst,R,115,18.95%
+Governor,New Hartford,Steve Obsitnik,R,71,11.70%
+Governor,New Hartford,Bob Stefanowski,R,174,28.67%
+Governor,New Hartford,David Stemerman,R,131,21.58%
+Lieutenant Governor,New Hartford,Joe Markley,R,316,53.74%
+Lieutenant Governor,New Hartford,Jayme Stevenson,R,89,15.14%
+Lieutenant Governor,New Hartford,Erin E Stewart,R,183,31.12%
+United States Senator,New Hartford,Matthew Corey,R,465,85.64%
+United States Senator,New Hartford,Dominic Rapini,R,78,14.36%
+Treasurer,New Hartford,Thad Gray,R,324,58.59%
+Treasurer,New Hartford,Art Linares,R,229,41.41%
+Comptroller,New Hartford,Kurt Miller,R,258,46.40%
+Comptroller,New Hartford,Mark Greenberg,R,298,53.60%
+Attorney General,New Hartford,Sue Hatfield,R,480,84.21%
+Attorney General,New Hartford,John Shaban,R,90,15.79%
+Governor,New Haven,Mark Boughton,R,97,17.23%
+Governor,New Haven,Timothy M Herbst,R,99,17.58%
+Governor,New Haven,Steve Obsitnik,R,70,12.43%
+Governor,New Haven,Bob Stefanowski,R,197,34.99%
+Governor,New Haven,David Stemerman,R,100,17.76%
+Lieutenant Governor,New Haven,Joe Markley,R,201,37.64%
+Lieutenant Governor,New Haven,Jayme Stevenson,R,139,26.03%
+Lieutenant Governor,New Haven,Erin E Stewart,R,194,36.33%
+United States Senator,New Haven,Matthew Corey,R,293,58.02%
+United States Senator,New Haven,Dominic Rapini,R,212,41.98%
+State Representative 116,New Haven,Richard D DePalma,R,0,0.00%
+State Representative 116,New Haven,Roman Khondker,R,0,0.00%
+Treasurer,New Haven,Thad Gray,R,251,49.41%
+Treasurer,New Haven,Art Linares,R,257,50.59%
+Comptroller,New Haven,Kurt Miller,R,247,48.91%
+Comptroller,New Haven,Mark Greenberg,R,258,51.09%
+Attorney General,New Haven,Sue Hatfield,R,383,74.37%
+Attorney General,New Haven,John Shaban,R,132,25.63%
+Governor,Newington,Mark Boughton,R,169,13.28%
+Governor,Newington,Timothy M Herbst,R,280,22.00%
+Governor,Newington,Steve Obsitnik,R,169,13.28%
+Governor,Newington,Bob Stefanowski,R,371,29.14%
+Governor,Newington,David Stemerman,R,284,22.31%
+Lieutenant Governor,Newington,Joe Markley,R,403,31.98%
+Lieutenant Governor,Newington,Jayme Stevenson,R,152,12.06%
+Lieutenant Governor,Newington,Erin E Stewart,R,705,55.95%
+United States Senator,Newington,Matthew Corey,R,901,78.48%
+United States Senator,Newington,Dominic Rapini,R,247,21.52%
+State Senator 09,Newington,Ed Charamut,R,606,52.33%
+State Senator 09,Newington,Tyler Flanigan,R,552,47.67%
+Treasurer,Newington,Thad Gray,R,494,41.97%
+Treasurer,Newington,Art Linares,R,683,58.03%
+Comptroller,Newington,Kurt Miller,R,515,44.24%
+Comptroller,Newington,Mark Greenberg,R,649,55.76%
+Attorney General,Newington,Sue Hatfield,R,940,79.12%
+Attorney General,Newington,John Shaban,R,248,20.88%
+Governor,New London,Mark Boughton,R,72,26.28%
+Governor,New London,Timothy M Herbst,R,39,14.23%
+Governor,New London,Steve Obsitnik,R,45,16.42%
+Governor,New London,Bob Stefanowski,R,73,26.64%
+Governor,New London,David Stemerman,R,45,16.42%
+Lieutenant Governor,New London,Joe Markley,R,107,41.80%
+Lieutenant Governor,New London,Jayme Stevenson,R,62,24.22%
+Lieutenant Governor,New London,Erin E Stewart,R,87,33.98%
+United States Senator,New London,Matthew Corey,R,189,78.10%
+United States Senator,New London,Dominic Rapini,R,53,21.90%
+Treasurer,New London,Thad Gray,R,114,46.15%
+Treasurer,New London,Art Linares,R,133,53.85%
+Comptroller,New London,Kurt Miller,R,107,43.67%
+Comptroller,New London,Mark Greenberg,R,138,56.33%
+Attorney General,New London,Sue Hatfield,R,206,81.42%
+Attorney General,New London,John Shaban,R,47,18.58%
+Governor,New Milford,Mark Boughton,R,865,55.99%
+Governor,New Milford,Timothy M Herbst,R,151,9.77%
+Governor,New Milford,Steve Obsitnik,R,69,4.47%
+Governor,New Milford,Bob Stefanowski,R,297,19.22%
+Governor,New Milford,David Stemerman,R,163,10.55%
+Lieutenant Governor,New Milford,Joe Markley,R,823,56.25%
+Lieutenant Governor,New Milford,Jayme Stevenson,R,239,16.34%
+Lieutenant Governor,New Milford,Erin E Stewart,R,401,27.41%
+United States Senator,New Milford,Matthew Corey,R,1176,83.76%
+United States Senator,New Milford,Dominic Rapini,R,228,16.24%
+Representative in Congress 05,New Milford,Manny Santos,R,713,50.04%
+Representative in Congress 05,New Milford,Ruby Corby-O'Neill,R,473,33.19%
+Representative in Congress 05,New Milford,Richard DuPont,R,239,16.77%
+Treasurer,New Milford,Thad Gray,R,927,66.07%
+Treasurer,New Milford,Art Linares,R,476,33.93%
+Comptroller,New Milford,Kurt Miller,R,749,52.90%
+Comptroller,New Milford,Mark Greenberg,R,667,47.10%
+Attorney General,New Milford,Sue Hatfield,R,1178,82.55%
+Attorney General,New Milford,John Shaban,R,249,17.45%
+Governor,Newtown,Mark Boughton,R,826,46.64%
+Governor,Newtown,Timothy M Herbst,R,209,11.80%
+Governor,Newtown,Steve Obsitnik,R,111,6.27%
+Governor,Newtown,Bob Stefanowski,R,413,23.32%
+Governor,Newtown,David Stemerman,R,212,11.97%
+Lieutenant Governor,Newtown,Joe Markley,R,1033,61.16%
+Lieutenant Governor,Newtown,Jayme Stevenson,R,291,17.23%
+Lieutenant Governor,Newtown,Erin E Stewart,R,365,21.61%
+United States Senator,Newtown,Matthew Corey,R,1267,78.94%
+United States Senator,Newtown,Dominic Rapini,R,338,21.06%
+Representative in Congress 05,Newtown,Manny Santos,R,905,55.86%
+Representative in Congress 05,Newtown,Ruby Corby-O'Neill,R,449,27.72%
+Representative in Congress 05,Newtown,Richard DuPont,R,266,16.42%
+Treasurer,Newtown,Thad Gray,R,1024,63.21%
+Treasurer,Newtown,Art Linares,R,596,36.79%
+Comptroller,Newtown,Kurt Miller,R,902,55.54%
+Comptroller,Newtown,Mark Greenberg,R,722,44.46%
+Attorney General,Newtown,Sue Hatfield,R,1328,81.32%
+Attorney General,Newtown,John Shaban,R,305,18.68%
+Governor,Norfolk,Mark Boughton,R,15,16.13%
+Governor,Norfolk,Timothy M Herbst,R,29,31.18%
+Governor,Norfolk,Steve Obsitnik,R,16,17.20%
+Governor,Norfolk,Bob Stefanowski,R,15,16.13%
+Governor,Norfolk,David Stemerman,R,18,19.35%
+Lieutenant Governor,Norfolk,Joe Markley,R,39,43.82%
+Lieutenant Governor,Norfolk,Jayme Stevenson,R,23,25.84%
+Lieutenant Governor,Norfolk,Erin E Stewart,R,27,30.34%
+United States Senator,Norfolk,Matthew Corey,R,68,85.00%
+United States Senator,Norfolk,Dominic Rapini,R,12,15.00%
+Representative in Congress 05,Norfolk,Manny Santos,R,38,44.19%
+Representative in Congress 05,Norfolk,Ruby Corby-O'Neill,R,26,30.23%
+Representative in Congress 05,Norfolk,Richard DuPont,R,22,25.58%
+Treasurer,Norfolk,Thad Gray,R,51,61.45%
+Treasurer,Norfolk,Art Linares,R,32,38.55%
+Comptroller,Norfolk,Kurt Miller,R,33,39.76%
+Comptroller,Norfolk,Mark Greenberg,R,50,60.24%
+Attorney General,Norfolk,Sue Hatfield,R,65,74.71%
+Attorney General,Norfolk,John Shaban,R,22,25.29%
+Governor,North Branford,Mark Boughton,R,104,16.00%
+Governor,North Branford,Timothy M Herbst,R,103,15.85%
+Governor,North Branford,Steve Obsitnik,R,48,7.38%
+Governor,North Branford,Bob Stefanowski,R,313,48.15%
+Governor,North Branford,David Stemerman,R,82,12.62%
+Lieutenant Governor,North Branford,Joe Markley,R,294,48.04%
+Lieutenant Governor,North Branford,Jayme Stevenson,R,128,20.92%
+Lieutenant Governor,North Branford,Erin E Stewart,R,190,31.05%
+United States Senator,North Branford,Matthew Corey,R,376,63.95%
+United States Senator,North Branford,Dominic Rapini,R,212,36.05%
+Treasurer,North Branford,Thad Gray,R,282,47.55%
+Treasurer,North Branford,Art Linares,R,311,52.45%
+Comptroller,North Branford,Kurt Miller,R,275,47.09%
+Comptroller,North Branford,Mark Greenberg,R,309,52.91%
+Attorney General,North Branford,Sue Hatfield,R,469,78.43%
+Attorney General,North Branford,John Shaban,R,129,21.57%
+Governor,North Canaan,Mark Boughton,R,73,38.02%
+Governor,North Canaan,Timothy M Herbst,R,21,10.94%
+Governor,North Canaan,Steve Obsitnik,R,20,10.42%
+Governor,North Canaan,Bob Stefanowski,R,51,26.56%
+Governor,North Canaan,David Stemerman,R,27,14.06%
+Lieutenant Governor,North Canaan,Joe Markley,R,84,47.46%
+Lieutenant Governor,North Canaan,Jayme Stevenson,R,28,15.82%
+Lieutenant Governor,North Canaan,Erin E Stewart,R,65,36.72%
+United States Senator,North Canaan,Matthew Corey,R,135,82.82%
+United States Senator,North Canaan,Dominic Rapini,R,28,17.18%
+Representative in Congress 05,North Canaan,Manny Santos,R,85,51.20%
+Representative in Congress 05,North Canaan,Ruby Corby-O'Neill,R,35,21.08%
+Representative in Congress 05,North Canaan,Richard DuPont,R,46,27.71%
+Treasurer,North Canaan,Thad Gray,R,135,76.70%
+Treasurer,North Canaan,Art Linares,R,41,23.30%
+Comptroller,North Canaan,Kurt Miller,R,86,51.50%
+Comptroller,North Canaan,Mark Greenberg,R,81,48.50%
+Attorney General,North Canaan,Sue Hatfield,R,147,83.52%
+Attorney General,North Canaan,John Shaban,R,29,16.48%
+Governor,North Haven,Mark Boughton,R,189,13.18%
+Governor,North Haven,Timothy M Herbst,R,235,16.39%
+Governor,North Haven,Steve Obsitnik,R,147,10.25%
+Governor,North Haven,Bob Stefanowski,R,714,49.79%
+Governor,North Haven,David Stemerman,R,149,10.39%
+Lieutenant Governor,North Haven,Joe Markley,R,585,42.45%
+Lieutenant Governor,North Haven,Jayme Stevenson,R,275,19.96%
+Lieutenant Governor,North Haven,Erin E Stewart,R,518,37.59%
+United States Senator,North Haven,Matthew Corey,R,779,58.88%
+United States Senator,North Haven,Dominic Rapini,R,544,41.12%
+Treasurer,North Haven,Thad Gray,R,614,46.69%
+Treasurer,North Haven,Art Linares,R,701,53.31%
+Comptroller,North Haven,Kurt Miller,R,683,51.98%
+Comptroller,North Haven,Mark Greenberg,R,631,48.02%
+Attorney General,North Haven,Sue Hatfield,R,1065,79.72%
+Attorney General,North Haven,John Shaban,R,271,20.28%
+Governor,North Stonington,Mark Boughton,R,34,11.15%
+Governor,North Stonington,Timothy M Herbst,R,89,29.18%
+Governor,North Stonington,Steve Obsitnik,R,63,20.66%
+Governor,North Stonington,Bob Stefanowski,R,81,26.56%
+Governor,North Stonington,David Stemerman,R,38,12.46%
+Lieutenant Governor,North Stonington,Joe Markley,R,134,45.58%
+Lieutenant Governor,North Stonington,Jayme Stevenson,R,67,22.79%
+Lieutenant Governor,North Stonington,Erin E Stewart,R,93,31.63%
+United States Senator,North Stonington,Matthew Corey,R,217,78.91%
+United States Senator,North Stonington,Dominic Rapini,R,58,21.09%
+Treasurer,North Stonington,Thad Gray,R,134,46.69%
+Treasurer,North Stonington,Art Linares,R,153,53.31%
+Comptroller,North Stonington,Kurt Miller,R,131,47.29%
+Comptroller,North Stonington,Mark Greenberg,R,146,52.71%
+Attorney General,North Stonington,Sue Hatfield,R,225,78.13%
+Attorney General,North Stonington,John Shaban,R,63,21.88%
+Governor,Norwalk,Mark Boughton,R,483,21.67%
+Governor,Norwalk,Timothy M Herbst,R,297,13.32%
+Governor,Norwalk,Steve Obsitnik,R,503,22.57%
+Governor,Norwalk,Bob Stefanowski,R,557,24.99%
+Governor,Norwalk,David Stemerman,R,389,17.45%
+Lieutenant Governor,Norwalk,Joe Markley,R,825,38.30%
+Lieutenant Governor,Norwalk,Jayme Stevenson,R,874,40.58%
+Lieutenant Governor,Norwalk,Erin E Stewart,R,455,21.12%
+United States Senator,Norwalk,Matthew Corey,R,1487,72.47%
+United States Senator,Norwalk,Dominic Rapini,R,565,27.53%
+Treasurer,Norwalk,Thad Gray,R,1257,61.02%
+Treasurer,Norwalk,Art Linares,R,803,38.98%
+Comptroller,Norwalk,Kurt Miller,R,1122,54.87%
+Comptroller,Norwalk,Mark Greenberg,R,923,45.13%
+Attorney General,Norwalk,Sue Hatfield,R,1541,70.72%
+Attorney General,Norwalk,John Shaban,R,638,29.28%
+Governor,Norwich,Mark Boughton,R,111,13.01%
+Governor,Norwich,Timothy M Herbst,R,199,23.33%
+Governor,Norwich,Steve Obsitnik,R,150,17.58%
+Governor,Norwich,Bob Stefanowski,R,270,31.65%
+Governor,Norwich,David Stemerman,R,123,14.42%
+Lieutenant Governor,Norwich,Joe Markley,R,409,50.37%
+Lieutenant Governor,Norwich,Jayme Stevenson,R,178,21.92%
+Lieutenant Governor,Norwich,Erin E Stewart,R,225,27.71%
+United States Senator,Norwich,Matthew Corey,R,591,75.58%
+United States Senator,Norwich,Dominic Rapini,R,191,24.42%
+Treasurer,Norwich,Thad Gray,R,356,44.61%
+Treasurer,Norwich,Art Linares,R,442,55.39%
+Comptroller,Norwich,Kurt Miller,R,356,45.64%
+Comptroller,Norwich,Mark Greenberg,R,424,54.36%
+Attorney General,Norwich,Sue Hatfield,R,652,80.59%
+Attorney General,Norwich,John Shaban,R,157,19.41%
+Governor,Old Lyme,Mark Boughton,R,115,19.59%
+Governor,Old Lyme,Timothy M Herbst,R,94,16.01%
+Governor,Old Lyme,Steve Obsitnik,R,89,15.16%
+Governor,Old Lyme,Bob Stefanowski,R,181,30.83%
+Governor,Old Lyme,David Stemerman,R,108,18.40%
+Lieutenant Governor,Old Lyme,Joe Markley,R,211,38.02%
+Lieutenant Governor,Old Lyme,Jayme Stevenson,R,109,19.64%
+Lieutenant Governor,Old Lyme,Erin E Stewart,R,235,42.34%
+United States Senator,Old Lyme,Matthew Corey,R,407,77.82%
+United States Senator,Old Lyme,Dominic Rapini,R,116,22.18%
+Treasurer,Old Lyme,Thad Gray,R,184,33.52%
+Treasurer,Old Lyme,Art Linares,R,365,66.48%
+Comptroller,Old Lyme,Kurt Miller,R,299,56.42%
+Comptroller,Old Lyme,Mark Greenberg,R,231,43.58%
+Attorney General,Old Lyme,Sue Hatfield,R,446,81.68%
+Attorney General,Old Lyme,John Shaban,R,100,18.32%
+Governor,Old Saybrook,Mark Boughton,R,112,12.80%
+Governor,Old Saybrook,Timothy M Herbst,R,149,17.03%
+Governor,Old Saybrook,Steve Obsitnik,R,135,15.43%
+Governor,Old Saybrook,Bob Stefanowski,R,270,30.86%
+Governor,Old Saybrook,David Stemerman,R,209,23.89%
+Lieutenant Governor,Old Saybrook,Joe Markley,R,273,32.00%
+Lieutenant Governor,Old Saybrook,Jayme Stevenson,R,151,17.70%
+Lieutenant Governor,Old Saybrook,Erin E Stewart,R,429,50.29%
+United States Senator,Old Saybrook,Matthew Corey,R,607,77.03%
+United States Senator,Old Saybrook,Dominic Rapini,R,181,22.97%
+Treasurer,Old Saybrook,Thad Gray,R,222,26.06%
+Treasurer,Old Saybrook,Art Linares,R,630,73.94%
+Comptroller,Old Saybrook,Kurt Miller,R,403,50.19%
+Comptroller,Old Saybrook,Mark Greenberg,R,400,49.81%
+Attorney General,Old Saybrook,Sue Hatfield,R,683,82.99%
+Attorney General,Old Saybrook,John Shaban,R,140,17.01%
+Governor,Orange,Mark Boughton,R,150,16.56%
+Governor,Orange,Timothy M Herbst,R,179,19.76%
+Governor,Orange,Steve Obsitnik,R,104,11.48%
+Governor,Orange,Bob Stefanowski,R,338,37.31%
+Governor,Orange,David Stemerman,R,135,14.90%
+Lieutenant Governor,Orange,Joe Markley,R,380,43.88%
+Lieutenant Governor,Orange,Jayme Stevenson,R,219,25.29%
+Lieutenant Governor,Orange,Erin E Stewart,R,267,30.83%
+United States Senator,Orange,Matthew Corey,R,557,67.35%
+United States Senator,Orange,Dominic Rapini,R,270,32.65%
+State Senator 14,Orange,Anthony Giannattasio,R,215,23.73%
+State Senator 14,Orange,Pam Staneski,R,691,76.27%
+Treasurer,Orange,Thad Gray,R,508,60.62%
+Treasurer,Orange,Art Linares,R,330,39.38%
+Comptroller,Orange,Kurt Miller,R,514,60.97%
+Comptroller,Orange,Mark Greenberg,R,329,39.03%
+Attorney General,Orange,Sue Hatfield,R,672,78.78%
+Attorney General,Orange,John Shaban,R,181,21.22%
+Governor,Oxford,Mark Boughton,R,249,25.10%
+Governor,Oxford,Timothy M Herbst,R,183,18.45%
+Governor,Oxford,Steve Obsitnik,R,124,12.50%
+Governor,Oxford,Bob Stefanowski,R,309,31.15%
+Governor,Oxford,David Stemerman,R,127,12.80%
+Lieutenant Governor,Oxford,Joe Markley,R,597,62.12%
+Lieutenant Governor,Oxford,Jayme Stevenson,R,124,12.90%
+Lieutenant Governor,Oxford,Erin E Stewart,R,240,24.97%
+United States Senator,Oxford,Matthew Corey,R,701,76.11%
+United States Senator,Oxford,Dominic Rapini,R,220,23.89%
+Treasurer,Oxford,Thad Gray,R,559,61.63%
+Treasurer,Oxford,Art Linares,R,348,38.37%
+Comptroller,Oxford,Kurt Miller,R,592,63.45%
+Comptroller,Oxford,Mark Greenberg,R,341,36.55%
+Attorney General,Oxford,Sue Hatfield,R,744,80.52%
+Attorney General,Oxford,John Shaban,R,180,19.48%
+Governor,Plainfield,Mark Boughton,R,62,11.57%
+Governor,Plainfield,Timothy M Herbst,R,145,27.05%
+Governor,Plainfield,Steve Obsitnik,R,74,13.81%
+Governor,Plainfield,Bob Stefanowski,R,178,33.21%
+Governor,Plainfield,David Stemerman,R,77,14.37%
+Lieutenant Governor,Plainfield,Joe Markley,R,265,50.38%
+Lieutenant Governor,Plainfield,Jayme Stevenson,R,120,22.81%
+Lieutenant Governor,Plainfield,Erin E Stewart,R,141,26.81%
+United States Senator,Plainfield,Matthew Corey,R,412,80.00%
+United States Senator,Plainfield,Dominic Rapini,R,103,20.00%
+Treasurer,Plainfield,Thad Gray,R,282,55.62%
+Treasurer,Plainfield,Art Linares,R,225,44.38%
+Comptroller,Plainfield,Kurt Miller,R,226,44.93%
+Comptroller,Plainfield,Mark Greenberg,R,277,55.07%
+Attorney General,Plainfield,Sue Hatfield,R,435,82.39%
+Attorney General,Plainfield,John Shaban,R,93,17.61%
+Governor,Plainville,Mark Boughton,R,95,12.04%
+Governor,Plainville,Timothy M Herbst,R,109,13.81%
+Governor,Plainville,Steve Obsitnik,R,129,16.35%
+Governor,Plainville,Bob Stefanowski,R,278,35.23%
+Governor,Plainville,David Stemerman,R,178,22.56%
+Lieutenant Governor,Plainville,Joe Markley,R,276,35.03%
+Lieutenant Governor,Plainville,Jayme Stevenson,R,67,8.50%
+Lieutenant Governor,Plainville,Erin E Stewart,R,445,56.47%
+United States Senator,Plainville,Matthew Corey,R,545,76.01%
+United States Senator,Plainville,Dominic Rapini,R,172,23.99%
+Representative in Congress 05,Plainville,Manny Santos,R,270,41.03%
+Representative in Congress 05,Plainville,Ruby Corby-O'Neill,R,221,33.59%
+Representative in Congress 05,Plainville,Richard DuPont,R,167,25.38%
+Treasurer,Plainville,Thad Gray,R,374,52.68%
+Treasurer,Plainville,Art Linares,R,336,47.32%
+Comptroller,Plainville,Kurt Miller,R,296,41.00%
+Comptroller,Plainville,Mark Greenberg,R,426,59.00%
+Attorney General,Plainville,Sue Hatfield,R,583,79.97%
+Attorney General,Plainville,John Shaban,R,146,20.03%
+Governor,Plymouth,Mark Boughton,R,115,19.62%
+Governor,Plymouth,Timothy M Herbst,R,104,17.75%
+Governor,Plymouth,Steve Obsitnik,R,59,10.07%
+Governor,Plymouth,Bob Stefanowski,R,228,38.91%
+Governor,Plymouth,David Stemerman,R,80,13.65%
+Lieutenant Governor,Plymouth,Joe Markley,R,353,61.61%
+Lieutenant Governor,Plymouth,Jayme Stevenson,R,51,8.90%
+Lieutenant Governor,Plymouth,Erin E Stewart,R,169,29.49%
+United States Senator,Plymouth,Matthew Corey,R,428,81.06%
+United States Senator,Plymouth,Dominic Rapini,R,100,18.94%
+Representative in Congress 05,Plymouth,Manny Santos,R,250,46.55%
+Representative in Congress 05,Plymouth,Ruby Corby-O'Neill,R,113,21.04%
+Representative in Congress 05,Plymouth,Richard DuPont,R,174,32.40%
+Treasurer,Plymouth,Thad Gray,R,290,55.45%
+Treasurer,Plymouth,Art Linares,R,233,44.55%
+Comptroller,Plymouth,Kurt Miller,R,221,42.10%
+Comptroller,Plymouth,Mark Greenberg,R,304,57.90%
+Attorney General,Plymouth,Sue Hatfield,R,436,80.44%
+Attorney General,Plymouth,John Shaban,R,106,19.56%
+Governor,Pomfret,Mark Boughton,R,25,12.25%
+Governor,Pomfret,Timothy M Herbst,R,49,24.02%
+Governor,Pomfret,Steve Obsitnik,R,29,14.22%
+Governor,Pomfret,Bob Stefanowski,R,63,30.88%
+Governor,Pomfret,David Stemerman,R,38,18.63%
+Lieutenant Governor,Pomfret,Joe Markley,R,95,47.50%
+Lieutenant Governor,Pomfret,Jayme Stevenson,R,44,22.00%
+Lieutenant Governor,Pomfret,Erin E Stewart,R,61,30.50%
+United States Senator,Pomfret,Matthew Corey,R,148,78.31%
+United States Senator,Pomfret,Dominic Rapini,R,41,21.69%
+Treasurer,Pomfret,Thad Gray,R,110,55.84%
+Treasurer,Pomfret,Art Linares,R,87,44.16%
+Comptroller,Pomfret,Kurt Miller,R,99,52.66%
+Comptroller,Pomfret,Mark Greenberg,R,89,47.34%
+Attorney General,Pomfret,Sue Hatfield,R,164,82.83%
+Attorney General,Pomfret,John Shaban,R,34,17.17%
+Governor,Portland,Mark Boughton,R,43,9.51%
+Governor,Portland,Timothy M Herbst,R,84,18.58%
+Governor,Portland,Steve Obsitnik,R,67,14.82%
+Governor,Portland,Bob Stefanowski,R,134,29.65%
+Governor,Portland,David Stemerman,R,124,27.43%
+Lieutenant Governor,Portland,Joe Markley,R,169,38.41%
+Lieutenant Governor,Portland,Jayme Stevenson,R,54,12.27%
+Lieutenant Governor,Portland,Erin E Stewart,R,217,49.32%
+United States Senator,Portland,Matthew Corey,R,327,79.95%
+United States Senator,Portland,Dominic Rapini,R,82,20.05%
+Treasurer,Portland,Thad Gray,R,105,23.92%
+Treasurer,Portland,Art Linares,R,334,76.08%
+Comptroller,Portland,Kurt Miller,R,209,50.61%
+Comptroller,Portland,Mark Greenberg,R,204,49.39%
+Attorney General,Portland,Sue Hatfield,R,348,81.69%
+Attorney General,Portland,John Shaban,R,78,18.31%
+Governor,Preston,Mark Boughton,R,28,9.93%
+Governor,Preston,Timothy M Herbst,R,78,27.66%
+Governor,Preston,Steve Obsitnik,R,49,17.38%
+Governor,Preston,Bob Stefanowski,R,85,30.14%
+Governor,Preston,David Stemerman,R,42,14.89%
+Lieutenant Governor,Preston,Joe Markley,R,125,45.45%
+Lieutenant Governor,Preston,Jayme Stevenson,R,75,27.27%
+Lieutenant Governor,Preston,Erin E Stewart,R,75,27.27%
+United States Senator,Preston,Matthew Corey,R,198,75.86%
+United States Senator,Preston,Dominic Rapini,R,63,24.14%
+Treasurer,Preston,Thad Gray,R,138,52.47%
+Treasurer,Preston,Art Linares,R,125,47.53%
+Comptroller,Preston,Kurt Miller,R,134,51.94%
+Comptroller,Preston,Mark Greenberg,R,124,48.06%
+Attorney General,Preston,Sue Hatfield,R,227,83.76%
+Attorney General,Preston,John Shaban,R,44,16.24%
+Governor,Prospect,Mark Boughton,R,163,20.63%
+Governor,Prospect,Timothy M Herbst,R,168,21.27%
+Governor,Prospect,Steve Obsitnik,R,118,14.94%
+Governor,Prospect,Bob Stefanowski,R,235,29.75%
+Governor,Prospect,David Stemerman,R,106,13.42%
+Lieutenant Governor,Prospect,Joe Markley,R,543,69.88%
+Lieutenant Governor,Prospect,Jayme Stevenson,R,45,5.79%
+Lieutenant Governor,Prospect,Erin E Stewart,R,189,24.32%
+United States Senator,Prospect,Matthew Corey,R,549,75.21%
+United States Senator,Prospect,Dominic Rapini,R,181,24.79%
+Treasurer,Prospect,Thad Gray,R,444,60.99%
+Treasurer,Prospect,Art Linares,R,284,39.01%
+Comptroller,Prospect,Kurt Miller,R,419,57.55%
+Comptroller,Prospect,Mark Greenberg,R,309,42.45%
+Attorney General,Prospect,Sue Hatfield,R,592,80.65%
+Attorney General,Prospect,John Shaban,R,142,19.35%
+Governor,Putnam,Mark Boughton,R,24,8.73%
+Governor,Putnam,Timothy M Herbst,R,97,35.27%
+Governor,Putnam,Steve Obsitnik,R,29,10.55%
+Governor,Putnam,Bob Stefanowski,R,71,25.82%
+Governor,Putnam,David Stemerman,R,54,19.64%
+Lieutenant Governor,Putnam,Joe Markley,R,139,51.67%
+Lieutenant Governor,Putnam,Jayme Stevenson,R,47,17.47%
+Lieutenant Governor,Putnam,Erin E Stewart,R,83,30.86%
+United States Senator,Putnam,Matthew Corey,R,200,78.43%
+United States Senator,Putnam,Dominic Rapini,R,55,21.57%
+Treasurer,Putnam,Thad Gray,R,164,62.84%
+Treasurer,Putnam,Art Linares,R,97,37.16%
+Comptroller,Putnam,Kurt Miller,R,117,45.17%
+Comptroller,Putnam,Mark Greenberg,R,142,54.83%
+Attorney General,Putnam,Sue Hatfield,R,212,79.70%
+Attorney General,Putnam,John Shaban,R,54,20.30%
+Governor,Redding,Mark Boughton,R,251,44.42%
+Governor,Redding,Timothy M Herbst,R,53,9.38%
+Governor,Redding,Steve Obsitnik,R,44,7.79%
+Governor,Redding,Bob Stefanowski,R,138,24.42%
+Governor,Redding,David Stemerman,R,79,13.98%
+Lieutenant Governor,Redding,Joe Markley,R,273,49.82%
+Lieutenant Governor,Redding,Jayme Stevenson,R,142,25.91%
+Lieutenant Governor,Redding,Erin E Stewart,R,133,24.27%
+United States Senator,Redding,Matthew Corey,R,421,81.12%
+United States Senator,Redding,Dominic Rapini,R,98,18.88%
+Treasurer,Redding,Thad Gray,R,362,69.62%
+Treasurer,Redding,Art Linares,R,158,30.38%
+Comptroller,Redding,Kurt Miller,R,326,62.81%
+Comptroller,Redding,Mark Greenberg,R,193,37.19%
+Attorney General,Redding,Sue Hatfield,R,296,54.01%
+Attorney General,Redding,John Shaban,R,252,45.99%
+Governor,Ridgefield,Mark Boughton,R,691,46.75%
+Governor,Ridgefield,Timothy M Herbst,R,132,8.93%
+Governor,Ridgefield,Steve Obsitnik,R,124,8.39%
+Governor,Ridgefield,Bob Stefanowski,R,310,20.97%
+Governor,Ridgefield,David Stemerman,R,221,14.95%
+Lieutenant Governor,Ridgefield,Joe Markley,R,838,60.20%
+Lieutenant Governor,Ridgefield,Jayme Stevenson,R,328,23.56%
+Lieutenant Governor,Ridgefield,Erin E Stewart,R,226,16.24%
+United States Senator,Ridgefield,Matthew Corey,R,1087,82.54%
+United States Senator,Ridgefield,Dominic Rapini,R,230,17.46%
+Treasurer,Ridgefield,Thad Gray,R,976,73.38%
+Treasurer,Ridgefield,Art Linares,R,354,26.62%
+Comptroller,Ridgefield,Kurt Miller,R,917,69.36%
+Comptroller,Ridgefield,Mark Greenberg,R,405,30.64%
+Attorney General,Ridgefield,Sue Hatfield,R,1084,81.20%
+Attorney General,Ridgefield,John Shaban,R,251,18.80%
+Governor,Rocky Hill,Mark Boughton,R,121,13.73%
+Governor,Rocky Hill,Timothy M Herbst,R,155,17.59%
+Governor,Rocky Hill,Steve Obsitnik,R,96,10.90%
+Governor,Rocky Hill,Bob Stefanowski,R,278,31.56%
+Governor,Rocky Hill,David Stemerman,R,231,26.22%
+Lieutenant Governor,Rocky Hill,Joe Markley,R,360,41.24%
+Lieutenant Governor,Rocky Hill,Jayme Stevenson,R,100,11.45%
+Lieutenant Governor,Rocky Hill,Erin E Stewart,R,413,47.31%
+United States Senator,Rocky Hill,Matthew Corey,R,656,79.81%
+United States Senator,Rocky Hill,Dominic Rapini,R,166,20.19%
+State Senator 09,Rocky Hill,Ed Charamut,R,590,69.49%
+State Senator 09,Rocky Hill,Tyler Flanigan,R,259,30.51%
+Treasurer,Rocky Hill,Thad Gray,R,426,51.70%
+Treasurer,Rocky Hill,Art Linares,R,398,48.30%
+Comptroller,Rocky Hill,Kurt Miller,R,413,50.30%
+Comptroller,Rocky Hill,Mark Greenberg,R,408,49.70%
+Attorney General,Rocky Hill,Sue Hatfield,R,686,81.28%
+Attorney General,Rocky Hill,John Shaban,R,158,18.72%
+Governor,Roxbury,Mark Boughton,R,112,49.34%
+Governor,Roxbury,Timothy M Herbst,R,18,7.93%
+Governor,Roxbury,Steve Obsitnik,R,18,7.93%
+Governor,Roxbury,Bob Stefanowski,R,43,18.94%
+Governor,Roxbury,David Stemerman,R,36,15.86%
+Lieutenant Governor,Roxbury,Joe Markley,R,107,49.08%
+Lieutenant Governor,Roxbury,Jayme Stevenson,R,76,34.86%
+Lieutenant Governor,Roxbury,Erin E Stewart,R,35,16.06%
+United States Senator,Roxbury,Matthew Corey,R,174,85.29%
+United States Senator,Roxbury,Dominic Rapini,R,30,14.71%
+Representative in Congress 05,Roxbury,Manny Santos,R,77,35.81%
+Representative in Congress 05,Roxbury,Ruby Corby-O'Neill,R,120,55.81%
+Representative in Congress 05,Roxbury,Richard DuPont,R,18,8.37%
+Treasurer,Roxbury,Thad Gray,R,151,74.75%
+Treasurer,Roxbury,Art Linares,R,51,25.25%
+Comptroller,Roxbury,Kurt Miller,R,111,53.62%
+Comptroller,Roxbury,Mark Greenberg,R,96,46.38%
+Attorney General,Roxbury,Sue Hatfield,R,186,86.92%
+Attorney General,Roxbury,John Shaban,R,28,13.08%
+Governor,Salem,Mark Boughton,R,38,16.81%
+Governor,Salem,Timothy M Herbst,R,58,25.66%
+Governor,Salem,Steve Obsitnik,R,31,13.72%
+Governor,Salem,Bob Stefanowski,R,53,23.45%
+Governor,Salem,David Stemerman,R,46,20.35%
+Lieutenant Governor,Salem,Joe Markley,R,86,38.74%
+Lieutenant Governor,Salem,Jayme Stevenson,R,47,21.17%
+Lieutenant Governor,Salem,Erin E Stewart,R,89,40.09%
+United States Senator,Salem,Matthew Corey,R,165,77.83%
+United States Senator,Salem,Dominic Rapini,R,47,22.17%
+Treasurer,Salem,Thad Gray,R,94,43.32%
+Treasurer,Salem,Art Linares,R,123,56.68%
+Comptroller,Salem,Kurt Miller,R,92,44.23%
+Comptroller,Salem,Mark Greenberg,R,116,55.77%
+Attorney General,Salem,Sue Hatfield,R,167,77.67%
+Attorney General,Salem,John Shaban,R,48,22.33%
+Governor,Salisbury,Mark Boughton,R,56,28.28%
+Governor,Salisbury,Timothy M Herbst,R,33,16.67%
+Governor,Salisbury,Steve Obsitnik,R,35,17.68%
+Governor,Salisbury,Bob Stefanowski,R,43,21.72%
+Governor,Salisbury,David Stemerman,R,31,15.66%
+Lieutenant Governor,Salisbury,Joe Markley,R,106,56.68%
+Lieutenant Governor,Salisbury,Jayme Stevenson,R,38,20.32%
+Lieutenant Governor,Salisbury,Erin E Stewart,R,43,22.99%
+United States Senator,Salisbury,Matthew Corey,R,154,83.24%
+United States Senator,Salisbury,Dominic Rapini,R,31,16.76%
+Representative in Congress 05,Salisbury,Manny Santos,R,94,52.51%
+Representative in Congress 05,Salisbury,Ruby Corby-O'Neill,R,55,30.73%
+Representative in Congress 05,Salisbury,Richard DuPont,R,30,16.76%
+Treasurer,Salisbury,Thad Gray,R,156,81.25%
+Treasurer,Salisbury,Art Linares,R,36,18.75%
+Comptroller,Salisbury,Kurt Miller,R,85,46.96%
+Comptroller,Salisbury,Mark Greenberg,R,96,53.04%
+Attorney General,Salisbury,Sue Hatfield,R,156,84.32%
+Attorney General,Salisbury,John Shaban,R,29,15.68%
+Governor,Scotland,Mark Boughton,R,6,6.45%
+Governor,Scotland,Timothy M Herbst,R,33,35.48%
+Governor,Scotland,Steve Obsitnik,R,12,12.90%
+Governor,Scotland,Bob Stefanowski,R,37,39.78%
+Governor,Scotland,David Stemerman,R,5,5.38%
+Lieutenant Governor,Scotland,Joe Markley,R,55,60.44%
+Lieutenant Governor,Scotland,Jayme Stevenson,R,7,7.69%
+Lieutenant Governor,Scotland,Erin E Stewart,R,29,31.87%
+United States Senator,Scotland,Matthew Corey,R,73,82.95%
+United States Senator,Scotland,Dominic Rapini,R,15,17.05%
+Treasurer,Scotland,Thad Gray,R,49,57.65%
+Treasurer,Scotland,Art Linares,R,36,42.35%
+Comptroller,Scotland,Kurt Miller,R,46,52.87%
+Comptroller,Scotland,Mark Greenberg,R,41,47.13%
+Attorney General,Scotland,Sue Hatfield,R,68,77.27%
+Attorney General,Scotland,John Shaban,R,20,22.73%
+Governor,Seymour,Mark Boughton,R,180,22.00%
+Governor,Seymour,Timothy M Herbst,R,165,20.17%
+Governor,Seymour,Steve Obsitnik,R,92,11.25%
+Governor,Seymour,Bob Stefanowski,R,287,35.09%
+Governor,Seymour,David Stemerman,R,94,11.49%
+Lieutenant Governor,Seymour,Joe Markley,R,378,48.15%
+Lieutenant Governor,Seymour,Jayme Stevenson,R,150,19.11%
+Lieutenant Governor,Seymour,Erin E Stewart,R,257,32.74%
+United States Senator,Seymour,Matthew Corey,R,583,77.22%
+United States Senator,Seymour,Dominic Rapini,R,172,22.78%
+Treasurer,Seymour,Thad Gray,R,443,58.68%
+Treasurer,Seymour,Art Linares,R,312,41.32%
+Comptroller,Seymour,Kurt Miller,R,641,80.13%
+Comptroller,Seymour,Mark Greenberg,R,159,19.88%
+Attorney General,Seymour,Sue Hatfield,R,610,78.91%
+Attorney General,Seymour,John Shaban,R,163,21.09%
+Governor,Sharon,Mark Boughton,R,48,29.81%
+Governor,Sharon,Timothy M Herbst,R,22,13.66%
+Governor,Sharon,Steve Obsitnik,R,15,9.32%
+Governor,Sharon,Bob Stefanowski,R,42,26.09%
+Governor,Sharon,David Stemerman,R,34,21.12%
+Lieutenant Governor,Sharon,Joe Markley,R,78,52.00%
+Lieutenant Governor,Sharon,Jayme Stevenson,R,27,18.00%
+Lieutenant Governor,Sharon,Erin E Stewart,R,45,30.00%
+United States Senator,Sharon,Matthew Corey,R,115,81.56%
+United States Senator,Sharon,Dominic Rapini,R,26,18.44%
+Representative in Congress 05,Sharon,Manny Santos,R,70,47.30%
+Representative in Congress 05,Sharon,Ruby Corby-O'Neill,R,51,34.46%
+Representative in Congress 05,Sharon,Richard DuPont,R,27,18.24%
+Treasurer,Sharon,Thad Gray,R,132,83.54%
+Treasurer,Sharon,Art Linares,R,26,16.46%
+Comptroller,Sharon,Kurt Miller,R,84,57.14%
+Comptroller,Sharon,Mark Greenberg,R,63,42.86%
+Attorney General,Sharon,Sue Hatfield,R,13,28.26%
+Attorney General,Sharon,John Shaban,R,33,71.74%
+Governor,Shelton,Mark Boughton,R,344,13.17%
+Governor,Shelton,Timothy M Herbst,R,410,15.70%
+Governor,Shelton,Steve Obsitnik,R,518,19.83%
+Governor,Shelton,Bob Stefanowski,R,1040,39.82%
+Governor,Shelton,David Stemerman,R,300,11.49%
+Lieutenant Governor,Shelton,Joe Markley,R,1305,51.77%
+Lieutenant Governor,Shelton,Jayme Stevenson,R,443,17.57%
+Lieutenant Governor,Shelton,Erin E Stewart,R,773,30.66%
+United States Senator,Shelton,Matthew Corey,R,1737,73.57%
+United States Senator,Shelton,Dominic Rapini,R,624,26.43%
+Treasurer,Shelton,Thad Gray,R,1388,57.62%
+Treasurer,Shelton,Art Linares,R,1021,42.38%
+Comptroller,Shelton,Kurt Miller,R,1507,63.13%
+Comptroller,Shelton,Mark Greenberg,R,880,36.87%
+Attorney General,Shelton,Sue Hatfield,R,1867,76.99%
+Attorney General,Shelton,John Shaban,R,558,23.01%
+Governor,Sherman,Mark Boughton,R,141,58.02%
+Governor,Sherman,Timothy M Herbst,R,33,13.58%
+Governor,Sherman,Steve Obsitnik,R,10,4.12%
+Governor,Sherman,Bob Stefanowski,R,34,13.99%
+Governor,Sherman,David Stemerman,R,25,10.29%
+Lieutenant Governor,Sherman,Joe Markley,R,148,63.25%
+Lieutenant Governor,Sherman,Jayme Stevenson,R,43,18.38%
+Lieutenant Governor,Sherman,Erin E Stewart,R,43,18.38%
+United States Senator,Sherman,Matthew Corey,R,193,87.33%
+United States Senator,Sherman,Dominic Rapini,R,28,12.67%
+Representative in Congress 05,Sherman,Manny Santos,R,128,57.92%
+Representative in Congress 05,Sherman,Ruby Corby-O'Neill,R,58,26.24%
+Representative in Congress 05,Sherman,Richard DuPont,R,35,15.84%
+Treasurer,Sherman,Thad Gray,R,158,71.49%
+Treasurer,Sherman,Art Linares,R,63,28.51%
+Comptroller,Sherman,Kurt Miller,R,137,61.71%
+Comptroller,Sherman,Mark Greenberg,R,85,38.29%
+Attorney General,Sherman,Sue Hatfield,R,191,85.65%
+Attorney General,Sherman,John Shaban,R,32,14.35%
+Governor,Simsbury,Mark Boughton,R,269,15.50%
+Governor,Simsbury,Timothy M Herbst,R,213,12.28%
+Governor,Simsbury,Steve Obsitnik,R,238,13.72%
+Governor,Simsbury,Bob Stefanowski,R,439,25.30%
+Governor,Simsbury,David Stemerman,R,576,33.20%
+Lieutenant Governor,Simsbury,Joe Markley,R,687,40.15%
+Lieutenant Governor,Simsbury,Jayme Stevenson,R,246,14.38%
+Lieutenant Governor,Simsbury,Erin E Stewart,R,778,45.47%
+United States Senator,Simsbury,Matthew Corey,R,1295,82.17%
+United States Senator,Simsbury,Dominic Rapini,R,281,17.83%
+Representative in Congress 05,Simsbury,Manny Santos,R,901,57.06%
+Representative in Congress 05,Simsbury,Ruby Corby-O'Neill,R,419,26.54%
+Representative in Congress 05,Simsbury,Richard DuPont,R,259,16.40%
+Treasurer,Simsbury,Thad Gray,R,914,58.18%
+Treasurer,Simsbury,Art Linares,R,657,41.82%
+Comptroller,Simsbury,Kurt Miller,R,752,47.56%
+Comptroller,Simsbury,Mark Greenberg,R,829,52.44%
+Attorney General,Simsbury,Sue Hatfield,R,1400,86.31%
+Attorney General,Simsbury,John Shaban,R,222,13.69%
+Governor,Somers,Mark Boughton,R,104,15.20%
+Governor,Somers,Timothy M Herbst,R,131,19.15%
+Governor,Somers,Steve Obsitnik,R,102,14.91%
+Governor,Somers,Bob Stefanowski,R,176,25.73%
+Governor,Somers,David Stemerman,R,171,25.00%
+Lieutenant Governor,Somers,Joe Markley,R,332,49.55%
+Lieutenant Governor,Somers,Jayme Stevenson,R,96,14.33%
+Lieutenant Governor,Somers,Erin E Stewart,R,242,36.12%
+United States Senator,Somers,Matthew Corey,R,495,79.07%
+United States Senator,Somers,Dominic Rapini,R,131,20.93%
+Treasurer,Somers,Thad Gray,R,392,60.96%
+Treasurer,Somers,Art Linares,R,251,39.04%
+Comptroller,Somers,Kurt Miller,R,360,56.69%
+Comptroller,Somers,Mark Greenberg,R,275,43.31%
+Attorney General,Somers,Sue Hatfield,R,499,77.48%
+Attorney General,Somers,John Shaban,R,145,22.52%
+Governor,Southbury,Mark Boughton,R,584,32.52%
+Governor,Southbury,Timothy M Herbst,R,262,14.59%
+Governor,Southbury,Steve Obsitnik,R,126,7.02%
+Governor,Southbury,Bob Stefanowski,R,416,23.16%
+Governor,Southbury,David Stemerman,R,408,22.72%
+Lieutenant Governor,Southbury,Joe Markley,R,986,57.59%
+Lieutenant Governor,Southbury,Jayme Stevenson,R,303,17.70%
+Lieutenant Governor,Southbury,Erin E Stewart,R,423,24.71%
+United States Senator,Southbury,Matthew Corey,R,1270,78.25%
+United States Senator,Southbury,Dominic Rapini,R,353,21.75%
+Representative in Congress 05,Southbury,Manny Santos,R,662,39.40%
+Representative in Congress 05,Southbury,Ruby Corby-O'Neill,R,782,46.55%
+Representative in Congress 05,Southbury,Richard DuPont,R,236,14.05%
+Treasurer,Southbury,Thad Gray,R,1051,64.96%
+Treasurer,Southbury,Art Linares,R,567,35.04%
+Comptroller,Southbury,Kurt Miller,R,849,50.99%
+Comptroller,Southbury,Mark Greenberg,R,816,49.01%
+Attorney General,Southbury,Sue Hatfield,R,1342,80.89%
+Attorney General,Southbury,John Shaban,R,317,19.11%
+Governor,Southington,Mark Boughton,R,353,13.42%
+Governor,Southington,Timothy M Herbst,R,446,16.95%
+Governor,Southington,Steve Obsitnik,R,354,13.45%
+Governor,Southington,Bob Stefanowski,R,1018,38.69%
+Governor,Southington,David Stemerman,R,460,17.48%
+Lieutenant Governor,Southington,Joe Markley,R,1914,72.86%
+Lieutenant Governor,Southington,Jayme Stevenson,R,100,3.81%
+Lieutenant Governor,Southington,Erin E Stewart,R,613,23.33%
+United States Senator,Southington,Matthew Corey,R,1934,78.43%
+United States Senator,Southington,Dominic Rapini,R,532,21.57%
+Treasurer,Southington,Thad Gray,R,1253,50.42%
+Treasurer,Southington,Art Linares,R,1232,49.58%
+Comptroller,Southington,Kurt Miller,R,1206,48.81%
+Comptroller,Southington,Mark Greenberg,R,1265,51.19%
+Attorney General,Southington,Sue Hatfield,R,2101,83.57%
+Attorney General,Southington,John Shaban,R,413,16.43%
+Governor,South Windsor,Mark Boughton,R,181,15.08%
+Governor,South Windsor,Timothy M Herbst,R,157,13.08%
+Governor,South Windsor,Steve Obsitnik,R,164,13.67%
+Governor,South Windsor,Bob Stefanowski,R,337,28.08%
+Governor,South Windsor,David Stemerman,R,361,30.08%
+Lieutenant Governor,South Windsor,Joe Markley,R,436,37.04%
+Lieutenant Governor,South Windsor,Jayme Stevenson,R,161,13.68%
+Lieutenant Governor,South Windsor,Erin E Stewart,R,580,49.28%
+United States Senator,South Windsor,Matthew Corey,R,911,81.63%
+United States Senator,South Windsor,Dominic Rapini,R,205,18.37%
+Treasurer,South Windsor,Thad Gray,R,580,52.30%
+Treasurer,South Windsor,Art Linares,R,529,47.70%
+Comptroller,South Windsor,Kurt Miller,R,529,47.83%
+Comptroller,South Windsor,Mark Greenberg,R,577,52.17%
+Attorney General,South Windsor,Sue Hatfield,R,925,81.43%
+Attorney General,South Windsor,John Shaban,R,211,18.57%
+Governor,Sprague,Mark Boughton,R,14,9.52%
+Governor,Sprague,Timothy M Herbst,R,42,28.57%
+Governor,Sprague,Steve Obsitnik,R,23,15.65%
+Governor,Sprague,Bob Stefanowski,R,54,36.73%
+Governor,Sprague,David Stemerman,R,14,9.52%
+Lieutenant Governor,Sprague,Joe Markley,R,70,48.28%
+Lieutenant Governor,Sprague,Jayme Stevenson,R,39,26.90%
+Lieutenant Governor,Sprague,Erin E Stewart,R,36,24.83%
+United States Senator,Sprague,Matthew Corey,R,106,76.81%
+United States Senator,Sprague,Dominic Rapini,R,32,23.19%
+Treasurer,Sprague,Thad Gray,R,85,60.71%
+Treasurer,Sprague,Art Linares,R,55,39.29%
+Comptroller,Sprague,Kurt Miller,R,60,43.17%
+Comptroller,Sprague,Mark Greenberg,R,79,56.83%
+Attorney General,Sprague,Sue Hatfield,R,129,91.49%
+Attorney General,Sprague,John Shaban,R,12,8.51%
+Governor,Stafford,Mark Boughton,R,68,14.53%
+Governor,Stafford,Timothy M Herbst,R,99,21.15%
+Governor,Stafford,Steve Obsitnik,R,57,12.18%
+Governor,Stafford,Bob Stefanowski,R,149,31.84%
+Governor,Stafford,David Stemerman,R,95,20.30%
+Lieutenant Governor,Stafford,Joe Markley,R,217,48.01%
+Lieutenant Governor,Stafford,Jayme Stevenson,R,70,15.49%
+Lieutenant Governor,Stafford,Erin E Stewart,R,165,36.50%
+United States Senator,Stafford,Matthew Corey,R,340,78.34%
+United States Senator,Stafford,Dominic Rapini,R,94,21.66%
+Treasurer,Stafford,Thad Gray,R,254,58.26%
+Treasurer,Stafford,Art Linares,R,182,41.74%
+Comptroller,Stafford,Kurt Miller,R,221,51.28%
+Comptroller,Stafford,Mark Greenberg,R,210,48.72%
+Attorney General,Stafford,Sue Hatfield,R,334,75.74%
+Attorney General,Stafford,John Shaban,R,107,24.26%
+Governor,Stamford,Mark Boughton,R,912,26.01%
+Governor,Stamford,Timothy M Herbst,R,567,16.17%
+Governor,Stamford,Steve Obsitnik,R,525,14.97%
+Governor,Stamford,Bob Stefanowski,R,913,26.04%
+Governor,Stamford,David Stemerman,R,589,16.80%
+Lieutenant Governor,Stamford,Joe Markley,R,1434,42.67%
+Lieutenant Governor,Stamford,Jayme Stevenson,R,1281,38.11%
+Lieutenant Governor,Stamford,Erin E Stewart,R,646,19.22%
+United States Senator,Stamford,Matthew Corey,R,2271,70.33%
+United States Senator,Stamford,Dominic Rapini,R,958,29.67%
+State Representative 147,Stamford,Anzelmo Graziosi,R,616,69.76%
+State Representative 147,Stamford,Marcy Minnick,R,267,30.24%
+Treasurer,Stamford,Thad Gray,R,2099,64.31%
+Treasurer,Stamford,Art Linares,R,1165,35.69%
+Comptroller,Stamford,Kurt Miller,R,1759,54.19%
+Comptroller,Stamford,Mark Greenberg,R,1487,45.81%
+Attorney General,Stamford,Sue Hatfield,R,2480,75.24%
+Attorney General,Stamford,John Shaban,R,816,24.76%
+Governor,Sterling,Mark Boughton,R,16,11.03%
+Governor,Sterling,Timothy M Herbst,R,34,23.45%
+Governor,Sterling,Steve Obsitnik,R,13,8.97%
+Governor,Sterling,Bob Stefanowski,R,63,43.45%
+Governor,Sterling,David Stemerman,R,19,13.10%
+Lieutenant Governor,Sterling,Joe Markley,R,80,56.74%
+Lieutenant Governor,Sterling,Jayme Stevenson,R,27,19.15%
+Lieutenant Governor,Sterling,Erin E Stewart,R,34,24.11%
+United States Senator,Sterling,Matthew Corey,R,113,84.96%
+United States Senator,Sterling,Dominic Rapini,R,20,15.04%
+Treasurer,Sterling,Thad Gray,R,71,51.45%
+Treasurer,Sterling,Art Linares,R,67,48.55%
+Comptroller,Sterling,Kurt Miller,R,69,50.74%
+Comptroller,Sterling,Mark Greenberg,R,67,49.26%
+Attorney General,Sterling,Sue Hatfield,R,117,83.57%
+Attorney General,Sterling,John Shaban,R,23,16.43%
+Governor,Stonington,Mark Boughton,R,126,14.98%
+Governor,Stonington,Timothy M Herbst,R,198,23.54%
+Governor,Stonington,Steve Obsitnik,R,164,19.50%
+Governor,Stonington,Bob Stefanowski,R,208,24.73%
+Governor,Stonington,David Stemerman,R,145,17.24%
+Lieutenant Governor,Stonington,Joe Markley,R,351,43.66%
+Lieutenant Governor,Stonington,Jayme Stevenson,R,239,29.73%
+Lieutenant Governor,Stonington,Erin E Stewart,R,214,26.62%
+United States Senator,Stonington,Matthew Corey,R,613,80.03%
+United States Senator,Stonington,Dominic Rapini,R,153,19.97%
+Treasurer,Stonington,Thad Gray,R,404,51.20%
+Treasurer,Stonington,Art Linares,R,385,48.80%
+Comptroller,Stonington,Kurt Miller,R,413,53.29%
+Comptroller,Stonington,Mark Greenberg,R,362,46.71%
+Attorney General,Stonington,Sue Hatfield,R,669,83.83%
+Attorney General,Stonington,John Shaban,R,129,16.17%
+Governor,Stratford,Mark Boughton,R,570,29.31%
+Governor,Stratford,Timothy M Herbst,R,318,16.35%
+Governor,Stratford,Steve Obsitnik,R,251,12.90%
+Governor,Stratford,Bob Stefanowski,R,595,30.59%
+Governor,Stratford,David Stemerman,R,211,10.85%
+Lieutenant Governor,Stratford,Joe Markley,R,829,43.79%
+Lieutenant Governor,Stratford,Jayme Stevenson,R,449,23.72%
+Lieutenant Governor,Stratford,Erin E Stewart,R,615,32.49%
+United States Senator,Stratford,Matthew Corey,R,1376,76.02%
+United States Senator,Stratford,Dominic Rapini,R,434,23.98%
+State Senator 23,Stratford,John Rodriguez,R,16,22.86%
+State Senator 23,Stratford,"Casimir ""Caz"" Mizera",R,54,77.14%
+Treasurer,Stratford,Thad Gray,R,1108,60.98%
+Treasurer,Stratford,Art Linares,R,709,39.02%
+Comptroller,Stratford,Kurt Miller,R,1153,63.95%
+Comptroller,Stratford,Mark Greenberg,R,650,36.05%
+Attorney General,Stratford,Sue Hatfield,R,1456,79.48%
+Attorney General,Stratford,John Shaban,R,376,20.52%
+Governor,Suffield,Mark Boughton,R,127,17.47%
+Governor,Suffield,Timothy M Herbst,R,120,16.51%
+Governor,Suffield,Steve Obsitnik,R,86,11.83%
+Governor,Suffield,Bob Stefanowski,R,216,29.71%
+Governor,Suffield,David Stemerman,R,178,24.48%
+Lieutenant Governor,Suffield,Joe Markley,R,329,46.53%
+Lieutenant Governor,Suffield,Jayme Stevenson,R,112,15.84%
+Lieutenant Governor,Suffield,Erin E Stewart,R,266,37.62%
+United States Senator,Suffield,Matthew Corey,R,539,81.67%
+United States Senator,Suffield,Dominic Rapini,R,121,18.33%
+Treasurer,Suffield,Thad Gray,R,416,62.28%
+Treasurer,Suffield,Art Linares,R,252,37.72%
+Comptroller,Suffield,Kurt Miller,R,339,51.91%
+Comptroller,Suffield,Mark Greenberg,R,314,48.09%
+Attorney General,Suffield,Sue Hatfield,R,551,80.91%
+Attorney General,Suffield,John Shaban,R,130,19.09%
+Governor,Thomaston,Mark Boughton,R,112,25.40%
+Governor,Thomaston,Timothy M Herbst,R,79,17.91%
+Governor,Thomaston,Steve Obsitnik,R,47,10.66%
+Governor,Thomaston,Bob Stefanowski,R,127,28.80%
+Governor,Thomaston,David Stemerman,R,76,17.23%
+Lieutenant Governor,Thomaston,Joe Markley,R,203,46.67%
+Lieutenant Governor,Thomaston,Jayme Stevenson,R,73,16.78%
+Lieutenant Governor,Thomaston,Erin E Stewart,R,159,36.55%
+United States Senator,Thomaston,Matthew Corey,R,341,81.38%
+United States Senator,Thomaston,Dominic Rapini,R,78,18.62%
+Representative in Congress 05,Thomaston,Manny Santos,R,133,30.93%
+Representative in Congress 05,Thomaston,Ruby Corby-O'Neill,R,51,11.86%
+Representative in Congress 05,Thomaston,Richard DuPont,R,246,57.21%
+Treasurer,Thomaston,Thad Gray,R,250,60.53%
+Treasurer,Thomaston,Art Linares,R,163,39.47%
+Comptroller,Thomaston,Kurt Miller,R,185,43.74%
+Comptroller,Thomaston,Mark Greenberg,R,238,56.26%
+Attorney General,Thomaston,Sue Hatfield,R,340,79.44%
+Attorney General,Thomaston,John Shaban,R,88,20.56%
+Governor,Thompson,Mark Boughton,R,66,17.69%
+Governor,Thompson,Timothy M Herbst,R,76,20.38%
+Governor,Thompson,Steve Obsitnik,R,41,10.99%
+Governor,Thompson,Bob Stefanowski,R,131,35.12%
+Governor,Thompson,David Stemerman,R,59,15.82%
+Lieutenant Governor,Thompson,Joe Markley,R,195,53.72%
+Lieutenant Governor,Thompson,Jayme Stevenson,R,65,17.91%
+Lieutenant Governor,Thompson,Erin E Stewart,R,103,28.37%
+United States Senator,Thompson,Matthew Corey,R,287,83.43%
+United States Senator,Thompson,Dominic Rapini,R,57,16.57%
+Treasurer,Thompson,Thad Gray,R,215,62.87%
+Treasurer,Thompson,Art Linares,R,127,37.13%
+Comptroller,Thompson,Kurt Miller,R,181,54.03%
+Comptroller,Thompson,Mark Greenberg,R,154,45.97%
+Attorney General,Thompson,Sue Hatfield,R,305,85.92%
+Attorney General,Thompson,John Shaban,R,50,14.08%
+Governor,Tolland,Mark Boughton,R,115,15.01%
+Governor,Tolland,Timothy M Herbst,R,159,20.76%
+Governor,Tolland,Steve Obsitnik,R,117,15.27%
+Governor,Tolland,Bob Stefanowski,R,182,23.76%
+Governor,Tolland,David Stemerman,R,193,25.20%
+Lieutenant Governor,Tolland,Joe Markley,R,338,44.77%
+Lieutenant Governor,Tolland,Jayme Stevenson,R,127,16.82%
+Lieutenant Governor,Tolland,Erin E Stewart,R,290,38.41%
+United States Senator,Tolland,Matthew Corey,R,565,78.47%
+United States Senator,Tolland,Dominic Rapini,R,155,21.53%
+Treasurer,Tolland,Thad Gray,R,478,65.57%
+Treasurer,Tolland,Art Linares,R,251,34.43%
+Comptroller,Tolland,Kurt Miller,R,369,51.39%
+Comptroller,Tolland,Mark Greenberg,R,349,48.61%
+Attorney General,Tolland,Sue Hatfield,R,611,83.13%
+Attorney General,Tolland,John Shaban,R,124,16.87%
+Governor,Torrington,Mark Boughton,R,311,20.16%
+Governor,Torrington,Timothy M Herbst,R,305,19.77%
+Governor,Torrington,Steve Obsitnik,R,166,10.76%
+Governor,Torrington,Bob Stefanowski,R,499,32.34%
+Governor,Torrington,David Stemerman,R,262,16.98%
+Lieutenant Governor,Torrington,Joe Markley,R,806,53.81%
+Lieutenant Governor,Torrington,Jayme Stevenson,R,223,14.89%
+Lieutenant Governor,Torrington,Erin E Stewart,R,469,31.31%
+United States Senator,Torrington,Matthew Corey,R,1158,80.47%
+United States Senator,Torrington,Dominic Rapini,R,281,19.53%
+Representative in Congress 05,Torrington,Manny Santos,R,329,46.93%
+Representative in Congress 05,Torrington,Ruby Corby-O'Neill,R,196,27.96%
+Representative in Congress 05,Torrington,Richard DuPont,R,176,25.11%
+Treasurer,Torrington,Thad Gray,R,873,60.08%
+Treasurer,Torrington,Art Linares,R,580,39.92%
+Comptroller,Torrington,Kurt Miller,R,667,45.62%
+Comptroller,Torrington,Mark Greenberg,R,795,54.38%
+Attorney General,Torrington,Sue Hatfield,R,1183,80.75%
+Attorney General,Torrington,John Shaban,R,282,19.25%
+Governor,Trumbull,Mark Boughton,R,324,13.21%
+Governor,Trumbull,Timothy M Herbst,R,1278,52.10%
+Governor,Trumbull,Steve Obsitnik,R,248,10.11%
+Governor,Trumbull,Bob Stefanowski,R,434,17.69%
+Governor,Trumbull,David Stemerman,R,169,6.89%
+Lieutenant Governor,Trumbull,Joe Markley,R,1152,49.06%
+Lieutenant Governor,Trumbull,Jayme Stevenson,R,629,26.79%
+Lieutenant Governor,Trumbull,Erin E Stewart,R,567,24.15%
+United States Senator,Trumbull,Matthew Corey,R,1492,66.22%
+United States Senator,Trumbull,Dominic Rapini,R,761,33.78%
+Treasurer,Trumbull,Thad Gray,R,1177,51.44%
+Treasurer,Trumbull,Art Linares,R,1111,48.56%
+Comptroller,Trumbull,Kurt Miller,R,1156,51.40%
+Comptroller,Trumbull,Mark Greenberg,R,1093,48.60%
+Attorney General,Trumbull,Sue Hatfield,R,1635,71.24%
+Attorney General,Trumbull,John Shaban,R,660,28.76%
+Governor,Union,Mark Boughton,R,9,9.78%
+Governor,Union,Timothy M Herbst,R,25,27.17%
+Governor,Union,Steve Obsitnik,R,20,21.74%
+Governor,Union,Bob Stefanowski,R,29,31.52%
+Governor,Union,David Stemerman,R,9,9.78%
+Lieutenant Governor,Union,Joe Markley,R,35,38.89%
+Lieutenant Governor,Union,Jayme Stevenson,R,6,6.67%
+Lieutenant Governor,Union,Erin E Stewart,R,49,54.44%
+United States Senator,Union,Matthew Corey,R,72,84.71%
+United States Senator,Union,Dominic Rapini,R,13,15.29%
+Treasurer,Union,Thad Gray,R,48,53.93%
+Treasurer,Union,Art Linares,R,41,46.07%
+Comptroller,Union,Kurt Miller,R,48,56.47%
+Comptroller,Union,Mark Greenberg,R,37,43.53%
+Attorney General,Union,Sue Hatfield,R,75,55.15%
+Attorney General,Union,John Shaban,R,61,44.85%
+Governor,Vernon,Mark Boughton,R,196,18.44%
+Governor,Vernon,Timothy M Herbst,R,171,16.09%
+Governor,Vernon,Steve Obsitnik,R,142,13.36%
+Governor,Vernon,Bob Stefanowski,R,291,27.38%
+Governor,Vernon,David Stemerman,R,263,24.74%
+Lieutenant Governor,Vernon,Joe Markley,R,426,41.00%
+Lieutenant Governor,Vernon,Jayme Stevenson,R,172,16.55%
+Lieutenant Governor,Vernon,Erin E Stewart,R,441,42.44%
+United States Senator,Vernon,Matthew Corey,R,819,82.48%
+United States Senator,Vernon,Dominic Rapini,R,174,17.52%
+Treasurer,Vernon,Thad Gray,R,566,56.83%
+Treasurer,Vernon,Art Linares,R,430,43.17%
+Comptroller,Vernon,Kurt Miller,R,509,51.62%
+Comptroller,Vernon,Mark Greenberg,R,477,48.38%
+Attorney General,Vernon,Sue Hatfield,R,818,80.83%
+Attorney General,Vernon,John Shaban,R,194,19.17%
+Governor,Voluntown,Mark Boughton,R,19,10.61%
+Governor,Voluntown,Timothy M Herbst,R,69,38.55%
+Governor,Voluntown,Steve Obsitnik,R,21,11.73%
+Governor,Voluntown,Bob Stefanowski,R,52,29.05%
+Governor,Voluntown,David Stemerman,R,18,10.06%
+Lieutenant Governor,Voluntown,Joe Markley,R,93,53.45%
+Lieutenant Governor,Voluntown,Jayme Stevenson,R,40,22.99%
+Lieutenant Governor,Voluntown,Erin E Stewart,R,41,23.56%
+United States Senator,Voluntown,Matthew Corey,R,129,77.25%
+United States Senator,Voluntown,Dominic Rapini,R,38,22.75%
+Treasurer,Voluntown,Thad Gray,R,82,49.70%
+Treasurer,Voluntown,Art Linares,R,83,50.30%
+Comptroller,Voluntown,Kurt Miller,R,87,53.37%
+Comptroller,Voluntown,Mark Greenberg,R,76,46.63%
+Attorney General,Voluntown,Sue Hatfield,R,143,82.66%
+Attorney General,Voluntown,John Shaban,R,30,17.34%
+Governor,Wallingford,Mark Boughton,R,265,14.98%
+Governor,Wallingford,Timothy M Herbst,R,376,21.25%
+Governor,Wallingford,Steve Obsitnik,R,192,10.85%
+Governor,Wallingford,Bob Stefanowski,R,628,35.50%
+Governor,Wallingford,David Stemerman,R,308,17.41%
+Lieutenant Governor,Wallingford,Joe Markley,R,956,55.36%
+Lieutenant Governor,Wallingford,Jayme Stevenson,R,236,13.67%
+Lieutenant Governor,Wallingford,Erin E Stewart,R,535,30.98%
+United States Senator,Wallingford,Matthew Corey,R,1175,71.60%
+United States Senator,Wallingford,Dominic Rapini,R,466,28.40%
+Treasurer,Wallingford,Thad Gray,R,826,50.40%
+Treasurer,Wallingford,Art Linares,R,813,49.60%
+Comptroller,Wallingford,Kurt Miller,R,846,51.65%
+Comptroller,Wallingford,Mark Greenberg,R,792,48.35%
+Attorney General,Wallingford,Sue Hatfield,R,1328,79.62%
+Attorney General,Wallingford,John Shaban,R,340,20.38%
+Governor,Warren,Mark Boughton,R,66,42.86%
+Governor,Warren,Timothy M Herbst,R,21,13.64%
+Governor,Warren,Steve Obsitnik,R,12,7.79%
+Governor,Warren,Bob Stefanowski,R,36,23.38%
+Governor,Warren,David Stemerman,R,19,12.34%
+Lieutenant Governor,Warren,Joe Markley,R,81,53.29%
+Lieutenant Governor,Warren,Jayme Stevenson,R,32,21.05%
+Lieutenant Governor,Warren,Erin E Stewart,R,39,25.66%
+United States Senator,Warren,Matthew Corey,R,127,85.81%
+United States Senator,Warren,Dominic Rapini,R,21,14.19%
+Representative in Congress 05,Warren,Manny Santos,R,77,51.33%
+Representative in Congress 05,Warren,Ruby Corby-O'Neill,R,45,30.00%
+Representative in Congress 05,Warren,Richard DuPont,R,28,18.67%
+Treasurer,Warren,Thad Gray,R,95,62.09%
+Treasurer,Warren,Art Linares,R,58,37.91%
+Comptroller,Warren,Kurt Miller,R,78,51.32%
+Comptroller,Warren,Mark Greenberg,R,74,48.68%
+Attorney General,Warren,Sue Hatfield,R,120,79.47%
+Attorney General,Warren,John Shaban,R,31,20.53%
+Governor,Washington,Mark Boughton,R,108,43.72%
+Governor,Washington,Timothy M Herbst,R,22,8.91%
+Governor,Washington,Steve Obsitnik,R,21,8.50%
+Governor,Washington,Bob Stefanowski,R,64,25.91%
+Governor,Washington,David Stemerman,R,32,12.96%
+Lieutenant Governor,Washington,Joe Markley,R,130,57.27%
+Lieutenant Governor,Washington,Jayme Stevenson,R,41,18.06%
+Lieutenant Governor,Washington,Erin E Stewart,R,56,24.67%
+United States Senator,Washington,Matthew Corey,R,176,84.21%
+United States Senator,Washington,Dominic Rapini,R,33,15.79%
+Representative in Congress 05,Washington,Manny Santos,R,90,40.72%
+Representative in Congress 05,Washington,Ruby Corby-O'Neill,R,99,44.80%
+Representative in Congress 05,Washington,Richard DuPont,R,32,14.48%
+Treasurer,Washington,Thad Gray,R,138,64.79%
+Treasurer,Washington,Art Linares,R,75,35.21%
+Comptroller,Washington,Kurt Miller,R,116,53.21%
+Comptroller,Washington,Mark Greenberg,R,102,46.79%
+Attorney General,Washington,Sue Hatfield,R,188,83.93%
+Attorney General,Washington,John Shaban,R,36,16.07%
+Governor,Waterbury,Mark Boughton,R,506,28.02%
+Governor,Waterbury,Timothy M Herbst,R,314,17.39%
+Governor,Waterbury,Steve Obsitnik,R,161,8.91%
+Governor,Waterbury,Bob Stefanowski,R,553,30.62%
+Governor,Waterbury,David Stemerman,R,272,15.06%
+Lieutenant Governor,Waterbury,Joe Markley,R,1008,57.05%
+Lieutenant Governor,Waterbury,Jayme Stevenson,R,210,11.88%
+Lieutenant Governor,Waterbury,Erin E Stewart,R,549,31.07%
+United States Senator,Waterbury,Matthew Corey,R,1163,70.36%
+United States Senator,Waterbury,Dominic Rapini,R,490,29.64%
+Representative in Congress 05,Waterbury,Manny Santos,R,591,43.11%
+Representative in Congress 05,Waterbury,Ruby Corby-O'Neill,R,361,26.33%
+Representative in Congress 05,Waterbury,Richard DuPont,R,419,30.56%
+Treasurer,Waterbury,Thad Gray,R,899,53.83%
+Treasurer,Waterbury,Art Linares,R,771,46.17%
+Comptroller,Waterbury,Kurt Miller,R,747,44.78%
+Comptroller,Waterbury,Mark Greenberg,R,921,55.22%
+Attorney General,Waterbury,Sue Hatfield,R,1313,77.97%
+Attorney General,Waterbury,John Shaban,R,371,22.03%
+Governor,Waterford,Mark Boughton,R,177,19.93%
+Governor,Waterford,Timothy M Herbst,R,186,20.95%
+Governor,Waterford,Steve Obsitnik,R,168,18.92%
+Governor,Waterford,Bob Stefanowski,R,242,27.25%
+Governor,Waterford,David Stemerman,R,115,12.95%
+Lieutenant Governor,Waterford,Joe Markley,R,364,42.23%
+Lieutenant Governor,Waterford,Jayme Stevenson,R,217,25.17%
+Lieutenant Governor,Waterford,Erin E Stewart,R,281,32.60%
+United States Senator,Waterford,Matthew Corey,R,652,79.03%
+United States Senator,Waterford,Dominic Rapini,R,173,20.97%
+Treasurer,Waterford,Thad Gray,R,397,47.26%
+Treasurer,Waterford,Art Linares,R,443,52.74%
+Comptroller,Waterford,Kurt Miller,R,424,51.39%
+Comptroller,Waterford,Mark Greenberg,R,401,48.61%
+Attorney General,Waterford,Sue Hatfield,R,692,81.32%
+Attorney General,Waterford,John Shaban,R,159,18.68%
+Governor,Watertown,Mark Boughton,R,412,26.33%
+Governor,Watertown,Timothy M Herbst,R,254,16.23%
+Governor,Watertown,Steve Obsitnik,R,154,9.84%
+Governor,Watertown,Bob Stefanowski,R,465,29.71%
+Governor,Watertown,David Stemerman,R,280,17.89%
+Lieutenant Governor,Watertown,Joe Markley,R,843,55.28%
+Lieutenant Governor,Watertown,Jayme Stevenson,R,151,9.90%
+Lieutenant Governor,Watertown,Erin E Stewart,R,531,34.82%
+United States Senator,Watertown,Matthew Corey,R,1109,76.96%
+United States Senator,Watertown,Dominic Rapini,R,332,23.04%
+Representative in Congress 05,Watertown,Manny Santos,R,419,27.58%
+Representative in Congress 05,Watertown,Ruby Corby-O'Neill,R,254,16.72%
+Representative in Congress 05,Watertown,Richard DuPont,R,846,55.69%
+Treasurer,Watertown,Thad Gray,R,839,58.22%
+Treasurer,Watertown,Art Linares,R,602,41.78%
+Comptroller,Watertown,Kurt Miller,R,666,44.91%
+Comptroller,Watertown,Mark Greenberg,R,817,55.09%
+Attorney General,Watertown,Sue Hatfield,R,1182,79.44%
+Attorney General,Watertown,John Shaban,R,306,20.56%
+Governor,Westbrook,Mark Boughton,R,63,11.58%
+Governor,Westbrook,Timothy M Herbst,R,181,33.27%
+Governor,Westbrook,Steve Obsitnik,R,60,11.03%
+Governor,Westbrook,Bob Stefanowski,R,149,27.39%
+Governor,Westbrook,David Stemerman,R,91,16.73%
+Lieutenant Governor,Westbrook,Joe Markley,R,200,38.61%
+Lieutenant Governor,Westbrook,Jayme Stevenson,R,106,20.46%
+Lieutenant Governor,Westbrook,Erin E Stewart,R,212,40.93%
+United States Senator,Westbrook,Matthew Corey,R,338,70.56%
+United States Senator,Westbrook,Dominic Rapini,R,141,29.44%
+Treasurer,Westbrook,Thad Gray,R,120,22.43%
+Treasurer,Westbrook,Art Linares,R,415,77.57%
+Comptroller,Westbrook,Kurt Miller,R,260,52.21%
+Comptroller,Westbrook,Mark Greenberg,R,238,47.79%
+Attorney General,Westbrook,Sue Hatfield,R,397,77.84%
+Attorney General,Westbrook,John Shaban,R,113,22.16%
+Governor,West Hartford,Mark Boughton,R,378,17.53%
+Governor,West Hartford,Timothy M Herbst,R,253,11.73%
+Governor,West Hartford,Steve Obsitnik,R,348,16.14%
+Governor,West Hartford,Bob Stefanowski,R,533,24.72%
+Governor,West Hartford,David Stemerman,R,644,29.87%
+Lieutenant Governor,West Hartford,Joe Markley,R,727,34.28%
+Lieutenant Governor,West Hartford,Jayme Stevenson,R,306,14.43%
+Lieutenant Governor,West Hartford,Erin E Stewart,R,1088,51.30%
+United States Senator,West Hartford,Matthew Corey,R,1517,78.03%
+United States Senator,West Hartford,Dominic Rapini,R,427,21.97%
+Treasurer,West Hartford,Thad Gray,R,1116,56.48%
+Treasurer,West Hartford,Art Linares,R,860,43.52%
+Comptroller,West Hartford,Kurt Miller,R,956,47.90%
+Comptroller,West Hartford,Mark Greenberg,R,1040,52.10%
+Attorney General,West Hartford,Sue Hatfield,R,1630,81.26%
+Attorney General,West Hartford,John Shaban,R,376,18.74%
+Governor,West Haven,Mark Boughton,R,235,23.57%
+Governor,West Haven,Timothy M Herbst,R,149,14.94%
+Governor,West Haven,Steve Obsitnik,R,96,9.63%
+Governor,West Haven,Bob Stefanowski,R,360,36.11%
+Governor,West Haven,David Stemerman,R,157,15.75%
+Lieutenant Governor,West Haven,Joe Markley,R,425,44.60%
+Lieutenant Governor,West Haven,Jayme Stevenson,R,198,20.78%
+Lieutenant Governor,West Haven,Erin E Stewart,R,330,34.63%
+United States Senator,West Haven,Matthew Corey,R,587,64.86%
+United States Senator,West Haven,Dominic Rapini,R,318,35.14%
+State Senator 14,West Haven,Anthony Giannattasio,R,363,53.38%
+State Senator 14,West Haven,Pam Staneski,R,317,46.62%
+State Representative 116,West Haven,Richard D DePalma,R,141,63.51%
+State Representative 116,West Haven,Roman Khondker,R,81,36.49%
+Treasurer,West Haven,Thad Gray,R,529,57.69%
+Treasurer,West Haven,Art Linares,R,388,42.31%
+Comptroller,West Haven,Kurt Miller,R,485,52.95%
+Comptroller,West Haven,Mark Greenberg,R,431,47.05%
+Attorney General,West Haven,Sue Hatfield,R,744,79.74%
+Attorney General,West Haven,John Shaban,R,189,20.26%
+Governor,Weston,Mark Boughton,R,130,27.60%
+Governor,Weston,Timothy M Herbst,R,47,9.98%
+Governor,Weston,Steve Obsitnik,R,83,17.62%
+Governor,Weston,Bob Stefanowski,R,109,23.14%
+Governor,Weston,David Stemerman,R,102,21.66%
+Lieutenant Governor,Weston,Joe Markley,R,191,43.81%
+Lieutenant Governor,Weston,Jayme Stevenson,R,123,28.21%
+Lieutenant Governor,Weston,Erin E Stewart,R,122,27.98%
+United States Senator,Weston,Matthew Corey,R,321,76.61%
+United States Senator,Weston,Dominic Rapini,R,98,23.39%
+Treasurer,Weston,Thad Gray,R,293,68.14%
+Treasurer,Weston,Art Linares,R,137,31.86%
+Comptroller,Weston,Kurt Miller,R,233,54.95%
+Comptroller,Weston,Mark Greenberg,R,191,45.05%
+Attorney General,Weston,Sue Hatfield,R,231,51.79%
+Attorney General,Weston,John Shaban,R,215,48.21%
+Governor,Westport,Mark Boughton,R,149,12.29%
+Governor,Westport,Timothy M Herbst,R,96,7.92%
+Governor,Westport,Steve Obsitnik,R,505,41.67%
+Governor,Westport,Bob Stefanowski,R,249,20.54%
+Governor,Westport,David Stemerman,R,213,17.57%
+Lieutenant Governor,Westport,Joe Markley,R,407,36.57%
+Lieutenant Governor,Westport,Jayme Stevenson,R,410,36.84%
+Lieutenant Governor,Westport,Erin E Stewart,R,296,26.59%
+United States Senator,Westport,Matthew Corey,R,764,74.46%
+United States Senator,Westport,Dominic Rapini,R,262,25.54%
+Treasurer,Westport,Thad Gray,R,749,70.93%
+Treasurer,Westport,Art Linares,R,307,29.07%
+Comptroller,Westport,Kurt Miller,R,577,55.11%
+Comptroller,Westport,Mark Greenberg,R,470,44.89%
+Attorney General,Westport,Sue Hatfield,R,815,75.46%
+Attorney General,Westport,John Shaban,R,265,24.54%
+Governor,Wethersfield,Mark Boughton,R,216,15.29%
+Governor,Wethersfield,Timothy M Herbst,R,246,17.41%
+Governor,Wethersfield,Steve Obsitnik,R,162,11.46%
+Governor,Wethersfield,Bob Stefanowski,R,383,27.11%
+Governor,Wethersfield,David Stemerman,R,406,28.73%
+Lieutenant Governor,Wethersfield,Joe Markley,R,494,35.82%
+Lieutenant Governor,Wethersfield,Jayme Stevenson,R,159,11.53%
+Lieutenant Governor,Wethersfield,Erin E Stewart,R,726,52.65%
+United States Senator,Wethersfield,Matthew Corey,R,983,76.50%
+United States Senator,Wethersfield,Dominic Rapini,R,302,23.50%
+State Senator 09,Wethersfield,Ed Charamut,R,90,29.70%
+State Senator 09,Wethersfield,Tyler Flanigan,R,213,70.30%
+Treasurer,Wethersfield,Thad Gray,R,627,48.76%
+Treasurer,Wethersfield,Art Linares,R,659,51.24%
+Comptroller,Wethersfield,Kurt Miller,R,614,47.93%
+Comptroller,Wethersfield,Mark Greenberg,R,667,52.07%
+Attorney General,Wethersfield,Sue Hatfield,R,1042,79.54%
+Attorney General,Wethersfield,John Shaban,R,268,20.46%
+Governor,Willington,Mark Boughton,R,31,12.20%
+Governor,Willington,Timothy M Herbst,R,53,20.87%
+Governor,Willington,Steve Obsitnik,R,47,18.50%
+Governor,Willington,Bob Stefanowski,R,79,31.10%
+Governor,Willington,David Stemerman,R,44,17.32%
+Lieutenant Governor,Willington,Joe Markley,R,131,51.98%
+Lieutenant Governor,Willington,Jayme Stevenson,R,39,15.48%
+Lieutenant Governor,Willington,Erin E Stewart,R,82,32.54%
+United States Senator,Willington,Matthew Corey,R,188,80.34%
+United States Senator,Willington,Dominic Rapini,R,46,19.66%
+Treasurer,Willington,Thad Gray,R,123,51.90%
+Treasurer,Willington,Art Linares,R,114,48.10%
+Comptroller,Willington,Kurt Miller,R,127,54.04%
+Comptroller,Willington,Mark Greenberg,R,108,45.96%
+Attorney General,Willington,Sue Hatfield,R,192,79.01%
+Attorney General,Willington,John Shaban,R,51,20.99%
+Governor,Wilton,Mark Boughton,R,229,23.98%
+Governor,Wilton,Timothy M Herbst,R,108,11.31%
+Governor,Wilton,Steve Obsitnik,R,153,16.02%
+Governor,Wilton,Bob Stefanowski,R,225,23.56%
+Governor,Wilton,David Stemerman,R,240,25.13%
+Lieutenant Governor,Wilton,Joe Markley,R,427,47.60%
+Lieutenant Governor,Wilton,Jayme Stevenson,R,283,31.55%
+Lieutenant Governor,Wilton,Erin E Stewart,R,187,20.85%
+United States Senator,Wilton,Matthew Corey,R,648,75.79%
+United States Senator,Wilton,Dominic Rapini,R,207,24.21%
+Treasurer,Wilton,Thad Gray,R,611,70.80%
+Treasurer,Wilton,Art Linares,R,252,29.20%
+Comptroller,Wilton,Kurt Miller,R,548,63.35%
+Comptroller,Wilton,Mark Greenberg,R,317,36.65%
+Attorney General,Wilton,Sue Hatfield,R,665,76.00%
+Attorney General,Wilton,John Shaban,R,210,24.00%
+Governor,Winchester,Mark Boughton,R,69,14.53%
+Governor,Winchester,Timothy M Herbst,R,117,24.63%
+Governor,Winchester,Steve Obsitnik,R,43,9.05%
+Governor,Winchester,Bob Stefanowski,R,150,31.58%
+Governor,Winchester,David Stemerman,R,96,20.21%
+Lieutenant Governor,Winchester,Joe Markley,R,266,56.60%
+Lieutenant Governor,Winchester,Jayme Stevenson,R,58,12.34%
+Lieutenant Governor,Winchester,Erin E Stewart,R,146,31.06%
+United States Senator,Winchester,Matthew Corey,R,357,79.33%
+United States Senator,Winchester,Dominic Rapini,R,93,20.67%
+Treasurer,Winchester,Thad Gray,R,239,53.23%
+Treasurer,Winchester,Art Linares,R,210,46.77%
+Comptroller,Winchester,Kurt Miller,R,172,37.80%
+Comptroller,Winchester,Mark Greenberg,R,283,62.20%
+Attorney General,Winchester,Sue Hatfield,R,374,81.66%
+Attorney General,Winchester,John Shaban,R,84,18.34%
+Governor,Windham,Mark Boughton,R,56,13.63%
+Governor,Windham,Timothy M Herbst,R,87,21.17%
+Governor,Windham,Steve Obsitnik,R,59,14.36%
+Governor,Windham,Bob Stefanowski,R,146,35.52%
+Governor,Windham,David Stemerman,R,63,15.33%
+Lieutenant Governor,Windham,Joe Markley,R,194,48.74%
+Lieutenant Governor,Windham,Jayme Stevenson,R,89,22.36%
+Lieutenant Governor,Windham,Erin E Stewart,R,115,28.89%
+United States Senator,Windham,Matthew Corey,R,282,76.01%
+United States Senator,Windham,Dominic Rapini,R,89,23.99%
+Treasurer,Windham,Thad Gray,R,202,52.60%
+Treasurer,Windham,Art Linares,R,182,47.40%
+Comptroller,Windham,Kurt Miller,R,175,46.54%
+Comptroller,Windham,Mark Greenberg,R,201,53.46%
+Attorney General,Windham,Sue Hatfield,R,305,78.81%
+Attorney General,Windham,John Shaban,R,82,21.19%
+Governor,Windsor,Mark Boughton,R,167,15.83%
+Governor,Windsor,Timothy M Herbst,R,166,15.73%
+Governor,Windsor,Steve Obsitnik,R,143,13.55%
+Governor,Windsor,Bob Stefanowski,R,325,30.81%
+Governor,Windsor,David Stemerman,R,254,24.08%
+Lieutenant Governor,Windsor,Joe Markley,R,424,40.97%
+Lieutenant Governor,Windsor,Jayme Stevenson,R,162,15.65%
+Lieutenant Governor,Windsor,Erin E Stewart,R,449,43.38%
+United States Senator,Windsor,Matthew Corey,R,767,78.99%
+United States Senator,Windsor,Dominic Rapini,R,204,21.01%
+Treasurer,Windsor,Thad Gray,R,529,53.92%
+Treasurer,Windsor,Art Linares,R,452,46.08%
+Comptroller,Windsor,Kurt Miller,R,455,46.67%
+Comptroller,Windsor,Mark Greenberg,R,520,53.33%
+Attorney General,Windsor,Sue Hatfield,R,791,79.34%
+Attorney General,Windsor,John Shaban,R,206,20.66%
+Governor,Windsor Locks,Mark Boughton,R,100,20.88%
+Governor,Windsor Locks,Timothy M Herbst,R,91,19.00%
+Governor,Windsor Locks,Steve Obsitnik,R,54,11.27%
+Governor,Windsor Locks,Bob Stefanowski,R,138,28.81%
+Governor,Windsor Locks,David Stemerman,R,96,20.04%
+Lieutenant Governor,Windsor Locks,Joe Markley,R,202,43.35%
+Lieutenant Governor,Windsor Locks,Jayme Stevenson,R,70,15.02%
+Lieutenant Governor,Windsor Locks,Erin E Stewart,R,194,41.63%
+United States Senator,Windsor Locks,Matthew Corey,R,353,78.62%
+United States Senator,Windsor Locks,Dominic Rapini,R,96,21.38%
+Treasurer,Windsor Locks,Thad Gray,R,253,56.10%
+Treasurer,Windsor Locks,Art Linares,R,198,43.90%
+Comptroller,Windsor Locks,Kurt Miller,R,235,51.99%
+Comptroller,Windsor Locks,Mark Greenberg,R,217,48.01%
+Attorney General,Windsor Locks,Sue Hatfield,R,368,80.53%
+Attorney General,Windsor Locks,John Shaban,R,89,19.47%
+Governor,Wolcott,Mark Boughton,R,215,20.73%
+Governor,Wolcott,Timothy M Herbst,R,176,16.97%
+Governor,Wolcott,Steve Obsitnik,R,112,10.80%
+Governor,Wolcott,Bob Stefanowski,R,350,33.75%
+Governor,Wolcott,David Stemerman,R,184,17.74%
+Lieutenant Governor,Wolcott,Joe Markley,R,784,76.12%
+Lieutenant Governor,Wolcott,Jayme Stevenson,R,46,4.47%
+Lieutenant Governor,Wolcott,Erin E Stewart,R,200,19.42%
+United States Senator,Wolcott,Matthew Corey,R,742,77.37%
+United States Senator,Wolcott,Dominic Rapini,R,217,22.63%
+Representative in Congress 05,Wolcott,Manny Santos,R,512,52.62%
+Representative in Congress 05,Wolcott,Ruby Corby-O'Neill,R,199,20.45%
+Representative in Congress 05,Wolcott,Richard DuPont,R,262,26.93%
+Treasurer,Wolcott,Thad Gray,R,549,57.61%
+Treasurer,Wolcott,Art Linares,R,404,42.39%
+Comptroller,Wolcott,Kurt Miller,R,470,49.01%
+Comptroller,Wolcott,Mark Greenberg,R,489,50.99%
+Attorney General,Wolcott,Sue Hatfield,R,779,80.14%
+Attorney General,Wolcott,John Shaban,R,193,19.86%
+Governor,Woodbridge,Mark Boughton,R,102,21.07%
+Governor,Woodbridge,Timothy M Herbst,R,110,22.73%
+Governor,Woodbridge,Steve Obsitnik,R,36,7.44%
+Governor,Woodbridge,Bob Stefanowski,R,151,31.20%
+Governor,Woodbridge,David Stemerman,R,85,17.56%
+Lieutenant Governor,Woodbridge,Joe Markley,R,206,44.40%
+Lieutenant Governor,Woodbridge,Jayme Stevenson,R,114,24.57%
+Lieutenant Governor,Woodbridge,Erin E Stewart,R,144,31.03%
+United States Senator,Woodbridge,Matthew Corey,R,274,61.71%
+United States Senator,Woodbridge,Dominic Rapini,R,170,38.29%
+State Senator 14,Woodbridge,Anthony Giannattasio,R,18,27.27%
+State Senator 14,Woodbridge,Pam Staneski,R,48,72.73%
+Treasurer,Woodbridge,Thad Gray,R,295,65.85%
+Treasurer,Woodbridge,Art Linares,R,153,34.15%
+Comptroller,Woodbridge,Kurt Miller,R,254,56.95%
+Comptroller,Woodbridge,Mark Greenberg,R,192,43.05%
+Attorney General,Woodbridge,Sue Hatfield,R,368,81.42%
+Attorney General,Woodbridge,John Shaban,R,84,18.58%
+Governor,Woodbury,Mark Boughton,R,308,32.22%
+Governor,Woodbury,Timothy M Herbst,R,116,12.13%
+Governor,Woodbury,Steve Obsitnik,R,75,7.85%
+Governor,Woodbury,Bob Stefanowski,R,278,29.08%
+Governor,Woodbury,David Stemerman,R,179,18.72%
+Lieutenant Governor,Woodbury,Joe Markley,R,574,61.92%
+Lieutenant Governor,Woodbury,Jayme Stevenson,R,114,12.30%
+Lieutenant Governor,Woodbury,Erin E Stewart,R,239,25.78%
+United States Senator,Woodbury,Matthew Corey,R,679,79.32%
+United States Senator,Woodbury,Dominic Rapini,R,177,20.68%
+Representative in Congress 05,Woodbury,Manny Santos,R,386,43.81%
+Representative in Congress 05,Woodbury,Ruby Corby-O'Neill,R,295,33.48%
+Representative in Congress 05,Woodbury,Richard DuPont,R,200,22.70%
+Treasurer,Woodbury,Thad Gray,R,526,62.10%
+Treasurer,Woodbury,Art Linares,R,321,37.90%
+Comptroller,Woodbury,Kurt Miller,R,363,41.20%
+Comptroller,Woodbury,Mark Greenberg,R,518,58.80%
+Attorney General,Woodbury,Sue Hatfield,R,717,81.38%
+Attorney General,Woodbury,John Shaban,R,164,18.62%
+Governor,Woodstock,Mark Boughton,R,57,12.00%
+Governor,Woodstock,Timothy M Herbst,R,122,25.68%
+Governor,Woodstock,Steve Obsitnik,R,64,13.47%
+Governor,Woodstock,Bob Stefanowski,R,155,32.63%
+Governor,Woodstock,David Stemerman,R,77,16.21%
+Lieutenant Governor,Woodstock,Joe Markley,R,252,53.85%
+Lieutenant Governor,Woodstock,Jayme Stevenson,R,91,19.44%
+Lieutenant Governor,Woodstock,Erin E Stewart,R,125,26.71%
+United States Senator,Woodstock,Matthew Corey,R,362,80.98%
+United States Senator,Woodstock,Dominic Rapini,R,85,19.02%
+Treasurer,Woodstock,Thad Gray,R,259,57.94%
+Treasurer,Woodstock,Art Linares,R,188,42.06%
+Comptroller,Woodstock,Kurt Miller,R,223,50.11%
+Comptroller,Woodstock,Mark Greenberg,R,222,49.89%
+Attorney General,Woodstock,Sue Hatfield,R,359,78.38%
+Attorney General,Woodstock,John Shaban,R,99,21.62%

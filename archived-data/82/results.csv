@@ -1,0 +1,917 @@
+office,town,candidate,party,votes,vote_percent
+United States Senator,statewide,Themis Klarides,R,37003,40.03%
+United States Senator,statewide,Leora R. Levy,R,46774,50.60%
+United States Senator,statewide,Peter Lumaj,R,8665,9.37%
+Representative in Congress 04,statewide,Jayme Stevenson,R,9962,60.31%
+Representative in Congress 04,statewide,Michael Ted Goldstein,R,6555,39.69%
+State Representative 69,statewide,Jason Buchsbaum,R,869,48.71%
+State Representative 69,statewide,Cindy Harrison,R,915,51.29%
+State Representative 78,statewide,Joe Hoxha,R,802,74.95%
+State Representative 78,statewide,Aileen Abrams,R,268,25.05%
+Secretary of the State,statewide,Dominic Rapini,R,51080,58.23%
+Secretary of the State,statewide,Terrie E. Wood,R,36634,41.77%
+Judge of Probate 21,statewide,Rosa C. Rebimbas,R,1584,57.39%
+Judge of Probate 21,statewide,Peter E. Mariano,R,1176,42.61%
+Registrar of Voters,statewide,Julianne Shilosky,R,443,67.33%
+Registrar of Voters,statewide,Rachel Fuller,R,215,32.67%
+United States Senator,Andover,Themis Klarides,R,52,34.21%
+United States Senator,Andover,Leora R. Levy,R,84,55.26%
+United States Senator,Andover,Peter Lumaj,R,16,10.53%
+Secretary of the State,Andover,Dominic Rapini,R,85,59.44%
+Secretary of the State,Andover,Terrie E. Wood,R,58,40.56%
+United States Senator,Ansonia,Themis Klarides,R,199,51.03%
+United States Senator,Ansonia,Leora R. Levy,R,165,42.31%
+United States Senator,Ansonia,Peter Lumaj,R,26,6.67%
+Secretary of the State,Ansonia,Dominic Rapini,R,228,64.96%
+Secretary of the State,Ansonia,Terrie E. Wood,R,123,35.04%
+United States Senator,Ashford,Themis Klarides,R,51,35.17%
+United States Senator,Ashford,Leora R. Levy,R,78,53.79%
+United States Senator,Ashford,Peter Lumaj,R,16,11.03%
+Secretary of the State,Ashford,Dominic Rapini,R,72,52.94%
+Secretary of the State,Ashford,Terrie E. Wood,R,64,47.06%
+United States Senator,Avon,Themis Klarides,R,325,42.26%
+United States Senator,Avon,Leora R. Levy,R,368,47.85%
+United States Senator,Avon,Peter Lumaj,R,76,9.88%
+Secretary of the State,Avon,Dominic Rapini,R,440,59.86%
+Secretary of the State,Avon,Terrie E. Wood,R,295,40.14%
+United States Senator,Barkhamsted,Themis Klarides,R,76,34.08%
+United States Senator,Barkhamsted,Leora R. Levy,R,112,50.22%
+United States Senator,Barkhamsted,Peter Lumaj,R,35,15.70%
+Secretary of the State,Barkhamsted,Dominic Rapini,R,114,55.61%
+Secretary of the State,Barkhamsted,Terrie E. Wood,R,91,44.39%
+United States Senator,Beacon Falls,Themis Klarides,R,178,56.33%
+United States Senator,Beacon Falls,Leora R. Levy,R,120,37.97%
+United States Senator,Beacon Falls,Peter Lumaj,R,18,5.70%
+Secretary of the State,Beacon Falls,Dominic Rapini,R,178,59.14%
+Secretary of the State,Beacon Falls,Terrie E. Wood,R,123,40.86%
+Judge of Probate 21,Beacon Falls,Rosa C. Rebimbas,R,187,61.11%
+Judge of Probate 21,Beacon Falls,Peter E. Mariano,R,119,38.89%
+United States Senator,Berlin,Themis Klarides,R,285,31.70%
+United States Senator,Berlin,Leora R. Levy,R,516,57.40%
+United States Senator,Berlin,Peter Lumaj,R,98,10.90%
+Secretary of the State,Berlin,Dominic Rapini,R,544,62.82%
+Secretary of the State,Berlin,Terrie E. Wood,R,322,37.18%
+United States Senator,Bethany,Themis Klarides,R,161,52.44%
+United States Senator,Bethany,Leora R. Levy,R,129,42.02%
+United States Senator,Bethany,Peter Lumaj,R,17,5.54%
+Secretary of the State,Bethany,Dominic Rapini,R,177,61.03%
+Secretary of the State,Bethany,Terrie E. Wood,R,113,38.97%
+United States Senator,Bethel,Themis Klarides,R,188,34.56%
+United States Senator,Bethel,Leora R. Levy,R,294,54.04%
+United States Senator,Bethel,Peter Lumaj,R,62,11.40%
+Secretary of the State,Bethel,Dominic Rapini,R,296,57.36%
+Secretary of the State,Bethel,Terrie E. Wood,R,220,42.64%
+United States Senator,Bethlehem,Themis Klarides,R,85,42.08%
+United States Senator,Bethlehem,Leora R. Levy,R,94,46.53%
+United States Senator,Bethlehem,Peter Lumaj,R,23,11.39%
+Secretary of the State,Bethlehem,Dominic Rapini,R,120,64.86%
+Secretary of the State,Bethlehem,Terrie E. Wood,R,65,35.14%
+United States Senator,Bloomfield,Themis Klarides,R,107,44.40%
+United States Senator,Bloomfield,Leora R. Levy,R,106,43.98%
+United States Senator,Bloomfield,Peter Lumaj,R,28,11.62%
+Secretary of the State,Bloomfield,Dominic Rapini,R,130,56.77%
+Secretary of the State,Bloomfield,Terrie E. Wood,R,99,43.23%
+United States Senator,Bolton,Themis Klarides,R,96,37.50%
+United States Senator,Bolton,Leora R. Levy,R,136,53.13%
+United States Senator,Bolton,Peter Lumaj,R,24,9.38%
+Secretary of the State,Bolton,Dominic Rapini,R,135,56.96%
+Secretary of the State,Bolton,Terrie E. Wood,R,102,43.04%
+United States Senator,Bozrah,Themis Klarides,R,31,28.44%
+United States Senator,Bozrah,Leora R. Levy,R,54,49.54%
+United States Senator,Bozrah,Peter Lumaj,R,24,22.02%
+Secretary of the State,Bozrah,Dominic Rapini,R,66,61.68%
+Secretary of the State,Bozrah,Terrie E. Wood,R,41,38.32%
+United States Senator,Branford,Themis Klarides,R,375,45.57%
+United States Senator,Branford,Leora R. Levy,R,402,48.85%
+United States Senator,Branford,Peter Lumaj,R,46,5.59%
+Secretary of the State,Branford,Dominic Rapini,R,580,73.42%
+Secretary of the State,Branford,Terrie E. Wood,R,210,26.58%
+United States Senator,Bridgeport,Themis Klarides,R,174,35.80%
+United States Senator,Bridgeport,Leora R. Levy,R,265,54.53%
+United States Senator,Bridgeport,Peter Lumaj,R,47,9.67%
+Representative in Congress 04,Bridgeport,Jayme Stevenson,R,237,50.43%
+Representative in Congress 04,Bridgeport,Michael Ted Goldstein,R,233,49.57%
+Secretary of the State,Bridgeport,Dominic Rapini,R,269,57.85%
+Secretary of the State,Bridgeport,Terrie E. Wood,R,196,42.15%
+United States Senator,Bridgewater,Themis Klarides,R,67,45.89%
+United States Senator,Bridgewater,Leora R. Levy,R,60,41.10%
+United States Senator,Bridgewater,Peter Lumaj,R,19,13.01%
+State Representative 69,Bridgewater,Jason Buchsbaum,R,47,31.54%
+State Representative 69,Bridgewater,Cindy Harrison,R,102,68.46%
+Secretary of the State,Bridgewater,Dominic Rapini,R,74,54.01%
+Secretary of the State,Bridgewater,Terrie E. Wood,R,63,45.99%
+United States Senator,Bristol,Themis Klarides,R,658,35.51%
+United States Senator,Bristol,Leora R. Levy,R,981,52.94%
+United States Senator,Bristol,Peter Lumaj,R,214,11.55%
+State Representative 78,Bristol,Joe Hoxha,R,365,73.00%
+State Representative 78,Bristol,Aileen Abrams,R,135,27.00%
+Secretary of the State,Bristol,Dominic Rapini,R,1129,63.82%
+Secretary of the State,Bristol,Terrie E. Wood,R,640,36.18%
+United States Senator,Brookfield,Themis Klarides,R,251,34.43%
+United States Senator,Brookfield,Leora R. Levy,R,391,53.64%
+United States Senator,Brookfield,Peter Lumaj,R,87,11.93%
+Secretary of the State,Brookfield,Dominic Rapini,R,400,57.31%
+Secretary of the State,Brookfield,Terrie E. Wood,R,298,42.69%
+United States Senator,Brooklyn,Themis Klarides,R,57,25.45%
+United States Senator,Brooklyn,Leora R. Levy,R,143,63.84%
+United States Senator,Brooklyn,Peter Lumaj,R,24,10.71%
+Secretary of the State,Brooklyn,Dominic Rapini,R,118,54.88%
+Secretary of the State,Brooklyn,Terrie E. Wood,R,97,45.12%
+United States Senator,Burlington,Themis Klarides,R,152,29.92%
+United States Senator,Burlington,Leora R. Levy,R,294,57.87%
+United States Senator,Burlington,Peter Lumaj,R,62,12.20%
+Secretary of the State,Burlington,Dominic Rapini,R,309,63.71%
+Secretary of the State,Burlington,Terrie E. Wood,R,176,36.29%
+United States Senator,Canaan,Themis Klarides,R,17,44.74%
+United States Senator,Canaan,Leora R. Levy,R,18,47.37%
+United States Senator,Canaan,Peter Lumaj,R,3,7.89%
+Secretary of the State,Canaan,Dominic Rapini,R,14,37.84%
+Secretary of the State,Canaan,Terrie E. Wood,R,23,62.16%
+United States Senator,Canterbury,Themis Klarides,R,55,23.91%
+United States Senator,Canterbury,Leora R. Levy,R,130,56.52%
+United States Senator,Canterbury,Peter Lumaj,R,45,19.57%
+Secretary of the State,Canterbury,Dominic Rapini,R,134,60.63%
+Secretary of the State,Canterbury,Terrie E. Wood,R,87,39.37%
+United States Senator,Canton,Themis Klarides,R,172,39.09%
+United States Senator,Canton,Leora R. Levy,R,228,51.82%
+United States Senator,Canton,Peter Lumaj,R,40,9.09%
+Secretary of the State,Canton,Dominic Rapini,R,268,63.06%
+Secretary of the State,Canton,Terrie E. Wood,R,157,36.94%
+United States Senator,Chaplin,Themis Klarides,R,48,39.34%
+United States Senator,Chaplin,Leora R. Levy,R,56,45.90%
+United States Senator,Chaplin,Peter Lumaj,R,18,14.75%
+Secretary of the State,Chaplin,Dominic Rapini,R,59,52.68%
+Secretary of the State,Chaplin,Terrie E. Wood,R,53,47.32%
+United States Senator,Cheshire,Themis Klarides,R,454,41.35%
+United States Senator,Cheshire,Leora R. Levy,R,546,49.73%
+United States Senator,Cheshire,Peter Lumaj,R,98,8.93%
+Secretary of the State,Cheshire,Dominic Rapini,R,698,68.70%
+Secretary of the State,Cheshire,Terrie E. Wood,R,318,31.30%
+United States Senator,Chester,Themis Klarides,R,53,41.73%
+United States Senator,Chester,Leora R. Levy,R,64,50.39%
+United States Senator,Chester,Peter Lumaj,R,10,7.87%
+Secretary of the State,Chester,Dominic Rapini,R,77,64.17%
+Secretary of the State,Chester,Terrie E. Wood,R,43,35.83%
+United States Senator,Clinton,Themis Klarides,R,179,35.94%
+United States Senator,Clinton,Leora R. Levy,R,272,54.62%
+United States Senator,Clinton,Peter Lumaj,R,47,9.44%
+Secretary of the State,Clinton,Dominic Rapini,R,257,56.98%
+Secretary of the State,Clinton,Terrie E. Wood,R,194,43.02%
+United States Senator,Colchester,Themis Klarides,R,264,39.58%
+United States Senator,Colchester,Leora R. Levy,R,340,50.97%
+United States Senator,Colchester,Peter Lumaj,R,63,9.45%
+Secretary of the State,Colchester,Dominic Rapini,R,357,55.96%
+Secretary of the State,Colchester,Terrie E. Wood,R,281,44.04%
+Registrar of Voters,Colchester,Julianne Shilosky,R,443,67.33%
+Registrar of Voters,Colchester,Rachel Fuller,R,215,32.67%
+United States Senator,Colebrook,Themis Klarides,R,36,39.56%
+United States Senator,Colebrook,Leora R. Levy,R,47,51.65%
+United States Senator,Colebrook,Peter Lumaj,R,8,8.79%
+Secretary of the State,Colebrook,Dominic Rapini,R,42,47.73%
+Secretary of the State,Colebrook,Terrie E. Wood,R,46,52.27%
+United States Senator,Columbia,Themis Klarides,R,75,31.25%
+United States Senator,Columbia,Leora R. Levy,R,133,55.42%
+United States Senator,Columbia,Peter Lumaj,R,32,13.33%
+Secretary of the State,Columbia,Dominic Rapini,R,139,61.78%
+Secretary of the State,Columbia,Terrie E. Wood,R,86,38.22%
+United States Senator,Cornwall,Themis Klarides,R,36,66.67%
+United States Senator,Cornwall,Leora R. Levy,R,13,24.07%
+United States Senator,Cornwall,Peter Lumaj,R,5,9.26%
+Secretary of the State,Cornwall,Dominic Rapini,R,33,61.11%
+Secretary of the State,Cornwall,Terrie E. Wood,R,21,38.89%
+United States Senator,Coventry,Themis Klarides,R,110,23.35%
+United States Senator,Coventry,Leora R. Levy,R,315,66.88%
+United States Senator,Coventry,Peter Lumaj,R,46,9.77%
+Secretary of the State,Coventry,Dominic Rapini,R,238,52.08%
+Secretary of the State,Coventry,Terrie E. Wood,R,219,47.92%
+United States Senator,Cromwell,Themis Klarides,R,215,43.35%
+United States Senator,Cromwell,Leora R. Levy,R,236,47.58%
+United States Senator,Cromwell,Peter Lumaj,R,45,9.07%
+Secretary of the State,Cromwell,Dominic Rapini,R,286,60.21%
+Secretary of the State,Cromwell,Terrie E. Wood,R,189,39.79%
+United States Senator,Danbury,Themis Klarides,R,360,30.48%
+United States Senator,Danbury,Leora R. Levy,R,688,58.26%
+United States Senator,Danbury,Peter Lumaj,R,133,11.26%
+Secretary of the State,Danbury,Dominic Rapini,R,589,52.17%
+Secretary of the State,Danbury,Terrie E. Wood,R,540,47.83%
+United States Senator,Darien,Themis Klarides,R,746,63.60%
+United States Senator,Darien,Leora R. Levy,R,347,29.58%
+United States Senator,Darien,Peter Lumaj,R,80,6.82%
+Representative in Congress 04,Darien,Jayme Stevenson,R,1176,90.53%
+Representative in Congress 04,Darien,Michael Ted Goldstein,R,123,9.47%
+Secretary of the State,Darien,Dominic Rapini,R,138,10.66%
+Secretary of the State,Darien,Terrie E. Wood,R,1157,89.34%
+United States Senator,Deep River,Themis Klarides,R,77,52.74%
+United States Senator,Deep River,Leora R. Levy,R,58,39.73%
+United States Senator,Deep River,Peter Lumaj,R,11,7.53%
+Secretary of the State,Deep River,Dominic Rapini,R,60,45.45%
+Secretary of the State,Deep River,Terrie E. Wood,R,72,54.55%
+United States Senator,Derby,Themis Klarides,R,162,55.67%
+United States Senator,Derby,Leora R. Levy,R,108,37.11%
+United States Senator,Derby,Peter Lumaj,R,21,7.22%
+Secretary of the State,Derby,Dominic Rapini,R,173,65.78%
+Secretary of the State,Derby,Terrie E. Wood,R,90,34.22%
+United States Senator,Durham,Themis Klarides,R,114,34.13%
+United States Senator,Durham,Leora R. Levy,R,202,60.48%
+United States Senator,Durham,Peter Lumaj,R,18,5.39%
+Secretary of the State,Durham,Dominic Rapini,R,199,63.78%
+Secretary of the State,Durham,Terrie E. Wood,R,113,36.22%
+United States Senator,Eastford,Themis Klarides,R,44,37.29%
+United States Senator,Eastford,Leora R. Levy,R,59,50.00%
+United States Senator,Eastford,Peter Lumaj,R,15,12.71%
+Secretary of the State,Eastford,Dominic Rapini,R,56,51.38%
+Secretary of the State,Eastford,Terrie E. Wood,R,53,48.62%
+United States Senator,East Granby,Themis Klarides,R,70,33.02%
+United States Senator,East Granby,Leora R. Levy,R,113,53.30%
+United States Senator,East Granby,Peter Lumaj,R,29,13.68%
+Secretary of the State,East Granby,Dominic Rapini,R,104,51.74%
+Secretary of the State,East Granby,Terrie E. Wood,R,97,48.26%
+United States Senator,East Haddam,Themis Klarides,R,140,31.32%
+United States Senator,East Haddam,Leora R. Levy,R,269,60.18%
+United States Senator,East Haddam,Peter Lumaj,R,38,8.50%
+Secretary of the State,East Haddam,Dominic Rapini,R,237,54.86%
+Secretary of the State,East Haddam,Terrie E. Wood,R,195,45.14%
+United States Senator,East Hampton,Themis Klarides,R,183,37.89%
+United States Senator,East Hampton,Leora R. Levy,R,263,54.45%
+United States Senator,East Hampton,Peter Lumaj,R,37,7.66%
+Secretary of the State,East Hampton,Dominic Rapini,R,261,56.49%
+Secretary of the State,East Hampton,Terrie E. Wood,R,201,43.51%
+United States Senator,East Hartford,Themis Klarides,R,199,34.85%
+United States Senator,East Hartford,Leora R. Levy,R,331,57.97%
+United States Senator,East Hartford,Peter Lumaj,R,41,7.18%
+Secretary of the State,East Hartford,Dominic Rapini,R,305,61.12%
+Secretary of the State,East Hartford,Terrie E. Wood,R,194,38.88%
+United States Senator,East Haven,Themis Klarides,R,216,35.24%
+United States Senator,East Haven,Leora R. Levy,R,368,60.03%
+United States Senator,East Haven,Peter Lumaj,R,29,4.73%
+Secretary of the State,East Haven,Dominic Rapini,R,375,65.91%
+Secretary of the State,East Haven,Terrie E. Wood,R,194,34.09%
+United States Senator,East Lyme,Themis Klarides,R,273,47.98%
+United States Senator,East Lyme,Leora R. Levy,R,237,41.65%
+United States Senator,East Lyme,Peter Lumaj,R,59,10.37%
+Secretary of the State,East Lyme,Dominic Rapini,R,245,45.04%
+Secretary of the State,East Lyme,Terrie E. Wood,R,299,54.96%
+United States Senator,Easton,Themis Klarides,R,131,38.64%
+United States Senator,Easton,Leora R. Levy,R,184,54.28%
+United States Senator,Easton,Peter Lumaj,R,24,7.08%
+Representative in Congress 04,Easton,Jayme Stevenson,R,166,49.70%
+Representative in Congress 04,Easton,Michael Ted Goldstein,R,168,50.30%
+Secretary of the State,Easton,Dominic Rapini,R,190,57.40%
+Secretary of the State,Easton,Terrie E. Wood,R,141,42.60%
+United States Senator,East Windsor,Themis Klarides,R,95,27.94%
+United States Senator,East Windsor,Leora R. Levy,R,213,62.65%
+United States Senator,East Windsor,Peter Lumaj,R,32,9.41%
+Secretary of the State,East Windsor,Dominic Rapini,R,143,45.54%
+Secretary of the State,East Windsor,Terrie E. Wood,R,171,54.46%
+United States Senator,Ellington,Themis Klarides,R,195,35.85%
+United States Senator,Ellington,Leora R. Levy,R,299,54.96%
+United States Senator,Ellington,Peter Lumaj,R,50,9.19%
+Secretary of the State,Ellington,Dominic Rapini,R,298,57.09%
+Secretary of the State,Ellington,Terrie E. Wood,R,224,42.91%
+United States Senator,Enfield,Themis Klarides,R,291,26.65%
+United States Senator,Enfield,Leora R. Levy,R,688,63.00%
+United States Senator,Enfield,Peter Lumaj,R,113,10.35%
+Secretary of the State,Enfield,Dominic Rapini,R,623,59.16%
+Secretary of the State,Enfield,Terrie E. Wood,R,430,40.84%
+United States Senator,Essex,Themis Klarides,R,142,49.13%
+United States Senator,Essex,Leora R. Levy,R,126,43.60%
+United States Senator,Essex,Peter Lumaj,R,21,7.27%
+Secretary of the State,Essex,Dominic Rapini,R,172,63.94%
+Secretary of the State,Essex,Terrie E. Wood,R,97,36.06%
+United States Senator,Fairfield,Themis Klarides,R,859,49.14%
+United States Senator,Fairfield,Leora R. Levy,R,698,39.93%
+United States Senator,Fairfield,Peter Lumaj,R,191,10.93%
+Representative in Congress 04,Fairfield,Jayme Stevenson,R,1106,64.49%
+Representative in Congress 04,Fairfield,Michael Ted Goldstein,R,609,35.51%
+Secretary of the State,Fairfield,Dominic Rapini,R,1023,60.14%
+Secretary of the State,Fairfield,Terrie E. Wood,R,678,39.86%
+United States Senator,Farmington,Themis Klarides,R,394,39.05%
+United States Senator,Farmington,Leora R. Levy,R,526,52.13%
+United States Senator,Farmington,Peter Lumaj,R,89,8.82%
+Secretary of the State,Farmington,Dominic Rapini,R,503,52.07%
+Secretary of the State,Farmington,Terrie E. Wood,R,463,47.93%
+United States Senator,Franklin,Themis Klarides,R,27,35.06%
+United States Senator,Franklin,Leora R. Levy,R,40,51.95%
+United States Senator,Franklin,Peter Lumaj,R,10,12.99%
+Secretary of the State,Franklin,Dominic Rapini,R,43,61.43%
+Secretary of the State,Franklin,Terrie E. Wood,R,27,38.57%
+United States Senator,Glastonbury,Themis Klarides,R,502,41.15%
+United States Senator,Glastonbury,Leora R. Levy,R,609,49.92%
+United States Senator,Glastonbury,Peter Lumaj,R,109,8.93%
+Secretary of the State,Glastonbury,Dominic Rapini,R,710,61.37%
+Secretary of the State,Glastonbury,Terrie E. Wood,R,447,38.63%
+United States Senator,Goshen,Themis Klarides,R,107,45.15%
+United States Senator,Goshen,Leora R. Levy,R,118,49.79%
+United States Senator,Goshen,Peter Lumaj,R,12,5.06%
+Secretary of the State,Goshen,Dominic Rapini,R,123,57.48%
+Secretary of the State,Goshen,Terrie E. Wood,R,91,42.52%
+United States Senator,Granby,Themis Klarides,R,239,39.57%
+United States Senator,Granby,Leora R. Levy,R,319,52.81%
+United States Senator,Granby,Peter Lumaj,R,46,7.62%
+Secretary of the State,Granby,Dominic Rapini,R,326,56.50%
+Secretary of the State,Granby,Terrie E. Wood,R,251,43.50%
+United States Senator,Greenwich,Themis Klarides,R,979,34.62%
+United States Senator,Greenwich,Leora R. Levy,R,1720,60.82%
+United States Senator,Greenwich,Peter Lumaj,R,129,4.56%
+Representative in Congress 04,Greenwich,Jayme Stevenson,R,1355,48.62%
+Representative in Congress 04,Greenwich,Michael Ted Goldstein,R,1432,51.38%
+Secretary of the State,Greenwich,Dominic Rapini,R,1757,64.34%
+Secretary of the State,Greenwich,Terrie E. Wood,R,974,35.66%
+United States Senator,Griswold,Themis Klarides,R,109,31.50%
+United States Senator,Griswold,Leora R. Levy,R,193,55.78%
+United States Senator,Griswold,Peter Lumaj,R,44,12.72%
+Secretary of the State,Griswold,Dominic Rapini,R,166,50.30%
+Secretary of the State,Griswold,Terrie E. Wood,R,164,49.70%
+United States Senator,Groton,Themis Klarides,R,315,44.06%
+United States Senator,Groton,Leora R. Levy,R,313,43.78%
+United States Senator,Groton,Peter Lumaj,R,87,12.17%
+Secretary of the State,Groton,Dominic Rapini,R,331,49.92%
+Secretary of the State,Groton,Terrie E. Wood,R,332,50.08%
+United States Senator,Guilford,Themis Klarides,R,304,37.86%
+United States Senator,Guilford,Leora R. Levy,R,438,54.55%
+United States Senator,Guilford,Peter Lumaj,R,61,7.60%
+Secretary of the State,Guilford,Dominic Rapini,R,503,66.45%
+Secretary of the State,Guilford,Terrie E. Wood,R,254,33.55%
+United States Senator,Haddam,Themis Klarides,R,142,31.14%
+United States Senator,Haddam,Leora R. Levy,R,261,57.24%
+United States Senator,Haddam,Peter Lumaj,R,53,11.62%
+Secretary of the State,Haddam,Dominic Rapini,R,257,58.54%
+Secretary of the State,Haddam,Terrie E. Wood,R,182,41.46%
+United States Senator,Hamden,Themis Klarides,R,468,46.47%
+United States Senator,Hamden,Leora R. Levy,R,466,46.28%
+United States Senator,Hamden,Peter Lumaj,R,73,7.25%
+Secretary of the State,Hamden,Dominic Rapini,R,672,69.35%
+Secretary of the State,Hamden,Terrie E. Wood,R,297,30.65%
+United States Senator,Hampton,Themis Klarides,R,19,31.15%
+United States Senator,Hampton,Leora R. Levy,R,34,55.74%
+United States Senator,Hampton,Peter Lumaj,R,8,13.11%
+Secretary of the State,Hampton,Dominic Rapini,R,27,48.21%
+Secretary of the State,Hampton,Terrie E. Wood,R,29,51.79%
+United States Senator,Hartford,Themis Klarides,R,70,35.90%
+United States Senator,Hartford,Leora R. Levy,R,97,49.74%
+United States Senator,Hartford,Peter Lumaj,R,28,14.36%
+Secretary of the State,Hartford,Dominic Rapini,R,90,52.63%
+Secretary of the State,Hartford,Terrie E. Wood,R,81,47.37%
+United States Senator,Hartland,Themis Klarides,R,56,32.75%
+United States Senator,Hartland,Leora R. Levy,R,88,51.46%
+United States Senator,Hartland,Peter Lumaj,R,27,15.79%
+Secretary of the State,Hartland,Dominic Rapini,R,84,52.83%
+Secretary of the State,Hartland,Terrie E. Wood,R,75,47.17%
+United States Senator,Harwinton,Themis Klarides,R,121,37.12%
+United States Senator,Harwinton,Leora R. Levy,R,163,50.00%
+United States Senator,Harwinton,Peter Lumaj,R,42,12.88%
+Secretary of the State,Harwinton,Dominic Rapini,R,164,53.59%
+Secretary of the State,Harwinton,Terrie E. Wood,R,142,46.41%
+United States Senator,Hebron,Themis Klarides,R,150,38.27%
+United States Senator,Hebron,Leora R. Levy,R,187,47.70%
+United States Senator,Hebron,Peter Lumaj,R,55,14.03%
+Secretary of the State,Hebron,Dominic Rapini,R,225,59.52%
+Secretary of the State,Hebron,Terrie E. Wood,R,153,40.48%
+United States Senator,Kent,Themis Klarides,R,24,26.97%
+United States Senator,Kent,Leora R. Levy,R,51,57.30%
+United States Senator,Kent,Peter Lumaj,R,14,15.73%
+Secretary of the State,Kent,Dominic Rapini,R,47,55.95%
+Secretary of the State,Kent,Terrie E. Wood,R,37,44.05%
+United States Senator,Killingly,Themis Klarides,R,73,20.92%
+United States Senator,Killingly,Leora R. Levy,R,214,61.32%
+United States Senator,Killingly,Peter Lumaj,R,62,17.77%
+Secretary of the State,Killingly,Dominic Rapini,R,175,53.03%
+Secretary of the State,Killingly,Terrie E. Wood,R,155,46.97%
+United States Senator,Killingworth,Themis Klarides,R,138,38.66%
+United States Senator,Killingworth,Leora R. Levy,R,199,55.74%
+United States Senator,Killingworth,Peter Lumaj,R,20,5.60%
+Secretary of the State,Killingworth,Dominic Rapini,R,199,60.30%
+Secretary of the State,Killingworth,Terrie E. Wood,R,131,39.70%
+United States Senator,Lebanon,Themis Klarides,R,85,24.85%
+United States Senator,Lebanon,Leora R. Levy,R,186,54.39%
+United States Senator,Lebanon,Peter Lumaj,R,71,20.76%
+Secretary of the State,Lebanon,Dominic Rapini,R,196,61.64%
+Secretary of the State,Lebanon,Terrie E. Wood,R,122,38.36%
+United States Senator,Ledyard,Themis Klarides,R,175,37.80%
+United States Senator,Ledyard,Leora R. Levy,R,232,50.11%
+United States Senator,Ledyard,Peter Lumaj,R,56,12.10%
+Secretary of the State,Ledyard,Dominic Rapini,R,244,54.22%
+Secretary of the State,Ledyard,Terrie E. Wood,R,206,45.78%
+United States Senator,Lisbon,Themis Klarides,R,58,34.32%
+United States Senator,Lisbon,Leora R. Levy,R,87,51.48%
+United States Senator,Lisbon,Peter Lumaj,R,24,14.20%
+Secretary of the State,Lisbon,Dominic Rapini,R,90,55.90%
+Secretary of the State,Lisbon,Terrie E. Wood,R,71,44.10%
+United States Senator,Litchfield,Themis Klarides,R,235,43.04%
+United States Senator,Litchfield,Leora R. Levy,R,244,44.69%
+United States Senator,Litchfield,Peter Lumaj,R,67,12.27%
+Secretary of the State,Litchfield,Dominic Rapini,R,288,57.03%
+Secretary of the State,Litchfield,Terrie E. Wood,R,217,42.97%
+United States Senator,Lyme,Themis Klarides,R,54,47.79%
+United States Senator,Lyme,Leora R. Levy,R,52,46.02%
+United States Senator,Lyme,Peter Lumaj,R,7,6.19%
+Secretary of the State,Lyme,Dominic Rapini,R,51,47.22%
+Secretary of the State,Lyme,Terrie E. Wood,R,57,52.78%
+United States Senator,Madison,Themis Klarides,R,388,49.18%
+United States Senator,Madison,Leora R. Levy,R,344,43.60%
+United States Senator,Madison,Peter Lumaj,R,57,7.22%
+Secretary of the State,Madison,Dominic Rapini,R,440,58.43%
+Secretary of the State,Madison,Terrie E. Wood,R,313,41.57%
+United States Senator,Manchester,Themis Klarides,R,420,37.43%
+United States Senator,Manchester,Leora R. Levy,R,578,51.52%
+United States Senator,Manchester,Peter Lumaj,R,124,11.05%
+Secretary of the State,Manchester,Dominic Rapini,R,594,55.93%
+Secretary of the State,Manchester,Terrie E. Wood,R,468,44.07%
+United States Senator,Mansfield,Themis Klarides,R,66,31.43%
+United States Senator,Mansfield,Leora R. Levy,R,124,59.05%
+United States Senator,Mansfield,Peter Lumaj,R,20,9.52%
+Secretary of the State,Mansfield,Dominic Rapini,R,116,55.50%
+Secretary of the State,Mansfield,Terrie E. Wood,R,93,44.50%
+United States Senator,Marlborough,Themis Klarides,R,98,36.57%
+United States Senator,Marlborough,Leora R. Levy,R,139,51.87%
+United States Senator,Marlborough,Peter Lumaj,R,31,11.57%
+Secretary of the State,Marlborough,Dominic Rapini,R,152,60.08%
+Secretary of the State,Marlborough,Terrie E. Wood,R,101,39.92%
+United States Senator,Meriden,Themis Klarides,R,277,32.82%
+United States Senator,Meriden,Leora R. Levy,R,478,56.64%
+United States Senator,Meriden,Peter Lumaj,R,89,10.55%
+Secretary of the State,Meriden,Dominic Rapini,R,477,60.30%
+Secretary of the State,Meriden,Terrie E. Wood,R,314,39.70%
+United States Senator,Middlebury,Themis Klarides,R,306,49.84%
+United States Senator,Middlebury,Leora R. Levy,R,229,37.30%
+United States Senator,Middlebury,Peter Lumaj,R,79,12.87%
+Secretary of the State,Middlebury,Dominic Rapini,R,362,61.77%
+Secretary of the State,Middlebury,Terrie E. Wood,R,224,38.23%
+Judge of Probate 21,Middlebury,Rosa C. Rebimbas,R,291,46.94%
+Judge of Probate 21,Middlebury,Peter E. Mariano,R,329,53.06%
+United States Senator,Middlefield,Themis Klarides,R,61,36.75%
+United States Senator,Middlefield,Leora R. Levy,R,93,56.02%
+United States Senator,Middlefield,Peter Lumaj,R,12,7.23%
+Secretary of the State,Middlefield,Dominic Rapini,R,89,57.05%
+Secretary of the State,Middlefield,Terrie E. Wood,R,67,42.95%
+United States Senator,Middletown,Themis Klarides,R,260,33.29%
+United States Senator,Middletown,Leora R. Levy,R,448,57.36%
+United States Senator,Middletown,Peter Lumaj,R,73,9.35%
+Secretary of the State,Middletown,Dominic Rapini,R,463,62.65%
+Secretary of the State,Middletown,Terrie E. Wood,R,276,37.35%
+United States Senator,Milford,Themis Klarides,R,675,48.04%
+United States Senator,Milford,Leora R. Levy,R,616,43.84%
+United States Senator,Milford,Peter Lumaj,R,114,8.11%
+Secretary of the State,Milford,Dominic Rapini,R,835,62.78%
+Secretary of the State,Milford,Terrie E. Wood,R,495,37.22%
+United States Senator,Monroe,Themis Klarides,R,236,38.44%
+United States Senator,Monroe,Leora R. Levy,R,318,51.79%
+United States Senator,Monroe,Peter Lumaj,R,60,9.77%
+Representative in Congress 04,Monroe,Jayme Stevenson,R,350,58.24%
+Representative in Congress 04,Monroe,Michael Ted Goldstein,R,251,41.76%
+Secretary of the State,Monroe,Dominic Rapini,R,316,53.11%
+Secretary of the State,Monroe,Terrie E. Wood,R,279,46.89%
+United States Senator,Montville,Themis Klarides,R,161,32.33%
+United States Senator,Montville,Leora R. Levy,R,291,58.43%
+United States Senator,Montville,Peter Lumaj,R,46,9.24%
+Secretary of the State,Montville,Dominic Rapini,R,275,58.02%
+Secretary of the State,Montville,Terrie E. Wood,R,199,41.98%
+United States Senator,Morris,Themis Klarides,R,62,44.29%
+United States Senator,Morris,Leora R. Levy,R,63,45.00%
+United States Senator,Morris,Peter Lumaj,R,15,10.71%
+Secretary of the State,Morris,Dominic Rapini,R,77,60.63%
+Secretary of the State,Morris,Terrie E. Wood,R,50,39.37%
+United States Senator,Naugatuck,Themis Klarides,R,573,48.07%
+United States Senator,Naugatuck,Leora R. Levy,R,497,41.69%
+United States Senator,Naugatuck,Peter Lumaj,R,122,10.23%
+Secretary of the State,Naugatuck,Dominic Rapini,R,620,59.05%
+Secretary of the State,Naugatuck,Terrie E. Wood,R,430,40.95%
+Judge of Probate 21,Naugatuck,Rosa C. Rebimbas,R,726,58.08%
+Judge of Probate 21,Naugatuck,Peter E. Mariano,R,524,41.92%
+United States Senator,New Britain,Themis Klarides,R,244,35.06%
+United States Senator,New Britain,Leora R. Levy,R,355,51.01%
+United States Senator,New Britain,Peter Lumaj,R,97,13.94%
+Secretary of the State,New Britain,Dominic Rapini,R,386,59.48%
+Secretary of the State,New Britain,Terrie E. Wood,R,263,40.52%
+United States Senator,New Canaan,Themis Klarides,R,527,60.64%
+United States Senator,New Canaan,Leora R. Levy,R,282,32.45%
+United States Senator,New Canaan,Peter Lumaj,R,60,6.90%
+Representative in Congress 04,New Canaan,Jayme Stevenson,R,704,80.92%
+Representative in Congress 04,New Canaan,Michael Ted Goldstein,R,166,19.08%
+Secretary of the State,New Canaan,Dominic Rapini,R,399,46.02%
+Secretary of the State,New Canaan,Terrie E. Wood,R,468,53.98%
+United States Senator,New Fairfield,Themis Klarides,R,141,29.13%
+United States Senator,New Fairfield,Leora R. Levy,R,294,60.74%
+United States Senator,New Fairfield,Peter Lumaj,R,49,10.12%
+Secretary of the State,New Fairfield,Dominic Rapini,R,258,55.97%
+Secretary of the State,New Fairfield,Terrie E. Wood,R,203,44.03%
+United States Senator,New Hartford,Themis Klarides,R,173,43.03%
+United States Senator,New Hartford,Leora R. Levy,R,183,45.52%
+United States Senator,New Hartford,Peter Lumaj,R,46,11.44%
+Secretary of the State,New Hartford,Dominic Rapini,R,233,60.99%
+Secretary of the State,New Hartford,Terrie E. Wood,R,149,39.01%
+United States Senator,New Haven,Themis Klarides,R,125,31.89%
+United States Senator,New Haven,Leora R. Levy,R,235,59.95%
+United States Senator,New Haven,Peter Lumaj,R,32,8.16%
+Secretary of the State,New Haven,Dominic Rapini,R,213,62.28%
+Secretary of the State,New Haven,Terrie E. Wood,R,129,37.72%
+United States Senator,Newington,Themis Klarides,R,308,36.97%
+United States Senator,Newington,Leora R. Levy,R,449,53.90%
+United States Senator,Newington,Peter Lumaj,R,76,9.12%
+Secretary of the State,Newington,Dominic Rapini,R,398,50.96%
+Secretary of the State,Newington,Terrie E. Wood,R,383,49.04%
+United States Senator,New London,Themis Klarides,R,67,37.64%
+United States Senator,New London,Leora R. Levy,R,93,52.25%
+United States Senator,New London,Peter Lumaj,R,18,10.11%
+Secretary of the State,New London,Dominic Rapini,R,77,53.47%
+Secretary of the State,New London,Terrie E. Wood,R,67,46.53%
+United States Senator,New Milford,Themis Klarides,R,279,32.94%
+United States Senator,New Milford,Leora R. Levy,R,488,57.62%
+United States Senator,New Milford,Peter Lumaj,R,80,9.45%
+State Representative 69,New Milford,Jason Buchsbaum,R,58,45.67%
+State Representative 69,New Milford,Cindy Harrison,R,69,54.33%
+Secretary of the State,New Milford,Dominic Rapini,R,408,53.13%
+Secretary of the State,New Milford,Terrie E. Wood,R,360,46.88%
+United States Senator,Newtown,Themis Klarides,R,337,32.47%
+United States Senator,Newtown,Leora R. Levy,R,609,58.67%
+United States Senator,Newtown,Peter Lumaj,R,92,8.86%
+Secretary of the State,Newtown,Dominic Rapini,R,563,56.47%
+Secretary of the State,Newtown,Terrie E. Wood,R,434,43.53%
+United States Senator,Norfolk,Themis Klarides,R,22,32.35%
+United States Senator,Norfolk,Leora R. Levy,R,43,63.24%
+United States Senator,Norfolk,Peter Lumaj,R,3,4.41%
+Secretary of the State,Norfolk,Dominic Rapini,R,38,56.72%
+Secretary of the State,Norfolk,Terrie E. Wood,R,29,43.28%
+United States Senator,North Branford,Themis Klarides,R,177,40.32%
+United States Senator,North Branford,Leora R. Levy,R,244,55.58%
+United States Senator,North Branford,Peter Lumaj,R,18,4.10%
+Secretary of the State,North Branford,Dominic Rapini,R,269,65.29%
+Secretary of the State,North Branford,Terrie E. Wood,R,143,34.71%
+United States Senator,North Canaan,Themis Klarides,R,53,50.00%
+United States Senator,North Canaan,Leora R. Levy,R,47,44.34%
+United States Senator,North Canaan,Peter Lumaj,R,6,5.66%
+Secretary of the State,North Canaan,Dominic Rapini,R,45,46.39%
+Secretary of the State,North Canaan,Terrie E. Wood,R,52,53.61%
+United States Senator,North Haven,Themis Klarides,R,482,49.44%
+United States Senator,North Haven,Leora R. Levy,R,435,44.62%
+United States Senator,North Haven,Peter Lumaj,R,58,5.95%
+Secretary of the State,North Haven,Dominic Rapini,R,581,64.77%
+Secretary of the State,North Haven,Terrie E. Wood,R,316,35.23%
+United States Senator,North Stonington,Themis Klarides,R,50,32.89%
+United States Senator,North Stonington,Leora R. Levy,R,90,59.21%
+United States Senator,North Stonington,Peter Lumaj,R,12,7.89%
+Secretary of the State,North Stonington,Dominic Rapini,R,66,46.48%
+Secretary of the State,North Stonington,Terrie E. Wood,R,76,53.52%
+United States Senator,Norwalk,Themis Klarides,R,504,41.52%
+United States Senator,Norwalk,Leora R. Levy,R,602,49.59%
+United States Senator,Norwalk,Peter Lumaj,R,108,8.90%
+Representative in Congress 04,Norwalk,Jayme Stevenson,R,723,61.06%
+Representative in Congress 04,Norwalk,Michael Ted Goldstein,R,461,38.94%
+Secretary of the State,Norwalk,Dominic Rapini,R,505,43.16%
+Secretary of the State,Norwalk,Terrie E. Wood,R,665,56.84%
+United States Senator,Norwich,Themis Klarides,R,161,28.40%
+United States Senator,Norwich,Leora R. Levy,R,308,54.32%
+United States Senator,Norwich,Peter Lumaj,R,98,17.28%
+Secretary of the State,Norwich,Dominic Rapini,R,293,53.76%
+Secretary of the State,Norwich,Terrie E. Wood,R,252,46.24%
+United States Senator,Old Lyme,Themis Klarides,R,186,47.94%
+United States Senator,Old Lyme,Leora R. Levy,R,165,42.53%
+United States Senator,Old Lyme,Peter Lumaj,R,37,9.54%
+Secretary of the State,Old Lyme,Dominic Rapini,R,229,60.58%
+Secretary of the State,Old Lyme,Terrie E. Wood,R,149,39.42%
+United States Senator,Old Saybrook,Themis Klarides,R,220,44.44%
+United States Senator,Old Saybrook,Leora R. Levy,R,240,48.48%
+United States Senator,Old Saybrook,Peter Lumaj,R,35,7.07%
+Secretary of the State,Old Saybrook,Dominic Rapini,R,264,55.81%
+Secretary of the State,Old Saybrook,Terrie E. Wood,R,209,44.19%
+United States Senator,Orange,Themis Klarides,R,385,63.74%
+United States Senator,Orange,Leora R. Levy,R,192,31.79%
+United States Senator,Orange,Peter Lumaj,R,27,4.47%
+Secretary of the State,Orange,Dominic Rapini,R,387,67.78%
+Secretary of the State,Orange,Terrie E. Wood,R,184,32.22%
+United States Senator,Oxford,Themis Klarides,R,489,54.82%
+United States Senator,Oxford,Leora R. Levy,R,344,38.57%
+United States Senator,Oxford,Peter Lumaj,R,59,6.61%
+Representative in Congress 04,Oxford,Jayme Stevenson,R,414,48.25%
+Representative in Congress 04,Oxford,Michael Ted Goldstein,R,444,51.75%
+Secretary of the State,Oxford,Dominic Rapini,R,562,66.35%
+Secretary of the State,Oxford,Terrie E. Wood,R,285,33.65%
+United States Senator,Plainfield,Themis Klarides,R,101,27.08%
+United States Senator,Plainfield,Leora R. Levy,R,231,61.93%
+United States Senator,Plainfield,Peter Lumaj,R,41,10.99%
+Secretary of the State,Plainfield,Dominic Rapini,R,195,53.42%
+Secretary of the State,Plainfield,Terrie E. Wood,R,170,46.58%
+United States Senator,Plainville,Themis Klarides,R,182,32.85%
+United States Senator,Plainville,Leora R. Levy,R,301,54.33%
+United States Senator,Plainville,Peter Lumaj,R,71,12.82%
+Secretary of the State,Plainville,Dominic Rapini,R,333,62.59%
+Secretary of the State,Plainville,Terrie E. Wood,R,199,37.41%
+United States Senator,Plymouth,Themis Klarides,R,210,36.97%
+United States Senator,Plymouth,Leora R. Levy,R,292,51.41%
+United States Senator,Plymouth,Peter Lumaj,R,66,11.62%
+State Representative 78,Plymouth,Joe Hoxha,R,437,76.67%
+State Representative 78,Plymouth,Aileen Abrams,R,133,23.33%
+Secretary of the State,Plymouth,Dominic Rapini,R,332,61.25%
+Secretary of the State,Plymouth,Terrie E. Wood,R,210,38.75%
+United States Senator,Pomfret,Themis Klarides,R,43,30.28%
+United States Senator,Pomfret,Leora R. Levy,R,75,52.82%
+United States Senator,Pomfret,Peter Lumaj,R,24,16.90%
+Secretary of the State,Pomfret,Dominic Rapini,R,75,54.74%
+Secretary of the State,Pomfret,Terrie E. Wood,R,62,45.26%
+United States Senator,Portland,Themis Klarides,R,120,36.59%
+United States Senator,Portland,Leora R. Levy,R,181,55.18%
+United States Senator,Portland,Peter Lumaj,R,27,8.23%
+Secretary of the State,Portland,Dominic Rapini,R,183,58.10%
+Secretary of the State,Portland,Terrie E. Wood,R,132,41.90%
+United States Senator,Preston,Themis Klarides,R,56,36.13%
+United States Senator,Preston,Leora R. Levy,R,87,56.13%
+United States Senator,Preston,Peter Lumaj,R,12,7.74%
+Secretary of the State,Preston,Dominic Rapini,R,61,41.50%
+Secretary of the State,Preston,Terrie E. Wood,R,86,58.50%
+United States Senator,Prospect,Themis Klarides,R,303,50.67%
+United States Senator,Prospect,Leora R. Levy,R,259,43.31%
+United States Senator,Prospect,Peter Lumaj,R,36,6.02%
+Secretary of the State,Prospect,Dominic Rapini,R,360,64.17%
+Secretary of the State,Prospect,Terrie E. Wood,R,201,35.83%
+Judge of Probate 21,Prospect,Rosa C. Rebimbas,R,380,65.07%
+Judge of Probate 21,Prospect,Peter E. Mariano,R,204,34.93%
+United States Senator,Putnam,Themis Klarides,R,57,31.32%
+United States Senator,Putnam,Leora R. Levy,R,92,50.55%
+United States Senator,Putnam,Peter Lumaj,R,33,18.13%
+Secretary of the State,Putnam,Dominic Rapini,R,114,63.33%
+Secretary of the State,Putnam,Terrie E. Wood,R,66,36.67%
+United States Senator,Redding,Themis Klarides,R,114,38.51%
+United States Senator,Redding,Leora R. Levy,R,153,51.69%
+United States Senator,Redding,Peter Lumaj,R,29,9.80%
+Representative in Congress 04,Redding,Jayme Stevenson,R,156,53.98%
+Representative in Congress 04,Redding,Michael Ted Goldstein,R,133,46.02%
+Secretary of the State,Redding,Dominic Rapini,R,165,57.09%
+Secretary of the State,Redding,Terrie E. Wood,R,124,42.91%
+United States Senator,Ridgefield,Themis Klarides,R,275,38.19%
+United States Senator,Ridgefield,Leora R. Levy,R,391,54.31%
+United States Senator,Ridgefield,Peter Lumaj,R,54,7.50%
+Representative in Congress 04,Ridgefield,Jayme Stevenson,R,453,64.62%
+Representative in Congress 04,Ridgefield,Michael Ted Goldstein,R,248,35.38%
+Secretary of the State,Ridgefield,Dominic Rapini,R,405,57.94%
+Secretary of the State,Ridgefield,Terrie E. Wood,R,294,42.06%
+United States Senator,Rocky Hill,Themis Klarides,R,196,35.51%
+United States Senator,Rocky Hill,Leora R. Levy,R,306,55.43%
+United States Senator,Rocky Hill,Peter Lumaj,R,50,9.06%
+Secretary of the State,Rocky Hill,Dominic Rapini,R,291,54.91%
+Secretary of the State,Rocky Hill,Terrie E. Wood,R,239,45.09%
+United States Senator,Roxbury,Themis Klarides,R,69,47.26%
+United States Senator,Roxbury,Leora R. Levy,R,66,45.21%
+United States Senator,Roxbury,Peter Lumaj,R,11,7.53%
+State Representative 69,Roxbury,Jason Buchsbaum,R,29,18.71%
+State Representative 69,Roxbury,Cindy Harrison,R,126,81.29%
+Secretary of the State,Roxbury,Dominic Rapini,R,60,46.51%
+Secretary of the State,Roxbury,Terrie E. Wood,R,69,53.49%
+United States Senator,Salem,Themis Klarides,R,82,44.32%
+United States Senator,Salem,Leora R. Levy,R,93,50.27%
+United States Senator,Salem,Peter Lumaj,R,10,5.41%
+Secretary of the State,Salem,Dominic Rapini,R,93,52.84%
+Secretary of the State,Salem,Terrie E. Wood,R,83,47.16%
+United States Senator,Salisbury,Themis Klarides,R,44,51.76%
+United States Senator,Salisbury,Leora R. Levy,R,25,29.41%
+United States Senator,Salisbury,Peter Lumaj,R,16,18.82%
+Secretary of the State,Salisbury,Dominic Rapini,R,41,50.00%
+Secretary of the State,Salisbury,Terrie E. Wood,R,41,50.00%
+United States Senator,Scotland,Themis Klarides,R,21,28.77%
+United States Senator,Scotland,Leora R. Levy,R,29,39.73%
+United States Senator,Scotland,Peter Lumaj,R,23,31.51%
+Secretary of the State,Scotland,Dominic Rapini,R,52,75.36%
+Secretary of the State,Scotland,Terrie E. Wood,R,17,24.64%
+United States Senator,Seymour,Themis Klarides,R,450,60.98%
+United States Senator,Seymour,Leora R. Levy,R,259,35.09%
+United States Senator,Seymour,Peter Lumaj,R,29,3.93%
+Secretary of the State,Seymour,Dominic Rapini,R,409,61.88%
+Secretary of the State,Seymour,Terrie E. Wood,R,252,38.12%
+United States Senator,Sharon,Themis Klarides,R,0,0.00%
+United States Senator,Sharon,Leora R. Levy,R,0,0.00%
+United States Senator,Sharon,Peter Lumaj,R,0,0.00%
+Secretary of the State,Sharon,Dominic Rapini,R,0,0.00%
+Secretary of the State,Sharon,Terrie E. Wood,R,0,0.00%
+United States Senator,Shelton,Themis Klarides,R,749,43.05%
+United States Senator,Shelton,Leora R. Levy,R,860,49.43%
+United States Senator,Shelton,Peter Lumaj,R,131,7.53%
+Representative in Congress 04,Shelton,Jayme Stevenson,R,383,62.28%
+Representative in Congress 04,Shelton,Michael Ted Goldstein,R,232,37.72%
+Secretary of the State,Shelton,Dominic Rapini,R,1056,63.01%
+Secretary of the State,Shelton,Terrie E. Wood,R,620,36.99%
+United States Senator,Sherman,Themis Klarides,R,39,27.46%
+United States Senator,Sherman,Leora R. Levy,R,81,57.04%
+United States Senator,Sherman,Peter Lumaj,R,22,15.49%
+Secretary of the State,Sherman,Dominic Rapini,R,69,50.00%
+Secretary of the State,Sherman,Terrie E. Wood,R,69,50.00%
+United States Senator,Simsbury,Themis Klarides,R,434,47.12%
+United States Senator,Simsbury,Leora R. Levy,R,409,44.41%
+United States Senator,Simsbury,Peter Lumaj,R,78,8.47%
+Secretary of the State,Simsbury,Dominic Rapini,R,467,53.68%
+Secretary of the State,Simsbury,Terrie E. Wood,R,403,46.32%
+United States Senator,Somers,Themis Klarides,R,145,30.66%
+United States Senator,Somers,Leora R. Levy,R,290,61.31%
+United States Senator,Somers,Peter Lumaj,R,38,8.03%
+Secretary of the State,Somers,Dominic Rapini,R,274,60.49%
+Secretary of the State,Somers,Terrie E. Wood,R,179,39.51%
+United States Senator,Southbury,Themis Klarides,R,817,54.00%
+United States Senator,Southbury,Leora R. Levy,R,556,36.75%
+United States Senator,Southbury,Peter Lumaj,R,140,9.25%
+State Representative 69,Southbury,Jason Buchsbaum,R,735,54.32%
+State Representative 69,Southbury,Cindy Harrison,R,618,45.68%
+Secretary of the State,Southbury,Dominic Rapini,R,938,66.20%
+Secretary of the State,Southbury,Terrie E. Wood,R,479,33.80%
+United States Senator,Southington,Themis Klarides,R,554,31.37%
+United States Senator,Southington,Leora R. Levy,R,1042,59.00%
+United States Senator,Southington,Peter Lumaj,R,170,9.63%
+Secretary of the State,Southington,Dominic Rapini,R,1077,63.88%
+Secretary of the State,Southington,Terrie E. Wood,R,609,36.12%
+United States Senator,South Windsor,Themis Klarides,R,314,40.83%
+United States Senator,South Windsor,Leora R. Levy,R,385,50.07%
+United States Senator,South Windsor,Peter Lumaj,R,70,9.10%
+Secretary of the State,South Windsor,Dominic Rapini,R,377,51.57%
+Secretary of the State,South Windsor,Terrie E. Wood,R,354,48.43%
+United States Senator,Sprague,Themis Klarides,R,24,27.27%
+United States Senator,Sprague,Leora R. Levy,R,42,47.73%
+United States Senator,Sprague,Peter Lumaj,R,22,25.00%
+Secretary of the State,Sprague,Dominic Rapini,R,46,54.76%
+Secretary of the State,Sprague,Terrie E. Wood,R,38,45.24%
+United States Senator,Stafford,Themis Klarides,R,78,24.45%
+United States Senator,Stafford,Leora R. Levy,R,222,69.59%
+United States Senator,Stafford,Peter Lumaj,R,19,5.96%
+Secretary of the State,Stafford,Dominic Rapini,R,174,57.05%
+Secretary of the State,Stafford,Terrie E. Wood,R,131,42.95%
+United States Senator,Stamford,Themis Klarides,R,888,37.56%
+United States Senator,Stamford,Leora R. Levy,R,1268,53.64%
+United States Senator,Stamford,Peter Lumaj,R,208,8.80%
+Representative in Congress 04,Stamford,Jayme Stevenson,R,1235,53.07%
+Representative in Congress 04,Stamford,Michael Ted Goldstein,R,1092,46.93%
+Secretary of the State,Stamford,Dominic Rapini,R,1232,53.64%
+Secretary of the State,Stamford,Terrie E. Wood,R,1065,46.36%
+United States Senator,Sterling,Themis Klarides,R,25,23.36%
+United States Senator,Sterling,Leora R. Levy,R,62,57.94%
+United States Senator,Sterling,Peter Lumaj,R,20,18.69%
+Secretary of the State,Sterling,Dominic Rapini,R,58,58.00%
+Secretary of the State,Sterling,Terrie E. Wood,R,42,42.00%
+United States Senator,Stonington,Themis Klarides,R,271,48.31%
+United States Senator,Stonington,Leora R. Levy,R,256,45.63%
+United States Senator,Stonington,Peter Lumaj,R,34,6.06%
+Secretary of the State,Stonington,Dominic Rapini,R,239,44.34%
+Secretary of the State,Stonington,Terrie E. Wood,R,300,55.66%
+United States Senator,Stratford,Themis Klarides,R,565,49.05%
+United States Senator,Stratford,Leora R. Levy,R,511,44.36%
+United States Senator,Stratford,Peter Lumaj,R,76,6.60%
+Secretary of the State,Stratford,Dominic Rapini,R,644,58.65%
+Secretary of the State,Stratford,Terrie E. Wood,R,454,41.35%
+United States Senator,Suffield,Themis Klarides,R,194,37.52%
+United States Senator,Suffield,Leora R. Levy,R,278,53.77%
+United States Senator,Suffield,Peter Lumaj,R,45,8.70%
+Secretary of the State,Suffield,Dominic Rapini,R,286,60.21%
+Secretary of the State,Suffield,Terrie E. Wood,R,189,39.79%
+United States Senator,Thomaston,Themis Klarides,R,129,38.97%
+United States Senator,Thomaston,Leora R. Levy,R,178,53.78%
+United States Senator,Thomaston,Peter Lumaj,R,24,7.25%
+Secretary of the State,Thomaston,Dominic Rapini,R,175,55.56%
+Secretary of the State,Thomaston,Terrie E. Wood,R,140,44.44%
+United States Senator,Thompson,Themis Klarides,R,0,0.00%
+United States Senator,Thompson,Leora R. Levy,R,0,0.00%
+United States Senator,Thompson,Peter Lumaj,R,0,0.00%
+Secretary of the State,Thompson,Dominic Rapini,R,0,0.00%
+Secretary of the State,Thompson,Terrie E. Wood,R,0,0.00%
+United States Senator,Tolland,Themis Klarides,R,191,40.30%
+United States Senator,Tolland,Leora R. Levy,R,231,48.73%
+United States Senator,Tolland,Peter Lumaj,R,52,10.97%
+Secretary of the State,Tolland,Dominic Rapini,R,269,60.45%
+Secretary of the State,Tolland,Terrie E. Wood,R,176,39.55%
+United States Senator,Torrington,Themis Klarides,R,392,35.73%
+United States Senator,Torrington,Leora R. Levy,R,585,53.33%
+United States Senator,Torrington,Peter Lumaj,R,120,10.94%
+Secretary of the State,Torrington,Dominic Rapini,R,581,56.41%
+Secretary of the State,Torrington,Terrie E. Wood,R,449,43.59%
+United States Senator,Trumbull,Themis Klarides,R,485,38.04%
+United States Senator,Trumbull,Leora R. Levy,R,676,53.02%
+United States Senator,Trumbull,Peter Lumaj,R,114,8.94%
+Representative in Congress 04,Trumbull,Jayme Stevenson,R,672,55.54%
+Representative in Congress 04,Trumbull,Michael Ted Goldstein,R,538,44.46%
+Secretary of the State,Trumbull,Dominic Rapini,R,796,64.51%
+Secretary of the State,Trumbull,Terrie E. Wood,R,438,35.49%
+United States Senator,Union,Themis Klarides,R,27,36.99%
+United States Senator,Union,Leora R. Levy,R,40,54.79%
+United States Senator,Union,Peter Lumaj,R,6,8.22%
+Secretary of the State,Union,Dominic Rapini,R,26,38.24%
+Secretary of the State,Union,Terrie E. Wood,R,42,61.76%
+United States Senator,Vernon,Themis Klarides,R,253,28.36%
+United States Senator,Vernon,Leora R. Levy,R,558,62.56%
+United States Senator,Vernon,Peter Lumaj,R,81,9.08%
+Secretary of the State,Vernon,Dominic Rapini,R,450,54.41%
+Secretary of the State,Vernon,Terrie E. Wood,R,377,45.59%
+United States Senator,Voluntown,Themis Klarides,R,29,23.97%
+United States Senator,Voluntown,Leora R. Levy,R,74,61.16%
+United States Senator,Voluntown,Peter Lumaj,R,18,14.88%
+Secretary of the State,Voluntown,Dominic Rapini,R,71,65.14%
+Secretary of the State,Voluntown,Terrie E. Wood,R,38,34.86%
+United States Senator,Wallingford,Themis Klarides,R,505,39.39%
+United States Senator,Wallingford,Leora R. Levy,R,670,52.26%
+United States Senator,Wallingford,Peter Lumaj,R,107,8.35%
+Secretary of the State,Wallingford,Dominic Rapini,R,812,66.94%
+Secretary of the State,Wallingford,Terrie E. Wood,R,401,33.06%
+United States Senator,Warren,Themis Klarides,R,36,43.37%
+United States Senator,Warren,Leora R. Levy,R,39,46.99%
+United States Senator,Warren,Peter Lumaj,R,8,9.64%
+Secretary of the State,Warren,Dominic Rapini,R,37,46.84%
+Secretary of the State,Warren,Terrie E. Wood,R,42,53.16%
+United States Senator,Washington,Themis Klarides,R,47,41.96%
+United States Senator,Washington,Leora R. Levy,R,54,48.21%
+United States Senator,Washington,Peter Lumaj,R,11,9.82%
+Secretary of the State,Washington,Dominic Rapini,R,60,57.69%
+Secretary of the State,Washington,Terrie E. Wood,R,44,42.31%
+United States Senator,Waterbury,Themis Klarides,R,478,40.07%
+United States Senator,Waterbury,Leora R. Levy,R,580,48.62%
+United States Senator,Waterbury,Peter Lumaj,R,135,11.32%
+Secretary of the State,Waterbury,Dominic Rapini,R,681,63.59%
+Secretary of the State,Waterbury,Terrie E. Wood,R,390,36.41%
+United States Senator,Waterford,Themis Klarides,R,282,43.59%
+United States Senator,Waterford,Leora R. Levy,R,309,47.76%
+United States Senator,Waterford,Peter Lumaj,R,56,8.66%
+Secretary of the State,Waterford,Dominic Rapini,R,354,57.37%
+Secretary of the State,Waterford,Terrie E. Wood,R,263,42.63%
+United States Senator,Watertown,Themis Klarides,R,466,45.29%
+United States Senator,Watertown,Leora R. Levy,R,488,47.42%
+United States Senator,Watertown,Peter Lumaj,R,75,7.29%
+Secretary of the State,Watertown,Dominic Rapini,R,608,62.62%
+Secretary of the State,Watertown,Terrie E. Wood,R,363,37.38%
+United States Senator,Westbrook,Themis Klarides,R,139,45.72%
+United States Senator,Westbrook,Leora R. Levy,R,153,50.33%
+United States Senator,Westbrook,Peter Lumaj,R,12,3.95%
+Secretary of the State,Westbrook,Dominic Rapini,R,170,62.96%
+Secretary of the State,Westbrook,Terrie E. Wood,R,100,37.04%
+United States Senator,West Hartford,Themis Klarides,R,508,46.14%
+United States Senator,West Hartford,Leora R. Levy,R,490,44.50%
+United States Senator,West Hartford,Peter Lumaj,R,103,9.36%
+Secretary of the State,West Hartford,Dominic Rapini,R,650,61.90%
+Secretary of the State,West Hartford,Terrie E. Wood,R,400,38.10%
+United States Senator,West Haven,Themis Klarides,R,260,37.30%
+United States Senator,West Haven,Leora R. Levy,R,379,54.38%
+United States Senator,West Haven,Peter Lumaj,R,58,8.32%
+Secretary of the State,West Haven,Dominic Rapini,R,437,67.54%
+Secretary of the State,West Haven,Terrie E. Wood,R,210,32.46%
+United States Senator,Weston,Themis Klarides,R,117,49.16%
+United States Senator,Weston,Leora R. Levy,R,104,43.70%
+United States Senator,Weston,Peter Lumaj,R,17,7.14%
+Representative in Congress 04,Weston,Jayme Stevenson,R,149,63.68%
+Representative in Congress 04,Weston,Michael Ted Goldstein,R,85,36.32%
+Secretary of the State,Weston,Dominic Rapini,R,120,52.86%
+Secretary of the State,Weston,Terrie E. Wood,R,107,47.14%
+United States Senator,Westport,Themis Klarides,R,251,49.31%
+United States Senator,Westport,Leora R. Levy,R,207,40.67%
+United States Senator,Westport,Peter Lumaj,R,51,10.02%
+Representative in Congress 04,Westport,Jayme Stevenson,R,329,65.93%
+Representative in Congress 04,Westport,Michael Ted Goldstein,R,170,34.07%
+Secretary of the State,Westport,Dominic Rapini,R,266,53.63%
+Secretary of the State,Westport,Terrie E. Wood,R,230,46.37%
+United States Senator,Wethersfield,Themis Klarides,R,364,41.84%
+United States Senator,Wethersfield,Leora R. Levy,R,422,48.51%
+United States Senator,Wethersfield,Peter Lumaj,R,84,9.66%
+Secretary of the State,Wethersfield,Dominic Rapini,R,473,57.54%
+Secretary of the State,Wethersfield,Terrie E. Wood,R,349,42.46%
+United States Senator,Willington,Themis Klarides,R,54,31.03%
+United States Senator,Willington,Leora R. Levy,R,102,58.62%
+United States Senator,Willington,Peter Lumaj,R,18,10.34%
+Secretary of the State,Willington,Dominic Rapini,R,102,61.08%
+Secretary of the State,Willington,Terrie E. Wood,R,65,38.92%
+United States Senator,Wilton,Themis Klarides,R,259,49.05%
+United States Senator,Wilton,Leora R. Levy,R,206,39.02%
+United States Senator,Wilton,Peter Lumaj,R,63,11.93%
+Representative in Congress 04,Wilton,Jayme Stevenson,R,354,67.56%
+Representative in Congress 04,Wilton,Michael Ted Goldstein,R,170,32.44%
+Secretary of the State,Wilton,Dominic Rapini,R,299,57.39%
+Secretary of the State,Wilton,Terrie E. Wood,R,222,42.61%
+United States Senator,Winchester,Themis Klarides,R,107,31.47%
+United States Senator,Winchester,Leora R. Levy,R,194,57.06%
+United States Senator,Winchester,Peter Lumaj,R,39,11.47%
+Secretary of the State,Winchester,Dominic Rapini,R,187,57.54%
+Secretary of the State,Winchester,Terrie E. Wood,R,138,42.46%
+United States Senator,Windham,Themis Klarides,R,82,26.37%
+United States Senator,Windham,Leora R. Levy,R,186,59.81%
+United States Senator,Windham,Peter Lumaj,R,43,13.83%
+Secretary of the State,Windham,Dominic Rapini,R,169,57.09%
+Secretary of the State,Windham,Terrie E. Wood,R,127,42.91%
+United States Senator,Windsor,Themis Klarides,R,219,32.93%
+United States Senator,Windsor,Leora R. Levy,R,364,54.74%
+United States Senator,Windsor,Peter Lumaj,R,82,12.33%
+Secretary of the State,Windsor,Dominic Rapini,R,332,53.72%
+Secretary of the State,Windsor,Terrie E. Wood,R,286,46.28%
+United States Senator,Windsor Locks,Themis Klarides,R,115,30.18%
+United States Senator,Windsor Locks,Leora R. Levy,R,216,56.69%
+United States Senator,Windsor Locks,Peter Lumaj,R,50,13.12%
+Secretary of the State,Windsor Locks,Dominic Rapini,R,186,52.54%
+Secretary of the State,Windsor Locks,Terrie E. Wood,R,168,47.46%
+United States Senator,Wolcott,Themis Klarides,R,281,37.42%
+United States Senator,Wolcott,Leora R. Levy,R,409,54.46%
+United States Senator,Wolcott,Peter Lumaj,R,61,8.12%
+Secretary of the State,Wolcott,Dominic Rapini,R,441,63.27%
+Secretary of the State,Wolcott,Terrie E. Wood,R,256,36.73%
+United States Senator,Woodbridge,Themis Klarides,R,195,61.90%
+United States Senator,Woodbridge,Leora R. Levy,R,107,33.97%
+United States Senator,Woodbridge,Peter Lumaj,R,13,4.13%
+Secretary of the State,Woodbridge,Dominic Rapini,R,180,61.22%
+Secretary of the State,Woodbridge,Terrie E. Wood,R,114,38.78%
+United States Senator,Woodbury,Themis Klarides,R,283,43.21%
+United States Senator,Woodbury,Leora R. Levy,R,261,39.85%
+United States Senator,Woodbury,Peter Lumaj,R,111,16.95%
+Secretary of the State,Woodbury,Dominic Rapini,R,342,57.38%
+Secretary of the State,Woodbury,Terrie E. Wood,R,254,42.62%
+United States Senator,Woodstock,Themis Klarides,R,93,28.53%
+United States Senator,Woodstock,Leora R. Levy,R,196,60.12%
+United States Senator,Woodstock,Peter Lumaj,R,37,11.35%
+Secretary of the State,Woodstock,Dominic Rapini,R,182,59.09%
+Secretary of the State,Woodstock,Terrie E. Wood,R,126,40.91%
