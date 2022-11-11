@@ -3,8 +3,6 @@
 
 import csv
 from io import StringIO
-import json
-import sys
 
 from .parse_tools import unwrap_object
 

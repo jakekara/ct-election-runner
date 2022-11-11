@@ -10,7 +10,8 @@ reverse engineered and used as a data journalist starting in 2015 to build live
 results
 [portals](https://ctmirror.org/2018/08/14/unofficial-2018-primary-results-roll/)
 ([code](https://github.com/jakekara/ct-election-frontend-primary-18)) for [The
-Connecticut Mirror](https://ctmirror.org), where I used to work.
+Connecticut Mirror](https://ctmirror.org), where I used to work. *Update: These 
+links have died since I left the Mirror, it looks like.*
 
 I've always intended to make this code public once I had time to clean it up. I
 have never had time to really do that, and I doubt I ever will, so I'm just
@@ -51,6 +52,22 @@ optional arguments:
 ```
 
 ## CLI cookbook
+
+## Dump all of the data
+
+Probably the most useful command is `archive`, which will download all of
+the election data the directory `archive`. I've added an `archived-data` 
+directory to this repo so you can just look at the data if that's all 
+you're interested in.
+
+```
+mkdir archive
+ctrunner archive --dest archive
+```
+
+Inside the archived-data directory, there's a directory for each election with
+the latestd data in the raw.json and results.csv file, plus a version directory
+for each version. Once election data is closed, new versions stop coming in.
 
 ### Get list of elections
 
