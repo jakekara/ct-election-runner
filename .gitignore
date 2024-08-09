@@ -2,5 +2,5 @@ venv
 out
 fresh-env
 *.pyc
-*.egg-info/*
+*.egg-info/
 build
