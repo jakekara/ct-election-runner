@@ -1,8 +1,63 @@
 [
   {
+    "ID": "94",
+    "Name": "08/13/2024 -- August 2024 Democratic Primary",
+    "DefaultElection": "Y"
+  },
+  {
+    "ID": "95",
+    "Name": "08/13/2024 -- August 2024 Republican Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "92",
+    "Name": "04/02/2024 -- Democratic Presidential Preference Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "93",
+    "Name": "04/02/2024 -- Republican Presidential Preference Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "89",
+    "Name": "02/27/2024 -- Bridgeport Special Election",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "88",
+    "Name": "01/23/2024 -- 115th Assembly District Special Election January 23, 2024",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "90",
+    "Name": "01/23/2024 -- BRIDGEPORT SPECIAL DEMOCRATIC PRIMARY",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "87",
+    "Name": "11/28/2023 -- November 2023 Special Municipal Election",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "83",
+    "Name": "11/07/2023 -- November 2023 Municipal",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "84",
+    "Name": "09/12/2023 -- Democratic Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "85",
+    "Name": "09/12/2023 -- Republican Primary",
+    "DefaultElection": "N"
+  },
+  {
     "ID": "80",
     "Name": "11/08/2022 -- November 2022 State Election",
-    "DefaultElection": "Y"
+    "DefaultElection": "N"
   },
   {
     "ID": "81",
