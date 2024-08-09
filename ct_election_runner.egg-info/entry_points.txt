@@ -1,3 +1,0 @@
-[console_scripts]
-ctrunner = ctrunner.cli.__main__:main
-
