@@ -1,8 +1,13 @@
 [
   {
+    "ID": "91",
+    "Name": "11/05/2024 -- Presidential Election 2024",
+    "DefaultElection": "Y"
+  },
+  {
     "ID": "94",
     "Name": "08/13/2024 -- August 2024 Democratic Primary",
-    "DefaultElection": "Y"
+    "DefaultElection": "N"
   },
   {
     "ID": "95",
