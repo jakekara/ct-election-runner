@@ -36,7 +36,7 @@ def archive_an_election(dest, election_id):
     if not os.path.exists(election_dir):
         os.makedirs(election_dir)
 
-    version_dir = os.path.join(election_dir, str(election["version"]))
+    version_dir = os.path.join(election_dir, "versions", str(election["version"]))
     if not os.path.exists(version_dir):
         os.makedirs(version_dir)
 
