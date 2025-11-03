@@ -1,8 +1,48 @@
 [
   {
+    "ID": "97",
+    "Name": "11/04/2025 -- November 2025 Municipal Election",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "103",
+    "Name": "09/09/2025 -- Democratic Municipal Primary 2025",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "104",
+    "Name": "09/09/2025 -- Republican Municipal Primary 2025",
+    "DefaultElection": "Y"
+  },
+  {
+    "ID": "96",
+    "Name": "05/05/2025 -- May 2025 Election",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "101",
+    "Name": "04/22/2025 -- Special Election 113th Assembly",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "98",
+    "Name": "02/25/2025 -- 40th Assembly District Special Election February 25, 2025",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "99",
+    "Name": "02/25/2025 -- 21st Senate District Special Election February 25, 2025",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "91",
+    "Name": "11/05/2024 -- Presidential Election 2024",
+    "DefaultElection": "N"
+  },
+  {
     "ID": "94",
     "Name": "08/13/2024 -- August 2024 Democratic Primary",
-    "DefaultElection": "Y"
+    "DefaultElection": "N"
   },
   {
     "ID": "95",

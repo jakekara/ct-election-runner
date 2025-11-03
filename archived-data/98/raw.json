@@ -1,42 +1,55 @@
 {
-  "version": 223161,
+  "version": 95055,
   "ElectionData": {
     "election": {
-      "ID": "88",
-      "BC": "1,871",
-      "PR": "4 of 4 (100%)",
-      "RV": "11,421",
-      "T": "1 of 1",
-      "PT": "0 of 1",
-      "TO": "16.38",
+      "ID": "98",
+      "BC": "2,302",
+      "PR": "5 of 5 (100%)",
+      "RV": "14,153",
+      "T": "2 of 2",
+      "PT": "0 of 2",
+      "TO": "16.27",
       "SVT": true
     },
     "voterTurnout": {
-      "156": {
-        "NM": "West Haven",
+      "59": {
+        "NM": "Groton",
         "PR": "4 of 4 (100%)",
-        "EV": "11421",
-        "VV": "1871",
-        "ABR": "181",
-        "ABC": "176",
-        "EBR": "0",
-        "EBC": "0",
+        "EV": "11548",
+        "VV": "1634",
+        "ABR": "56",
+        "ABC": "56",
+        "EBR": "402",
+        "EBC": "402",
         "EDR": "0",
         "EDC": "0",
-        "TO": "16.38%"
+        "TO": "14.15%"
+      },
+      "95": {
+        "NM": "New London",
+        "PR": "1 of 1 (100%)",
+        "EV": "2605",
+        "VV": "668",
+        "ABR": "8",
+        "ABC": "8",
+        "EBR": "147",
+        "EBC": "147",
+        "EDR": "0",
+        "EDC": "0",
+        "TO": "25.64%"
       },
       "170": {
         "NM": "Total",
         "PR": "",
-        "EV": "11421",
-        "VV": "1871",
-        "ABR": "181",
-        "ABC": "176",
-        "EBR": "0",
-        "EBC": "0",
+        "EV": "14153",
+        "VV": "2302",
+        "ABR": "64",
+        "ABC": "64",
+        "EBR": "549",
+        "EBC": "549",
         "EDR": "0",
         "EDC": "0",
-        "TO": "16.38%"
+        "TO": "16.27%"
       }
     },
     "townStatus": {
@@ -273,8 +286,8 @@
         "PR": "0 of 0 (0.00%)"
       },
       "59": {
-        "TS": "( *Unofficial Results )",
-        "PR": "0 of 0 (0.00%)"
+        "TS": "( Official Results )",
+        "PR": "4 of 4 (100.00%)"
       },
       "60": {
         "TS": "( *Unofficial Results )",
@@ -417,8 +430,8 @@
         "PR": "0 of 0 (0.00%)"
       },
       "95": {
-        "TS": "( *Unofficial Results )",
-        "PR": "0 of 0 (0.00%)"
+        "TS": "( Official Results )",
+        "PR": "1 of 1 (100.00%)"
       },
       "96": {
         "TS": "( *Unofficial Results )",
@@ -661,8 +674,8 @@
         "PR": "0 of 0 (0.00%)"
       },
       "156": {
-        "TS": "( Official Results )",
-        "PR": "4 of 4 (100.00%)"
+        "TS": "( *Unofficial Results )",
+        "PR": "0 of 0 (0.00%)"
       },
       "157": {
         "TS": "( *Unofficial Results )",
@@ -718,59 +731,69 @@
       }
     },
     "townVotes": {
-      "156": {
-        "16517": [
+      "59": {
+        "17137": [
           {
-            "35132": {
-              "V": "1007",
-              "TO": "54.17%"
+            "36171": {
+              "V": "1053",
+              "TO": "64.56%"
             }
           },
           {
-            "35133": {
-              "V": "410",
-              "TO": "22.05%"
+            "36172": {
+              "V": "531",
+              "TO": "32.56%"
             }
           },
           {
-            "35134": {
-              "V": "390",
-              "TO": "20.98%"
+            "36173": {
+              "V": "47",
+              "TO": "2.88%"
+            }
+          }
+        ]
+      },
+      "95": {
+        "17137": [
+          {
+            "36171": {
+              "V": "465",
+              "TO": "69.61%"
             }
           },
           {
-            "35135": {
-              "V": "52",
-              "TO": "2.80%"
+            "36172": {
+              "V": "185",
+              "TO": "27.69%"
+            }
+          },
+          {
+            "36173": {
+              "V": "18",
+              "TO": "2.69%"
             }
           }
         ]
       }
     },
     "stateVotes": {
-      "16517": [
+      "17137": [
         {
-          "35132": {
-            "V": "1007",
-            "TO": "54.17%"
+          "36171": {
+            "V": "1518",
+            "TO": "66.03%"
           }
         },
         {
-          "35133": {
-            "V": "410",
-            "TO": "22.05%"
+          "36172": {
+            "V": "716",
+            "TO": "31.14%"
           }
         },
         {
-          "35134": {
-            "V": "390",
-            "TO": "20.98%"
-          }
-        },
-        {
-          "35135": {
-            "V": "52",
-            "TO": "2.80%"
+          "36173": {
+            "V": "65",
+            "TO": "2.83%"
           }
         }
       ]
@@ -781,32 +804,43 @@
     },
     "districts": [
       {
-        "156": [
+        "59": [
           {
-            "3340": {
-              "TN": "West Haven",
-              "PN": "1-City Hall",
+            "3810": {
+              "TN": "Groton",
+              "PN": "1-Absentee Central Counting",
               "S": true
             }
           },
           {
-            "2719": {
-              "TN": "West Haven",
-              "PN": "2-Savin Rock School",
+            "2903": {
+              "TN": "Groton",
+              "PN": "3-City Of Groton Municipal Building",
               "S": true
             }
           },
           {
-            "3341": {
-              "TN": "West Haven",
-              "PN": "3-Savin Rock School",
+            "2332": {
+              "TN": "Groton",
+              "PN": "4-Mary Morrisson Elementary School",
               "S": true
             }
           },
           {
-            "3025": {
-              "TN": "West Haven",
-              "PN": "8-Mackrille School",
+            "2984": {
+              "TN": "Groton",
+              "PN": "5-School Administration Bldg",
+              "S": true
+            }
+          }
+        ]
+      },
+      {
+        "95": [
+          {
+            "2523": {
+              "TN": "New London",
+              "PN": "3-Nathan Hale School",
               "S": true
             }
           }
@@ -814,20 +848,29 @@
       }
     ],
     "officePrecincts": {
-      "16517": "4 of 4 (100%)"
+      "17137": "5 of 5 (100%)"
     },
     "ballotQuestion": {},
-    "candidateGrouping": {}
+    "candidateGrouping": {
+      "17137": [
+        {
+          "36171": {
+            "V": "1583",
+            "TO": "68.86%"
+          }
+        }
+      ]
+    }
   },
   "LookupData": {
     "election": {
-      "ID": "88",
-      "NM": "01/23/2024 -- 115th Assembly District Special Election January 23, 2024",
-      "DT": "01/23/2024",
+      "ID": "98",
+      "NM": "02/25/2025 -- 40th Assembly District Special Election February 25, 2025",
+      "DT": "02/25/2025",
       "ET": "S",
       "EC": "SE",
       "P": "",
-      "DNM": "Special 115th"
+      "DNM": "Special 40th Assembly"
     },
     "townIds": {
       "1": "Andover",
@@ -1858,28 +1901,32 @@
       }
     ],
     "pollingplaceIds": {
-      "3340": "West Haven-1-City Hall",
-      "2719": "West Haven-2-Savin Rock School",
-      "3341": "West Haven-3-Savin Rock School",
-      "3025": "West Haven-8-Mackrille School"
+      "3810": "Groton-1-Absentee Central Counting",
+      "2903": "Groton-3-City Of Groton Municipal Building",
+      "2332": "Groton-4-Mary Morrisson Elementary School",
+      "2984": "Groton-5-School Administration Bldg",
+      "2523": "New London-3-Nathan Hale School"
     },
     "townPollingPlaces": {
-      "156": [
-        3340,
-        2719,
-        3341,
-        3025
+      "59": [
+        3810,
+        2903,
+        2332,
+        2984
+      ],
+      "95": [
+        2523
       ]
     },
     "officeList": [
       {
-        "16517": {
-          "ID": "16517",
-          "NM": "State Representative 115th",
+        "17137": {
+          "ID": "17137",
+          "NM": "State Representative 40",
           "OT": "A",
           "OO": "1",
-          "DT": "Connecticut 115",
-          "D": "115"
+          "DT": "Connecticut 40",
+          "D": "40"
         }
       }
     ],
@@ -2156,43 +2203,35 @@
       }
     },
     "townParties": {
-      "156": "[1,6,15,1026]"
+      "59": "[1,6,12,1026]",
+      "95": "[1,6,12,1026]"
     },
     "candidateIds": {
-      "35133": {
-        "NM": "Silvana Apicella",
-        "LN": "Apicella",
-        "FN": "Silvana",
+      "36172": {
+        "NM": "Robert Boris",
+        "LN": "Boris",
+        "FN": "Robert",
         "MN": "",
         "P": "6",
-        "AD": "281 Highland Avenue, West Haven, CT-06516",
+        "AD": "24 Ramsdell St, Groton, CT-06340",
         "CO": "0"
       },
-      "35135": {
-        "NM": "Victor Borras",
-        "LN": "Borras",
-        "FN": "Victor",
+      "36171": {
+        "NM": "Dan Gaiewski",
+        "LN": "Gaiewski",
+        "FN": "Dan",
         "MN": "",
-        "P": "1026",
-        "AD": "170 Shingle Hill Road, West Haven, CT-06516",
-        "CO": "0"
-      },
-      "35132": {
-        "NM": "William J. Heffernan III",
-        "LN": "Heffernan III",
-        "FN": "William",
-        "MN": "J.",
         "P": "1",
-        "AD": "271 Kelsey Avenue, West Haven, CT-06516",
+        "AD": "234 Rogers Road, Groton, CT-06340",
         "CO": "0"
       },
-      "35134": {
-        "NM": "Edward M. O'Brien",
-        "LN": "O'Brien",
-        "FN": "Edward",
-        "MN": "M.",
-        "P": "15",
-        "AD": "36 Platt Avenue, West Haven, CT-06516",
+      "36173": {
+        "NM": "Dan Gaiewski",
+        "LN": "Gaiewski",
+        "FN": "Dan",
+        "MN": "",
+        "P": "12",
+        "AD": "234 Rogers Road, Groton, CT-06340",
         "CO": "0"
       }
     }
