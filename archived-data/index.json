@@ -2,7 +2,7 @@
   {
     "ID": "97",
     "Name": "11/04/2025 -- November 2025 Municipal Election",
-    "DefaultElection": "N"
+    "DefaultElection": "Y"
   },
   {
     "ID": "103",
@@ -12,7 +12,7 @@
   {
     "ID": "104",
     "Name": "09/09/2025 -- Republican Municipal Primary 2025",
-    "DefaultElection": "Y"
+    "DefaultElection": "N"
   },
   {
     "ID": "96",
