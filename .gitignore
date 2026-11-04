@@ -4,3 +4,4 @@ fresh-env
 *.pyc
 *.egg-info/
 build
+src

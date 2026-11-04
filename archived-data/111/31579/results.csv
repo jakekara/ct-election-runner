@@ -1,0 +1,515 @@
+office,town,candidate,party,votes,vote_percent
+Governor,statewide,Ned Lamont,D,126213,67.83%
+Governor,statewide,Josh Elliott,D,59851,32.17%
+Representative in Congress 1,statewide,Luke Bronin,D,29219,53.64%
+Representative in Congress 1,statewide,Ruth Fortune,D,2568,4.71%
+Representative in Congress 1,statewide,Jillian Gilchrest,D,4468,8.20%
+Representative in Congress 1,statewide,John B. Larson,D,18221,33.45%
+State Senator 2,statewide,Maryam Khan,D,4079,39.61%
+State Senator 2,statewide,Douglas McCrory,D,2912,28.28%
+State Senator 2,statewide,Ayana Taylor,D,3307,32.11%
+State Senator 13,statewide,Jack Fazzino,D,3157,63.17%
+State Senator 13,statewide,Jim Jinks,D,1841,36.83%
+State Representative 4,statewide,Julio Concepcion,D,567,66.24%
+State Representative 4,statewide,Venice Sotomayor,D,289,33.76%
+State Representative 10,statewide,Angie Parkinson,D,842,51.34%
+State Representative 10,statewide,Tyron V. Harris,D,798,48.66%
+State Representative 31,statewide,"Moise ""Moses"" Carelus",D,1528,68.18%
+State Representative 31,statewide,Anthony DiLizia,D,713,31.82%
+State Representative 92,statewide,Patricia A Dillon,D,1025,35.55%
+State Representative 92,statewide,Justin M. Farmer,D,571,19.81%
+State Representative 92,statewide,Eli Sabin,D,1287,44.64%
+State Representative 97,statewide,Leland J. Moore,D,787,46.43%
+State Representative 97,statewide,Wildaliz Bermudez,D,908,53.57%
+State Representative 118,statewide,Toni Lombardi,D,1129,72.93%
+State Representative 118,statewide,Christopher Saley,D,419,27.07%
+Judge of Probate 13,statewide,Thomas A. Robinson,D,2949,57.25%
+Judge of Probate 13,statewide,Paul Rubin,D,2202,42.75%
+Judge of Probate 48,statewide,Paul J Ganim,D,2933,56.06%
+Judge of Probate 48,statewide,Mark Bradley,D,2299,43.94%
+Governor,Andover,Ned Lamont,D,112,54.63%
+Governor,Andover,Josh Elliott,D,93,45.37%
+Judge of Probate 13,Andover,Thomas A. Robinson,D,135,66.18%
+Judge of Probate 13,Andover,Paul Rubin,D,69,33.82%
+Governor,Ansonia,Ned Lamont,D,367,63.60%
+Governor,Ansonia,Josh Elliott,D,210,36.40%
+Governor,Ashford,Ned Lamont,D,204,61.82%
+Governor,Ashford,Josh Elliott,D,126,38.18%
+Governor,Avon,Ned Lamont,D,867,69.81%
+Governor,Avon,Josh Elliott,D,375,30.19%
+Governor,Barkhamsted,Ned Lamont,D,185,69.29%
+Governor,Barkhamsted,Josh Elliott,D,82,30.71%
+Representative in Congress 1,Barkhamsted,Luke Bronin,D,147,54.44%
+Representative in Congress 1,Barkhamsted,Ruth Fortune,D,10,3.70%
+Representative in Congress 1,Barkhamsted,Jillian Gilchrest,D,19,7.04%
+Representative in Congress 1,Barkhamsted,John B. Larson,D,94,34.81%
+Governor,Beacon Falls,Ned Lamont,D,141,65.28%
+Governor,Beacon Falls,Josh Elliott,D,75,34.72%
+Governor,Berlin,Ned Lamont,D,979,72.57%
+Governor,Berlin,Josh Elliott,D,370,27.43%
+Representative in Congress 1,Berlin,Luke Bronin,D,796,59.05%
+Representative in Congress 1,Berlin,Ruth Fortune,D,63,4.67%
+Representative in Congress 1,Berlin,Jillian Gilchrest,D,77,5.71%
+Representative in Congress 1,Berlin,John B. Larson,D,412,30.56%
+Governor,Bethany,Ned Lamont,D,235,61.52%
+Governor,Bethany,Josh Elliott,D,147,38.48%
+Governor,Bethel,Ned Lamont,D,554,57.17%
+Governor,Bethel,Josh Elliott,D,415,42.83%
+Governor,Bethlehem,Ned Lamont,D,134,65.05%
+Governor,Bethlehem,Josh Elliott,D,72,34.95%
+Governor,Bloomfield,Ned Lamont,D,3126,83.36%
+Governor,Bloomfield,Josh Elliott,D,624,16.64%
+Representative in Congress 1,Bloomfield,Luke Bronin,D,2178,58.06%
+Representative in Congress 1,Bloomfield,Ruth Fortune,D,157,4.19%
+Representative in Congress 1,Bloomfield,Jillian Gilchrest,D,168,4.48%
+Representative in Congress 1,Bloomfield,John B. Larson,D,1248,33.27%
+State Senator 2,Bloomfield,Maryam Khan,D,1264,38.63%
+State Senator 2,Bloomfield,Douglas McCrory,D,1039,31.75%
+State Senator 2,Bloomfield,Ayana Taylor,D,969,29.61%
+Governor,Bolton,Ned Lamont,D,224,64.74%
+Governor,Bolton,Josh Elliott,D,122,35.26%
+Judge of Probate 13,Bolton,Thomas A. Robinson,D,191,57.36%
+Judge of Probate 13,Bolton,Paul Rubin,D,142,42.64%
+Governor,Bozrah,Ned Lamont,D,102,63.75%
+Governor,Bozrah,Josh Elliott,D,58,36.25%
+Governor,Branford,Ned Lamont,D,1296,69.83%
+Governor,Branford,Josh Elliott,D,560,30.17%
+Governor,Bridgeport,Ned Lamont,D,3691,71.14%
+Governor,Bridgeport,Josh Elliott,D,1497,28.86%
+Judge of Probate 48,Bridgeport,Paul J Ganim,D,2933,56.06%
+Judge of Probate 48,Bridgeport,Mark Bradley,D,2299,43.94%
+Governor,Bridgewater,Ned Lamont,D,88,69.84%
+Governor,Bridgewater,Josh Elliott,D,38,30.16%
+Governor,Bristol,Ned Lamont,D,1918,65.60%
+Governor,Bristol,Josh Elliott,D,1006,34.40%
+Representative in Congress 1,Bristol,Luke Bronin,D,1591,54.79%
+Representative in Congress 1,Bristol,Ruth Fortune,D,133,4.58%
+Representative in Congress 1,Bristol,Jillian Gilchrest,D,203,6.99%
+Representative in Congress 1,Bristol,John B. Larson,D,977,33.64%
+Governor,Brookfield,Ned Lamont,D,484,65.76%
+Governor,Brookfield,Josh Elliott,D,252,34.24%
+Governor,Brooklyn,Ned Lamont,D,209,68.98%
+Governor,Brooklyn,Josh Elliott,D,94,31.02%
+Governor,Burlington,Ned Lamont,D,307,64.09%
+Governor,Burlington,Josh Elliott,D,172,35.91%
+Governor,Canaan,Ned Lamont,D,57,67.86%
+Governor,Canaan,Josh Elliott,D,27,32.14%
+Governor,Canterbury,Ned Lamont,D,115,60.53%
+Governor,Canterbury,Josh Elliott,D,75,39.47%
+Governor,Canton,Ned Lamont,D,517,59.77%
+Governor,Canton,Josh Elliott,D,348,40.23%
+Governor,Chaplin,Ned Lamont,D,57,47.50%
+Governor,Chaplin,Josh Elliott,D,63,52.50%
+Governor,Cheshire,Ned Lamont,D,1227,70.92%
+Governor,Cheshire,Josh Elliott,D,503,29.08%
+State Senator 13,Cheshire,Jack Fazzino,D,318,24.00%
+State Senator 13,Cheshire,Jim Jinks,D,1007,76.00%
+Governor,Chester,Ned Lamont,D,271,65.94%
+Governor,Chester,Josh Elliott,D,140,34.06%
+Governor,Clinton,Ned Lamont,D,517,69.03%
+Governor,Clinton,Josh Elliott,D,232,30.97%
+Governor,Colchester,Ned Lamont,D,545,62.36%
+Governor,Colchester,Josh Elliott,D,329,37.64%
+Governor,Colebrook,Ned Lamont,D,76,71.70%
+Governor,Colebrook,Josh Elliott,D,30,28.30%
+Representative in Congress 1,Colebrook,Luke Bronin,D,48,44.86%
+Representative in Congress 1,Colebrook,Ruth Fortune,D,10,9.35%
+Representative in Congress 1,Colebrook,Jillian Gilchrest,D,5,4.67%
+Representative in Congress 1,Colebrook,John B. Larson,D,44,41.12%
+Governor,Columbia,Ned Lamont,D,257,60.19%
+Governor,Columbia,Josh Elliott,D,170,39.81%
+Judge of Probate 13,Columbia,Thomas A. Robinson,D,207,51.24%
+Judge of Probate 13,Columbia,Paul Rubin,D,197,48.76%
+Governor,Cornwall,Ned Lamont,D,140,77.35%
+Governor,Cornwall,Josh Elliott,D,41,22.65%
+Governor,Coventry,Ned Lamont,D,399,63.74%
+Governor,Coventry,Josh Elliott,D,227,36.26%
+Governor,Cromwell,Ned Lamont,D,701,65.64%
+Governor,Cromwell,Josh Elliott,D,367,34.36%
+Representative in Congress 1,Cromwell,Luke Bronin,D,608,57.52%
+Representative in Congress 1,Cromwell,Ruth Fortune,D,36,3.41%
+Representative in Congress 1,Cromwell,Jillian Gilchrest,D,88,8.33%
+Representative in Congress 1,Cromwell,John B. Larson,D,325,30.75%
+Governor,Danbury,Ned Lamont,D,1395,67.26%
+Governor,Danbury,Josh Elliott,D,679,32.74%
+Governor,Darien,Ned Lamont,D,418,79.47%
+Governor,Darien,Josh Elliott,D,108,20.53%
+Governor,Deep River,Ned Lamont,D,165,52.55%
+Governor,Deep River,Josh Elliott,D,149,47.45%
+Governor,Derby,Ned Lamont,D,274,66.67%
+Governor,Derby,Josh Elliott,D,137,33.33%
+Governor,Durham,Ned Lamont,D,268,67.85%
+Governor,Durham,Josh Elliott,D,127,32.15%
+Governor,Eastford,Ned Lamont,D,64,59.26%
+Governor,Eastford,Josh Elliott,D,44,40.74%
+Governor,East Granby,Ned Lamont,D,225,66.18%
+Governor,East Granby,Josh Elliott,D,115,33.82%
+Representative in Congress 1,East Granby,Luke Bronin,D,203,58.67%
+Representative in Congress 1,East Granby,Ruth Fortune,D,11,3.18%
+Representative in Congress 1,East Granby,Jillian Gilchrest,D,27,7.80%
+Representative in Congress 1,East Granby,John B. Larson,D,105,30.35%
+Governor,East Haddam,Ned Lamont,D,351,68.16%
+Governor,East Haddam,Josh Elliott,D,164,31.84%
+Governor,East Hampton,Ned Lamont,D,391,57.08%
+Governor,East Hampton,Josh Elliott,D,294,42.92%
+Governor,East Hartford,Ned Lamont,D,2436,74.93%
+Governor,East Hartford,Josh Elliott,D,815,25.07%
+Representative in Congress 1,East Hartford,Luke Bronin,D,1396,42.72%
+Representative in Congress 1,East Hartford,Ruth Fortune,D,151,4.62%
+Representative in Congress 1,East Hartford,Jillian Gilchrest,D,138,4.22%
+Representative in Congress 1,East Hartford,John B. Larson,D,1583,48.44%
+State Representative 10,East Hartford,Angie Parkinson,D,842,51.34%
+State Representative 10,East Hartford,Tyron V. Harris,D,798,48.66%
+Governor,East Haven,Ned Lamont,D,613,66.49%
+Governor,East Haven,Josh Elliott,D,309,33.51%
+Governor,East Lyme,Ned Lamont,D,773,65.56%
+Governor,East Lyme,Josh Elliott,D,406,34.44%
+Governor,Easton,Ned Lamont,D,289,65.98%
+Governor,Easton,Josh Elliott,D,149,34.02%
+Governor,East Windsor,Ned Lamont,D,395,67.18%
+Governor,East Windsor,Josh Elliott,D,193,32.82%
+Representative in Congress 1,East Windsor,Luke Bronin,D,316,53.92%
+Representative in Congress 1,East Windsor,Ruth Fortune,D,11,1.88%
+Representative in Congress 1,East Windsor,Jillian Gilchrest,D,33,5.63%
+Representative in Congress 1,East Windsor,John B. Larson,D,226,38.57%
+Governor,Ellington,Ned Lamont,D,460,64.16%
+Governor,Ellington,Josh Elliott,D,257,35.84%
+Governor,Enfield,Ned Lamont,D,1047,61.66%
+Governor,Enfield,Josh Elliott,D,651,38.34%
+Governor,Essex,Ned Lamont,D,462,70.75%
+Governor,Essex,Josh Elliott,D,191,29.25%
+Governor,Fairfield,Ned Lamont,D,2019,73.15%
+Governor,Fairfield,Josh Elliott,D,741,26.85%
+Governor,Farmington,Ned Lamont,D,1097,68.56%
+Governor,Farmington,Josh Elliott,D,503,31.44%
+Governor,Franklin,Ned Lamont,D,58,61.70%
+Governor,Franklin,Josh Elliott,D,36,38.30%
+Governor,Glastonbury,Ned Lamont,D,2193,71.57%
+Governor,Glastonbury,Josh Elliott,D,871,28.43%
+Representative in Congress 1,Glastonbury,Luke Bronin,D,687,55.45%
+Representative in Congress 1,Glastonbury,Ruth Fortune,D,32,2.58%
+Representative in Congress 1,Glastonbury,Jillian Gilchrest,D,98,7.91%
+Representative in Congress 1,Glastonbury,John B. Larson,D,422,34.06%
+State Representative 31,Glastonbury,"Moise ""Moses"" Carelus",D,1528,68.18%
+State Representative 31,Glastonbury,Anthony DiLizia,D,713,31.82%
+Governor,Goshen,Ned Lamont,D,149,67.42%
+Governor,Goshen,Josh Elliott,D,72,32.58%
+Governor,Granby,Ned Lamont,D,625,65.86%
+Governor,Granby,Josh Elliott,D,324,34.14%
+Representative in Congress 1,Granby,Luke Bronin,D,557,59.19%
+Representative in Congress 1,Granby,Ruth Fortune,D,38,4.04%
+Representative in Congress 1,Granby,Jillian Gilchrest,D,72,7.65%
+Representative in Congress 1,Granby,John B. Larson,D,274,29.12%
+Governor,Greenwich,Ned Lamont,D,1767,86.32%
+Governor,Greenwich,Josh Elliott,D,280,13.68%
+Governor,Griswold,Ned Lamont,D,271,60.76%
+Governor,Griswold,Josh Elliott,D,175,39.24%
+Governor,Groton,Ned Lamont,D,1087,65.64%
+Governor,Groton,Josh Elliott,D,569,34.36%
+Governor,Guilford,Ned Lamont,D,1217,70.27%
+Governor,Guilford,Josh Elliott,D,515,29.73%
+Governor,Haddam,Ned Lamont,D,303,62.47%
+Governor,Haddam,Josh Elliott,D,182,37.53%
+Governor,Hamden,Ned Lamont,D,3184,56.41%
+Governor,Hamden,Josh Elliott,D,2460,43.59%
+Governor,Hampton,Ned Lamont,D,83,63.85%
+Governor,Hampton,Josh Elliott,D,47,36.15%
+Governor,Hartford,Ned Lamont,D,4893,79.28%
+Governor,Hartford,Josh Elliott,D,1279,20.72%
+Representative in Congress 1,Hartford,Luke Bronin,D,3387,54.51%
+Representative in Congress 1,Hartford,Ruth Fortune,D,484,7.79%
+Representative in Congress 1,Hartford,Jillian Gilchrest,D,274,4.41%
+Representative in Congress 1,Hartford,John B. Larson,D,2069,33.30%
+State Senator 2,Hartford,Maryam Khan,D,1268,37.99%
+State Senator 2,Hartford,Douglas McCrory,D,1265,37.90%
+State Senator 2,Hartford,Ayana Taylor,D,805,24.12%
+State Representative 4,Hartford,Julio Concepcion,D,567,66.24%
+State Representative 4,Hartford,Venice Sotomayor,D,289,33.76%
+Governor,Hartland,Ned Lamont,D,73,65.77%
+Governor,Hartland,Josh Elliott,D,38,34.23%
+Representative in Congress 1,Hartland,Luke Bronin,D,43,38.74%
+Representative in Congress 1,Hartland,Ruth Fortune,D,2,1.80%
+Representative in Congress 1,Hartland,Jillian Gilchrest,D,9,8.11%
+Representative in Congress 1,Hartland,John B. Larson,D,57,51.35%
+Governor,Harwinton,Ned Lamont,D,189,70.00%
+Governor,Harwinton,Josh Elliott,D,81,30.00%
+Governor,Hebron,Ned Lamont,D,323,54.10%
+Governor,Hebron,Josh Elliott,D,274,45.90%
+Governor,Kent,Ned Lamont,D,240,75.24%
+Governor,Kent,Josh Elliott,D,79,24.76%
+Governor,Killingly,Ned Lamont,D,271,63.17%
+Governor,Killingly,Josh Elliott,D,158,36.83%
+Governor,Killingworth,Ned Lamont,D,282,74.02%
+Governor,Killingworth,Josh Elliott,D,99,25.98%
+Governor,Lebanon,Ned Lamont,D,213,59.50%
+Governor,Lebanon,Josh Elliott,D,145,40.50%
+Governor,Ledyard,Ned Lamont,D,367,54.13%
+Governor,Ledyard,Josh Elliott,D,311,45.87%
+Governor,Lisbon,Ned Lamont,D,101,57.39%
+Governor,Lisbon,Josh Elliott,D,75,42.61%
+Governor,Litchfield,Ned Lamont,D,380,71.70%
+Governor,Litchfield,Josh Elliott,D,150,28.30%
+Governor,Lyme,Ned Lamont,D,183,70.11%
+Governor,Lyme,Josh Elliott,D,78,29.89%
+Governor,Madison,Ned Lamont,D,989,77.45%
+Governor,Madison,Josh Elliott,D,288,22.55%
+Governor,Manchester,Ned Lamont,D,2815,64.49%
+Governor,Manchester,Josh Elliott,D,1550,35.51%
+Representative in Congress 1,Manchester,Luke Bronin,D,2085,47.78%
+Representative in Congress 1,Manchester,Ruth Fortune,D,252,5.77%
+Representative in Congress 1,Manchester,Jillian Gilchrest,D,385,8.82%
+Representative in Congress 1,Manchester,John B. Larson,D,1642,37.63%
+Judge of Probate 13,Manchester,Thomas A. Robinson,D,2416,57.39%
+Judge of Probate 13,Manchester,Paul Rubin,D,1794,42.61%
+Governor,Mansfield,Ned Lamont,D,690,54.08%
+Governor,Mansfield,Josh Elliott,D,586,45.92%
+Governor,Marlborough,Ned Lamont,D,263,59.77%
+Governor,Marlborough,Josh Elliott,D,177,40.23%
+Governor,Meriden,Ned Lamont,D,1435,66.13%
+Governor,Meriden,Josh Elliott,D,735,33.87%
+State Senator 13,Meriden,Jack Fazzino,D,1659,80.73%
+State Senator 13,Meriden,Jim Jinks,D,396,19.27%
+Governor,Middlebury,Ned Lamont,D,249,72.17%
+Governor,Middlebury,Josh Elliott,D,96,27.83%
+Governor,Middlefield,Ned Lamont,D,168,61.76%
+Governor,Middlefield,Josh Elliott,D,104,38.24%
+State Senator 13,Middlefield,Jack Fazzino,D,66,48.89%
+State Senator 13,Middlefield,Jim Jinks,D,69,51.11%
+Governor,Middletown,Ned Lamont,D,1897,59.04%
+Governor,Middletown,Josh Elliott,D,1316,40.96%
+Representative in Congress 1,Middletown,Luke Bronin,D,842,54.32%
+Representative in Congress 1,Middletown,Ruth Fortune,D,102,6.58%
+Representative in Congress 1,Middletown,Jillian Gilchrest,D,159,10.26%
+Representative in Congress 1,Middletown,John B. Larson,D,447,28.84%
+State Senator 13,Middletown,Jack Fazzino,D,1114,75.12%
+State Senator 13,Middletown,Jim Jinks,D,369,24.88%
+Governor,Milford,Ned Lamont,D,1875,64.37%
+Governor,Milford,Josh Elliott,D,1038,35.63%
+State Representative 118,Milford,Toni Lombardi,D,1129,72.93%
+State Representative 118,Milford,Christopher Saley,D,419,27.07%
+Governor,Monroe,Ned Lamont,D,342,60.85%
+Governor,Monroe,Josh Elliott,D,220,39.15%
+Governor,Montville,Ned Lamont,D,368,61.64%
+Governor,Montville,Josh Elliott,D,229,38.36%
+Governor,Morris,Ned Lamont,D,59,60.82%
+Governor,Morris,Josh Elliott,D,38,39.18%
+Governor,Naugatuck,Ned Lamont,D,518,63.79%
+Governor,Naugatuck,Josh Elliott,D,294,36.21%
+Governor,New Britain,Ned Lamont,D,1557,68.23%
+Governor,New Britain,Josh Elliott,D,725,31.77%
+Governor,New Canaan,Ned Lamont,D,490,84.78%
+Governor,New Canaan,Josh Elliott,D,88,15.22%
+Governor,New Fairfield,Ned Lamont,D,259,61.08%
+Governor,New Fairfield,Josh Elliott,D,165,38.92%
+Governor,New Hartford,Ned Lamont,D,344,72.73%
+Governor,New Hartford,Josh Elliott,D,129,27.27%
+Representative in Congress 1,New Hartford,Luke Bronin,D,265,55.67%
+Representative in Congress 1,New Hartford,Ruth Fortune,D,9,1.89%
+Representative in Congress 1,New Hartford,Jillian Gilchrest,D,29,6.09%
+Representative in Congress 1,New Hartford,John B. Larson,D,173,36.34%
+Governor,New Haven,Ned Lamont,D,4790,59.06%
+Governor,New Haven,Josh Elliott,D,3320,40.94%
+State Representative 92,New Haven,Patricia A Dillon,D,1025,35.55%
+State Representative 92,New Haven,Justin M. Farmer,D,571,19.81%
+State Representative 92,New Haven,Eli Sabin,D,1287,44.64%
+State Representative 97,New Haven,Leland J. Moore,D,787,46.43%
+State Representative 97,New Haven,Wildaliz Bermudez,D,908,53.57%
+Governor,Newington,Ned Lamont,D,1640,69.46%
+Governor,Newington,Josh Elliott,D,721,30.54%
+Representative in Congress 1,Newington,Luke Bronin,D,1167,49.26%
+Representative in Congress 1,Newington,Ruth Fortune,D,74,3.12%
+Representative in Congress 1,Newington,Jillian Gilchrest,D,227,9.58%
+Representative in Congress 1,Newington,John B. Larson,D,901,38.03%
+Governor,New London,Ned Lamont,D,595,60.34%
+Governor,New London,Josh Elliott,D,391,39.66%
+Governor,New Milford,Ned Lamont,D,649,60.37%
+Governor,New Milford,Josh Elliott,D,426,39.63%
+Governor,Newtown,Ned Lamont,D,980,65.86%
+Governor,Newtown,Josh Elliott,D,508,34.14%
+Governor,Norfolk,Ned Lamont,D,102,66.67%
+Governor,Norfolk,Josh Elliott,D,51,33.33%
+Governor,North Branford,Ned Lamont,D,313,63.88%
+Governor,North Branford,Josh Elliott,D,177,36.12%
+Governor,North Canaan,Ned Lamont,D,82,60.29%
+Governor,North Canaan,Josh Elliott,D,54,39.71%
+Governor,North Haven,Ned Lamont,D,660,58.67%
+Governor,North Haven,Josh Elliott,D,465,41.33%
+Governor,North Stonington,Ned Lamont,D,117,53.18%
+Governor,North Stonington,Josh Elliott,D,103,46.82%
+Governor,Norwalk,Ned Lamont,D,2342,62.54%
+Governor,Norwalk,Josh Elliott,D,1403,37.46%
+Governor,Norwich,Ned Lamont,D,837,63.07%
+Governor,Norwich,Josh Elliott,D,490,36.93%
+Governor,Old Lyme,Ned Lamont,D,405,67.05%
+Governor,Old Lyme,Josh Elliott,D,199,32.95%
+Governor,Old Saybrook,Ned Lamont,D,569,76.79%
+Governor,Old Saybrook,Josh Elliott,D,172,23.21%
+Governor,Orange,Ned Lamont,D,426,71.12%
+Governor,Orange,Josh Elliott,D,173,28.88%
+Governor,Oxford,Ned Lamont,D,312,65.14%
+Governor,Oxford,Josh Elliott,D,167,34.86%
+Governor,Plainfield,Ned Lamont,D,226,58.55%
+Governor,Plainfield,Josh Elliott,D,160,41.45%
+Governor,Plainville,Ned Lamont,D,445,60.79%
+Governor,Plainville,Josh Elliott,D,287,39.21%
+Governor,Plymouth,Ned Lamont,D,197,63.14%
+Governor,Plymouth,Josh Elliott,D,115,36.86%
+Governor,Pomfret,Ned Lamont,D,159,61.15%
+Governor,Pomfret,Josh Elliott,D,101,38.85%
+Governor,Portland,Ned Lamont,D,478,68.38%
+Governor,Portland,Josh Elliott,D,221,31.62%
+Representative in Congress 1,Portland,Luke Bronin,D,369,52.87%
+Representative in Congress 1,Portland,Ruth Fortune,D,28,4.01%
+Representative in Congress 1,Portland,Jillian Gilchrest,D,75,10.74%
+Representative in Congress 1,Portland,John B. Larson,D,226,32.38%
+Governor,Preston,Ned Lamont,D,109,62.64%
+Governor,Preston,Josh Elliott,D,65,37.36%
+Governor,Prospect,Ned Lamont,D,179,68.06%
+Governor,Prospect,Josh Elliott,D,84,31.94%
+Governor,Putnam,Ned Lamont,D,213,60.17%
+Governor,Putnam,Josh Elliott,D,141,39.83%
+Governor,Redding,Ned Lamont,D,464,69.15%
+Governor,Redding,Josh Elliott,D,207,30.85%
+Governor,Ridgefield,Ned Lamont,D,888,69.54%
+Governor,Ridgefield,Josh Elliott,D,389,30.46%
+Governor,Rocky Hill,Ned Lamont,D,993,72.53%
+Governor,Rocky Hill,Josh Elliott,D,376,27.47%
+Representative in Congress 1,Rocky Hill,Luke Bronin,D,830,60.28%
+Representative in Congress 1,Rocky Hill,Ruth Fortune,D,68,4.94%
+Representative in Congress 1,Rocky Hill,Jillian Gilchrest,D,97,7.04%
+Representative in Congress 1,Rocky Hill,John B. Larson,D,382,27.74%
+Governor,Roxbury,Ned Lamont,D,155,75.61%
+Governor,Roxbury,Josh Elliott,D,50,24.39%
+Governor,Salem,Ned Lamont,D,137,59.83%
+Governor,Salem,Josh Elliott,D,92,40.17%
+Governor,Salisbury,Ned Lamont,D,297,79.20%
+Governor,Salisbury,Josh Elliott,D,78,20.80%
+Governor,Scotland,Ned Lamont,D,26,35.62%
+Governor,Scotland,Josh Elliott,D,47,64.38%
+Governor,Seymour,Ned Lamont,D,247,55.51%
+Governor,Seymour,Josh Elliott,D,198,44.49%
+Governor,Sharon,Ned Lamont,D,194,77.29%
+Governor,Sharon,Josh Elliott,D,57,22.71%
+Governor,Shelton,Ned Lamont,D,885,65.46%
+Governor,Shelton,Josh Elliott,D,467,34.54%
+Governor,Sherman,Ned Lamont,D,148,71.50%
+Governor,Sherman,Josh Elliott,D,59,28.50%
+Governor,Simsbury,Ned Lamont,D,1323,68.20%
+Governor,Simsbury,Josh Elliott,D,617,31.80%
+Governor,Somers,Ned Lamont,D,215,65.55%
+Governor,Somers,Josh Elliott,D,113,34.45%
+Governor,Southbury,Ned Lamont,D,752,65.05%
+Governor,Southbury,Josh Elliott,D,404,34.95%
+Governor,Southington,Ned Lamont,D,1704,69.98%
+Governor,Southington,Josh Elliott,D,731,30.02%
+Representative in Congress 1,Southington,Luke Bronin,D,1375,56.89%
+Representative in Congress 1,Southington,Ruth Fortune,D,94,3.89%
+Representative in Congress 1,Southington,Jillian Gilchrest,D,147,6.08%
+Representative in Congress 1,Southington,John B. Larson,D,801,33.14%
+Governor,South Windsor,Ned Lamont,D,1380,69.10%
+Governor,South Windsor,Josh Elliott,D,617,30.90%
+Representative in Congress 1,South Windsor,Luke Bronin,D,1072,53.52%
+Representative in Congress 1,South Windsor,Ruth Fortune,D,53,2.65%
+Representative in Congress 1,South Windsor,Jillian Gilchrest,D,103,5.14%
+Representative in Congress 1,South Windsor,John B. Larson,D,775,38.69%
+Governor,Sprague,Ned Lamont,D,67,63.21%
+Governor,Sprague,Josh Elliott,D,39,36.79%
+Governor,Stafford,Ned Lamont,D,266,57.58%
+Governor,Stafford,Josh Elliott,D,196,42.42%
+Governor,Stamford,Ned Lamont,D,4339,75.95%
+Governor,Stamford,Josh Elliott,D,1374,24.05%
+Governor,Sterling,Ned Lamont,D,39,57.35%
+Governor,Sterling,Josh Elliott,D,29,42.65%
+Governor,Stonington,Ned Lamont,D,928,68.29%
+Governor,Stonington,Josh Elliott,D,431,31.71%
+Governor,Stratford,Ned Lamont,D,1638,67.57%
+Governor,Stratford,Josh Elliott,D,786,32.43%
+Governor,Suffield,Ned Lamont,D,401,65.74%
+Governor,Suffield,Josh Elliott,D,209,34.26%
+Governor,Thomaston,Ned Lamont,D,122,57.55%
+Governor,Thomaston,Josh Elliott,D,90,42.45%
+Governor,Thompson,Ned Lamont,D,135,52.12%
+Governor,Thompson,Josh Elliott,D,124,47.88%
+Governor,Tolland,Ned Lamont,D,521,64.16%
+Governor,Tolland,Josh Elliott,D,291,35.84%
+Governor,Torrington,Ned Lamont,D,831,63.24%
+Governor,Torrington,Josh Elliott,D,483,36.76%
+Representative in Congress 1,Torrington,Luke Bronin,D,483,57.09%
+Representative in Congress 1,Torrington,Ruth Fortune,D,48,5.67%
+Representative in Congress 1,Torrington,Jillian Gilchrest,D,81,9.57%
+Representative in Congress 1,Torrington,John B. Larson,D,234,27.66%
+Governor,Trumbull,Ned Lamont,D,1100,69.40%
+Governor,Trumbull,Josh Elliott,D,485,30.60%
+Governor,Union,Ned Lamont,D,25,73.53%
+Governor,Union,Josh Elliott,D,9,26.47%
+Governor,Vernon,Ned Lamont,D,895,58.50%
+Governor,Vernon,Josh Elliott,D,635,41.50%
+Governor,Voluntown,Ned Lamont,D,58,56.86%
+Governor,Voluntown,Josh Elliott,D,44,43.14%
+Governor,Wallingford,Ned Lamont,D,1023,62.15%
+Governor,Wallingford,Josh Elliott,D,623,37.85%
+Governor,Warren,Ned Lamont,D,105,84.68%
+Governor,Warren,Josh Elliott,D,19,15.32%
+Governor,Washington,Ned Lamont,D,220,81.18%
+Governor,Washington,Josh Elliott,D,51,18.82%
+Governor,Waterbury,Ned Lamont,D,1604,66.53%
+Governor,Waterbury,Josh Elliott,D,807,33.47%
+Governor,Waterford,Ned Lamont,D,686,61.41%
+Governor,Waterford,Josh Elliott,D,431,38.59%
+Governor,Watertown,Ned Lamont,D,424,63.95%
+Governor,Watertown,Josh Elliott,D,239,36.05%
+Governor,Westbrook,Ned Lamont,D,257,69.27%
+Governor,Westbrook,Josh Elliott,D,114,30.73%
+Governor,West Hartford,Ned Lamont,D,6150,72.77%
+Governor,West Hartford,Josh Elliott,D,2301,27.23%
+Representative in Congress 1,West Hartford,Luke Bronin,D,4369,51.52%
+Representative in Congress 1,West Hartford,Ruth Fortune,D,328,3.87%
+Representative in Congress 1,West Hartford,Jillian Gilchrest,D,1393,16.42%
+Representative in Congress 1,West Hartford,John B. Larson,D,2391,28.19%
+Governor,West Haven,Ned Lamont,D,1474,70.16%
+Governor,West Haven,Josh Elliott,D,627,29.84%
+Governor,Weston,Ned Lamont,D,427,80.26%
+Governor,Weston,Josh Elliott,D,105,19.74%
+Governor,Westport,Ned Lamont,D,1402,85.59%
+Governor,Westport,Josh Elliott,D,236,14.41%
+Governor,Wethersfield,Ned Lamont,D,1708,69.12%
+Governor,Wethersfield,Josh Elliott,D,763,30.88%
+Representative in Congress 1,Wethersfield,Luke Bronin,D,1387,55.90%
+Representative in Congress 1,Wethersfield,Ruth Fortune,D,86,3.47%
+Representative in Congress 1,Wethersfield,Jillian Gilchrest,D,271,10.92%
+Representative in Congress 1,Wethersfield,John B. Larson,D,737,29.71%
+Governor,Willington,Ned Lamont,D,199,68.15%
+Governor,Willington,Josh Elliott,D,93,31.85%
+Governor,Wilton,Ned Lamont,D,771,78.51%
+Governor,Wilton,Josh Elliott,D,211,21.49%
+Governor,Winchester,Ned Lamont,D,317,65.50%
+Governor,Winchester,Josh Elliott,D,167,34.50%
+Representative in Congress 1,Winchester,Luke Bronin,D,253,52.16%
+Representative in Congress 1,Winchester,Ruth Fortune,D,23,4.74%
+Representative in Congress 1,Winchester,Jillian Gilchrest,D,44,9.07%
+Representative in Congress 1,Winchester,John B. Larson,D,165,34.02%
+Governor,Windham,Ned Lamont,D,427,51.02%
+Governor,Windham,Josh Elliott,D,410,48.98%
+Governor,Windsor,Ned Lamont,D,3081,76.68%
+Governor,Windsor,Josh Elliott,D,937,23.32%
+Representative in Congress 1,Windsor,Luke Bronin,D,2339,58.05%
+Representative in Congress 1,Windsor,Ruth Fortune,D,235,5.83%
+Representative in Congress 1,Windsor,Jillian Gilchrest,D,213,5.29%
+Representative in Congress 1,Windsor,John B. Larson,D,1242,30.83%
+State Senator 2,Windsor,Maryam Khan,D,1547,41.95%
+State Senator 2,Windsor,Douglas McCrory,D,608,16.49%
+State Senator 2,Windsor,Ayana Taylor,D,1533,41.57%
+Governor,Windsor Locks,Ned Lamont,D,524,69.50%
+Governor,Windsor Locks,Josh Elliott,D,230,30.50%
+Representative in Congress 1,Windsor Locks,Luke Bronin,D,426,56.20%
+Representative in Congress 1,Windsor Locks,Ruth Fortune,D,30,3.96%
+Representative in Congress 1,Windsor Locks,Jillian Gilchrest,D,33,4.35%
+Representative in Congress 1,Windsor Locks,John B. Larson,D,269,35.49%
+Governor,Wolcott,Ned Lamont,D,274,66.99%
+Governor,Wolcott,Josh Elliott,D,135,33.01%
+Governor,Woodbridge,Ned Lamont,D,492,73.65%
+Governor,Woodbridge,Josh Elliott,D,176,26.35%
+Governor,Woodbury,Ned Lamont,D,412,70.79%
+Governor,Woodbury,Josh Elliott,D,170,29.21%
+Governor,Woodstock,Ned Lamont,D,224,48.59%
+Governor,Woodstock,Josh Elliott,D,237,51.41%

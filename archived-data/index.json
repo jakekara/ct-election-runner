@@ -1,8 +1,48 @@
 [
   {
+    "ID": "108",
+    "Name": "11/03/2026 -- November 2026 State Election",
+    "DefaultElection": "Y"
+  },
+  {
+    "ID": "113",
+    "Name": "09/01/2026 -- September 1st Democratic Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "111",
+    "Name": "08/11/2026 -- Democratic Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "112",
+    "Name": "08/11/2026 -- Republican Primary",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "110",
+    "Name": "06/23/2026 -- Middlebury Special Election Selectman to Fill Vacancy",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "105",
+    "Name": "02/03/2026 -- Fairfield Special Election (First Selectman)",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "107",
+    "Name": "01/13/2026 -- 139th Assembly District Special Election",
+    "DefaultElection": "N"
+  },
+  {
+    "ID": "106",
+    "Name": "01/06/2026 -- 25th Assembly District Special Election",
+    "DefaultElection": "N"
+  },
+  {
     "ID": "97",
     "Name": "11/04/2025 -- November 2025 Municipal Election",
-    "DefaultElection": "Y"
+    "DefaultElection": "N"
   },
   {
     "ID": "103",
