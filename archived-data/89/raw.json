@@ -1,5 +1,5 @@
 {
-  "version": 59904,
+  "version": 214060,
   "ElectionData": {
     "election": {
       "ID": "89",
@@ -2297,6 +2297,11 @@
       "1056": {
         "CD": "SR",
         "NM": "Socialist Resurgence Party",
+        "P": "0"
+      },
+      "1068": {
+        "CD": "CGG",
+        "NM": "Cheaper Gas Groceries Party",
         "P": "0"
       }
     },
